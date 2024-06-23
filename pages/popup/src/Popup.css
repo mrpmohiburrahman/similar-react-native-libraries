@@ -1,0 +1,219 @@
+/* src/Popup.css */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  width: 600px;
+  /* Match the width in manifest.json */
+  height: 600px;
+  /* Match the height in manifest.json */
+  box-sizing: border-box;
+  overflow: hidden;
+  background-color: #2c2c2c;
+  /* Dark background */
+  color: #e0e0e0;
+  /* Light text */
+}
+
+.App {
+  width: 100%;
+  height: 100%;
+  padding: 15px;
+  background-color: #333333;
+  /* Slightly lighter background */
+  color: #e0e0e0;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  /* Subtle shadow */
+  position: relative;
+}
+
+.App-header {
+  text-align: center;
+  margin-bottom: 10px;
+  color: #ffcc00;
+  /* Accent color for the header text */
+}
+
+.header-button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  /* background: #444444; */
+  /* Container background */
+  border: 1px solid #555555;
+  /* Border color */
+  border-radius: 8px;
+  margin-bottom: 20px;
+  /* Additional margin to separate from list */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  /* Shadow to match item cards */
+}
+
+.text-xl {
+  font-size: 1.5rem;
+  color: #ffcc00;
+  /* Accent color */
+}
+
+.open-all-button {
+  padding: 8px 12px;
+  background-color: #ffcc00;
+  /* Button background color */
+  color: #333333;
+  /* Button text color */
+  border: none;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  /* Button shadow */
+}
+
+.open-all-button:hover {
+  background-color: #e6b800;
+  /* Darker yellow on hover */
+  transform: translateY(-2px);
+}
+
+.open-all-button:active {
+  background-color: #d1a700;
+  /* Even darker yellow on active */
+}
+
+.item-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: auto;
+  /* padding-right: 10px; */
+}
+
+.item-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.item-card {
+  padding: 10px;
+  background: #444444;
+  /* Card background */
+  border: 1px solid #555555;
+  /* Border color */
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  height: 100px;
+  /* Fixed height for each item */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  overflow: hidden;
+}
+
+.item-card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  /* Hover shadow */
+  transform: translateY(-2px);
+  /* Subtle lift on hover */
+}
+
+.item-card:hover .npm-pkg {
+  text-decoration: underline;
+}
+
+.item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.npm-pkg {
+  font-weight: bold;
+  color: #ffcc00;
+  /* Link color */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 70%;
+  font-size: large;
+}
+
+.gold-star {
+  background-color: #ffcc00;
+  /* Gold star color */
+  color: #333333;
+  /* Text color inside gold star */
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-size: small;
+  margin-left: 10px;
+}
+
+.item-body {
+  margin-top: 10px;
+  overflow: hidden;
+  /* Ensure content fits within fixed height */
+}
+
+.tags {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 5px;
+  overflow-x: auto;
+  /* Horizontal scrolling */
+  padding-bottom: 5px;
+  /* Padding to prevent scrollbar overlap */
+}
+
+.tag {
+  background-color: #555555;
+  /* Tag background color */
+  color: #e0e0e0;
+  /* Tag text color */
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: small;
+  flex: 0 0 auto;
+  /* Prevent tags from stretching */
+}
+
+.loading,
+.no-items {
+  text-align: center;
+  color: #999999;
+  margin-top: 20px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+  /* Width of the vertical scrollbar */
+  height: 12px;
+  /* Height of the horizontal scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #2c2c2c;
+  /* Background color of the scrollbar track */
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #555555;
+  /* Color of the draggable part of the scrollbar */
+  border-radius: 10px;
+  border: 3px solid #2c2c2c;
+  /* Padding around scrollbar */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #ffcc00;
+  /* Color on hover */
+}

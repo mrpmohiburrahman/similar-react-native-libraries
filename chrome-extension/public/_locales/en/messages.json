@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "Extension description",
+    "message": "Find Similar Libraries"
+  },
+  "extensionName": {
+    "description": "Extension name",
+    "message": "Similar React Native Libraries"
+  }
+}

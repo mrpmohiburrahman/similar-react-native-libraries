@@ -1,0 +1,70 @@
+name: Update Chrome Extension
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-chrome-extension:
+    name: Build Chrome extension artifact
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Install dependencies
+        run: pnpm install
+        
+      - name: Build
+        run: |
+          # Create the dist folder by building the extension
+          pnpm build
+
+      - name: Archive chrome-extension artifact
+        run: |
+          zip -r chrome-extension-${{ github.sha }}.zip dist
+
+      - name: Upload chrome-extension artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: chrome-extension
+          path: chrome-extension-${{ github.sha }}.zip
+
+  upload-extension:
+    name: Upload extension
+    runs-on: ubuntu-latest
+    needs: build-chrome-extension
+    env:
+      EXTENSION_ID: ${{ vars.EXTENSION_ID }} # Use vars for repository variables
+
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'latest'
+
+      - name: Download bundle artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: chrome-extension
+
+      - name: Install webstore CLI
+        run: |
+          npm install -g chrome-webstore-upload-cli
+
+      - name: Upload step
+        run: |
+          chrome-webstore-upload upload \
+            --source chrome-extension-${{ github.sha }}.zip \
+            --extension-id ${{ env.EXTENSION_ID }} \
+            --client-id ${{ secrets.CI_GOOGLE_CLIENT_ID }} \
+            --client-secret ${{ secrets.CI_GOOGLE_CLIENT_SECRET }} \
+            --refresh-token ${{ secrets.CI_GOOGLE_REFRESH_TOKEN }}
