@@ -8,6 +8,10 @@ on:
 
 jobs:
   release:
+    permissions:
+      contents: write
+      issues: write
+      pull-requests: write
     name: Semantic Release
     runs-on: ubuntu-latest
     steps:
