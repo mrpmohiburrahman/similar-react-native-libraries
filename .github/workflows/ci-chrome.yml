@@ -1,3 +1,4 @@
+
 name: Update Chrome Extension
 
 on:
@@ -18,13 +19,18 @@ jobs:
         with:
           node-version: 'latest'
 
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 'latest'
+
       - name: Install dependencies
-        run: npm ci
+        run: pnpm install
 
       - name: Build and release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: npx semantic-release
+        run: pnpm exec semantic-release
 
   build-chrome-extension:
     name: Build Chrome Extension Artifact
@@ -41,14 +47,14 @@ jobs:
 
       - name: Install pnpm
         uses: pnpm/action-setup@v4
+        with:
+          version: 'latest'
 
       - name: Install dependencies
         run: pnpm install
 
       - name: Build
-        run: |
-          # Create the dist folder by building the extension
-          pnpm build
+        run: pnpm build
 
       - name: Archive chrome-extension artifact
         run: |
@@ -78,8 +84,7 @@ jobs:
           name: chrome-extension
 
       - name: Install webstore CLI
-        run: |
-          npm install -g chrome-webstore-upload-cli
+        run: npm install -g chrome-webstore-upload-cli
 
       - name: Upload step
         run: |
