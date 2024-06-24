@@ -1,13 +1,14 @@
+
 name: Update Chrome Extension
 
 on:
   push:
-    branches:
-      - main
+    tags:
+      - "v*"  # Trigger the workflow only for tags starting with "v"
 
 jobs:
   build-chrome-extension:
-    name: Build Chrome extension artifact
+    name: Build Chrome Extension Artifact
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,7 +24,12 @@ jobs:
 
       - name: Install dependencies
         run: pnpm install
-        
+
+      - name: Update manifest version
+        run: |
+          TAG_VERSION=${GITHUB_REF#refs/tags/}
+          jq --arg version "$TAG_VERSION" '.version=$version' manifest.json > temp.json && mv temp.json manifest.json
+
       - name: Build
         run: |
           # Create the dist folder by building the extension
@@ -40,11 +46,11 @@ jobs:
           path: chrome-extension-${{ github.sha }}.zip
 
   upload-extension:
-    name: Upload extension
+    name: Upload Extension
     runs-on: ubuntu-latest
     needs: build-chrome-extension
     env:
-      EXTENSION_ID: ${{ vars.EXTENSION_ID }} # Use vars for repository variables
+      EXTENSION_ID: ${{ vars.EXTENSION_ID }}
 
     steps:
       - uses: actions/setup-node@v4
