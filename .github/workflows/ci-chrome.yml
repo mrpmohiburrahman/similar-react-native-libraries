@@ -124,10 +124,15 @@ jobs:
       - name: Install webstore CLI
         run: npm install -g chrome-webstore-upload-cli
 
-      - name: Upload step
+      - name: Upload and submit for review
         run: |
           chrome-webstore-upload upload \
             --source chrome-extension-${{ github.sha }}.zip \
+            --extension-id ${{ env.EXTENSION_ID }} \
+            --client-id ${{ secrets.CI_GOOGLE_CLIENT_ID }} \
+            --client-secret ${{ secrets.CI_GOOGLE_CLIENT_SECRET }} \
+            --refresh-token ${{ secrets.CI_GOOGLE_REFRESH_TOKEN }} \
+          && chrome-webstore-upload publish \
             --extension-id ${{ env.EXTENSION_ID }} \
             --client-id ${{ secrets.CI_GOOGLE_CLIENT_ID }} \
             --client-secret ${{ secrets.CI_GOOGLE_CLIENT_SECRET }} \
