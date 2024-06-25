@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/mrpmohiburrahman/similar-react-native-libraries/compare/v1.0.18...v1.0.19) (2024-06-25)
+
+
+### Bug Fixes
+
+* testing ci: testing publish 1 ([2e330b9](https://github.com/mrpmohiburrahman/similar-react-native-libraries/commit/2e330b9f1c8243ae9eeaf16826ccd44f08ef110d))
+
 ## [1.0.18](https://github.com/mrpmohiburrahman/similar-react-native-libraries/compare/v1.0.17...v1.0.18) (2024-06-25)
 
 
