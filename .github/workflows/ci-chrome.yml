@@ -50,11 +50,23 @@ jobs:
 
       - name: Get release version
         id: get_version
-        run: echo "::set-output name=version::$(jq -r '.nextRelease.version' <<< $(pnpm exec semantic-release --dry-run --debug))"
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const output = await exec('pnpm exec semantic-release --dry-run --debug');
+            const match = output.match(/version': '(\d+\.\d+\.\d+)'/);
+            if (!match) throw new Error('Cannot find version in semantic-release output');
+            core.setOutput('version', match[1]);
 
       - name: Get release notes
         id: get_notes
-        run: echo "::set-output name=notes::$(jq -r '.nextRelease.notes' <<< $(pnpm exec semantic-release --dry-run --debug))"
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const output = await exec('pnpm exec semantic-release --dry-run --debug');
+            const match = output.match(/notes': '([\s\S]+?)'/);
+            if (!match) throw new Error('Cannot find notes in semantic-release output');
+            core.setOutput('notes', match[1]);
 
   create-github-release:
     name: Create GitHub Release
