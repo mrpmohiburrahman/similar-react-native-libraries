@@ -25,16 +25,6 @@ jobs:
         with:
           node-version: 'latest'
 
-      - name: Cache pnpm store and node_modules
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.pnpm-store
-            node_modules
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
-
       - name: Install pnpm
         uses: pnpm/action-setup@v4
         with:
@@ -69,16 +59,6 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 'latest'
-
-      - name: Cache pnpm store and node_modules
-        uses: actions/cache@v4
-        with:
-          path: |
-            ~/.pnpm-store
-            node_modules
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
 
       - name: Install pnpm
         uses: pnpm/action-setup@v4
@@ -124,15 +104,10 @@ jobs:
       - name: Install webstore CLI
         run: npm install -g chrome-webstore-upload-cli
 
-      - name: Upload and submit for review
+      - name: Upload step
         run: |
           chrome-webstore-upload upload \
             --source chrome-extension-${{ github.sha }}.zip \
-            --extension-id ${{ env.EXTENSION_ID }} \
-            --client-id ${{ secrets.CI_GOOGLE_CLIENT_ID }} \
-            --client-secret ${{ secrets.CI_GOOGLE_CLIENT_SECRET }} \
-            --refresh-token ${{ secrets.CI_GOOGLE_REFRESH_TOKEN }} \
-          && chrome-webstore-upload publish \
             --extension-id ${{ env.EXTENSION_ID }} \
             --client-id ${{ secrets.CI_GOOGLE_CLIENT_ID }} \
             --client-secret ${{ secrets.CI_GOOGLE_CLIENT_SECRET }} \
