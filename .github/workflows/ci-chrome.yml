@@ -14,9 +14,6 @@ jobs:
       pull-requests: write
     name: Semantic Release
     runs-on: ubuntu-latest
-    outputs:
-      version: ${{ steps.get_version.outputs.version }}
-      notes: ${{ steps.get_notes.outputs.notes }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -43,52 +40,14 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
       - name: Build and release
-        id: semantic_release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pnpm exec semantic-release
 
-      - name: Get release version
-        id: get_version
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const output = await exec('pnpm exec semantic-release --dry-run --debug');
-            const match = output.match(/version': '(\d+\.\d+\.\d+)'/);
-            if (!match) throw new Error('Cannot find version in semantic-release output');
-            core.setOutput('version', match[1]);
-
-      - name: Get release notes
-        id: get_notes
-        uses: actions/github-script@v6
-        with:
-          script: |
-            const output = await exec('pnpm exec semantic-release --dry-run --debug');
-            const match = output.match(/notes': '([\s\S]+?)'/);
-            if (!match) throw new Error('Cannot find notes in semantic-release output');
-            core.setOutput('notes', match[1]);
-
-  create-github-release:
-    name: Create GitHub Release
-    runs-on: ubuntu-latest
-    needs: release
-    steps:
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ needs.release.outputs.version }}
-          release_name: Release ${{ needs.release.outputs.version }}
-          body: ${{ needs.release.outputs.notes }}
-          draft: false
-          prerelease: false
-
   build-chrome-extension:
     name: Build Chrome Extension Artifact
     runs-on: ubuntu-latest
-    needs: create-github-release
+    needs: release
     steps:
       - name: Checkout latest commit
         uses: actions/checkout@v4
