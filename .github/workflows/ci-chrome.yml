@@ -76,7 +76,7 @@ jobs:
         run: pnpm build
 
       - name: Archive chrome-extension artifact
-        run: zip -r chrome-extension-${{ github.sha }}.zip dist/*
+        run: zip -r chrome-extension-${{ github.sha }}.zip dist
 
       - name: Upload chrome-extension artifact
         uses: actions/upload-artifact@v4
@@ -104,16 +104,10 @@ jobs:
       - name: Install webstore CLI
         run: npm install -g chrome-webstore-upload-cli
 
-      - name: Upload and submit for review
+      - name: Upload step
         run: |
-          unzip chrome-extension-${{ github.sha }}.zip -d dist \
-          && chrome-webstore-upload upload \
-            --source dist \
-            --extension-id ${{ env.EXTENSION_ID }} \
-            --client-id ${{ secrets.CI_GOOGLE_CLIENT_ID }} \
-            --client-secret ${{ secrets.CI_GOOGLE_CLIENT_SECRET }} \
-            --refresh-token ${{ secrets.CI_GOOGLE_REFRESH_TOKEN }} \
-          && chrome-webstore-upload publish \
+          chrome-webstore-upload upload \
+            --source chrome-extension-${{ github.sha }}.zip \
             --extension-id ${{ env.EXTENSION_ID }} \
             --client-id ${{ secrets.CI_GOOGLE_CLIENT_ID }} \
             --client-secret ${{ secrets.CI_GOOGLE_CLIENT_SECRET }} \
