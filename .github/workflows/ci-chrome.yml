@@ -15,7 +15,8 @@ jobs:
     name: Semantic Release
     runs-on: ubuntu-latest
     outputs:
-      release_url: ${{ steps.semantic_release.outputs.release_url }}
+      version: ${{ steps.get_version.outputs.version }}
+      notes: ${{ steps.get_notes.outputs.notes }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -47,6 +48,14 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pnpm exec semantic-release
 
+      - name: Get release version
+        id: get_version
+        run: echo "::set-output name=version::$(jq -r '.nextRelease.version' <<< $(pnpm exec semantic-release --dry-run --debug))"
+
+      - name: Get release notes
+        id: get_notes
+        run: echo "::set-output name=notes::$(jq -r '.nextRelease.notes' <<< $(pnpm exec semantic-release --dry-run --debug))"
+
   create-github-release:
     name: Create GitHub Release
     runs-on: ubuntu-latest
@@ -58,9 +67,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ steps.semantic_release.outputs.nextRelease.version }}
-          release_name: Release ${{ steps.semantic_release.outputs.nextRelease.version }}
-          body: ${{ steps.semantic_release.outputs.nextRelease.notes }}
+          tag_name: ${{ needs.release.outputs.version }}
+          release_name: Release ${{ needs.release.outputs.version }}
+          body: ${{ needs.release.outputs.notes }}
           draft: false
           prerelease: false
 
