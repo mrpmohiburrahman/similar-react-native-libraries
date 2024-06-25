@@ -76,7 +76,7 @@ jobs:
         run: pnpm build
 
       - name: Archive chrome-extension artifact
-        run: zip -r chrome-extension-${{ github.sha }}.zip dist
+        run: zip -r chrome-extension-${{ github.sha }}.zip dist/*
 
       - name: Upload chrome-extension artifact
         uses: actions/upload-artifact@v4
