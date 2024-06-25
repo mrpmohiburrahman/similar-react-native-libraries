@@ -26,7 +26,7 @@ jobs:
           node-version: 'latest'
 
       - name: Cache pnpm store and node_modules
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: |
             ~/.pnpm-store
@@ -71,7 +71,7 @@ jobs:
           node-version: 'latest'
 
       - name: Cache pnpm store and node_modules
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: |
             ~/.pnpm-store
