@@ -106,8 +106,9 @@ jobs:
 
       - name: Upload and submit for review
         run: |
-          chrome-webstore-upload upload \
-            --source chrome-extension-${{ github.sha }}.zip \
+          unzip chrome-extension-${{ github.sha }}.zip -d dist \
+          && chrome-webstore-upload upload \
+            --source dist \
             --extension-id ${{ env.EXTENSION_ID }} \
             --client-id ${{ secrets.CI_GOOGLE_CLIENT_ID }} \
             --client-secret ${{ secrets.CI_GOOGLE_CLIENT_SECRET }} \
