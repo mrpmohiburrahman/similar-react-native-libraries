@@ -1,3 +1,4 @@
+
 name: Update Chrome Extension
 
 on:
@@ -13,6 +14,8 @@ jobs:
       pull-requests: write
     name: Semantic Release
     runs-on: ubuntu-latest
+    outputs:
+      release_url: ${{ steps.semantic_release.outputs.release_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,14 +42,32 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
       - name: Build and release
+        id: semantic_release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: pnpm exec semantic-release
 
+  create-github-release:
+    name: Create GitHub Release
+    runs-on: ubuntu-latest
+    needs: release
+    steps:
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.semantic_release.outputs.nextRelease.version }}
+          release_name: Release ${{ steps.semantic_release.outputs.nextRelease.version }}
+          body: ${{ steps.semantic_release.outputs.nextRelease.notes }}
+          draft: false
+          prerelease: false
+
   build-chrome-extension:
     name: Build Chrome Extension Artifact
     runs-on: ubuntu-latest
-    needs: release
+    needs: create-github-release
     steps:
       - name: Checkout latest commit
         uses: actions/checkout@v4
