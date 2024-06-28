@@ -1,0 +1,975 @@
+[
+  {
+    "githubUrl": "https://github.com/huextrat/react-native-maps-routes",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/huextrat/react-native-maps-routes",
+        "clone": "https://github.com/huextrat/react-native-maps-routes.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T17:27:58Z",
+        "createdAt": "2023-06-09T10:46:18Z",
+        "pushedAt": "2024-05-24T17:27:58Z",
+        "forks": 0,
+        "issues": 1,
+        "subscribers": 1,
+        "stars": 44
+      },
+      "name": "react-native-maps-routes",
+      "fullName": "huextrat/react-native-maps-routes",
+      "description": "Component for react-native-maps to draw a route between two coordinates",
+      "topics": [
+        "react-native",
+        "react-native-maps",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.3",
+        "tagName": "v1.0.3",
+        "createdAt": "2023-06-09T16:27:20Z",
+        "publishedAt": "2023-06-09T16:27:28Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-maps-routes",
+    "npm": {
+      "downloads": 117,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 46
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.305,
+    "topicSearchString": "react-native react-native-maps ios android",
+    "matchScore": 111,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/tschoffelen/react-native-map-link",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/includable/react-native-map-link",
+        "clone": "https://github.com/includable/react-native-map-link.git",
+        "homepage": "https://includable.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T10:18:58Z",
+        "createdAt": "2017-12-02T20:42:59Z",
+        "pushedAt": "2024-05-24T10:18:58Z",
+        "forks": 132,
+        "issues": 5,
+        "subscribers": 8,
+        "stars": 626
+      },
+      "name": "react-native-map-link",
+      "fullName": "includable/react-native-map-link",
+      "description": "🗺 Open the map app of the user's choice.",
+      "topics": [
+        "react-native",
+        "react-component",
+        "maps",
+        "link",
+        "linking",
+        "react",
+        "ios",
+        "android",
+        "directions"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.4.1",
+        "tagName": "v3.4.1",
+        "createdAt": "2024-05-24T18:35:53Z",
+        "publishedAt": "2024-05-24T18:36:44Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-map-link",
+    "npm": {
+      "downloads": 86708,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 21554
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.001,
+    "topicSearchString": "react-native react-component maps link linking react ios android directions",
+    "matchScore": 111,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/dev-event/react-native-maps-draw",
+    "npmPkg": "@dev-event/react-native-maps-draw",
+    "examples": [
+      "https://github.com/dev-event/react-native-maps-draw/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/dev-event/react-native-maps-draw/main/drawes.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dev-event/react-native-maps-draw",
+        "clone": "https://github.com/dev-event/react-native-maps-draw.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-06-16T02:21:34Z",
+        "createdAt": "2021-06-05T18:36:11Z",
+        "pushedAt": "2023-06-16T02:21:34Z",
+        "forks": 15,
+        "issues": 7,
+        "subscribers": 2,
+        "stars": 46
+      },
+      "name": "react-native-maps-draw",
+      "fullName": "dev-event/react-native-maps-draw",
+      "description": "Interactive drawing of polygons on the map. ",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "react-native-maps",
+        "draw",
+        "react-native-maps-draw",
+        "canvas",
+        "polygon-overlay",
+        "expo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.5",
+        "tagName": "0.1.5",
+        "createdAt": "2021-09-25T15:42:58Z",
+        "publishedAt": "2021-09-25T15:46:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 132,
+      "weekDownloads": 28,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.488,
+    "topicSearchString": "react-native ios android react-native-maps draw react-native-maps-draw canvas polygon-overlay expo",
+    "matchScore": 111,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/siposdani87/expo-maps-polygon-editor",
+    "npmPkg": "@siposdani87/expo-maps-polygon-editor",
+    "examples": [
+      "https://github.com/siposdani87/expo-maps-polygon-editor/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/siposdani87/expo-maps-polygon-editor/master/images/expo-maps-polygon-editor.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/siposdani87/expo-maps-polygon-editor",
+        "clone": "https://github.com/siposdani87/expo-maps-polygon-editor.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-07T09:45:26Z",
+        "createdAt": "2021-10-29T12:22:42Z",
+        "pushedAt": "2024-05-07T09:45:26Z",
+        "forks": 5,
+        "issues": 4,
+        "subscribers": 1,
+        "stars": 13
+      },
+      "name": "expo-maps-polygon-editor",
+      "fullName": "siposdani87/expo-maps-polygon-editor",
+      "description": "This multi polygon editor is written in TypeScript for the React Native Maps component. This component allows you to select, create, or modify areas on Apple Maps and Google Maps. You can edit multiple polygons at the same time.",
+      "topics": [
+        "expo-maps-polygon-editor",
+        "react-native-maps",
+        "polygon",
+        "editor",
+        "expo",
+        "polygon-editor"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 124,
+      "weekDownloads": 5,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.76,
+    "topicSearchString": "expo-maps-polygon-editor react-native-maps polygon editor expo polygon-editor",
+    "matchScore": 111,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rnmapbox/maps",
+    "npmPkg": "@rnmapbox/maps",
+    "examples": [
+      "https://github.com/rnmapbox/maps/tree/main/example",
+      "https://github.com/rnmapbox/maps/tree/main/fabricexample"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/rnmapbox/maps/main/assets/intro-examples.png",
+      "https://raw.githubusercontent.com/rnmapbox/maps/main/assets/beta-maps-example-point-annotation-960-d280759f6a3d8d75458f399c7a044926.webp",
+      "https://raw.githubusercontent.com/rnmapbox/maps/main/assets/beta-maps-guides-migrate-3d-terrain-960-48b1080117817ccfd92e434d0df7546f.webp",
+      "https://raw.githubusercontent.com/rnmapbox/maps/main/assets/maps-examples-building-extrusions-960-aaa140cce77da4e8b2dd216032b191b6.webp",
+      "https://raw.githubusercontent.com/rnmapbox/maps/main/assets/maps-examples-data-driven-symbols-960-2e2061a6b8127ef305c1b6c159f8dc65.webp"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rnmapbox/maps",
+        "clone": "https://github.com/rnmapbox/maps.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T18:03:37Z",
+        "createdAt": "2019-04-07T21:53:54Z",
+        "pushedAt": "2024-05-22T18:03:37Z",
+        "forks": 796,
+        "issues": 45,
+        "subscribers": 36,
+        "stars": 2032
+      },
+      "name": "maps",
+      "fullName": "rnmapbox/maps",
+      "description": "A Mapbox react native module for creating custom maps",
+      "topics": [
+        "gl",
+        "ios",
+        "android",
+        "mapbox",
+        "react-native",
+        "mapbox-gl-native",
+        "map",
+        "expo",
+        "maplibre"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v10.1.24",
+        "tagName": "v10.1.24",
+        "createdAt": "2024-05-15T09:05:37Z",
+        "publishedAt": "2024-05-15T09:10:42Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "npm": {
+      "downloads": 100128,
+      "weekDownloads": 19065,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.06,
+    "topicSearchString": "gl ios android mapbox react-native mapbox-gl-native map expo maplibre",
+    "matchScore": 111,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/maplibre/maplibre-react-native",
+    "npmPkg": "@maplibre/maplibre-react-native",
+    "examples": [
+      "https://github.com/maplibre/maplibre-react-native/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/assets/indoor_building_map_ios.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_choropleth_layer.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_clustering_earthquakes.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_data_driven_circle_colors.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_image_overlay.png",
+      "https://raw.githubusercontent.com/maplibre/maplibre-react-native/main/example/readme_assets/example_custom_callout.png"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/maplibre/maplibre-react-native",
+        "clone": "https://github.com/maplibre/maplibre-react-native.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T14:16:26Z",
+        "createdAt": "2022-11-03T10:37:07Z",
+        "pushedAt": "2024-05-13T14:16:26Z",
+        "forks": 39,
+        "issues": 40,
+        "subscribers": 9,
+        "stars": 169
+      },
+      "name": "maplibre-react-native",
+      "fullName": "maplibre/maplibre-react-native",
+      "description": "A MapLibre react native module for creating custom maps",
+      "topics": [
+        "maps",
+        "ios",
+        "android",
+        "maplibre",
+        "react-native",
+        "mapbox"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "10.0.0-alpha.4:  Maplibre native 6.4",
+        "tagName": "10.0.0-alpha.4",
+        "createdAt": "2024-05-09T14:10:07Z",
+        "publishedAt": "2024-05-09T14:57:59Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4934,
+      "weekDownloads": 1014,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.044,
+    "topicSearchString": "maps ios android maplibre react-native mapbox",
+    "matchScore": 111,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Splicer97/react-native-osmdroid",
+    "examples": [
+      "https://github.com/Splicer97/react-native-osmdroid/tree/main/example"
+    ],
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Splicer97/react-native-osmdroid",
+        "clone": "https://github.com/Splicer97/react-native-osmdroid.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-10-08T11:48:32Z",
+        "createdAt": "2023-01-05T17:26:01Z",
+        "pushedAt": "2023-10-08T11:48:32Z",
+        "forks": 2,
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 19
+      },
+      "name": "react-native-osmdroid",
+      "fullName": "Splicer97/react-native-osmdroid",
+      "description": "React Native wrapper for osmdroid maps",
+      "topics": [
+        "react-native",
+        "react",
+        "maps",
+        "osmdroid",
+        "open-street-maps",
+        "osm",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.14.0",
+        "createdAt": "2023-10-08T11:48:35Z",
+        "publishedAt": "2023-10-08T11:51:15Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-osmdroid",
+    "npm": {
+      "downloads": 39,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 7
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.601,
+    "topicSearchString": "react-native react maps osmdroid open-street-maps osm android",
+    "matchScore": 11,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/nitaliano/react-native-mapbox-gl",
+    "ios": true,
+    "android": true,
+    "npmPkg": "@mapbox/react-native-mapbox-gl",
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/nitaliano/react-native-mapbox-gl",
+        "clone": "https://github.com/nitaliano/react-native-mapbox-gl.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-09-06T06:03:57Z",
+        "createdAt": "2015-04-26T20:08:07Z",
+        "pushedAt": "2019-09-06T06:03:57Z",
+        "forks": 669,
+        "issues": 219,
+        "subscribers": 94,
+        "stars": 2154
+      },
+      "name": "react-native-mapbox-gl",
+      "fullName": "nitaliano/react-native-mapbox-gl",
+      "description": "A Mapbox GL react native module for creating custom maps",
+      "topics": [
+        "gl",
+        "ios",
+        "android",
+        "mapbox",
+        "react-component",
+        "react-native",
+        "mapbox-gl"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": "http://choosealicense.com/licenses/other/",
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "React Native Mapbox GL Release 6.1.1",
+        "tagName": "6.1.1",
+        "createdAt": "2018-04-06T23:00:42Z",
+        "publishedAt": "2018-04-06T23:17:20Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 235,
+      "weekDownloads": 67,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.662,
+    "topicSearchString": "gl ios android mapbox react-component react-native mapbox-gl",
+    "matchScore": 0.111,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/yelled3/react-native-google-static-map",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/yelled3/react-native-google-static-map",
+        "clone": "https://github.com/yelled3/react-native-google-static-map.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2018-10-18T11:11:42Z",
+        "createdAt": "2015-08-19T16:01:40Z",
+        "pushedAt": "2018-10-18T11:11:42Z",
+        "forks": 28,
+        "issues": 10,
+        "subscribers": 5,
+        "stars": 81
+      },
+      "name": "react-native-google-static-map",
+      "fullName": "yelled3/react-native-google-static-map",
+      "description": "A wrapper for Google's Static Maps",
+      "topics": [
+        "react-component",
+        "react-native",
+        "ios"
+      ],
+      "license": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-google-static-map",
+    "npm": {
+      "downloads": 875,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 166
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.309,
+    "topicSearchString": "react-component react-native ios",
+    "matchScore": 0.11,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/surialabs/react-native-geo-fencing",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/surialabs/react-native-geo-fencing",
+        "clone": "https://github.com/surialabs/react-native-geo-fencing.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2016-05-24T11:03:08Z",
+        "createdAt": "2016-05-19T06:37:40Z",
+        "pushedAt": "2016-05-24T11:03:08Z",
+        "forks": 33,
+        "issues": 17,
+        "subscribers": 18,
+        "stars": 138
+      },
+      "name": "react-native-geo-fencing",
+      "fullName": "surialabs/react-native-geo-fencing",
+      "description": "Native modules to determine if a location is within defined geographical boundaries using Google Geometry library",
+      "topics": [
+        "react-native",
+        "googlemaps",
+        "geometry",
+        "polygon",
+        "containslocation",
+        "geo-fencing"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-geo-fencing",
+    "npm": {
+      "downloads": 454,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 163
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.14,
+    "topicSearchString": "react-native googlemaps geometry polygon containslocation geo-fencing",
+    "matchScore": 0.001,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/homeeondemand/react-native-mapbox-navigation",
+    "npmPkg": "@homee/react-native-mapbox-navigation",
+    "images": [
+      "https://raw.githubusercontent.com/homeeondemand/react-native-mapbox-navigation/master/img/ios-nav.png"
+    ],
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/homeeondemand/react-native-mapbox-navigation",
+        "clone": "https://github.com/homeeondemand/react-native-mapbox-navigation.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-02-17T19:04:36Z",
+        "createdAt": "2020-11-02T19:07:55Z",
+        "pushedAt": "2023-02-17T19:04:36Z",
+        "forks": 105,
+        "issues": 65,
+        "subscribers": 14,
+        "stars": 152
+      },
+      "name": "react-native-mapbox-navigation",
+      "fullName": "homeeondemand/react-native-mapbox-navigation",
+      "description": "A navigation UI ready to drop into your React Native application",
+      "topics": [
+        "react-native",
+        "mapbox",
+        "navigation",
+        "mapbox-navigation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.0",
+        "tagName": "2.0.0",
+        "createdAt": "2022-02-03T16:35:55Z",
+        "publishedAt": "2022-02-03T17:11:17Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 47,
+      "weekDownloads": 14,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.386,
+    "topicSearchString": "react-native mapbox navigation mapbox-navigation",
+    "matchScore": 101,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/pavel-corsaghin/react-native-leaflet",
+    "npmPkg": "react-native-leaflet-view",
+    "examples": [
+      "https://github.com/pavel-corsaghin/react-native-leaflet/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/pavel-corsaghin/react-native-leaflet/main/images/android.png",
+      "https://raw.githubusercontent.com/pavel-corsaghin/react-native-leaflet/main/images/ios.png"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/pavel-corsaghin/react-native-leaflet",
+        "clone": "https://github.com/pavel-corsaghin/react-native-leaflet.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-03-11T16:00:16Z",
+        "createdAt": "2021-09-03T17:18:21Z",
+        "pushedAt": "2022-03-11T16:00:16Z",
+        "forks": 27,
+        "issues": 28,
+        "subscribers": 3,
+        "stars": 97
+      },
+      "name": "react-native-leaflet",
+      "fullName": "pavel-corsaghin/react-native-leaflet",
+      "description": "A LeafletView component using WebView and Leaflet map for React Native applications",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "leaflet",
+        "leaflet-map"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.1.2",
+        "tagName": "v0.1.2",
+        "createdAt": "2021-09-10T23:28:34Z",
+        "publishedAt": "2021-09-10T23:33:45Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2418,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 621
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0.007,
+    "topicSearchString": "react-native ios android leaflet leaflet-map",
+    "matchScore": 11,
+    "category": [
+      "map"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/tolu360/react-native-google-places",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tolu360/react-native-google-places",
+        "clone": "https://github.com/tolu360/react-native-google-places.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-08-06T14:02:33Z",
+        "createdAt": "2016-09-14T20:41:32Z",
+        "pushedAt": "2019-08-06T14:02:33Z",
+        "forks": 255,
+        "issues": 46,
+        "subscribers": 17,
+        "stars": 569
+      },
+      "name": "react-native-google-places",
+      "fullName": "tolu360/react-native-google-places",
+      "description": "iOS/Android Google Places Widgets (Autocomplete Modals) and API Services for React Native Apps",
+      "topics": [
+        "react",
+        "react-native",
+        "react-component",
+        "map",
+        "places",
+        "google-places",
+        "google-places-api",
+        "autocomplete",
+        "ios",
+        "android",
+        "google-place-picker",
+        "google-place-api",
+        "google-place-autocomplete"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "v3.1.2",
+        "tagName": "3.1.2",
+        "createdAt": "2019-08-06T14:02:42Z",
+        "publishedAt": "2019-08-06T14:12:30Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-google-places",
+    "npm": {
+      "downloads": 12349,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2588
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.29,
+    "topicSearchString": "react react-native react-component map places google-places google-places-api autocomplete ios android google-place-picker google-place-api google-place-autocomplete",
+    "matchScore": 0.001,
+    "category": [
+      "map"
+    ]
+  }
+]

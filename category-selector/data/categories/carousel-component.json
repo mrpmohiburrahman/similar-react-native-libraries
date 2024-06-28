@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/kristerkari/pinar",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "pinar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kristerkari/pinar",
+        "clone": "https://github.com/kristerkari/pinar.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T18:09:13Z",
+        "createdAt": "2019-01-02T03:48:59Z",
+        "pushedAt": "2024-05-20T11:17:58Z",
+        "issues": 17,
+        "subscribers": 3,
+        "stars": 423,
+        "forks": 7
+      },
+      "name": "pinar",
+      "fullName": "kristerkari/pinar",
+      "description": "🌲☀️ Customizable, lightweight React Native carousel component with accessibility support.",
+      "topics": [
+        "react-native",
+        "carousel",
+        "carousel-component",
+        "slider",
+        "swiper",
+        "typescript",
+        "a11y",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.12.2",
+        "tagName": "0.12.2",
+        "createdAt": "2023-04-24T21:01:00Z",
+        "publishedAt": "2023-04-24T21:01:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11925,
+      "weekDownloads": 3077,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native carousel carousel-component slider swiper typescript a11y ios android",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.008,
+    "category": [
+      "carousel",
+      "carousel-component",
+      "swiper"
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "githubUrl": "https://github.com/gevgasparyan/rn-qr-generator",
+    "images": [
+      "https://user-images.githubusercontent.com/13519034/104821872-50268480-5858-11eb-9e5b-77190f9da71d.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "rn-qr-generator",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gevgasparyan/rn-qr-generator",
+        "clone": "https://github.com/gevgasparyan/rn-qr-generator.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T03:19:12Z",
+        "createdAt": "2019-12-20T12:08:40Z",
+        "pushedAt": "2024-03-05T11:58:56Z",
+        "issues": 6,
+        "subscribers": 5,
+        "stars": 126,
+        "forks": 18
+      },
+      "name": "rn-qr-generator",
+      "fullName": "gevgasparyan/rn-qr-generator",
+      "description": "A QR code image generator and detector for React Native.",
+      "topics": [
+        "react-native",
+        "qrcode",
+        "qrcode-generator",
+        "qrcode-detector",
+        "totp",
+        "decoder",
+        "datamatrix"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.4.0",
+        "tagName": "1.4.0",
+        "createdAt": "2023-12-09T12:24:43Z",
+        "publishedAt": "2023-12-09T12:26:40Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 23858,
+      "weekDownloads": 5894,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native qrcode qrcode-generator qrcode-detector totp decoder datamatrix",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.003,
+    "category": [
+      "qrcode",
+      "qrcode-generator",
+      "qrcode-detector"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/VittoriDavide/react-native-barcode-creator",
+    "examples": [
+      "https://github.com/VittoriDavide/react-native-barcode-creator/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-barcode-creator",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/VittoriDavide/react-native-barcode-creator",
+        "clone": "https://github.com/VittoriDavide/react-native-barcode-creator.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T08:58:58Z",
+        "createdAt": "2021-08-18T06:27:32Z",
+        "pushedAt": "2024-03-08T17:19:15Z",
+        "issues": 1,
+        "subscribers": 2,
+        "stars": 19,
+        "forks": 8
+      },
+      "name": "react-native-barcode-creator",
+      "fullName": "VittoriDavide/react-native-barcode-creator",
+      "description": "React Native Barcode Creator creates different type of barcodes including EAN13, CODE128, PDF417, UPCA, QR and AZTEC. ",
+      "topics": [
+        "react-native",
+        "barcode",
+        "barcode-generator",
+        "qrcode-generator",
+        "native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "React Native 0.73",
+        "tagName": "0.1.6",
+        "createdAt": "2024-02-25T16:02:48Z",
+        "publishedAt": "2024-02-27T09:31:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11003,
+      "weekDownloads": 2697,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native barcode barcode-generator qrcode-generator native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.105,
+    "category": [
+      "barcode",
+      "barcode-generator",
+      "qrcode-generator"
+    ]
+  }
+]

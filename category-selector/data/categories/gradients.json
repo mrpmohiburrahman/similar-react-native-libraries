@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/phamfoo/react-native-easing-gradient",
+    "examples": [
+      "https://github.com/phamfoo/react-native-easing-gradient/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/phamfoo/react-native-easing-gradient/main/demo.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-easing-gradient",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/phamfoo/react-native-easing-gradient",
+        "clone": "https://github.com/phamfoo/react-native-easing-gradient.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-10T22:53:25Z",
+        "createdAt": "2021-04-30T12:26:22Z",
+        "pushedAt": "2024-02-27T09:35:37Z",
+        "issues": 0,
+        "subscribers": 4,
+        "stars": 170,
+        "forks": 5
+      },
+      "name": "react-native-easing-gradient",
+      "fullName": "phamfoo/react-native-easing-gradient",
+      "description": "Create smooth gradients in React Native",
+      "topics": [
+        "react",
+        "react-native",
+        "easing",
+        "smooth",
+        "gradients",
+        "expo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v1.1.1",
+        "createdAt": "2024-02-27T09:35:18Z",
+        "publishedAt": "2024-02-27T09:35:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3248,
+      "weekDownloads": 671,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native easing smooth gradients expo",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.043,
+    "category": [
+      "gradients"
+    ]
+  }
+]

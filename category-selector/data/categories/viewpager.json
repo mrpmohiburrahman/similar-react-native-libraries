@@ -1,0 +1,132 @@
+[
+  {
+    "githubUrl": "https://github.com/meinto/react-native-viewpager-carousel",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-viewpager-carousel",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/meinto/react-native-viewpager-carousel",
+        "clone": "https://github.com/meinto/react-native-viewpager-carousel.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-11T21:24:22Z",
+        "createdAt": "2017-04-25T18:08:00Z",
+        "pushedAt": "2023-01-03T15:16:19Z",
+        "issues": 14,
+        "subscribers": 3,
+        "stars": 39,
+        "forks": 17
+      },
+      "name": "react-native-viewpager-carousel",
+      "fullName": "meinto/react-native-viewpager-carousel",
+      "description": "a flexible viewpager library with carousel functionality",
+      "topics": [
+        "react-native",
+        "viewpager",
+        "carousel",
+        "rondell",
+        "android",
+        "ios",
+        "tabbar",
+        "pager-component",
+        "swipe",
+        "swipeview",
+        "tabs"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 273,
+      "weekDownloads": 17,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native viewpager carousel rondell android ios tabbar pager-component swipe swipeview tabs",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.187,
+    "category": [
+      "carousel",
+      "swipe",
+      "swipeview",
+      "viewpager"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/zbtang/React-Native-ViewPager",
+    "npmPkg": "rn-viewpager",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zbtang/React-Native-ViewPager",
+        "clone": "https://github.com/zbtang/React-Native-ViewPager.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-06T12:15:28Z",
+        "createdAt": "2016-03-28T09:37:19Z",
+        "pushedAt": "2022-03-08T02:33:24Z",
+        "issues": 110,
+        "subscribers": 21,
+        "stars": 951,
+        "forks": 285
+      },
+      "name": "React-Native-ViewPager",
+      "fullName": "zbtang/React-Native-ViewPager",
+      "description": "ViewPager and Indicator component for react-native on both android and ios. ",
+      "topics": [
+        "react-native",
+        "viewpager"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4910,
+      "weekDownloads": 1115,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native viewpager",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.273,
+    "category": [
+      "viewpager"
+    ]
+  }
+]

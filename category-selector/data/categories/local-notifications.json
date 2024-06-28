@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/evollu/react-native-fcm",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-fcm",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/evollu/react-native-fcm",
+        "clone": "https://github.com/evollu/react-native-fcm.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T18:58:51Z",
+        "createdAt": "2016-05-29T03:53:22Z",
+        "pushedAt": "2022-12-06T20:27:57Z",
+        "issues": 307,
+        "subscribers": 37,
+        "stars": 1728,
+        "forks": 681
+      },
+      "name": "react-native-fcm",
+      "fullName": "evollu/react-native-fcm",
+      "description": "react native module for firebase cloud messaging and local notification",
+      "topics": [
+        "notifications",
+        "fcm",
+        "android",
+        "firebase",
+        "ios",
+        "local-notifications"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v16.2.4",
+        "createdAt": "2018-11-04T01:34:42Z",
+        "publishedAt": "2018-11-04T01:42:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 390,
+      "weekDownloads": 71,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "notifications fcm android firebase ios local-notifications",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.317,
+    "category": [
+      "firebase",
+      "fcm",
+      "notifications",
+      "local-notifications"
+    ]
+  }
+]

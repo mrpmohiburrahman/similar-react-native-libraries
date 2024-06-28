@@ -1,0 +1,152 @@
+[
+  {
+    "githubUrl": "https://github.com/doville/rn-fitness-tracker",
+    "npmPkg": "@kilohealth/rn-fitness-tracker",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kilohealth/rn-fitness-tracker",
+        "clone": "https://github.com/kilohealth/rn-fitness-tracker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T10:30:56Z",
+        "createdAt": "2019-08-28T13:42:12Z",
+        "pushedAt": "2024-05-22T21:52:24Z",
+        "issues": 7,
+        "subscribers": 4,
+        "stars": 97,
+        "forks": 18
+      },
+      "name": "rn-fitness-tracker",
+      "fullName": "kilohealth/rn-fitness-tracker",
+      "description": "React Native module to interact with Google Fit and Apple HealthKit.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "google-fit",
+        "healthkit",
+        "steps",
+        "activity",
+        "body",
+        "fitness",
+        "health",
+        "vitals",
+        "workout"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.1.0",
+        "tagName": "v3.1.0",
+        "createdAt": "2023-02-24T08:29:52Z",
+        "publishedAt": "2023-02-24T08:29:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1040,
+      "weekDownloads": 225,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android google-fit healthkit steps activity body fitness health vitals workout",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.034,
+    "category": [
+      "healthkit",
+      "fitness",
+      "google-fit"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/OvalMoney/react-native-fitness",
+    "npmPkg": "@ovalmoney/react-native-fitness",
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/OvalMoney/react-native-fitness",
+        "clone": "https://github.com/OvalMoney/react-native-fitness.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-18T08:23:28Z",
+        "createdAt": "2018-12-19T08:30:27Z",
+        "pushedAt": "2022-01-12T08:17:22Z",
+        "issues": 25,
+        "subscribers": 12,
+        "stars": 339,
+        "forks": 68
+      },
+      "name": "react-native-fitness",
+      "fullName": "OvalMoney/react-native-fitness",
+      "description": " A React Native module to interact with Apple Healthkit and Google Fit.",
+      "topics": [
+        "react-native",
+        "android",
+        "ios",
+        "apple-health",
+        "google-fit",
+        "fitness"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.5.3",
+        "tagName": "v0.5.3",
+        "createdAt": "2021-04-19T16:26:58Z",
+        "publishedAt": "2021-04-19T16:30:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2387,
+      "weekDownloads": 482,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android ios apple-health google-fit fitness",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.048,
+    "category": [
+      "apple-health",
+      "google-fit",
+      "fitness"
+    ]
+  }
+]

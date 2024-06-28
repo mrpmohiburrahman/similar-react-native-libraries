@@ -1,0 +1,83 @@
+[
+  {
+    "githubUrl": "https://github.com/sohobloo/react-native-modal-dropdown",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-modal-dropdown",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sohobloo/react-native-modal-dropdown",
+        "clone": "https://github.com/sohobloo/react-native-modal-dropdown.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T11:02:00Z",
+        "createdAt": "2016-09-13T10:17:51Z",
+        "pushedAt": "2022-07-20T07:13:35Z",
+        "issues": 107,
+        "subscribers": 12,
+        "stars": 1184,
+        "forks": 479
+      },
+      "name": "react-native-modal-dropdown",
+      "fullName": "sohobloo/react-native-modal-dropdown",
+      "description": "A react-native dropdown/picker/selector component for both Android & iOS.",
+      "topics": [
+        "react",
+        "react-native",
+        "react-native-component",
+        "modal",
+        "dropdown",
+        "picker",
+        "select",
+        "selector",
+        "option"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.6.2",
+        "tagName": "v0.6.2",
+        "createdAt": "2018-03-09T07:30:25Z",
+        "publishedAt": "2018-03-09T07:32:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 32063,
+      "weekDownloads": 7307,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native react-native-component modal dropdown picker select selector option",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.022,
+    "category": [
+      "modal",
+      "dropdown",
+      "picker",
+      "select",
+      "selector",
+      "option"
+    ]
+  }
+]

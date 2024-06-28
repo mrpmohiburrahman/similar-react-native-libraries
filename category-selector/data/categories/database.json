@@ -1,0 +1,138 @@
+[
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/firestore",
+    "npmPkg": "@react-native-firebase/firestore",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T03:50:59Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:50:59Z",
+        "forks": 2105,
+        "issues": 41,
+        "subscribers": 165,
+        "stars": 11465
+      },
+      "name": "@react-native-firebase/firestore",
+      "fullName": "invertase/react-native-firebase",
+      "description": "React Native Firebase - Cloud Firestore is a NoSQL cloud database to store and sync data between your React Native application and Firebase's database. The API matches the Firebase Web SDK whilst taking advantage of the native SDKs performance and offline capabilities.",
+      "topics": [
+        "react",
+        "react-native",
+        "firebase",
+        "cloud-firestore",
+        "database",
+        "nosql",
+        "query",
+        "realtime",
+        "firestore"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 145433,
+      "weekDownloads": 36360,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": 0,
+    "topicSearchString": "react react-native firebase cloud-firestore database nosql query realtime firestore",
+    "matchScore": 11,
+    "category": [
+      "database"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/database",
+    "npmPkg": "@react-native-firebase/database",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T03:50:59Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:50:59Z",
+        "forks": 2105,
+        "issues": 41,
+        "subscribers": 165,
+        "stars": 11465
+      },
+      "name": "@react-native-firebase/database",
+      "fullName": "invertase/react-native-firebase",
+      "description": "React Native Firebase - The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. React Native Firebase provides native integration with the Android & iOS Firebase SDKs, supporting both realtime data sync and offline capabilities.",
+      "topics": [
+        "react",
+        "react-native",
+        "firebase",
+        "realtime",
+        "database",
+        "synchronized",
+        "realtome-database"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 82774,
+      "weekDownloads": 18245,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.03,
+    "topicSearchString": "react react-native firebase realtime database synchronized realtome-database",
+    "matchScore": 111,
+    "category": [
+      "database"
+    ]
+  }
+]

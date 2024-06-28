@@ -1,0 +1,147 @@
+[
+  {
+    "githubUrl": "https://github.com/Blaumaus/react-native-redux-alert",
+    "examples": [
+      "https://github.com/Blaumaus/react-native-redux-alert/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-redux-alert",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Blaumaus/react-native-redux-alert",
+        "clone": "https://github.com/Blaumaus/react-native-redux-alert.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-09-07T02:58:19Z",
+        "createdAt": "2021-05-30T13:46:20Z",
+        "pushedAt": "2021-10-21T20:45:47Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 9,
+        "forks": 4
+      },
+      "name": "react-native-redux-alert",
+      "fullName": "Blaumaus/react-native-redux-alert",
+      "description": "Alerts for React Native.",
+      "topics": [
+        "react-native",
+        "redux",
+        "react-redux",
+        "alert",
+        "toast",
+        "toast-notifications"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 13,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native redux react-redux alert toast toast-notifications",
+    "score": 25,
+    "matchingScoreModifiers": [
+      "No license",
+      "Not updated recently"
+    ],
+    "popularity": -0.704,
+    "category": [
+      "alert",
+      "toast",
+      "toast-notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/baronha/ting",
+    "npmPkg": "@baronha/ting",
+    "examples": [
+      "https://github.com/baronha/ting/tree/main/example"
+    ],
+    "images": [
+      "https://github.com/baronha/ting/raw/main/resources/Ting.png"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/baronha/ting",
+        "clone": "https://github.com/baronha/ting.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T05:21:44Z",
+        "createdAt": "2023-06-24T09:03:11Z",
+        "pushedAt": "2024-05-15T09:06:07Z",
+        "issues": 11,
+        "subscribers": 4,
+        "stars": 249,
+        "forks": 17
+      },
+      "name": "ting",
+      "fullName": "baronha/ting",
+      "description": "🍞 Flexible and customizable React Native toast/alert notifications with support for positioning, custom rendering, click handlers, and duration control. Written in Swift and Kotlin",
+      "topics": [
+        "native-module",
+        "new-architecture",
+        "react-native",
+        "toast",
+        "alert",
+        "android",
+        "ios",
+        "toast-notifications"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Ting@1.2.0",
+        "tagName": "1.2.0",
+        "createdAt": "2024-04-02T16:06:47Z",
+        "publishedAt": "2024-04-02T16:18:51Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 300,
+      "weekDownloads": 89,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "native-module new-architecture react-native toast alert android ios toast-notifications",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.047,
+    "category": [
+      "toast",
+      "alert",
+      "toast-notifications"
+    ]
+  }
+]

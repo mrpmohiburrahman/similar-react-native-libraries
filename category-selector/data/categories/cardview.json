@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/Kishanjvaghela/react-native-cardview",
+    "images": [
+      "https://github.com/Kishanjvaghela/react-native-cardview/raw/master/docs/Example-Snapshot.png",
+      "https://github.com/Kishanjvaghela/react-native-cardview/raw/master/docs/ezgif-4-b87dbfaf72.gif"
+    ],
+    "examples": [
+      "https://github.com/Kishanjvaghela/react-native-cardview/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-cardview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Kishanjvaghela/react-native-cardview",
+        "clone": "https://github.com/Kishanjvaghela/react-native-cardview.git",
+        "homepage": "https://www.npmjs.com/package/react-native-cardview"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-12T20:08:37Z",
+        "createdAt": "2017-04-26T12:28:19Z",
+        "pushedAt": "2022-12-08T16:00:10Z",
+        "issues": 24,
+        "subscribers": 11,
+        "stars": 503,
+        "forks": 77
+      },
+      "name": "react-native-cardview",
+      "fullName": "Kishanjvaghela/react-native-cardview",
+      "description": "Native CardView for react-native (All Android version and iOS)",
+      "topics": [
+        "cardview",
+        "card",
+        "shadow",
+        "react-native",
+        "android",
+        "ios",
+        "card-view",
+        "elevation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4567,
+      "weekDownloads": 1141,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "cardview card shadow react-native android ios card-view elevation",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0,
+    "category": [
+      "cardview",
+      "card",
+      "card-view"
+    ]
+  }
+]

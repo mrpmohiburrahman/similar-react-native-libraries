@@ -1,0 +1,82 @@
+[
+  {
+    "githubUrl": "https://github.com/getsentry/sentry-react-native",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "@sentry/react-native",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/getsentry/sentry-react-native",
+        "clone": "https://github.com/getsentry/sentry-react-native.git",
+        "homepage": "https://sentry.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T08:19:23Z",
+        "createdAt": "2016-11-30T14:45:57Z",
+        "pushedAt": "2024-05-24T03:03:46Z",
+        "issues": 168,
+        "subscribers": 72,
+        "stars": 1533,
+        "forks": 322
+      },
+      "name": "sentry-react-native",
+      "fullName": "getsentry/sentry-react-native",
+      "description": "Official Sentry SDK for React-Native",
+      "topics": [
+        "sentry",
+        "sdk",
+        "android",
+        "javascript",
+        "ios",
+        "react-native",
+        "crash-reporting",
+        "typescript",
+        "hacktoberfest",
+        "tag-production"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "5.23.0-alpha.1",
+        "tagName": "5.23.0-alpha.1",
+        "createdAt": "2024-05-09T15:57:31Z",
+        "publishedAt": "2024-05-09T16:45:21Z",
+        "isPrerelease": true
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1397659,
+      "weekDownloads": 330520,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "sentry sdk android javascript ios react-native crash-reporting typescript hacktoberfest tag-production",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.014,
+    "category": [
+      "sentry",
+      "sdk",
+      "crash-reporting"
+    ]
+  }
+]

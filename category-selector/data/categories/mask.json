@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/akinncar/react-native-mask-text",
+    "examples": [
+      "https://github.com/akinncar/react-native-mask-text/tree/main/example",
+      "https://snack.expo.dev/@akinncar/react-native-mask-text"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-mask-text",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/akinncar/react-native-mask-text",
+        "clone": "https://github.com/akinncar/react-native-mask-text.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T15:26:01Z",
+        "createdAt": "2021-05-11T22:58:24Z",
+        "pushedAt": "2024-01-22T22:30:16Z",
+        "issues": 23,
+        "subscribers": 4,
+        "stars": 399,
+        "forks": 35
+      },
+      "name": "react-native-mask-text",
+      "fullName": "akinncar/react-native-mask-text",
+      "description": "🎭 A React Native and Expo library to mask text and inputs",
+      "topics": [
+        "react-native",
+        "expo",
+        "react",
+        "mask",
+        "input"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.14.2",
+        "tagName": "v0.14.2",
+        "createdAt": "2023-07-13T13:51:45Z",
+        "publishedAt": "2023-07-13T13:53:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 60026,
+      "weekDownloads": 14780,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native expo react mask input",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.004,
+    "category": [
+      "mask"
+    ]
+  }
+]

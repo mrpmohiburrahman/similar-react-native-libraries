@@ -1,0 +1,149 @@
+[
+  {
+    "githubUrl": "https://github.com/yamankatby/react-native-flex-layout",
+    "examples": [
+      "https://github.com/yamankatby/react-native-flex-layout/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-flex-layout",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/yamankatby/react-native-flex-layout",
+        "clone": "https://github.com/yamankatby/react-native-flex-layout.git",
+        "homepage": "http://react-native-flex-layout.js.org"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T12:10:04Z",
+        "createdAt": "2022-02-03T11:31:35Z",
+        "pushedAt": "2022-12-05T14:30:14Z",
+        "issues": 2,
+        "subscribers": 2,
+        "stars": 24,
+        "forks": 5
+      },
+      "name": "react-native-flex-layout",
+      "fullName": "yamankatby/react-native-flex-layout",
+      "description": "Layout primitives for React Native.",
+      "topics": [
+        "react-native",
+        "flexbox",
+        "layout"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.1.5",
+        "tagName": "v0.1.5",
+        "createdAt": "2022-03-03T15:09:16Z",
+        "publishedAt": "2022-03-03T15:09:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 13709,
+      "weekDownloads": 3220,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native flexbox layout",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.115,
+    "category": [
+      "flexbox"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/idibidiart/react-native-responsive-grid",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-responsive-grid",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/idibidiart/react-native-responsive-grid",
+        "clone": "https://github.com/idibidiart/react-native-responsive-grid.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-25T17:26:51Z",
+        "createdAt": "2017-04-06T03:22:47Z",
+        "pushedAt": "2020-01-09T05:06:43Z",
+        "issues": 2,
+        "subscribers": 13,
+        "stars": 380,
+        "forks": 42
+      },
+      "name": "react-native-responsive-grid",
+      "fullName": "idibidiart/react-native-responsive-grid",
+      "description": "Bringing the Web's Responsive Design to React Native",
+      "topics": [
+        "react-native",
+        "responsive",
+        "responsive-layout",
+        "grid",
+        "layout",
+        "orientation-changes",
+        "responsive-design",
+        "universal",
+        "flexbox",
+        "react",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 627,
+      "weekDownloads": 39,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native responsive responsive-layout grid layout orientation-changes responsive-design universal flexbox react ios android",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.187,
+    "category": [
+      "responsive-layout",
+      "responsive",
+      "grid",
+      "layout",
+      "orientation-changes",
+      "responsive-design",
+      "flexbox"
+    ]
+  }
+]

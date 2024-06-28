@@ -1,0 +1,90 @@
+[
+  {
+    "githubUrl": "https://github.com/Flipkart/recyclerlistview",
+    "images": [
+      "https://img.youtube.com/vi/Tnv4HMmPgMc/0.jpg",
+      "https://raw.githubusercontent.com/Flipkart/recyclerlistview/master/docs/images/getWindowCorrection_demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/@naqvitalha/rlv-demo",
+      "https://snack.expo.dev/B1GYad52b",
+      "https://snack.expo.dev/@arunreddy10/19bb8e"
+    ],
+    "npmPkg": "recyclerlistview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Flipkart/recyclerlistview",
+        "clone": "https://github.com/Flipkart/recyclerlistview.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T15:27:54Z",
+        "createdAt": "2017-04-16T06:14:33Z",
+        "pushedAt": "2024-03-12T12:19:45Z",
+        "issues": 255,
+        "subscribers": 64,
+        "stars": 5143,
+        "forks": 416
+      },
+      "name": "recyclerlistview",
+      "fullName": "Flipkart/recyclerlistview",
+      "description": "High performance listview for React Native and web!",
+      "topics": [
+        "react-native",
+        "recyclerview",
+        "listview",
+        "flatlist-alternative",
+        "60fps",
+        "cross-platform",
+        "web",
+        "react-native-web",
+        "performance"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "Version 4.2.0",
+        "tagName": "4.2.0",
+        "createdAt": "2022-10-13T17:48:19Z",
+        "publishedAt": "2022-10-13T17:51:54Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1663148,
+      "weekDownloads": 364262,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native recyclerview listview flatlist-alternative 60fps cross-platform web react-native-web performance",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.031,
+    "category": [
+      "recyclerview",
+      "listview"
+    ]
+  }
+]

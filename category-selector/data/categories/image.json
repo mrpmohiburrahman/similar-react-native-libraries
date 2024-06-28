@@ -1,0 +1,2082 @@
+[
+  {
+    "githubUrl": "https://github.com/callstack/react-native-image-editor",
+    "ios": true,
+    "android": true,
+    "npmPkg": "@react-native-community/image-editor",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/callstack/react-native-image-editor",
+        "clone": "https://github.com/callstack/react-native-image-editor.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T16:10:41Z",
+        "createdAt": "2019-02-07T13:51:24Z",
+        "pushedAt": "2024-05-24T16:10:41Z",
+        "forks": 112,
+        "issues": 3,
+        "subscribers": 9,
+        "stars": 359
+      },
+      "name": "react-native-image-editor",
+      "fullName": "callstack/react-native-image-editor",
+      "description": "A library providing an API for cropping images from the web and the local file system.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image-editor",
+        "imageeditor",
+        "image",
+        "web"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 4.2.0",
+        "tagName": "4.2.0",
+        "createdAt": "2024-03-22T18:12:34Z",
+        "publishedAt": "2024-03-22T18:13:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npm": {
+      "downloads": 103664,
+      "weekDownloads": 21719,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.04,
+    "topicSearchString": "react-native ios android image-editor imageeditor image web",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/vivaxy/react-native-auto-height-image",
+    "examples": [
+      "https://github.com/vivaxy/react-native-auto-height-image/tree/master/ExampleApp"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/vivaxy/react-native-auto-height-image",
+        "clone": "https://github.com/vivaxy/react-native-auto-height-image.git",
+        "homepage": "https://github.com/vivaxy/react-native-auto-height-image"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T05:23:33Z",
+        "createdAt": "2017-04-24T12:08:13Z",
+        "pushedAt": "2024-05-24T05:23:33Z",
+        "forks": 67,
+        "issues": 12,
+        "subscribers": 9,
+        "stars": 324
+      },
+      "name": "react-native-auto-height-image",
+      "fullName": "vivaxy/react-native-auto-height-image",
+      "description": "🖼️React native auto height image",
+      "topics": [
+        "react-native",
+        "image",
+        "auto-height",
+        "react",
+        "images"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v3.2.4",
+        "createdAt": "2021-02-04T09:40:56Z",
+        "publishedAt": "2023-04-10T10:24:19Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-auto-height-image",
+    "npm": {
+      "downloads": 25283,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 6222
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.004,
+    "topicSearchString": "react-native image auto-height react images",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mrousavy/vision-camera-image-labeler",
+    "examples": [
+      "https://github.com/mrousavy/vision-camera-image-labeler/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mrousavy/vision-camera-image-labeler",
+        "clone": "https://github.com/mrousavy/vision-camera-image-labeler.git",
+        "homepage": "https://github.com/mrousavy/react-native-vision-camera"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-29T10:28:55Z",
+        "createdAt": "2021-05-06T12:18:50Z",
+        "pushedAt": "2024-01-29T10:28:55Z",
+        "forks": 26,
+        "issues": 8,
+        "subscribers": 5,
+        "stars": 111
+      },
+      "name": "vision-camera-image-labeler",
+      "fullName": "mrousavy/vision-camera-image-labeler",
+      "description": "VisionCamera Frame Processor Plugin to label images using MLKit Vision",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image-labeling",
+        "vision-camera",
+        "library",
+        "vision",
+        "camera",
+        "ml",
+        "ai",
+        "frame-processor-plugin",
+        "mlkit-vision"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.6",
+        "tagName": "v0.1.6",
+        "createdAt": "2021-08-13T08:57:16Z",
+        "publishedAt": "2021-08-13T08:57:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "vision-camera-image-labeler",
+    "npm": {
+      "downloads": 283,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 51
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.067,
+    "topicSearchString": "react-native ios android image-labeling vision-camera library vision camera ml ai frame-processor-plugin mlkit-vision",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/brunon80/expo-image-crop",
+    "examples": [
+      "https://github.com/brunon80/expo-image-crop/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/brunon80/expo-image-crop/master/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/brunon80/expo-image-crop",
+        "clone": "https://github.com/brunon80/expo-image-crop.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-06-29T19:47:50Z",
+        "createdAt": "2018-12-31T17:25:53Z",
+        "pushedAt": "2023-06-29T19:47:50Z",
+        "forks": 43,
+        "issues": 9,
+        "subscribers": 5,
+        "stars": 107
+      },
+      "name": "expo-image-crop",
+      "fullName": "brunon80/expo-image-crop",
+      "description": "Crop and rotate image without detach your expo project!",
+      "topics": [
+        "expo",
+        "react-native",
+        "crop",
+        "image",
+        "rotate"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "expo-image-crop",
+    "npm": {
+      "downloads": 1380,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 311
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.025,
+    "topicSearchString": "expo react-native crop image rotate",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/thomas-coldwell/expo-image-editor",
+    "examples": [
+      "https://github.com/thomas-coldwell/expo-image-editor/tree/master/example",
+      "https://expo-image-cropping.netlify.app/"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/31568400/95880744-c0ac9980-0d6f-11eb-8610-73d291f1013b.jpg",
+      "https://user-images.githubusercontent.com/31568400/95880752-c2765d00-0d6f-11eb-8345-ca7420fabf9b.jpg",
+      "https://user-images.githubusercontent.com/31568400/95880755-c30ef380-0d6f-11eb-9567-4eaf188a18d6.jpg"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/thomas-coldwell/expo-image-editor",
+        "clone": "https://github.com/thomas-coldwell/expo-image-editor.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-10-18T13:00:00Z",
+        "createdAt": "2020-05-23T16:08:51Z",
+        "pushedAt": "2021-10-18T13:00:00Z",
+        "forks": 28,
+        "issues": 16,
+        "subscribers": 4,
+        "stars": 161
+      },
+      "name": "expo-image-editor",
+      "fullName": "thomas-coldwell/expo-image-editor",
+      "description": "A super simple image cropping and rotation tool for Expo that runs on iOS, Android and Web!",
+      "topics": [
+        "react",
+        "react-native",
+        "image",
+        "image-editor",
+        "image-cropping",
+        "blur",
+        "expo",
+        "react-native-web"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "Release 1.7.0",
+        "tagName": "v1.7.0",
+        "createdAt": "2021-08-05T11:42:04Z",
+        "publishedAt": "2021-10-12T18:35:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "expo-image-editor",
+    "npm": {
+      "downloads": 1678,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 552
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0.079,
+    "topicSearchString": "react react-native image image-editor image-cropping blur expo react-native-web",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/candlefinance/faster-image",
+    "npmPkg": "@candlefinance/faster-image",
+    "examples": [
+      "https://github.com/candlefinance/faster-image/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/candlefinance/faster-image",
+        "clone": "https://github.com/candlefinance/faster-image.git",
+        "homepage": "https://candle.fi"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T11:39:36Z",
+        "createdAt": "2023-03-25T21:09:34Z",
+        "pushedAt": "2024-05-14T11:39:36Z",
+        "forks": 16,
+        "issues": 9,
+        "subscribers": 6,
+        "stars": 439
+      },
+      "name": "faster-image",
+      "fullName": "candlefinance/faster-image",
+      "description": "Fast image loading for React Native backed by performant native libraries.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image",
+        "nuke",
+        "activityindicator",
+        "transition",
+        "coil",
+        "coil-kotlin",
+        "cache"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.5.3",
+        "tagName": "v1.5.3",
+        "createdAt": "2024-05-14T11:40:27Z",
+        "publishedAt": "2024-05-14T11:40:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 24580,
+      "weekDownloads": 4410,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.071,
+    "topicSearchString": "react-native ios android image nuke activityindicator transition coil coil-kotlin cache",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image-picker",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev/versions/latest/sdk/imagepicker/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T20:03:42Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-15T20:03:42Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29828
+      },
+      "name": "expo-image-picker",
+      "fullName": "expo/expo",
+      "description": "Provides access to the system's UI for selecting images and videos from the phone's library or taking a photo with the camera.",
+      "topics": [
+        "react-native",
+        "expo",
+        "image",
+        "picker",
+        "image-picker"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [
+      "https://github.com/expo/expo/raw/main/.github/resources/expo-image-picker.svg"
+    ],
+    "npmPkg": "expo-image-picker",
+    "npm": {
+      "downloads": 589521,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 139542
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "topicSearchString": "react-native expo image picker image-picker",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image-manipulator",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev/versions/latest/sdk/imagemanipulator/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T18:35:34Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-13T18:35:34Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29828
+      },
+      "name": "expo-image-manipulator",
+      "fullName": "expo/expo",
+      "description": "Provides functions that let you manipulation images on the local file system, eg: resize, crop.",
+      "topics": [
+        "react-native",
+        "expo",
+        "expo-image-manipulator"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "expo-image-manipulator",
+    "npm": {
+      "downloads": 270432,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 61110
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "topicSearchString": "react-native expo expo-image-manipulator",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/baronha/react-native-multiple-image-picker",
+    "npmPkg": "@baronha/react-native-multiple-image-picker",
+    "examples": [
+      "https://github.com/baronha/react-native-multiple-image-picker/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/baronha/react-native-multiple-image-picker/main/files/demo-main-android.gif",
+      "https://raw.githubusercontent.com/baronha/react-native-multiple-image-picker/main/files/demo-main-ios.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/baronha/react-native-multiple-image-picker",
+        "clone": "https://github.com/baronha/react-native-multiple-image-picker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T09:13:54Z",
+        "createdAt": "2021-02-21T08:34:18Z",
+        "pushedAt": "2024-05-15T09:13:54Z",
+        "forks": 89,
+        "issues": 26,
+        "subscribers": 6,
+        "stars": 356
+      },
+      "name": "react-native-multiple-image-picker",
+      "fullName": "baronha/react-native-multiple-image-picker",
+      "description": "🏞 react-native-multiple-image-picker enables applications to pick images and videos from multiple smart albums in iOS/Android, similar to the current Facebook app.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image-picker",
+        "native-module",
+        "picker",
+        "swift",
+        "video",
+        "multi-selector",
+        "photo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.1.2",
+        "tagName": "1.1.2",
+        "createdAt": "2023-09-20T07:04:53Z",
+        "publishedAt": "2023-09-20T07:14:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4240,
+      "weekDownloads": 1037,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.005,
+    "topicSearchString": "react-native ios android image-picker native-module picker swift video multi-selector photo",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ivpusic/react-native-image-crop-picker",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ivpusic/react-native-image-crop-picker",
+        "clone": "https://github.com/ivpusic/react-native-image-crop-picker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-10T22:06:53Z",
+        "createdAt": "2016-05-17T14:25:03Z",
+        "pushedAt": "2024-05-10T22:06:53Z",
+        "forks": 1414,
+        "issues": 738,
+        "subscribers": 72,
+        "stars": 6015
+      },
+      "name": "react-native-image-crop-picker",
+      "fullName": "ivpusic/react-native-image-crop-picker",
+      "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
+      "topics": [
+        "react",
+        "native",
+        "react-native",
+        "image",
+        "picker",
+        "crop",
+        "cropping",
+        "multiple",
+        "camera",
+        "video",
+        "ios",
+        "android",
+        "recording"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.41.1",
+        "tagName": "v0.41.1",
+        "createdAt": "2024-05-10T22:07:02Z",
+        "publishedAt": "2024-05-10T22:08:07Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-image-crop-picker",
+    "npm": {
+      "downloads": 804332,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 162472
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.048,
+    "topicSearchString": "react native react-native image picker crop cropping multiple camera video ios android recording",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/bamlab/react-native-image-resizer",
+    "npmPkg": "@bam.tech/react-native-image-resizer",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bamlab/react-native-image-resizer",
+        "clone": "https://github.com/bamlab/react-native-image-resizer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-29T12:36:58Z",
+        "createdAt": "2015-11-30T10:23:11Z",
+        "pushedAt": "2024-04-29T12:36:58Z",
+        "forks": 318,
+        "issues": 4,
+        "subscribers": 20,
+        "stars": 1578
+      },
+      "name": "react-native-image-resizer",
+      "fullName": "bamlab/react-native-image-resizer",
+      "description": "🗻 Resize local images with React Native",
+      "topics": [
+        "react-native",
+        "react",
+        "android",
+        "ios",
+        "images",
+        "image",
+        "image-resizer",
+        "scaling",
+        "scale",
+        "resize",
+        "jpeg"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.0.9",
+        "tagName": "v3.0.9",
+        "createdAt": "2024-04-29T12:37:02Z",
+        "publishedAt": "2024-04-29T12:37:48Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npm": {
+      "downloads": 105502,
+      "weekDownloads": 23738,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.025,
+    "topicSearchString": "react-native react android ios images image image-resizer scaling scale resize jpeg",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/likashefqet/react-native-image-zoom",
+    "npmPkg": "@likashefqet/react-native-image-zoom",
+    "examples": [
+      "https://github.com/likashefqet/react-native-image-zoom/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/likashefqet/react-native-image-zoom/main/demo.gif"
+    ],
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/likashefqet/react-native-image-zoom",
+        "clone": "https://github.com/likashefqet/react-native-image-zoom.git",
+        "homepage": "https://www.npmjs.com/package/@likashefqet/react-native-image-zoom"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-24T18:14:11Z",
+        "createdAt": "2021-12-09T05:46:30Z",
+        "pushedAt": "2024-03-24T18:14:11Z",
+        "forks": 36,
+        "issues": 6,
+        "subscribers": 5,
+        "stars": 220
+      },
+      "name": "react-native-image-zoom",
+      "fullName": "likashefqet/react-native-image-zoom",
+      "description": "A performant and customizable image zoom component built with Reanimated v2+ and TypeScript. 🌃 🚀",
+      "topics": [
+        "photo",
+        "image",
+        "picture",
+        "zoom",
+        "pinch",
+        "pan",
+        "reanimated",
+        "gesture",
+        "instagram",
+        "react",
+        "react-native",
+        "react-native-image-zoom",
+        "react-native-zoom",
+        "react-native-image",
+        "image-zoom",
+        "zoom-image",
+        "zoomable-image",
+        "zoomable",
+        "javascript",
+        "ui-lib",
+        "rn",
+        "likashefqet",
+        "likashefi"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.0.0",
+        "tagName": "v3.0.0",
+        "createdAt": "2024-03-24T18:14:16Z",
+        "publishedAt": "2024-03-24T18:31:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 33324,
+      "weekDownloads": 8597,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.008,
+    "topicSearchString": "photo image picture zoom pinch pan reanimated gesture instagram react react-native react-native-image-zoom react-native-zoom react-native-image image-zoom zoom-image zoomable-image zoomable javascript ui-lib rn likashefqet likashefi",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/JimmyDaddy/react-native-image-marker",
+    "ios": true,
+    "android": true,
+    "examples": [
+      "https://github.com/JimmyDaddy/react-native-image-marker/tree/master/example",
+      "https://github.com/JimmyDaddy/react-native-image-marker/tree/master/expo-example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/multiple_icon_markers.png",
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/rotatetexts.png",
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/alphicononly.png",
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/alphabgonly.png",
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/textswihoutbg.png"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/JimmyDaddy/react-native-image-marker",
+        "clone": "https://github.com/JimmyDaddy/react-native-image-marker.git",
+        "homepage": "https://jimmydaddy.github.io/react-native-image-marker/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-04T13:21:23Z",
+        "createdAt": "2017-03-04T16:33:14Z",
+        "pushedAt": "2024-02-04T13:21:23Z",
+        "forks": 87,
+        "issues": 6,
+        "subscribers": 5,
+        "stars": 303
+      },
+      "name": "react-native-image-marker",
+      "fullName": "JimmyDaddy/react-native-image-marker",
+      "description": "🙈Adding text or icon watermark to your image using React Native👀👀",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image",
+        "marker",
+        "text",
+        "watermark",
+        "icon",
+        "mark",
+        "photo",
+        "reactnative",
+        "icon-watermark"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.2.6 🌈",
+        "tagName": "v1.2.6",
+        "createdAt": "2024-02-04T12:13:46Z",
+        "publishedAt": "2024-02-04T13:24:11Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-image-marker",
+    "npm": {
+      "downloads": 193371,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 40392
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.041,
+    "topicSearchString": "react-native ios android image marker text watermark icon mark photo reactnative icon-watermark",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/iChengbo/react-native-imagemin-asset-plugin",
+    "examples": [
+      "https://github.com/iChengbo/react-native-imagemin-asset-plugin/tree/master/playground"
+    ],
+    "images": [
+      "https://github.com/iChengbo/react-native-imagemin-asset-plugin/blob/master/example.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "dev": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/iChengbo/react-native-imagemin-asset-plugin",
+        "clone": "https://github.com/iChengbo/react-native-imagemin-asset-plugin.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-04T01:44:53Z",
+        "createdAt": "2021-08-13T06:03:49Z",
+        "pushedAt": "2024-02-04T01:44:53Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 14
+      },
+      "name": "react-native-imagemin-asset-plugin",
+      "fullName": "iChengbo/react-native-imagemin-asset-plugin",
+      "description": "Metro Asset plugin for compressing images in React Native. 一款在项目构建阶段自动压缩图片资源的插件。",
+      "topics": [
+        "react-native",
+        "metro",
+        "compress",
+        "image",
+        "assetplugin",
+        "imagemin",
+        "asset-plugin"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.5.3",
+        "tagName": "v1.5.3",
+        "createdAt": "2024-01-05T01:01:46Z",
+        "publishedAt": "2024-01-05T01:01:50Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-imagemin-asset-plugin",
+    "npm": {
+      "downloads": 59,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 11
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.601,
+    "topicSearchString": "react-native metro compress image assetplugin imagemin asset-plugin",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/osamaqarem/react-native-image-colors",
+    "examples": [
+      "https://github.com/osamaqarem/react-native-image-colors/tree/master/example",
+      "https://snack.expo.dev/@osamaqarem/imagecolors-example?platform=web"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/osamaqarem/react-native-image-colors/master/assets/demo1_ios.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "newArchitecture": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/osamaqarem/react-native-image-colors",
+        "clone": "https://github.com/osamaqarem/react-native-image-colors.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-12T08:30:09Z",
+        "createdAt": "2020-02-16T15:07:53Z",
+        "pushedAt": "2024-01-12T08:30:09Z",
+        "forks": 34,
+        "issues": 4,
+        "subscribers": 6,
+        "stars": 641
+      },
+      "name": "react-native-image-colors",
+      "fullName": "osamaqarem/react-native-image-colors",
+      "description": "Fetch prominent colors from an image.",
+      "topics": [
+        "react-native",
+        "expo",
+        "react-native-image-colors",
+        "rnimagecolors",
+        "ios",
+        "android",
+        "react",
+        "image",
+        "dominant",
+        "average",
+        "color",
+        "palette"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.4.0",
+        "tagName": "v2.4.0",
+        "createdAt": "2024-01-04T19:25:07Z",
+        "publishedAt": "2024-01-04T19:25:17Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-image-colors",
+    "npm": {
+      "downloads": 105765,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 16522
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.094,
+    "topicSearchString": "react-native expo react-native-image-colors rnimagecolors ios android react image dominant average color palette",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/andresribeiro/react-native-reanimated-image-viewer",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/andresribeiro/react-native-reanimated-image-viewer",
+        "clone": "https://github.com/andresribeiro/react-native-reanimated-image-viewer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-12-27T17:56:47Z",
+        "createdAt": "2022-12-29T18:24:20Z",
+        "pushedAt": "2023-12-27T17:56:47Z",
+        "forks": 7,
+        "issues": 3,
+        "subscribers": 1,
+        "stars": 135
+      },
+      "name": "react-native-reanimated-image-viewer",
+      "fullName": "andresribeiro/react-native-reanimated-image-viewer",
+      "description": "A image viewer for React Native created with Reanimated",
+      "topics": [
+        "react-native",
+        "react",
+        "reanimated",
+        "image",
+        "image-viewer",
+        "image-viewing",
+        "viewer",
+        "viewing",
+        "pinch",
+        "pan",
+        "zoom",
+        "double-tap",
+        "rn",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-reanimated-image-viewer",
+    "npm": {
+      "downloads": 3857,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 452
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.133,
+    "topicSearchString": "react-native react reanimated image image-viewer image-viewing viewer viewing pinch pan zoom double-tap rn typescript",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/georstat/react-native-image-cache",
+    "npmPkg": "@georstat/react-native-image-cache",
+    "examples": [
+      "https://github.com/georstat/react-native-image-cache/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/717975/117460761-85fd8f00-af55-11eb-8804-69c008bfeb8d.gif",
+      "https://user-images.githubusercontent.com/717975/117491773-4ba5e900-af79-11eb-8ae1-99604b47c55c.gif",
+      "https://user-images.githubusercontent.com/717975/125193571-b4e5f900-e255-11eb-8164-3ca097ce6e74.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/georstat/react-native-image-cache",
+        "clone": "https://github.com/georstat/react-native-image-cache.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-06T21:31:42Z",
+        "createdAt": "2021-05-07T07:57:30Z",
+        "pushedAt": "2023-09-06T21:31:42Z",
+        "forks": 27,
+        "issues": 8,
+        "subscribers": 6,
+        "stars": 356
+      },
+      "name": "react-native-image-cache",
+      "fullName": "georstat/react-native-image-cache",
+      "description": "React-Native image caching in file system with progressive loading for iOS and Android",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image-cache",
+        "cache",
+        "file-system-image-cache"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.1.0",
+        "tagName": "v3.1.0",
+        "createdAt": "2023-09-06T21:31:44Z",
+        "publishedAt": "2023-09-06T21:31:50Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8034,
+      "weekDownloads": 2005,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0,
+    "topicSearchString": "react-native ios android image-cache cache file-system-image-cache",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/WrathChaos/react-native-progressive-fast-image",
+    "npmPkg": "@freakycoder/react-native-progressive-fast-image",
+    "examples": [
+      "https://github.com/WrathChaos/react-native-progressive-fast-image/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/WrathChaos/react-native-progressive-fast-image",
+        "clone": "https://github.com/WrathChaos/react-native-progressive-fast-image.git",
+        "homepage": "https://freakycoder.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-04-05T11:32:36Z",
+        "createdAt": "2020-08-24T16:52:28Z",
+        "pushedAt": "2023-04-05T11:32:36Z",
+        "forks": 11,
+        "issues": 3,
+        "subscribers": 5,
+        "stars": 101
+      },
+      "name": "react-native-progressive-fast-image",
+      "fullName": "WrathChaos/react-native-progressive-fast-image",
+      "description": "Customizable progressive image for React Native with FastImage",
+      "topics": [
+        "loading",
+        "loading-image",
+        "progressive",
+        "lazy",
+        "lazy-load",
+        "fast-image",
+        "image",
+        "progressive-image",
+        "progressive-fast-image",
+        "freakycoder",
+        "kuray",
+        "react",
+        "react-native",
+        "javascript",
+        "ui-lib",
+        "rn",
+        "mobile-app",
+        "mobile"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "Version 1 😍",
+        "tagName": "1.0.0",
+        "createdAt": "2023-04-05T11:29:34Z",
+        "publishedAt": "2023-04-05T11:33:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 5174,
+      "weekDownloads": 1210,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.016,
+    "topicSearchString": "loading loading-image progressive lazy lazy-load fast-image image progressive-image progressive-fast-image freakycoder kuray react react-native javascript ui-lib rn mobile-app mobile",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/DylanVann/react-native-fast-image",
+    "images": [
+      "https://raw.githubusercontent.com/DylanVann/react-native-fast-image/master/docs/assets/scroll.gif",
+      "https://raw.githubusercontent.com/DylanVann/react-native-fast-image/master/docs/assets/priority.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/DylanVann/react-native-fast-image",
+        "clone": "https://github.com/DylanVann/react-native-fast-image.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-10-31T01:41:06Z",
+        "createdAt": "2017-04-13T04:13:44Z",
+        "pushedAt": "2022-10-31T01:41:06Z",
+        "forks": 1269,
+        "issues": 392,
+        "subscribers": 62,
+        "stars": 8056
+      },
+      "name": "react-native-fast-image",
+      "fullName": "DylanVann/react-native-fast-image",
+      "description": "🚩 FastImage, performant React Native image component.",
+      "topics": [
+        "cache",
+        "cached",
+        "fastimage",
+        "image",
+        "priority",
+        "react-native",
+        "sdwebimage",
+        "glide",
+        "image-cache",
+        "cocoapod",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v8.6.3",
+        "tagName": "v8.6.3",
+        "createdAt": "2022-10-31T01:41:06Z",
+        "publishedAt": "2022-10-31T01:41:10Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-fast-image",
+    "npm": {
+      "downloads": 1048500,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 226333
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.034,
+    "topicSearchString": "cache cached fastimage image priority react-native sdwebimage glide image-cache cocoapod hacktoberfest",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/AndreYonadam/react-native-scrolling-images",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/AndreYonadam/react-native-scrolling-images",
+        "clone": "https://github.com/AndreYonadam/react-native-scrolling-images.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-06-28T14:03:28Z",
+        "createdAt": "2019-01-25T00:20:09Z",
+        "pushedAt": "2022-06-28T14:03:28Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 17
+      },
+      "name": "react-native-scrolling-images",
+      "fullName": "AndreYonadam/react-native-scrolling-images",
+      "description": "Easily create looping scrolling images for backgrounds and parallax",
+      "topics": [
+        "animated",
+        "scrolling",
+        "image",
+        "background",
+        "parallax"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-scrolling-images",
+    "npm": {
+      "downloads": 131,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 28
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.581,
+    "topicSearchString": "animated scrolling image background parallax",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/GregoryNative/react-native-gl-image-filters",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://github.com/GregoryNative/react-native-gl-image-filters/tree/master/example",
+      "https://github.com/GregoryNative/react-native-gl-image-filters/tree/master/example-expo"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/GregoryNative/react-native-gl-image-filters",
+        "clone": "https://github.com/GregoryNative/react-native-gl-image-filters.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-04-17T09:35:53Z",
+        "createdAt": "2018-02-15T14:15:10Z",
+        "pushedAt": "2022-04-17T09:35:53Z",
+        "forks": 34,
+        "issues": 7,
+        "subscribers": 5,
+        "stars": 235
+      },
+      "name": "react-native-gl-image-filters",
+      "fullName": "GregoryNative/react-native-gl-image-filters",
+      "description": "React-Native image filters using gl-react",
+      "topics": [
+        "react-native",
+        "gl-react",
+        "gl-react-native",
+        "image-filters",
+        "gl-react-expo",
+        "gl-react-dom",
+        "expo",
+        "gl",
+        "opengl",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-gl-image-filters",
+    "npm": {
+      "downloads": 1444,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 28
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.231,
+    "topicSearchString": "react-native gl-react gl-react-native image-filters gl-react-expo gl-react-dom expo gl opengl react",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/shijingsh/react-native-customized-image-picker",
+    "images": [
+      "https://raw.githubusercontent.com/samad324/react-native-customized-image-picker/master/images/pic.png",
+      "https://raw.githubusercontent.com/samad324/react-native-customized-image-picker/master/images/pic3.png"
+    ],
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/shijingsh/react-native-customized-image-picker",
+        "clone": "https://github.com/shijingsh/react-native-customized-image-picker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-03-12T04:07:27Z",
+        "createdAt": "2016-11-24T05:35:58Z",
+        "pushedAt": "2022-03-12T04:07:27Z",
+        "forks": 53,
+        "issues": 44,
+        "subscribers": 5,
+        "stars": 245
+      },
+      "name": "react-native-customized-image-picker",
+      "fullName": "shijingsh/react-native-customized-image-picker",
+      "description": "iOS/Android image picker with support for camera, video compression, multiple images and cropping",
+      "topics": [
+        "react",
+        "native",
+        "react-native",
+        "image",
+        "picker",
+        "crop",
+        "cropping",
+        "multiple",
+        "camera"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-customized-image-picker",
+    "npm": {
+      "downloads": 2624,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 174
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.184,
+    "topicSearchString": "react native react-native image picker crop cropping multiple camera",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wonday/react-native-image-cache-wrapper",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wonday/react-native-image-cache-wrapper",
+        "clone": "https://github.com/wonday/react-native-image-cache-wrapper.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-01-23T13:02:58Z",
+        "createdAt": "2018-06-09T14:19:34Z",
+        "pushedAt": "2022-01-23T13:02:58Z",
+        "forks": 16,
+        "issues": 5,
+        "subscribers": 4,
+        "stars": 36
+      },
+      "name": "react-native-image-cache-wrapper",
+      "fullName": "wonday/react-native-image-cache-wrapper",
+      "description": "The best react native image cache wrapper.",
+      "topics": [
+        "cache",
+        "cached-image",
+        "image-cache",
+        "image",
+        "imagebackground",
+        "react-component",
+        "react-native",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.7",
+        "tagName": "v1.0.7",
+        "createdAt": "2020-03-31T15:18:31Z",
+        "publishedAt": "2020-03-31T15:21:44Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-image-cache-wrapper",
+    "npm": {
+      "downloads": 634,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 142
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.025,
+    "topicSearchString": "cache cached-image image-cache image imagebackground react-component react-native android ios",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/oblador/react-native-image-progress",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-image-progress",
+        "clone": "https://github.com/oblador/react-native-image-progress.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-01-02T13:24:08Z",
+        "createdAt": "2015-07-16T12:22:46Z",
+        "pushedAt": "2022-01-02T13:24:08Z",
+        "forks": 175,
+        "issues": 21,
+        "subscribers": 30,
+        "stars": 1706
+      },
+      "name": "react-native-image-progress",
+      "fullName": "oblador/react-native-image-progress",
+      "description": "Progress indicator for networked images in React Native",
+      "topics": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "ui",
+        "image",
+        "progress",
+        "bar",
+        "progressbar",
+        "spinner",
+        "activityindicator",
+        "loading",
+        "indicator"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.2.0",
+        "tagName": "v1.2.0",
+        "createdAt": "2022-01-02T13:24:08Z",
+        "publishedAt": "2022-01-02T13:27:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-image-progress",
+    "npm": {
+      "downloads": 42265,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 10284
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "react-native react-component react-native-component react mobile ios ui image progress bar progressbar spinner activityindicator loading indicator",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ihor/react-native-scalable-image",
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ihor/react-native-scalable-image",
+        "clone": "https://github.com/ihor/react-native-scalable-image.git",
+        "homepage": "https://www.npmjs.com/package/react-native-scalable-image"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-02-12T23:02:54Z",
+        "createdAt": "2017-02-23T23:33:49Z",
+        "pushedAt": "2021-02-12T23:02:54Z",
+        "forks": 60,
+        "issues": 14,
+        "subscribers": 10,
+        "stars": 314
+      },
+      "name": "react-native-scalable-image",
+      "fullName": "ihor/react-native-scalable-image",
+      "description": "React Native Image component which scales width or height automatically to keep the original aspect ratio",
+      "topics": [
+        "react-native",
+        "image",
+        "component",
+        "scalable",
+        "aspect-ratio",
+        "scales-width",
+        "scales-height",
+        "responsive",
+        "reactjs"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.1.0",
+        "tagName": "1.1.0",
+        "createdAt": "2021-02-12T23:05:50Z",
+        "publishedAt": "2021-02-12T23:30:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-scalable-image",
+    "npm": {
+      "downloads": 43567,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 9134
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.04,
+    "topicSearchString": "react-native image component scalable aspect-ratio scales-width scales-height responsive reactjs",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/khalisafkari/react-native-bigimageviewer",
+    "examples": [
+      "https://github.com/khalisafkari/react-native-bigimageviewer/tree/master/example"
+    ],
+    "android": true,
+    "npmPkg": "react-native-bigimageviewer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/khalisafkari/react-native-bigimageviewer",
+        "clone": "https://github.com/khalisafkari/react-native-bigimageviewer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-02-19T05:17:53Z",
+        "createdAt": "2020-08-19T10:15:29Z",
+        "pushedAt": "2020-08-24T00:32:11Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 9,
+        "forks": 0
+      },
+      "name": "react-native-bigimageviewer",
+      "fullName": "khalisafkari/react-native-bigimageviewer",
+      "description": "react native Big image viewer supporting pan and zoom",
+      "topics": [
+        "react-native",
+        "image",
+        "bigimageviewer",
+        "react-native-image",
+        "imageview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native image bigimageviewer react-native-image imageview",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.55,
+    "category": [
+      "bigimageviewer",
+      "react-native-image",
+      "imageview",
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xcarpentier/react-native-safe-image",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-safe-image",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xcarpentier/react-native-safe-image",
+        "clone": "https://github.com/xcarpentier/react-native-safe-image.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T23:44:43Z",
+        "createdAt": "2018-12-20T17:07:50Z",
+        "pushedAt": "2023-01-04T01:14:16Z",
+        "issues": 13,
+        "subscribers": 3,
+        "stars": 28,
+        "forks": 0
+      },
+      "name": "react-native-safe-image",
+      "fullName": "xcarpentier/react-native-safe-image",
+      "description": "Really light React-Native package to handle fallback when image is on error",
+      "topics": [
+        "react-native",
+        "typescript",
+        "image"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 31,
+      "weekDownloads": 7,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native typescript image",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.45,
+    "category": [
+      "image"
+    ]
+  }
+]

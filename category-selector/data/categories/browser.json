@@ -1,0 +1,155 @@
+[
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-web-browser",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-web-browser",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 833276,
+      "weekDownloads": 201658,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.008,
+    "category": [
+      "web-browser",
+      "browser"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/matei-radu/react-native-in-app-browser",
+    "npmPkg": "@matt-block/react-native-in-app-browser",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/matei-radu/react-native-in-app-browser",
+        "clone": "https://github.com/matei-radu/react-native-in-app-browser.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-08T17:44:32Z",
+        "createdAt": "2018-08-31T20:34:51Z",
+        "pushedAt": "2020-10-09T08:21:09Z",
+        "issues": 0,
+        "subscribers": 4,
+        "stars": 46,
+        "forks": 6
+      },
+      "name": "react-native-in-app-browser",
+      "fullName": "matei-radu/react-native-in-app-browser",
+      "description": "In-App browser support for React Native using Chrome Custom Tabs and Safari View Controller.",
+      "topics": [
+        "react-native",
+        "safari-view-controller",
+        "chrome-custom-tabs",
+        "kotlin",
+        "swift",
+        "typescript",
+        "flow"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release v3.2.2",
+        "tagName": "v3.2.2",
+        "createdAt": "2020-09-30T11:47:17Z",
+        "publishedAt": "2020-09-30T12:09:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 544,
+      "weekDownloads": 67,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native safari-view-controller chrome-custom-tabs kotlin swift typescript flow",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.377,
+    "category": [
+      "browser",
+      "in-app-browser"
+    ]
+  }
+]

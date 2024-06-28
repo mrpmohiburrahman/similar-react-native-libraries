@@ -1,0 +1,171 @@
+[
+  {
+    "githubUrl": "https://github.com/mrlaessig/react-native-autocomplete-input",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/rJxdeFIIb"
+    ],
+    "npmPkg": "react-native-autocomplete-input",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/byteburgers/react-native-autocomplete-input",
+        "clone": "https://github.com/byteburgers/react-native-autocomplete-input.git",
+        "homepage": "https://byteburgers.com/autocomplete"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T15:19:35Z",
+        "createdAt": "2016-02-22T14:38:28Z",
+        "pushedAt": "2024-02-22T19:31:56Z",
+        "issues": 7,
+        "subscribers": 15,
+        "stars": 796,
+        "forks": 254
+      },
+      "name": "react-native-autocomplete-input",
+      "fullName": "byteburgers/react-native-autocomplete-input",
+      "description": "Pure javascript autocomplete input for react-native",
+      "topics": [
+        "autocomplete",
+        "react-native",
+        "ios",
+        "android",
+        "input",
+        "javascript",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.4.0",
+        "tagName": "v5.4.0",
+        "createdAt": "2023-10-15T21:16:06Z",
+        "publishedAt": "2023-10-15T21:18:04Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 59300,
+      "weekDownloads": 13156,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "autocomplete react-native ios android input javascript typescript",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.028,
+    "category": [
+      "autocomplete",
+      "input"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/marcocesarato/react-native-input-spinner",
+    "images": [
+      "https://raw.githubusercontent.com/marcocesarato/react-native-input-spinner/master/images/example.png",
+      "https://raw.githubusercontent.com/marcocesarato/react-native-input-spinner/master/images/example_2.png",
+      "https://raw.githubusercontent.com/marcocesarato/react-native-input-spinner/master/images/skins.png",
+      "https://raw.githubusercontent.com/marcocesarato/react-native-input-spinner/master/images/customization.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-input-spinner",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/marcocesarato/react-native-input-spinner",
+        "clone": "https://github.com/marcocesarato/react-native-input-spinner.git",
+        "homepage": "https://marcocesarato.github.io/react-native-input-spinner/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T01:35:27Z",
+        "createdAt": "2019-06-06T19:30:24Z",
+        "pushedAt": "2024-03-21T02:57:06Z",
+        "issues": 21,
+        "subscribers": 2,
+        "stars": 397,
+        "forks": 33
+      },
+      "name": "react-native-input-spinner",
+      "fullName": "marcocesarato/react-native-input-spinner",
+      "description": "An extensible input number spinner component for react-native highly customizable. This component enhance a text input for entering numeric values, with increase and decrease buttons.",
+      "topics": [
+        "react-native",
+        "input",
+        "spinner",
+        "number",
+        "android",
+        "ios",
+        "int",
+        "float",
+        "decimal",
+        "selector",
+        "reactnative",
+        "react",
+        "component",
+        "stepper",
+        "step",
+        "numeric",
+        "expo"
+      ],
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdxId": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "id": "MDc6TGljZW5zZTk="
+      },
+      "lastRelease": {
+        "name": "Release 1.8.1",
+        "tagName": "v1.8.1",
+        "createdAt": "2023-04-25T15:22:48Z",
+        "publishedAt": "2023-04-25T15:29:05Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6784,
+      "weekDownloads": 1954,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native input spinner number android ios int float decimal selector reactnative react component stepper step numeric expo",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "GPL license",
+      "Recently updated"
+    ],
+    "popularity": 0.038,
+    "category": [
+      "input",
+      "stepper",
+      "step"
+    ]
+  }
+]

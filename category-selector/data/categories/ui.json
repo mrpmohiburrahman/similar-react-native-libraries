@@ -1,0 +1,1886 @@
+[
+  {
+    "githubUrl": "https://github.com/farhoudshapouran/react-native-ui-datepicker",
+    "examples": [
+      "https://github.com/farhoudshapouran/react-native-ui-datepicker/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/7857656/227187674-93012672-495d-4955-b4d3-46c3d016684e.jpg",
+      "https://user-images.githubusercontent.com/7857656/227260476-30ee8c25-f809-4dcf-bccf-cd1ffab8795a.jpg",
+      "https://raw.githubusercontent.com/farhoudshapouran/react-native-ui-datepicker/main/.github/images/modes-screenshot.png",
+      "https://github.com/farhoudshapouran/react-native-ui-datepicker/raw/main/.github/images/react-native-ui-datepicker-example.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/farhoudshapouran/react-native-ui-datepicker",
+        "clone": "https://github.com/farhoudshapouran/react-native-ui-datepicker.git",
+        "homepage": "https://farhoudshapouran.github.io/react-native-ui-datepicker/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-26T12:39:37Z",
+        "createdAt": "2023-03-22T16:24:04Z",
+        "pushedAt": "2024-02-26T12:39:37Z",
+        "forks": 20,
+        "issues": 13,
+        "subscribers": 6,
+        "stars": 226
+      },
+      "name": "react-native-ui-datepicker",
+      "fullName": "farhoudshapouran/react-native-ui-datepicker",
+      "description": "Customizable React Native 📅 DatePicker component for Android, iOS, and Web. It includes single, range and multiple modes and supports different locales.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "react-native-ui-datetpicker",
+        "react-native-datetime",
+        "react-native-datetime-picker",
+        "react-native-datetpicker",
+        "react-native-datet-picker",
+        "react-native-timepicker",
+        "react-native-time-picker",
+        "react-native-calendar",
+        "react-native-daterange",
+        "datetime",
+        "datetime-picker",
+        "datepicker",
+        "datet-picker",
+        "timepicker",
+        "time-picker",
+        "calendar",
+        "daterange",
+        "datetimepicker",
+        "picker",
+        "react-native-web"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.2",
+        "tagName": "v2.0.2",
+        "createdAt": "2024-02-26T12:39:37Z",
+        "publishedAt": "2024-02-26T12:42:05Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-ui-datepicker",
+    "npm": {
+      "downloads": 17214,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3662
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.037,
+    "topicSearchString": "react-native ios android react-native-ui-datetpicker react-native-datetime react-native-datetime-picker react-native-datetpicker react-native-datet-picker react-native-timepicker react-native-time-picker react-native-calendar react-native-daterange datetime datetime-picker datepicker datet-picker timepicker time-picker calendar daterange datetimepicker picker react-native-web",
+    "matchScore": 101,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Malaa-tech/expo-squircle-view",
+    "examples": [
+      "https://github.com/Malaa-tech/expo-squircle-view/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Malaa-tech/expo-squircle-view",
+        "clone": "https://github.com/Malaa-tech/expo-squircle-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-23T12:29:42Z",
+        "createdAt": "2024-01-17T22:24:33Z",
+        "pushedAt": "2024-01-23T12:29:42Z",
+        "forks": 0,
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 17
+      },
+      "name": "expo-squircle-view",
+      "fullName": "Malaa-tech/expo-squircle-view",
+      "description": "A native implementation for figma corner smoothing (Squircle Shape) for react native expo apps ⏹️",
+      "topics": [
+        "react-native",
+        "expo",
+        "expo-squircle-view",
+        "exposquircleview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "0.3.4",
+        "createdAt": "2024-01-23T12:29:42Z",
+        "publishedAt": "2024-01-23T12:24:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "expo-squircle-view",
+    "npm": {
+      "downloads": 174,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 37
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.584,
+    "topicSearchString": "react-native expo expo-squircle-view exposquircleview",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wix/react-native-ui-lib",
+    "examples": [
+      "https://github.com/wix/react-native-ui-lib/tree/master/demo"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/1780255/72094962-3044b280-3320-11ea-8e41-aa83743bafb9.gif",
+      "https://user-images.githubusercontent.com/1780255/72094961-3044b280-3320-11ea-95e2-9aa745c8b07d.gif",
+      "https://user-images.githubusercontent.com/1780255/72094958-2fac1c00-3320-11ea-8f67-9d759cfa4ae1.gif"
+    ],
+    "ios": true,
+    "tvos": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wix/react-native-ui-lib",
+        "clone": "https://github.com/wix/react-native-ui-lib.git",
+        "homepage": "https://wix.github.io/react-native-ui-lib/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T12:48:20Z",
+        "createdAt": "2017-02-08T09:55:18Z",
+        "pushedAt": "2024-05-23T12:48:20Z",
+        "forks": 679,
+        "issues": 77,
+        "subscribers": 326,
+        "stars": 6200
+      },
+      "name": "react-native-ui-lib",
+      "fullName": "wix/react-native-ui-lib",
+      "description": "UI Components Library for React Native",
+      "topics": [
+        "react-native",
+        "ui",
+        "components",
+        "ios",
+        "android",
+        "tools",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "7.22.0",
+        "tagName": "7.22.0",
+        "createdAt": "2024-05-16T08:17:47Z",
+        "publishedAt": "2024-05-16T08:22:37Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-ui-lib",
+    "npm": {
+      "downloads": 323014,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 69995
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.033,
+    "topicSearchString": "react-native ui components ios android tools hacktoberfest",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/andrew-levy/swiftui-react-native",
+    "examples": [
+      "https://github.com/andrew-levy/swiftui-react-native-example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/andrew-levy/swiftui-react-native/master/assets/cover.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/andrew-levy/swiftui-react-native",
+        "clone": "https://github.com/andrew-levy/swiftui-react-native.git",
+        "homepage": "swiftui-react-native.vercel.app"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T21:46:38Z",
+        "createdAt": "2020-11-16T01:04:32Z",
+        "pushedAt": "2024-05-22T21:46:38Z",
+        "forks": 14,
+        "issues": 0,
+        "subscribers": 6,
+        "stars": 382
+      },
+      "name": "swiftui-react-native",
+      "fullName": "andrew-levy/swiftui-react-native",
+      "description": "Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child.",
+      "topics": [
+        "react-native",
+        "swiftui"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "swiftui-react-native",
+    "npm": {
+      "downloads": 502,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 136
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.022,
+    "topicSearchString": "react-native swiftui",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/sendbird/sendbird-uikit-react-native",
+    "npmPkg": "@sendbird/uikit-react-native",
+    "ios": true,
+    "android": true,
+    "examples": [
+      "https://github.com/sendbird/sendbird-uikit-react-native/tree/main/sample",
+      "https://github.com/sendbird/sendbird-uikit-sample-react-native-expo"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sendbird/sendbird-uikit-react-native",
+        "clone": "https://github.com/sendbird/sendbird-uikit-react-native.git",
+        "homepage": "https://sendbird.com/docs/chat/uikit/v3/react-native/overview"
+      },
+      "stats": {
+        "hasIssues": false,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T06:49:08Z",
+        "createdAt": "2022-01-13T02:38:10Z",
+        "pushedAt": "2024-05-20T06:49:08Z",
+        "forks": 36,
+        "issues": 0,
+        "subscribers": 10,
+        "stars": 65
+      },
+      "name": "sendbird-uikit-react-native",
+      "fullName": "sendbird/sendbird-uikit-react-native",
+      "description": "Build chat in minutes with Sendbird UIKit open source code.",
+      "topics": [
+        "chat-sdk",
+        "chat-ui",
+        "chat-api",
+        "api-for-chat",
+        "bard",
+        "chat-api-platform",
+        "chat-platform",
+        "chatbot-api",
+        "chatbot-ui",
+        "chatgpt"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "v3.5.2",
+        "tagName": "v3.5.2",
+        "createdAt": "2024-04-23T05:54:12Z",
+        "publishedAt": "2024-04-23T05:54:15Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 11034,
+      "weekDownloads": 2223,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.048,
+    "topicSearchString": "chat-sdk chat-ui chat-api api-for-chat bard chat-api-platform chat-platform chatbot-api chatbot-ui chatgpt",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/bluesky-social/react-native-uitextview",
+    "examples": [
+      "https://github.com/bluesky-social/react-native-uitextview/tree/main/example"
+    ],
+    "images": [
+      "https://haileyok.com/content/images/size/w1920/2024/01/IMG_4730.jpeg"
+    ],
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bluesky-social/react-native-uitextview",
+        "clone": "https://github.com/bluesky-social/react-native-uitextview.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-26T01:57:24Z",
+        "createdAt": "2024-03-03T22:14:04Z",
+        "pushedAt": "2024-04-26T01:57:24Z",
+        "forks": 7,
+        "issues": 2,
+        "subscribers": 7,
+        "stars": 175
+      },
+      "name": "react-native-uitextview",
+      "fullName": "bluesky-social/react-native-uitextview",
+      "description": "A UITextView implementation for React Native that allows for full text highlighting/selection, native translations, etc.",
+      "topics": [
+        "react-native",
+        "ios",
+        "uitextview",
+        "select",
+        "selection"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.1.7",
+        "tagName": "v1.1.7",
+        "createdAt": "2024-04-26T01:57:27Z",
+        "publishedAt": "2024-04-26T01:57:42Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-uitextview",
+    "npm": {
+      "downloads": 9066,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2232
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.004,
+    "topicSearchString": "react-native ios uitextview select selection",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/imnapo/react-native-cn-quill",
+    "examples": [
+      "https://github.com/imnapo/react-native-cn-quill/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/imnapo/react-native-cn-quill/master/images/quill-editor.jpeg"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/imnapo/react-native-cn-quill",
+        "clone": "https://github.com/imnapo/react-native-cn-quill.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-20T09:37:34Z",
+        "createdAt": "2021-02-10T16:35:13Z",
+        "pushedAt": "2024-04-20T09:37:34Z",
+        "forks": 63,
+        "issues": 53,
+        "subscribers": 4,
+        "stars": 167
+      },
+      "name": "react-native-cn-quill",
+      "fullName": "imnapo/react-native-cn-quill",
+      "description": "Quill rich-text editor for react-native",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "rich-text",
+        "wysiwyg-editor",
+        "quill",
+        "editor"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.7.18",
+        "tagName": "v0.7.18",
+        "createdAt": "2023-06-01T06:40:54Z",
+        "publishedAt": "2023-06-01T06:40:50Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-cn-quill",
+    "npm": {
+      "downloads": 14028,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3305
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.014,
+    "topicSearchString": "react-native ios android rich-text wysiwyg-editor quill editor",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/akveo/react-native-ui-kitten",
+    "npmPkg": "@ui-kitten/components",
+    "examples": [
+      "https://github.com/akveo/kittenTricks"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/akveo/react-native-ui-kitten",
+        "clone": "https://github.com/akveo/react-native-ui-kitten.git",
+        "homepage": "https://akveo.github.io/react-native-ui-kitten/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-05T12:22:19Z",
+        "createdAt": "2016-12-20T08:22:38Z",
+        "pushedAt": "2024-01-05T12:22:19Z",
+        "forks": 929,
+        "issues": 157,
+        "subscribers": 127,
+        "stars": 10150
+      },
+      "name": "react-native-ui-kitten",
+      "fullName": "akveo/react-native-ui-kitten",
+      "description": ":boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode",
+      "topics": [
+        "react",
+        "react-native",
+        "ui-kit"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.3.1",
+        "tagName": "v5.3.1",
+        "createdAt": "2023-04-26T16:13:33Z",
+        "publishedAt": "2023-04-26T16:36:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 31467,
+      "weekDownloads": 7867,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 69,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": 0,
+    "topicSearchString": "react react-native ui-kit",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xcarpentier/rn-tourguide",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "examples": [
+      "https://github.com/xcarpentier/rn-tourguide/blob/master/App.tsx"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xcarpentier/rn-tourguide",
+        "clone": "https://github.com/xcarpentier/rn-tourguide.git",
+        "homepage": "https://xcarpentier.github.io/rn-tourguide/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-12-21T13:03:00Z",
+        "createdAt": "2020-05-25T22:50:59Z",
+        "pushedAt": "2023-12-21T13:03:00Z",
+        "forks": 176,
+        "issues": 47,
+        "subscribers": 12,
+        "stars": 689
+      },
+      "name": "rn-tourguide",
+      "fullName": "xcarpentier/rn-tourguide",
+      "description": "🚩Make an interactive step by step tour guide for your react-native app (a rewrite of react-native-copilot)",
+      "topics": [
+        "react-native",
+        "react-native-joyride",
+        "react",
+        "copilot",
+        "intro.js",
+        "intro",
+        "tourguide",
+        "svg-animations",
+        "morphing",
+        "flubber",
+        "tutorial",
+        "mask-svg-path",
+        "rn-tourguide",
+        "tooltip",
+        "expo"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "v3.3.0",
+        "tagName": "v3.3.0",
+        "createdAt": "2022-07-04T14:20:31Z",
+        "publishedAt": "2022-08-30T09:05:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "rn-tourguide",
+    "npm": {
+      "downloads": 15657,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3939
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": 0.002,
+    "topicSearchString": "react-native react-native-joyride react copilot intro.js intro tourguide svg-animations morphing flubber tutorial mask-svg-path rn-tourguide tooltip expo",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/flyerhq/react-native-chat-ui",
+    "npmPkg": "@flyerhq/react-native-chat-ui",
+    "examples": [
+      "https://github.com/flyerhq/react-native-chat-ui/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/14123304/121787953-a6121500-cbc9-11eb-83ff-db0435d2cd57.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/flyerhq/react-native-chat-ui",
+        "clone": "https://github.com/flyerhq/react-native-chat-ui.git",
+        "homepage": "https://flyer.chat"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-09T16:54:40Z",
+        "createdAt": "2020-06-06T00:34:29Z",
+        "pushedAt": "2023-09-09T16:54:40Z",
+        "forks": 76,
+        "issues": 14,
+        "subscribers": 6,
+        "stars": 339
+      },
+      "name": "react-native-chat-ui",
+      "fullName": "flyerhq/react-native-chat-ui",
+      "description": "Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.",
+      "topics": [
+        "chat",
+        "ui",
+        "react-native",
+        "react-native-component",
+        "ios",
+        "android",
+        "typescript"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "v1.4.3",
+        "tagName": "v1.4.3",
+        "createdAt": "2021-10-24T14:53:40Z",
+        "publishedAt": "2021-10-24T14:55:39Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3298,
+      "weekDownloads": 916,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0.028,
+    "topicSearchString": "chat ui react-native react-native-component ios android typescript",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/tienphaw/react-native-figma-squircle",
+    "examples": [
+      "https://github.com/tienphaw/react-native-figma-squircle/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/tienphaw/react-native-figma-squircle/main/demo.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/phamfoo/react-native-figma-squircle",
+        "clone": "https://github.com/phamfoo/react-native-figma-squircle.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-07-22T03:45:53Z",
+        "createdAt": "2021-06-11T13:31:17Z",
+        "pushedAt": "2023-07-22T03:45:53Z",
+        "forks": 14,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 311
+      },
+      "name": "react-native-figma-squircle",
+      "fullName": "phamfoo/react-native-figma-squircle",
+      "description": "Figma-flavored squircles for React Native",
+      "topics": [
+        "squircle",
+        "react",
+        "react-native",
+        "figma",
+        "expo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.3.4",
+        "createdAt": "2023-07-22T03:45:56Z",
+        "publishedAt": "2023-07-22T03:47:16Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-figma-squircle",
+    "npm": {
+      "downloads": 14318,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3413
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.012,
+    "topicSearchString": "squircle react react-native figma expo",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/pettiboy/react-native-ui-buttons",
+    "examples": [
+      "https://github.com/pettiboy/react-native-ui-buttons/tree/main/TestApp"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/pettiboy/react-native-ui-buttons/main/TestApp/assets/ButtonOutline.png",
+      "https://raw.githubusercontent.com/pettiboy/react-native-ui-buttons/main/TestApp/assets/ButtonSolid.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/pettiboy/react-native-ui-buttons",
+        "clone": "https://github.com/pettiboy/react-native-ui-buttons.git",
+        "homepage": "https://www.npmjs.com/package/react-native-ui-buttons"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-07-20T16:24:37Z",
+        "createdAt": "2021-10-10T18:21:00Z",
+        "pushedAt": "2022-07-20T16:24:37Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 9
+      },
+      "name": "react-native-ui-buttons",
+      "fullName": "pettiboy/react-native-ui-buttons",
+      "description": "Functional, simple and customizable UI buttons for react native. Also contains loading functionality and automatically changes color for dual tone buttons. TypeScript support.",
+      "topics": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "button",
+        "dual-tone-button",
+        "buttons",
+        "loading-support",
+        "dual-tone-buttons",
+        "loading-indicator"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.1.1",
+        "tagName": "v2.1.1",
+        "createdAt": "2021-10-12T04:38:02Z",
+        "publishedAt": "2021-10-12T04:55:46Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-ui-buttons",
+    "npm": {
+      "downloads": 94,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 17
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.614,
+    "topicSearchString": "react-native react-component react-native-component react mobile ios android ui button dual-tone-button buttons loading-support dual-tone-buttons loading-indicator",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/nidorx/react-native-ui-blueprint",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/nidorx/react-native-ui-blueprint",
+        "clone": "https://github.com/nidorx/react-native-ui-blueprint.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-05-24T18:27:19Z",
+        "createdAt": "2019-09-11T23:48:54Z",
+        "pushedAt": "2022-05-24T18:27:19Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 4,
+        "stars": 60
+      },
+      "name": "react-native-ui-blueprint",
+      "fullName": "nidorx/react-native-ui-blueprint",
+      "description": "No more wrong margins, text sizes and many other silly visual mistakes. React Native UI Blueprint allow to you implements a pixel-perfect design.",
+      "topics": [
+        "ruler",
+        "pixel-perfect",
+        "grid",
+        "guides",
+        "designer",
+        "mobile",
+        "ui",
+        "ux",
+        "dev-tools",
+        "developer-tools",
+        "react-native",
+        "react-native-pixel",
+        "react-native-pixel-perfect",
+        "react-native-grid",
+        "react-native-guides",
+        "react-native-dev-tools",
+        "react-native-developer-tools",
+        "react-native-ui",
+        "react-native-ux"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-ui-blueprint",
+    "npm": {
+      "downloads": 97,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 8
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.615,
+    "topicSearchString": "ruler pixel-perfect grid guides designer mobile ui ux dev-tools developer-tools react-native react-native-pixel react-native-pixel-perfect react-native-grid react-native-guides react-native-dev-tools react-native-developer-tools react-native-ui react-native-ux",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-ui-kit/expo-ui-kit",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-ui-kit/expo-ui-kit",
+        "clone": "https://github.com/react-ui-kit/expo-ui-kit.git",
+        "homepage": "http://expo-ui-kit.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-06-28T07:41:11Z",
+        "createdAt": "2019-03-24T14:21:18Z",
+        "pushedAt": "2021-06-28T07:41:11Z",
+        "forks": 24,
+        "issues": 7,
+        "subscribers": 3,
+        "stars": 94
+      },
+      "name": "expo-ui-kit",
+      "fullName": "react-ui-kit/expo-ui-kit",
+      "description": "expo-ui-kit - a components based React-Native UI Kit",
+      "topics": [
+        "expo",
+        "react-native",
+        "react-ui-kit",
+        "expo-ui-kit",
+        "react-native-component",
+        "ui-kit",
+        "ui-kit-framework",
+        "theme",
+        "predefined-props",
+        "rgba"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "expo-ui-kit",
+    "npm": {
+      "downloads": 71,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 13
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.506,
+    "topicSearchString": "expo react-native react-ui-kit expo-ui-kit react-native-component ui-kit ui-kit-framework theme predefined-props rgba",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/RafaelAugustoS/react-native-popup-ui",
+    "npmPkg": "popup-ui",
+    "examples": [
+      "https://github.com/RafaelAugustoS/react-native-popup-ui/tree/master/examples"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rafaelaugustos/react-native-popup-ui",
+        "clone": "https://github.com/rafaelaugustos/react-native-popup-ui.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-03-30T16:04:12Z",
+        "createdAt": "2019-05-08T12:31:26Z",
+        "pushedAt": "2021-03-30T16:04:12Z",
+        "forks": 63,
+        "issues": 11,
+        "subscribers": 11,
+        "stars": 400
+      },
+      "name": "react-native-popup-ui",
+      "fullName": "rafaelaugustos/react-native-popup-ui",
+      "description": "A simple and fully customizable React Native component that implements a popup UI.",
+      "topics": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "popup",
+        "popup-ui",
+        "popup-ui-design"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "1.0.5",
+        "tagName": "1.0.5",
+        "createdAt": "2019-09-20T18:42:03Z",
+        "publishedAt": "2019-09-20T18:55:04Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 742,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 108
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.104,
+    "topicSearchString": "react-native react-component react-native-component react mobile ios android ui popup popup-ui popup-ui-design",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/avocode/nachos-ui",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/nachos-ui/nachos-ui",
+        "clone": "https://github.com/nachos-ui/nachos-ui.git",
+        "homepage": "https://avocode.com/nachos-ui/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2018-08-15T19:47:46Z",
+        "createdAt": "2017-01-30T14:22:09Z",
+        "pushedAt": "2018-08-15T19:47:46Z",
+        "forks": 119,
+        "issues": 13,
+        "subscribers": 34,
+        "stars": 2069
+      },
+      "name": "nachos-ui",
+      "fullName": "nachos-ui/nachos-ui",
+      "description": "Nachos UI is a React Native component library.",
+      "topics": [
+        "react",
+        "react-component",
+        "react-native",
+        "ui-kit",
+        "uikit",
+        "react-native-web",
+        "web"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "nachos-ui",
+    "npm": {
+      "downloads": 173,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 40
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.467,
+    "topicSearchString": "react react-component react-native ui-kit uikit react-native-web web",
+    "matchScore": 111,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/draftbit/react-native-jigsaw/tree/master/packages/ui",
+    "npmPkg": "@draftbit/ui",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/draftbit/react-native-jigsaw",
+        "clone": "https://github.com/draftbit/react-native-jigsaw.git",
+        "homepage": "https://github.com/draftbit/react-native-jigsaw#readme"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-19T13:57:39Z",
+        "createdAt": "2020-04-01T21:32:42Z",
+        "pushedAt": "2024-05-19T13:57:39Z",
+        "forks": 30,
+        "issues": 1,
+        "subscribers": 5,
+        "stars": 93
+      },
+      "name": "@draftbit/ui",
+      "fullName": "draftbit/react-native-jigsaw",
+      "description": "Draftbit UI Library",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 45383,
+      "weekDownloads": 13202,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.041,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-system-ui",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev/versions/latest/sdk/system-ui"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-02T23:31:32Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-02T23:31:32Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29828
+      },
+      "name": "expo-system-ui",
+      "fullName": "expo/expo",
+      "description": "Interact with system UI elements",
+      "topics": [
+        "react-native",
+        "expo",
+        "background-color",
+        "user-interface",
+        "appearance"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "expo-system-ui",
+    "npm": {
+      "downloads": 517085,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 127134
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.004,
+    "topicSearchString": "react-native expo background-color user-interface appearance",
+    "matchScore": 110,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ExtrieveTechnologies/QuickCapture_react_native",
+    "npmPkg": "@extrieve_technologies/quickcapture_react_native",
+    "examples": [
+      "https://github.com/ExtrieveTechnologies/QuickCapture_react_native/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ExtrieveTechnologies/QuickCapture_react_native",
+        "clone": "https://github.com/ExtrieveTechnologies/QuickCapture_react_native.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-31T19:06:05Z",
+        "createdAt": "2024-03-29T09:50:22Z",
+        "pushedAt": "2024-03-31T19:06:05Z",
+        "forks": 0,
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 0
+      },
+      "name": "QuickCapture_react_native",
+      "fullName": "ExtrieveTechnologies/QuickCapture_react_native",
+      "description": "QuickCapture SDK port for react-native",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 98,
+      "weekDownloads": 16,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.632,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/dimaportenko/react-native-liquid-gauge",
+    "examples": [
+      "https://github.com/dimaportenko/react-native-liquid-gauge/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/dimaportenko/react-native-liquid-gauge/main/docs/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dimaportenko/react-native-liquid-gauge",
+        "clone": "https://github.com/dimaportenko/react-native-liquid-gauge.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-11-16T21:23:37Z",
+        "createdAt": "2023-10-18T07:34:23Z",
+        "pushedAt": "2023-11-16T21:23:37Z",
+        "forks": 2,
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 13
+      },
+      "name": "react-native-liquid-gauge",
+      "fullName": "dimaportenko/react-native-liquid-gauge",
+      "description": "Unveiling the React Native Liquid Gauge, a charming and highly customizable UI component engineered to represent progress in a visually intuitive manner. This library is built on top of react-native-skia, ensuring smooth rendering and high performance across different platforms while making it easier to integrate within your React Native projects.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.1.2",
+        "tagName": "v0.1.2",
+        "createdAt": "2023-10-20T08:01:20Z",
+        "publishedAt": "2023-10-20T08:01:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-liquid-gauge",
+    "npm": {
+      "downloads": 74,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 22
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.496,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jordanbyron/react-native-quick-actions",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jordanbyron/react-native-quick-actions",
+        "clone": "https://github.com/jordanbyron/react-native-quick-actions.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2020-05-15T13:01:17Z",
+        "createdAt": "2015-09-26T13:52:58Z",
+        "pushedAt": "2020-05-15T13:01:17Z",
+        "forks": 84,
+        "issues": 22,
+        "subscribers": 19,
+        "stars": 1050
+      },
+      "name": "react-native-quick-actions",
+      "fullName": "jordanbyron/react-native-quick-actions",
+      "description": "A react-native interface for Touch 3D home screen quick actions",
+      "topics": [],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Version 0.3.13",
+        "tagName": "0.3.13",
+        "createdAt": "2019-11-24T15:17:36Z",
+        "publishedAt": "2019-11-24T15:55:05Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-quick-actions",
+    "npm": {
+      "downloads": 32922,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 8812
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": 0.018,
+    "topicSearchString": "",
+    "matchScore": 110,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/shoutem/ui",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "@shoutem/ui",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/shoutem/ui",
+        "clone": "https://github.com/shoutem/ui.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T11:13:52Z",
+        "createdAt": "2016-08-08T15:26:08Z",
+        "pushedAt": "2024-05-22T11:13:52Z",
+        "forks": 440,
+        "issues": 103,
+        "subscribers": 92,
+        "stars": 4877
+      },
+      "name": "ui",
+      "fullName": "shoutem/ui",
+      "description": "Customizable set of components for React Native applications",
+      "topics": [
+        "shoutem-ui",
+        "react-native",
+        "ios",
+        "android",
+        "native-components",
+        "shoutem"
+      ],
+      "license": {
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "url": "http://choosealicense.com/licenses/bsd-3-clause/",
+        "id": "MDc6TGljZW5zZTU=",
+        "key": "bsd-3-clause",
+        "spdxId": "BSD-3-Clause"
+      },
+      "lastRelease": {
+        "name": "v6.1.2 - Add fontName fallback for resolveFontFamily",
+        "tagName": "v6.1.2",
+        "createdAt": "2023-01-10T14:14:50Z",
+        "publishedAt": "2023-01-10T14:17:30Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 10104,
+      "weekDownloads": 2066,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.046,
+    "topicSearchString": "shoutem-ui react-native ios android native-components shoutem",
+    "matchScore": 101,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/stackbuilders/react-native-spotlight-tour",
+    "npmPkg": "@stackbuilders/react-native-spotlight-tour",
+    "examples": [
+      "https://github.com/stackbuilders/react-native-spotlight-tour/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/stackbuilders/react-native-spotlight-tour/main/docs/rnst-bounce.gif",
+      "https://raw.githubusercontent.com/stackbuilders/react-native-spotlight-tour/main/docs/rnst-slide.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/stackbuilders/react-native-spotlight-tour",
+        "clone": "https://github.com/stackbuilders/react-native-spotlight-tour.git",
+        "homepage": "https://stackbuilders.github.io/react-native-spotlight-tour/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-04T15:59:27Z",
+        "createdAt": "2020-08-06T16:06:02Z",
+        "pushedAt": "2024-04-04T15:59:27Z",
+        "forks": 24,
+        "issues": 10,
+        "subscribers": 24,
+        "stars": 179
+      },
+      "name": "react-native-spotlight-tour",
+      "fullName": "stackbuilders/react-native-spotlight-tour",
+      "description": "A highly customizable tour feature with an awesome spotlight effect",
+      "topics": [
+        "react-native",
+        "tour",
+        "spotlight",
+        "hacktoberfest",
+        "customizable",
+        "android",
+        "ios",
+        "step-by-step",
+        "user-guide",
+        "app-tour"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.0.1",
+        "tagName": "v3.0.1",
+        "createdAt": "2023-09-22T22:44:15Z",
+        "publishedAt": "2023-09-22T22:53:10Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 562,
+      "weekDownloads": 185,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.08,
+    "topicSearchString": "react-native tour spotlight hacktoberfest customizable android ios step-by-step user-guide app-tour",
+    "matchScore": 101,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xotahal/react-native-material-ui",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xotahal/react-native-material-ui",
+        "clone": "https://github.com/xotahal/react-native-material-ui.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-04-19T21:39:12Z",
+        "createdAt": "2016-03-24T15:40:53Z",
+        "pushedAt": "2019-04-19T21:39:12Z",
+        "forks": 587,
+        "issues": 168,
+        "subscribers": 88,
+        "stars": 3781
+      },
+      "name": "react-native-material-ui",
+      "fullName": "xotahal/react-native-material-ui",
+      "description": "Highly customizable material design components for React Native",
+      "topics": [
+        "react-native",
+        "material",
+        "design",
+        "ui",
+        "components",
+        "react-component",
+        "android",
+        "material-design",
+        "ui-kit",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.0-alpha.1@develop",
+        "tagName": "v2.0.0-alpha.1@develop",
+        "createdAt": "2019-04-20T05:01:02Z",
+        "publishedAt": "2019-04-20T05:02:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-material-ui",
+    "npm": {
+      "downloads": 2095,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 517
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.003,
+    "topicSearchString": "react-native material design ui components react-component android material-design ui-kit ios",
+    "matchScore": 101,
+    "category": [
+      "ui"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/microsoft/fluentui-react-native",
+    "npmPkg": "@fluentui/react-native",
+    "ios": true,
+    "expoGo": true,
+    "windows": true,
+    "macos": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/microsoft/fluentui-react-native",
+        "clone": "https://github.com/microsoft/fluentui-react-native.git",
+        "homepage": "https://developer.microsoft.com/fluentui"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2024-05-23T15:25:07Z",
+        "createdAt": "2019-07-10T20:27:19Z",
+        "pushedAt": "2024-05-23T15:25:07Z",
+        "forks": 153,
+        "issues": 66,
+        "subscribers": 46,
+        "stars": 1181
+      },
+      "name": "fluentui-react-native",
+      "fullName": "microsoft/fluentui-react-native",
+      "description": "A react-native component library that implements the Fluent Design System.",
+      "topics": [],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 604,
+      "weekDownloads": 91,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.099,
+    "topicSearchString": "",
+    "matchScore": 100,
+    "category": [
+      "ui"
+    ]
+  }
+]

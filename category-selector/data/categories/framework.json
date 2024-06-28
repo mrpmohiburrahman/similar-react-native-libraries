@@ -1,0 +1,487 @@
+[
+  {
+    "githubUrl": "https://github.com/facebook/fbt",
+    "npmPkg": "react-native-fbt",
+    "nameOverride": "fbt",
+    "examples": [
+      "https://github.com/facebook/fbt/tree/rn-demo-app",
+      "https://github.com/facebook/fbt/tree/live-demo-app"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/facebook/fbt",
+        "clone": "https://github.com/facebook/fbt.git",
+        "homepage": "https://facebook.github.io/fbt"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T00:47:44Z",
+        "createdAt": "2018-08-01T17:39:49Z",
+        "pushedAt": "2024-05-24T00:47:44Z",
+        "forks": 176,
+        "issues": 31,
+        "subscribers": 44,
+        "stars": 3848
+      },
+      "name": "fbt",
+      "fullName": "facebook/fbt",
+      "description": "A JavaScript Internationalization Framework",
+      "topics": [
+        "javascript",
+        "internationalization",
+        "i18n",
+        "framework"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 60,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 20
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.367,
+    "topicSearchString": "javascript internationalization i18n framework",
+    "matchScore": 11,
+    "category": [
+      "framework"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wix/Detox",
+    "npmPkg": "detox",
+    "nameOverride": "Detox",
+    "examples": [
+      "https://github.com/wix/Detox/tree/master/examples/demo-react-native"
+    ],
+    "images": [
+      "https://github.com/wix/Detox/raw/master/docs/img/Detox.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wix/Detox",
+        "clone": "https://github.com/wix/Detox.git",
+        "homepage": "https://wix.github.io/Detox/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T14:41:32Z",
+        "createdAt": "2016-06-15T11:58:01Z",
+        "pushedAt": "2024-05-22T14:41:32Z",
+        "forks": 1876,
+        "issues": 259,
+        "subscribers": 377,
+        "stars": 10997
+      },
+      "name": "Detox",
+      "fullName": "wix/Detox",
+      "description": "Gray box end-to-end testing and automation framework for mobile apps",
+      "topics": [
+        "e2e-tests",
+        "ios",
+        "react-native",
+        "android",
+        "testing",
+        "javascript",
+        "automation",
+        "testing-tools",
+        "test-automation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "20.22.2",
+        "tagName": "20.22.2",
+        "createdAt": "2024-05-22T14:41:32Z",
+        "publishedAt": "2024-05-22T15:35:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 923897,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 210776
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.022,
+    "topicSearchString": "e2e-tests ios react-native android testing javascript automation testing-tools test-automation",
+    "matchScore": 10,
+    "category": [
+      "framework"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/galio-org/galio",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "galio-framework",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/galio-org/galio",
+        "clone": "https://github.com/galio-org/galio.git",
+        "homepage": "https://galio.io/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-03-30T10:42:35Z",
+        "createdAt": "2018-06-17T16:14:11Z",
+        "pushedAt": "2022-03-30T10:42:35Z",
+        "forks": 315,
+        "issues": 44,
+        "subscribers": 55,
+        "stars": 3111
+      },
+      "name": "galio",
+      "fullName": "galio-org/galio",
+      "description": "Galio is a beautifully designed, Free and Open Source React Native Framework",
+      "topics": [
+        "android",
+        "ios",
+        "react-native",
+        "component-library",
+        "ui-kit",
+        "bootstrap",
+        "react",
+        "expo",
+        "galio",
+        "mobile-development",
+        "reactnative",
+        "react-native-app",
+        "react-native-ui"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.8.1",
+        "tagName": "v0.8.1",
+        "createdAt": "2022-03-30T11:06:58Z",
+        "publishedAt": "2022-03-30T11:08:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 3429,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 680
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.052,
+    "topicSearchString": "android ios react-native component-library ui-kit bootstrap react expo galio mobile-development reactnative react-native-app react-native-ui",
+    "matchScore": 110,
+    "category": [
+      "framework"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/OsmiCSX/osmicsx",
+    "examples": [
+      "https://snack.expo.dev/@devoresyah/osmiprovider-example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/OsmiCSX/osmicsx",
+        "clone": "https://github.com/OsmiCSX/osmicsx.git",
+        "homepage": "https://osmicsx.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-10-30T14:44:37Z",
+        "createdAt": "2020-03-26T06:58:36Z",
+        "pushedAt": "2023-10-30T14:44:37Z",
+        "forks": 27,
+        "issues": 2,
+        "subscribers": 7,
+        "stars": 270
+      },
+      "name": "osmicsx",
+      "fullName": "OsmiCSX/osmicsx",
+      "description": "An utility style framework for React Native",
+      "topics": [
+        "style",
+        "react-native",
+        "framework",
+        "javascript",
+        "utility",
+        "frontend",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release Candidate v2.0.0-rc.2",
+        "tagName": "v2.0.0-rc.2",
+        "createdAt": "2024-03-12T14:15:01Z",
+        "publishedAt": "2024-03-12T14:16:24Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "osmicsx",
+    "npm": {
+      "downloads": 78,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 12
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.54,
+    "topicSearchString": "style react-native framework javascript utility frontend hacktoberfest",
+    "matchScore": 11,
+    "category": [
+      "framework"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-webrtc/react-native-callkeep",
+    "ios": true,
+    "android": true,
+    "examples": [
+      "https://github.com/wazo-pbx/wazo-react-native-demo"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/react-native-webrtc/react-native-callkeep/master/docs/pictures/call-kit.png",
+      "https://raw.githubusercontent.com/react-native-webrtc/react-native-callkeep/master/docs/pictures/connection-service.jpg"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-webrtc/react-native-callkeep",
+        "clone": "https://github.com/react-native-webrtc/react-native-callkeep.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-23T17:52:23Z",
+        "createdAt": "2018-12-07T14:33:26Z",
+        "pushedAt": "2024-04-23T17:52:23Z",
+        "forks": 404,
+        "issues": 262,
+        "subscribers": 28,
+        "stars": 874
+      },
+      "name": "react-native-callkeep",
+      "fullName": "react-native-webrtc/react-native-callkeep",
+      "description": "iOS CallKit framework and Android ConnectionService for React Native",
+      "topics": [
+        "callkit",
+        "connectionservice",
+        "ios",
+        "android",
+        "react-native",
+        "voip",
+        "webrtc",
+        "connection-service",
+        "call-kit"
+      ],
+      "license": {
+        "key": "isc",
+        "name": "ISC License",
+        "spdxId": "ISC",
+        "url": "http://choosealicense.com/licenses/isc/",
+        "id": "MDc6TGljZW5zZTEw"
+      },
+      "lastRelease": {
+        "name": "4.3.13",
+        "tagName": "4.3.13",
+        "createdAt": "2024-04-23T17:52:23Z",
+        "publishedAt": "2024-04-23T17:53:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-callkeep",
+    "npm": {
+      "downloads": 25771,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5259
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": -0.046,
+    "topicSearchString": "callkit connectionservice ios android react-native voip webrtc connection-service call-kit",
+    "matchScore": 10,
+    "category": [
+      "framework"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/a-tokyo/react-native-flex-grid",
+    "images": [
+      "https://i.imgur.com/VWFX2r6.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/a-tokyo/react-native-flex-grid",
+        "clone": "https://github.com/a-tokyo/react-native-flex-grid.git",
+        "homepage": "https://a-tokyo.github.io/react-native-flex-grid"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-11T13:54:32Z",
+        "createdAt": "2022-12-27T02:20:18Z",
+        "pushedAt": "2024-04-11T13:54:32Z",
+        "forks": 5,
+        "issues": 1,
+        "subscribers": 3,
+        "stars": 34
+      },
+      "name": "react-native-flex-grid",
+      "fullName": "a-tokyo/react-native-flex-grid",
+      "description": "🎨 A react-native flexbox grid similar to bootstap's web grid.",
+      "topics": [
+        "react",
+        "react-native",
+        "react-native-web",
+        "grid",
+        "layout",
+        "flex",
+        "flexbox",
+        "design",
+        "style",
+        "bootstrap",
+        "12-columns",
+        "n-columns",
+        "demo",
+        "storybook",
+        "typescript",
+        "flowtype",
+        "expo",
+        "framework",
+        "customizable",
+        "configurable",
+        "zero-dependency"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.0.4",
+        "tagName": "1.0.4",
+        "createdAt": "2024-02-24T04:04:23Z",
+        "publishedAt": "2024-02-24T04:07:11Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-flex-grid",
+    "npm": {
+      "downloads": 1063,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 376
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.104,
+    "topicSearchString": "react react-native react-native-web grid layout flex flexbox design style bootstrap 12-columns n-columns demo storybook typescript flowtype expo framework customizable configurable zero-dependency",
+    "matchScore": 1,
+    "category": [
+      "framework"
+    ]
+  }
+]

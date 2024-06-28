@@ -1,0 +1,592 @@
+[
+  {
+    "githubUrl": "https://github.com/stripe/stripe-react-native",
+    "npmPkg": "@stripe/stripe-react-native",
+    "examples": [
+      "https://github.com/stripe/stripe-react-native/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/stripe/stripe-react-native",
+        "clone": "https://github.com/stripe/stripe-react-native.git",
+        "homepage": "https://stripe.dev/stripe-react-native"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T19:29:34Z",
+        "createdAt": "2020-12-16T23:51:01Z",
+        "pushedAt": "2024-05-24T19:29:34Z",
+        "forks": 249,
+        "issues": 158,
+        "subscribers": 50,
+        "stars": 1209
+      },
+      "name": "stripe-react-native",
+      "fullName": "stripe/stripe-react-native",
+      "description": "React Native library for Stripe.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "stripe",
+        "payments"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.38.0 - 2024-05-24",
+        "tagName": "v0.38.0",
+        "createdAt": "2024-05-24T19:29:39Z",
+        "publishedAt": "2024-05-24T19:34:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 295448,
+      "weekDownloads": 66095,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "topicSearchString": "react-native ios android stripe payments",
+    "matchScore": 1,
+    "category": [
+      "payments"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Agaweb/react-native-stripe",
+    "npmPkg": "@agaweb/react-native-stripe",
+    "examples": [
+      "https://github.com/Agaweb/react-native-stripe/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Agaweb/react-native-stripe",
+        "clone": "https://github.com/Agaweb/react-native-stripe.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-09-27T14:38:17Z",
+        "createdAt": "2020-11-02T13:50:44Z",
+        "pushedAt": "2022-09-27T14:38:17Z",
+        "forks": 6,
+        "issues": 1,
+        "subscribers": 4,
+        "stars": 23
+      },
+      "name": "react-native-stripe",
+      "fullName": "Agaweb/react-native-stripe",
+      "description": "Unofficial integration of the payment APIs from the Stripe SDK on react-native",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "stripe",
+        "stripe-payments",
+        "stripe-payment"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.5.6",
+        "tagName": "v0.5.6",
+        "createdAt": "2022-09-27T14:38:17Z",
+        "publishedAt": "2022-09-27T14:45:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 73,
+      "weekDownloads": 13,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.618,
+    "topicSearchString": "react-native ios android stripe stripe-payments stripe-payment",
+    "matchScore": 1,
+    "category": [
+      "payments"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-payments-stripe",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2021-09-10T20:30:58Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2021-09-10T20:30:58Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29828
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "expo-payments-stripe",
+    "npm": {
+      "downloads": 1762,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 379
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.035,
+    "topicSearchString": "",
+    "matchScore": 100,
+    "category": [
+      "payments"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rnw-community/rnw-community/tree/master/packages/react-native-payments",
+    "npmPkg": "@rnw-community/react-native-payments",
+    "examples": [
+      "https://github.com/rnw-community/rnw-community/tree/master/packages/react-native-payments-example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rnw-community/rnw-community",
+        "clone": "https://github.com/rnw-community/rnw-community.git",
+        "homepage": "https://github.com/rnw-community/rnw-community/tree/master/packages/react-native-payments"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T06:04:56Z",
+        "createdAt": "2020-04-20T07:38:09Z",
+        "pushedAt": "2024-05-20T06:04:56Z",
+        "forks": 5,
+        "issues": 3,
+        "subscribers": 4,
+        "stars": 37
+      },
+      "name": "@rnw-community/react-native-payments",
+      "fullName": "rnw-community/rnw-community",
+      "description": "React Native Payments",
+      "topics": [
+        "react",
+        "react-native",
+        "apple-pay",
+        "google-pay",
+        "payment-request",
+        "payments",
+        "android",
+        "ios",
+        "android-pay",
+        "apple-pay",
+        "payment-intents",
+        "cross-platform",
+        "react-native-payments"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npm": {
+      "downloads": 12806,
+      "weekDownloads": 3083,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.009,
+    "topicSearchString": "react react-native apple-pay google-pay payment-request payments android ios android-pay apple-pay payment-intents cross-platform react-native-payments",
+    "matchScore": 111,
+    "category": [
+      "payments"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/naoufal/react-native-payments",
+    "examples": [
+      "https://github.com/freeman-industries/react-native-payments-example-ios"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/1627824/27758096-9fc6bf9a-5dc1-11e7-9d8f-b2d409302fc7.gif",
+      "https://user-images.githubusercontent.com/1627824/30039983-d75d1b3e-91d8-11e7-9ac9-71d2ed12958c.png"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/naoufal/react-native-payments",
+        "clone": "https://github.com/naoufal/react-native-payments.git",
+        "homepage": "https://www.npmjs.com/package/react-native-payments"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-22T11:02:43Z",
+        "createdAt": "2015-06-04T15:58:22Z",
+        "pushedAt": "2024-03-22T11:02:43Z",
+        "forks": 325,
+        "issues": 144,
+        "subscribers": 27,
+        "stars": 1574
+      },
+      "name": "react-native-payments",
+      "fullName": "naoufal/react-native-payments",
+      "description": "Accept Payments with Apple Pay and Android Pay using the Payment Request API.",
+      "topics": [
+        "react",
+        "react-native",
+        "apple-pay",
+        "stripe",
+        "braintree",
+        "payments",
+        "payment-request",
+        "sca",
+        "strong-customer-authentication",
+        "2-factor",
+        "2fa",
+        "android",
+        "ios",
+        "payment-intents",
+        "cross-platform"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "v0.8.4",
+        "tagName": "0.8.4",
+        "createdAt": "2021-05-25T10:58:20Z",
+        "publishedAt": "2021-05-25T11:02:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-payments",
+    "npm": {
+      "downloads": 19127,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 4317
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": -0.024,
+    "topicSearchString": "react react-native apple-pay stripe braintree payments payment-request sca strong-customer-authentication 2-factor 2fa android ios payment-intents cross-platform",
+    "matchScore": 111,
+    "category": [
+      "payments"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/bamlab/react-native-braintree-payments-drop-in",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bamlab/react-native-braintree-payments-drop-in",
+        "clone": "https://github.com/bamlab/react-native-braintree-payments-drop-in.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-10-28T11:18:23Z",
+        "createdAt": "2018-03-01T15:06:13Z",
+        "pushedAt": "2019-10-28T11:18:23Z",
+        "forks": 26,
+        "issues": 10,
+        "subscribers": 7,
+        "stars": 35
+      },
+      "name": "react-native-braintree-payments-drop-in",
+      "fullName": "bamlab/react-native-braintree-payments-drop-in",
+      "description": "React Native integration of Braintree Drop-in",
+      "topics": [
+        "react-native",
+        "braintree",
+        "payments",
+        "drop-in"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.1.0",
+        "tagName": "v1.1.0",
+        "createdAt": "2019-10-15T09:37:47Z",
+        "publishedAt": "2019-10-15T09:38:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-braintree-payments-drop-in",
+    "npm": {
+      "downloads": 83,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 16
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.498,
+    "topicSearchString": "react-native braintree payments drop-in",
+    "matchScore": 101,
+    "category": [
+      "payments"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/chirag04/react-native-in-app-utils",
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/chirag04/react-native-in-app-utils",
+        "clone": "https://github.com/chirag04/react-native-in-app-utils.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-06-09T16:30:45Z",
+        "createdAt": "2015-06-12T16:44:13Z",
+        "pushedAt": "2021-06-09T16:30:45Z",
+        "forks": 160,
+        "issues": 77,
+        "subscribers": 20,
+        "stars": 892
+      },
+      "name": "react-native-in-app-utils",
+      "fullName": "chirag04/react-native-in-app-utils",
+      "description": "A react-native wrapper for handling in-app payments",
+      "topics": [
+        "react",
+        "react-native",
+        "react-component",
+        "ios",
+        "in-app",
+        "payments",
+        "purchases"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v6.0.0",
+        "createdAt": "2017-09-27T16:12:38Z",
+        "publishedAt": "2017-09-27T16:16:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-in-app-utils",
+    "npm": {
+      "downloads": 2365,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 492
+    },
+    "score": 31,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.042,
+    "topicSearchString": "react react-native react-component ios in-app payments purchases",
+    "matchScore": 11,
+    "category": [
+      "payments"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ekreative/react-native-braintree",
+    "npmPkg": "@ekreative/react-native-braintree",
+    "examples": [
+      "https://github.com/ekreative/react-native-braintree/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ekreative/react-native-braintree",
+        "clone": "https://github.com/ekreative/react-native-braintree.git",
+        "homepage": "https://github.com/ekreative/react-native-braintree"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-21T12:56:13Z",
+        "createdAt": "2021-05-25T11:11:01Z",
+        "pushedAt": "2024-02-21T12:56:13Z",
+        "forks": 19,
+        "issues": 0,
+        "subscribers": 5,
+        "stars": 41
+      },
+      "name": "react-native-braintree",
+      "fullName": "ekreative/react-native-braintree",
+      "description": "A react native interface for integrating payments using Braintree",
+      "topics": [
+        "react-native",
+        "android",
+        "braintree",
+        "hacktoberfest",
+        "ios"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "v2.5.2",
+        "tagName": "v2.5.2",
+        "createdAt": "2024-02-21T13:21:16Z",
+        "publishedAt": "2024-03-11T18:46:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 2304,
+      "weekDownloads": 559,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.007,
+    "topicSearchString": "react-native android braintree hacktoberfest ios",
+    "matchScore": 10,
+    "category": [
+      "payments"
+    ]
+  }
+]

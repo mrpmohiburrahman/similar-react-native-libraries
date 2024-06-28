@@ -1,0 +1,82 @@
+[
+  {
+    "githubUrl": "https://github.com/gmsgowtham/react-native-marked",
+    "examples": [
+      "https://github.com/gmsgowtham/react-native-marked/tree/main/examples/react-native-marked-sample"
+    ],
+    "images": [
+      "https://github.com/gmsgowtham/react-native-marked/blob/main/assets/dark-theme.png",
+      "https://github.com/gmsgowtham/react-native-marked/blob/main/assets/light-theme.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-marked",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gmsgowtham/react-native-marked",
+        "clone": "https://github.com/gmsgowtham/react-native-marked.git",
+        "homepage": "https://www.npmjs.com/package/react-native-marked"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T19:19:29Z",
+        "createdAt": "2022-08-20T06:45:23Z",
+        "pushedAt": "2024-05-24T12:43:30Z",
+        "issues": 15,
+        "subscribers": 3,
+        "stars": 170,
+        "forks": 10
+      },
+      "name": "react-native-marked",
+      "fullName": "gmsgowtham/react-native-marked",
+      "description": "Markdown renderer for React Native powered by marked.js",
+      "topics": [
+        "markdown",
+        "react-native",
+        "react",
+        "renderer",
+        "marked-js",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v6.0.4",
+        "tagName": "v6.0.4",
+        "createdAt": "2023-11-14T10:57:25Z",
+        "publishedAt": "2023-11-14T10:57:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 21517,
+      "weekDownloads": 5388,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "markdown react-native react renderer marked-js typescript",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0,
+    "category": [
+      "markdown",
+      "marked-js"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/uiwjs/react-native-alipay",
+    "npmPkg": "@uiw/react-native-alipay",
+    "examples": [
+      "https://github.com/uiwjs/react-native-alipay/tree/master/example"
+    ],
+    "images": [
+      "https://gw.alipayobjects.com/zos/skylark-tools/public/files/c0aa8379f5f57c55f1e5bf25e6f426d1.png",
+      "https://gw.alipayobjects.com/zos/skylark-tools/public/files/2454bffde14f428b2eeb2bfb6aa28d6b.png"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/uiwjs/react-native-alipay",
+        "clone": "https://github.com/uiwjs/react-native-alipay.git",
+        "homepage": "https://uiwjs.github.io/react-native-alipay/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-18T08:38:45Z",
+        "createdAt": "2020-07-08T01:47:48Z",
+        "pushedAt": "2024-04-26T17:13:19Z",
+        "issues": 39,
+        "subscribers": 6,
+        "stars": 197,
+        "forks": 46
+      },
+      "name": "react-native-alipay",
+      "fullName": "uiwjs/react-native-alipay",
+      "description": "基于 React Native 的宝支付包，已更新到最新的支付宝 SDK 版本，支持Android/iOS。",
+      "topics": [
+        "react-native",
+        "reactjs",
+        "alipay",
+        "uiw",
+        "uiwjs",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": null,
+        "tagName": "v5.0.2",
+        "createdAt": "2022-08-06T08:29:05Z",
+        "publishedAt": "2022-08-06T08:29:09Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 355,
+      "weekDownloads": 80,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native reactjs alipay uiw uiwjs android ios",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.023,
+    "category": [
+      "alipay"
+    ]
+  }
+]

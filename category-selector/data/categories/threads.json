@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/margelo/react-native-worklets-core",
+    "examples": [
+      "https://github.com/margelo/react-native-worklets-core/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-worklets-core",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-worklets-core",
+        "clone": "https://github.com/margelo/react-native-worklets-core.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T01:58:14Z",
+        "createdAt": "2021-11-11T18:24:15Z",
+        "pushedAt": "2024-05-21T15:25:08Z",
+        "issues": 33,
+        "subscribers": 10,
+        "stars": 469,
+        "forks": 29
+      },
+      "name": "react-native-worklets-core",
+      "fullName": "margelo/react-native-worklets-core",
+      "description": "🧵 A library to run JS functions (\"Worklets\") on separate Threads",
+      "topics": [
+        "async",
+        "background",
+        "multithreading",
+        "native",
+        "react",
+        "threads",
+        "worklet",
+        "worklets",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 2.0.0-beta.3",
+        "tagName": "v2.0.0-beta.3",
+        "createdAt": "2024-05-21T15:25:05Z",
+        "publishedAt": "2024-05-21T15:25:07Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 42591,
+      "weekDownloads": 10560,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "async background multithreading native react threads worklet worklets hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.002,
+    "category": [
+      "multithreading",
+      "threads",
+      "worklet",
+      "worklets"
+    ]
+  }
+]

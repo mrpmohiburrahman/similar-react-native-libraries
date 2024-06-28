@@ -1,0 +1,322 @@
+[
+  {
+    "githubUrl": "https://github.com/SrBrahma/react-native-shadow-2",
+    "examples": [
+      "https://snack.expo.dev/@srbrahma/react-native-shadow-2-sandbox",
+      "https://github.com/SrBrahma/react-native-shadow-2/tree/main/sandbox"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/SrBrahma/react-native-shadow-2/main/resources/README/react-native-shadow-2-ex-1.png",
+      "https://raw.githubusercontent.com/SrBrahma/react-native-shadow-2/main/resources/README/react-native-shadow-2-ex-2.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "npmPkg": "react-native-shadow-2",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/SrBrahma/react-native-shadow-2",
+        "clone": "https://github.com/SrBrahma/react-native-shadow-2.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T12:02:34Z",
+        "createdAt": "2021-02-14T20:43:38Z",
+        "pushedAt": "2023-05-25T17:43:04Z",
+        "issues": 3,
+        "subscribers": 4,
+        "stars": 613,
+        "forks": 51
+      },
+      "name": "react-native-shadow-2",
+      "fullName": "SrBrahma/react-native-shadow-2",
+      "description": "Cross-platform shadow for React Native. Supports Android, iOS, Web, and Expo",
+      "topics": [
+        "shadow",
+        "typescript",
+        "android",
+        "borders",
+        "radiuses",
+        "ios",
+        "react-native",
+        "cross-platform",
+        "new",
+        "improved",
+        "expo",
+        "mobile",
+        "web",
+        "blur",
+        "javascript",
+        "js",
+        "ts",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v7.0.7",
+        "tagName": "v7.0.7",
+        "createdAt": "2023-04-14T16:18:38Z",
+        "publishedAt": "2023-04-14T16:19:46Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 119026,
+      "weekDownloads": 26538,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "shadow typescript android borders radiuses ios react-native cross-platform new improved expo mobile web blur javascript js ts react",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.027,
+    "category": [
+      "shadow",
+      "blur"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/tokkozhin/react-native-neomorph-shadows",
+    "images": [
+      "https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/shadows.gif",
+      "https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/neomorph.gif",
+      "https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/neomorphblur.gif",
+      "https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/more.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-neomorph-shadows",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tokkozhin/react-native-neomorph-shadows",
+        "clone": "https://github.com/tokkozhin/react-native-neomorph-shadows.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-07T10:06:23Z",
+        "createdAt": "2020-02-06T10:44:39Z",
+        "pushedAt": "2023-02-26T18:20:35Z",
+        "issues": 27,
+        "subscribers": 15,
+        "stars": 785,
+        "forks": 90
+      },
+      "name": "react-native-neomorph-shadows",
+      "fullName": "tokkozhin/react-native-neomorph-shadows",
+      "description": "Shadows and neumorphism/neomorphism for iOS & Android (like iOS).",
+      "topics": [
+        "shadowbox",
+        "inner-shadow",
+        "shadow-svg",
+        "shadow",
+        "neomorphism",
+        "neumorphism"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5508,
+      "weekDownloads": 1488,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "shadowbox inner-shadow shadow-svg shadow neomorphism neumorphism",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.02,
+    "category": [
+      "neomorphism",
+      "neumorphism",
+      "shadow",
+      "inner-shadow",
+      "shadowbox",
+      "shadow-svg"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/alan-eu/react-native-fast-shadow",
+    "examples": [
+      "https://github.com/alan-eu/react-native-fast-shadow/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/20420653/197513322-81c46d07-2f44-463b-86ef-86a4ad856146.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "react-native-fast-shadow",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/alan-eu/react-native-fast-shadow",
+        "clone": "https://github.com/alan-eu/react-native-fast-shadow.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T11:39:45Z",
+        "createdAt": "2022-10-19T08:39:41Z",
+        "pushedAt": "2024-03-04T09:23:26Z",
+        "issues": 7,
+        "subscribers": 19,
+        "stars": 450,
+        "forks": 9
+      },
+      "name": "react-native-fast-shadow",
+      "fullName": "alan-eu/react-native-fast-shadow",
+      "description": "Fast and high quality Android shadows for React Native",
+      "topics": [
+        "android",
+        "react-native",
+        "shadow"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.1.0",
+        "tagName": "v0.1.0",
+        "createdAt": "2022-10-25T14:05:36Z",
+        "publishedAt": "2022-10-25T14:11:12Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 16667,
+      "weekDownloads": 4177,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android react-native shadow",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.001,
+    "category": [
+      "shadow"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/chsdwn/react-native-skia-shadow",
+    "examples": [
+      "https://github.com/chsdwn/react-native-skia-shadow/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/chsdwn/react-native-skia-shadow/main/assets/screenshots/ios.png",
+      "https://raw.githubusercontent.com/chsdwn/react-native-skia-shadow/main/assets/screenshots/android.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-skia-shadow",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/chsdwn/react-native-skia-shadow",
+        "clone": "https://github.com/chsdwn/react-native-skia-shadow.git",
+        "homepage": "https://www.npmjs.com/package/react-native-skia-shadow"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T17:27:15Z",
+        "createdAt": "2023-10-07T14:33:13Z",
+        "pushedAt": "2024-05-15T17:27:12Z",
+        "issues": 1,
+        "subscribers": 1,
+        "stars": 17,
+        "forks": 1
+      },
+      "name": "react-native-skia-shadow",
+      "fullName": "chsdwn/react-native-skia-shadow",
+      "description": "Android and iOS compatible shadows with React Native Skia.",
+      "topics": [
+        "expo",
+        "react-native",
+        "shadow",
+        "package",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.2.0",
+        "tagName": "v1.2.0",
+        "createdAt": "2024-05-15T17:27:08Z",
+        "publishedAt": "2024-05-15T17:27:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 322,
+      "weekDownloads": 118,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "expo react-native shadow package android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.018,
+    "category": [
+      "shadow"
+    ]
+  }
+]

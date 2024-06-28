@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/innoveit/react-native-ble-manager",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-ble-manager",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/innoveit/react-native-ble-manager",
+        "clone": "https://github.com/innoveit/react-native-ble-manager.git",
+        "homepage": "http://innoveit.github.io/react-native-ble-manager/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T21:17:50Z",
+        "createdAt": "2016-05-20T09:20:14Z",
+        "pushedAt": "2024-05-20T08:03:34Z",
+        "issues": 17,
+        "subscribers": 44,
+        "stars": 2027,
+        "forks": 741
+      },
+      "name": "react-native-ble-manager",
+      "fullName": "innoveit/react-native-ble-manager",
+      "description": "React Native BLE communication module",
+      "topics": [
+        "ble",
+        "android",
+        "react-native",
+        "ios",
+        "bluetooth-low-energy"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "v.11.5.3",
+        "tagName": "v.11.5.3",
+        "createdAt": "2024-05-07T12:51:38Z",
+        "publishedAt": "2024-05-07T12:52:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 281323,
+      "weekDownloads": 62010,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ble android react-native ios bluetooth-low-energy",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.03,
+    "category": [
+      "ble",
+      "bluetooth-low-energy"
+    ]
+  }
+]

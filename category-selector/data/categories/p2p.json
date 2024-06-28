@@ -1,0 +1,68 @@
+[
+  {
+    "githubUrl": "https://github.com/kirillzyusko/react-native-wifi-p2p",
+    "android": true,
+    "npmPkg": "react-native-wifi-p2p",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kirillzyusko/react-native-wifi-p2p",
+        "clone": "https://github.com/kirillzyusko/react-native-wifi-p2p.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-01T07:18:44Z",
+        "createdAt": "2018-04-30T15:09:24Z",
+        "pushedAt": "2023-08-21T07:44:26Z",
+        "issues": 23,
+        "subscribers": 6,
+        "stars": 160,
+        "forks": 31
+      },
+      "name": "react-native-wifi-p2p",
+      "fullName": "kirillzyusko/react-native-wifi-p2p",
+      "description": "Library that provide access for working with wi-fi direct (p2p) module in android.",
+      "topics": [
+        "react-native",
+        "wifi-direct",
+        "p2p",
+        "wifi-p2p-manager",
+        "wifi"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "Release 3.6.0",
+        "tagName": "3.6.0",
+        "createdAt": "2023-08-21T07:42:38Z",
+        "publishedAt": "2023-08-21T07:44:26Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 736,
+      "weekDownloads": 46,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native wifi-direct p2p wifi-p2p-manager wifi",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.188,
+    "category": [
+      "p2p",
+      "wifi-p2p-manager",
+      "wifi-direct",
+      "wifi"
+    ]
+  }
+]

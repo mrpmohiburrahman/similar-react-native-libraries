@@ -1,0 +1,136 @@
+[
+  {
+    "githubUrl": "https://github.com/xamous/react-native-smooth-pincode-input",
+    "examples": [
+      "https://github.com/xamous/react-native-smooth-pincode-input#examples",
+      "https://github.com/xamous/react-native-smooth-pincode-input/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-smooth-pincode-input",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xamous/react-native-smooth-pincode-input",
+        "clone": "https://github.com/xamous/react-native-smooth-pincode-input.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T15:14:50Z",
+        "createdAt": "2018-08-25T07:20:57Z",
+        "pushedAt": "2024-05-03T09:36:09Z",
+        "issues": 67,
+        "subscribers": 4,
+        "stars": 374,
+        "forks": 133
+      },
+      "name": "react-native-smooth-pincode-input",
+      "fullName": "xamous/react-native-smooth-pincode-input",
+      "description": "A cross-platform, smooth, lightweight, customizable PIN code input component for React Native.",
+      "topics": [
+        "react",
+        "react-native",
+        "javascript",
+        "password",
+        "pin",
+        "pincode",
+        "textinput",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 25156,
+      "weekDownloads": 5633,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native javascript password pin pincode textinput android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "pin",
+      "pincode",
+      "textinput"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xcarpentier/rn-verifcode",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "rn-verifcode",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xcarpentier/rn-verifcode",
+        "clone": "https://github.com/xcarpentier/rn-verifcode.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-12-15T17:43:02Z",
+        "createdAt": "2019-04-01T13:32:18Z",
+        "pushedAt": "2023-12-15T17:44:54Z",
+        "issues": 18,
+        "subscribers": 3,
+        "stars": 25,
+        "forks": 2
+      },
+      "name": "rn-verifcode",
+      "fullName": "xcarpentier/rn-verifcode",
+      "description": "🔢 React-Native component to input confirmation code for both Android and IOS",
+      "topics": [
+        "react-native",
+        "verification-code",
+        "textinput"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native verification-code textinput",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.45,
+    "category": [
+      "pin"
+    ]
+  }
+]

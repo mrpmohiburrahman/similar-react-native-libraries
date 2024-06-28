@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/gorhom/react-native-portal",
+    "npmPkg": "@gorhom/portal",
+    "examples": [
+      "https://github.com/gorhom/react-native-portal/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gorhom/react-native-portal",
+        "clone": "https://github.com/gorhom/react-native-portal.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T10:17:43Z",
+        "createdAt": "2020-12-08T21:23:01Z",
+        "pushedAt": "2023-06-28T20:02:34Z",
+        "issues": 23,
+        "subscribers": 6,
+        "stars": 611,
+        "forks": 35
+      },
+      "name": "react-native-portal",
+      "fullName": "gorhom/react-native-portal",
+      "description": "A simplified portal implementation for ⭕️ React Native & Web ⭕️.",
+      "topics": [
+        "react-native",
+        "react",
+        "portal"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.0.14",
+        "tagName": "v1.0.14",
+        "createdAt": "2022-06-23T20:49:32Z",
+        "publishedAt": "2022-06-23T20:49:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1251023,
+      "weekDownloads": 282967,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react portal",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "portal"
+    ]
+  }
+]

@@ -1,0 +1,309 @@
+[
+  {
+    "githubUrl": "https://github.com/rh389/react-native-securerandom",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-securerandom",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/robhogan/react-native-securerandom",
+        "clone": "https://github.com/robhogan/react-native-securerandom.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T14:36:07Z",
+        "createdAt": "2017-10-11T16:00:02Z",
+        "pushedAt": "2023-07-01T08:16:13Z",
+        "issues": 5,
+        "subscribers": 3,
+        "stars": 59,
+        "forks": 31
+      },
+      "name": "react-native-securerandom",
+      "fullName": "robhogan/react-native-securerandom",
+      "description": "A crypto-secure random bytes generator for react native",
+      "topics": [
+        "secrandomcopybytes",
+        "securerandom",
+        "react-native",
+        "csprng",
+        "prng",
+        "cryptography",
+        "randomnumbergenerator"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.0.1",
+        "tagName": "1.0.1",
+        "createdAt": "2022-09-22T11:59:51Z",
+        "publishedAt": "2022-09-22T12:09:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 313158,
+      "weekDownloads": 77418,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "secrandomcopybytes securerandom react-native csprng prng cryptography randomnumbergenerator",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.003,
+    "category": [
+      "securerandom",
+      "randomnumbergenerator",
+      "cryptography",
+      "secrandomcopybytes"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/craftzdog/react-native-aes-gcm-crypto",
+    "android": true,
+    "ios": true,
+    "npmPkg": "react-native-aes-gcm-crypto",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/craftzdog/react-native-aes-gcm-crypto",
+        "clone": "https://github.com/craftzdog/react-native-aes-gcm-crypto.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T20:12:15Z",
+        "createdAt": "2021-01-27T11:29:27Z",
+        "pushedAt": "2023-12-05T23:00:27Z",
+        "issues": 7,
+        "subscribers": 4,
+        "stars": 240,
+        "forks": 28
+      },
+      "name": "react-native-aes-gcm-crypto",
+      "fullName": "craftzdog/react-native-aes-gcm-crypto",
+      "description": "AES-GCM encryption/decryption for React Native",
+      "topics": [
+        "react-native",
+        "cryptography"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.2.0",
+        "createdAt": "2021-02-24T05:44:53Z",
+        "publishedAt": "2021-02-24T06:08:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3914,
+      "weekDownloads": 848,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native cryptography",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.033,
+    "category": [
+      "cryptography"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/margelo/react-native-bignumber",
+    "examples": [
+      "https://github.com/margelo/react-native-bignumber/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-bignumber",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-bignumber",
+        "clone": "https://github.com/margelo/react-native-bignumber.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-10T14:22:46Z",
+        "createdAt": "2022-03-03T08:52:46Z",
+        "pushedAt": "2024-04-29T10:12:49Z",
+        "issues": 12,
+        "subscribers": 5,
+        "stars": 331,
+        "forks": 11
+      },
+      "name": "react-native-bignumber",
+      "fullName": "margelo/react-native-bignumber",
+      "description": "🔢 The fastest Big Number library for React Native",
+      "topics": [
+        "bignumber",
+        "big",
+        "number",
+        "jsi",
+        "library",
+        "react",
+        "native",
+        "react-native",
+        "crypto",
+        "wallet",
+        "app",
+        "cryptography",
+        "math"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.3",
+        "tagName": "v0.2.3",
+        "createdAt": "2024-04-29T10:12:48Z",
+        "publishedAt": "2024-04-29T10:12:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2882,
+      "weekDownloads": 619,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "bignumber big number jsi library react native react-native crypto wallet app cryptography math",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.035,
+    "category": [
+      "bignumber",
+      "big",
+      "crypto",
+      "cryptography"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/margelo/react-native-quick-crypto",
+    "examples": [
+      "https://github.com/margelo/react-native-quick-crypto/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-quick-crypto",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-quick-crypto",
+        "clone": "https://github.com/margelo/react-native-quick-crypto.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T00:01:58Z",
+        "createdAt": "2022-02-17T08:49:24Z",
+        "pushedAt": "2024-05-25T07:30:19Z",
+        "issues": 45,
+        "subscribers": 13,
+        "stars": 620,
+        "forks": 79
+      },
+      "name": "react-native-quick-crypto",
+      "fullName": "margelo/react-native-quick-crypto",
+      "description": "⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI",
+      "topics": [
+        "react-native",
+        "react",
+        "native",
+        "cpp",
+        "jsi",
+        "crypto",
+        "cryptography",
+        "encryption",
+        "decryption",
+        "maths",
+        "web3",
+        "ethers"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "Release 0.7.0-rc.8",
+        "tagName": "v0.7.0-rc.8",
+        "createdAt": "2024-05-23T18:26:29Z",
+        "publishedAt": "2024-05-23T18:27:05Z",
+        "isPrerelease": true
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 42930,
+      "weekDownloads": 9565,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react native cpp jsi crypto cryptography encryption decryption maths web3 ethers",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.027,
+    "category": [
+      "crypto",
+      "cryptography",
+      "encryption",
+      "decryption",
+      "maths"
+    ]
+  }
+]

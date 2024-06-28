@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/flipkart-incubator/animation-wrapper-view",
+    "examples": [
+      "https://snack.expo.dev/@swapnil1104/animationwrapperview-playground"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/flipkart-incubator/animation-wrapper-view/master/media/demo.gif",
+      "https://raw.githubusercontent.com/flipkart-incubator/animation-wrapper-view/master/media/json_animation.gif",
+      "https://raw.githubusercontent.com/flipkart-incubator/animation-wrapper-view/master/media/json_demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "animation-wrapper-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/flipkart-incubator/animation-wrapper-view",
+        "clone": "https://github.com/flipkart-incubator/animation-wrapper-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T17:41:13Z",
+        "createdAt": "2021-08-04T05:56:16Z",
+        "pushedAt": "2024-03-24T04:27:00Z",
+        "issues": 4,
+        "subscribers": 9,
+        "stars": 52,
+        "forks": 10
+      },
+      "name": "animation-wrapper-view",
+      "fullName": "flipkart-incubator/animation-wrapper-view",
+      "description": "Declarative animations with imperative controls for RN/RNW.",
+      "topics": [
+        "react-components",
+        "animation",
+        "declarative",
+        "animated",
+        "react-native",
+        "react",
+        "reactjs",
+        "library",
+        "react-component"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 18,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-components animation declarative animated react-native react reactjs library react-component",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.617,
+    "category": [
+      "animation"
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "githubUrl": "https://github.com/sospedra/reinput",
+    "examples": [
+      "https://github.com/sospedra/reinput/tree/master/example",
+      "https://snack.expo.dev/@git/github.com/sospedra/reinput:example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/3116899/84693731-3d597380-af48-11ea-8614-b549211f5015.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "reinput",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sospedra/reinput",
+        "clone": "https://github.com/sospedra/reinput.git",
+        "homepage": "https://reinput.sospedra.me"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-10-27T10:11:07Z",
+        "createdAt": "2017-09-11T13:49:21Z",
+        "pushedAt": "2023-01-07T19:08:51Z",
+        "issues": 30,
+        "subscribers": 2,
+        "stars": 55,
+        "forks": 27
+      },
+      "name": "reinput",
+      "fullName": "sospedra/reinput",
+      "description": "A React Native TextInput with material style 😎",
+      "topics": [
+        "react-native",
+        "textinput",
+        "material",
+        "placeholder",
+        "labels",
+        "icons"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "v1.1.0",
+        "tagName": "v1.1.0",
+        "createdAt": "2017-09-11T19:04:57Z",
+        "publishedAt": "2017-09-11T19:07:00Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 253,
+      "weekDownloads": 49,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native textinput material placeholder labels icons",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.055,
+    "category": [
+      "textinput"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xamous/react-native-smooth-pincode-input",
+    "examples": [
+      "https://github.com/xamous/react-native-smooth-pincode-input#examples",
+      "https://github.com/xamous/react-native-smooth-pincode-input/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-smooth-pincode-input",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xamous/react-native-smooth-pincode-input",
+        "clone": "https://github.com/xamous/react-native-smooth-pincode-input.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T15:14:50Z",
+        "createdAt": "2018-08-25T07:20:57Z",
+        "pushedAt": "2024-05-03T09:36:09Z",
+        "issues": 67,
+        "subscribers": 4,
+        "stars": 374,
+        "forks": 133
+      },
+      "name": "react-native-smooth-pincode-input",
+      "fullName": "xamous/react-native-smooth-pincode-input",
+      "description": "A cross-platform, smooth, lightweight, customizable PIN code input component for React Native.",
+      "topics": [
+        "react",
+        "react-native",
+        "javascript",
+        "password",
+        "pin",
+        "pincode",
+        "textinput",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 25156,
+      "weekDownloads": 5633,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native javascript password pin pincode textinput android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "pin",
+      "pincode",
+      "textinput"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/enzomanuelmangano/react-native-skia-gesture",
+    "examples": [
+      "https://github.com/enzomanuelmangano/react-native-skia-gesture/tree/main/example"
+    ],
+    "images": [
+      "https://github.com/enzomanuelmangano/react-native-skia-gesture/raw/main/.assets/example.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-skia-gesture",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/enzomanuelmangano/react-native-skia-gesture",
+        "clone": "https://github.com/enzomanuelmangano/react-native-skia-gesture.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-27T16:51:22Z",
+        "createdAt": "2022-12-05T22:50:37Z",
+        "pushedAt": "2024-04-18T15:47:18Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 102,
+        "forks": 3
+      },
+      "name": "react-native-skia-gesture",
+      "fullName": "enzomanuelmangano/react-native-skia-gesture",
+      "description": "A detection system for React Native Skia components",
+      "topics": [
+        "gestures",
+        "react-native",
+        "skia"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.3.1",
+        "tagName": "v0.3.1",
+        "createdAt": "2024-03-06T20:37:28Z",
+        "publishedAt": "2024-03-06T20:37:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 364,
+      "weekDownloads": 55,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "gestures react-native skia",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.099,
+    "category": [
+      "gestures",
+      "skia"
+    ]
+  }
+]

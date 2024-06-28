@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/neurio/react-native-local-network-permission",
+    "npmPkg": "@generac/react-native-local-network-permission",
+    "examples": [
+      "https://github.com/neurio/react-native-local-network-permission/tree/main/example"
+    ],
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/neurio/react-native-local-network-permission",
+        "clone": "https://github.com/neurio/react-native-local-network-permission.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-14T12:36:20Z",
+        "createdAt": "2023-12-18T22:18:58Z",
+        "pushedAt": "2024-02-05T18:01:15Z",
+        "issues": 1,
+        "subscribers": 7,
+        "stars": 5,
+        "forks": 1
+      },
+      "name": "react-native-local-network-permission",
+      "fullName": "neurio/react-native-local-network-permission",
+      "description": "A package to handle the local network permission after iOS 14",
+      "topics": [
+        "expo",
+        "ios",
+        "local-network",
+        "local-network-permission",
+        "permissions",
+        "react-native",
+        "swift"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.1.0",
+        "tagName": "v1.1.0",
+        "createdAt": "2024-02-05T17:57:40Z",
+        "publishedAt": "2024-02-05T18:01:15Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 923,
+      "weekDownloads": 234,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "expo ios local-network local-network-permission permissions react-native swift",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.096,
+    "category": [
+      "local-network",
+      "local-network-permission",
+      "permissions"
+    ]
+  }
+]

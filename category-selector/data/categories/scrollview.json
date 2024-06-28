@@ -1,0 +1,316 @@
+[
+  {
+    "githubUrl": "https://github.com/SrBrahma/pagescrollview",
+    "examples": [
+      "https://snack.expo.io/@srbrahma/887706"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/SrBrahma/pagescrollview/main/resources/README/example.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "pagescrollview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/SrBrahma/pagescrollview",
+        "clone": "https://github.com/SrBrahma/pagescrollview.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-12T18:37:21Z",
+        "createdAt": "2021-07-04T00:29:20Z",
+        "pushedAt": "2022-07-13T17:24:14Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 21,
+        "forks": 2
+      },
+      "name": "pagescrollview",
+      "fullName": "SrBrahma/pagescrollview",
+      "description": "React Native ScrollView with common settings and bugs fixes",
+      "topics": [
+        "react-native",
+        "typescript",
+        "expo",
+        "scrollview"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 76,
+      "weekDownloads": 8,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native typescript expo scrollview",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.695,
+    "category": [
+      "scrollview"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gitim/react-native-sortable-list",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/Syd1a4hHW",
+      "https://snack.expo.dev/r1-cTNhH-"
+    ],
+    "npmPkg": "react-native-sortable-list",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gitim/react-native-sortable-list",
+        "clone": "https://github.com/gitim/react-native-sortable-list.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T11:39:58Z",
+        "createdAt": "2016-09-25T13:21:54Z",
+        "pushedAt": "2023-10-02T13:32:07Z",
+        "issues": 116,
+        "subscribers": 25,
+        "stars": 856,
+        "forks": 278
+      },
+      "name": "react-native-sortable-list",
+      "fullName": "gitim/react-native-sortable-list",
+      "description": "React Native Sortable List component",
+      "topics": [
+        "react-native",
+        "react",
+        "react-native-component",
+        "ios",
+        "android",
+        "listview",
+        "scrollview",
+        "scrollview-component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.0.23",
+        "createdAt": "2019-04-11T00:15:57Z",
+        "publishedAt": "2019-04-11T00:22:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 10606,
+      "weekDownloads": 2318,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react react-native-component ios android listview scrollview scrollview-component",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.031,
+    "category": [
+      "listview",
+      "scrollview",
+      "scrollview-component"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/chrisfisher/react-native-directed-scrollview",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-directed-scrollview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/chrisfisher/react-native-directed-scrollview",
+        "clone": "https://github.com/chrisfisher/react-native-directed-scrollview.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-30T22:28:00Z",
+        "createdAt": "2016-11-23T21:57:25Z",
+        "pushedAt": "2019-02-12T20:07:51Z",
+        "issues": 22,
+        "subscribers": 3,
+        "stars": 149,
+        "forks": 67
+      },
+      "name": "react-native-directed-scrollview",
+      "fullName": "chrisfisher/react-native-directed-scrollview",
+      "description": "UNMAINTAINED- see below. A natively implemented scrollview component which lets you specify different scroll directions for child content.",
+      "topics": [
+        "react-native",
+        "scrollview",
+        "direction",
+        "native",
+        "scroll",
+        "react",
+        "javascript",
+        "reactnative",
+        "horizontal",
+        "vertical"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 73,
+      "weekDownloads": 5,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native scrollview direction native scroll react javascript reactnative horizontal vertical",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.878,
+    "category": [
+      "scrollview",
+      "scroll"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gusgard/react-native-swiper-flatlist",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "examples": [
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-show-next-screen",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-simple-with-renderitems-and-data",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-simple-with-children"
+    ],
+    "npmPkg": "react-native-swiper-flatlist",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gusgard/react-native-swiper-flatlist",
+        "clone": "https://github.com/gusgard/react-native-swiper-flatlist.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T09:59:51Z",
+        "createdAt": "2017-11-19T21:58:25Z",
+        "pushedAt": "2024-05-08T12:42:05Z",
+        "issues": 6,
+        "subscribers": 11,
+        "stars": 498,
+        "forks": 93
+      },
+      "name": "react-native-swiper-flatlist",
+      "fullName": "gusgard/react-native-swiper-flatlist",
+      "description": "👆 Swiper component implemented with FlatList using Hooks & Typescript + strict automation tests with Detox",
+      "topics": [
+        "react-native",
+        "react",
+        "swiper",
+        "swiper-flatlist",
+        "swipeview",
+        "swipe",
+        "react-native-swiper",
+        "hooks",
+        "flatlist",
+        "expo",
+        "typescript",
+        "react-native-swiper-flatlist",
+        "scrollview",
+        "slider",
+        "carousel",
+        "scroll",
+        "detox",
+        "bitrise",
+        "e2e-tests",
+        "images"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "3.2.4",
+        "tagName": "3.2.4",
+        "createdAt": "2024-04-23T03:21:41Z",
+        "publishedAt": "2024-04-23T03:25:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 64174,
+      "weekDownloads": 14525,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react swiper swiper-flatlist swipeview swipe react-native-swiper hooks flatlist expo typescript react-native-swiper-flatlist scrollview slider carousel scroll detox bitrise e2e-tests images",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "swiper",
+      "swiper-flatlist",
+      "swipeview",
+      "swipe",
+      "react-native-swiper",
+      "flatlist",
+      "react-native-swiper-flatlist",
+      "scrollview",
+      "slider",
+      "carousel",
+      "scroll"
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/esbenp/react-native-clean-form",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-clean-form",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/esbenp/react-native-clean-form",
+        "clone": "https://github.com/esbenp/react-native-clean-form.git",
+        "homepage": "http://esbenp.github.io/2017/01/06/react-native-redux-form-immutable-styled-components/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-30T11:54:15Z",
+        "createdAt": "2017-01-04T14:14:23Z",
+        "pushedAt": "2019-09-29T05:07:21Z",
+        "issues": 42,
+        "subscribers": 17,
+        "stars": 478,
+        "forks": 83
+      },
+      "name": "react-native-clean-form",
+      "fullName": "esbenp/react-native-clean-form",
+      "description": "Easy react-native forms using bootstrap-like syntax with redux-form+immutablejs integration. Styled using styled-components",
+      "topics": [
+        "react-native",
+        "redux-form",
+        "styled-components",
+        "redux"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "0.5.0",
+        "createdAt": "2018-01-03T15:59:00Z",
+        "publishedAt": "2018-01-03T15:59:15Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 92,
+      "weekDownloads": 24,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native redux-form styled-components redux",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.439,
+    "category": [
+      "redux-form"
+    ]
+  }
+]

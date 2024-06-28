@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/oktaysenkan/react-native-iconify",
+    "examples": [
+      "https://github.com/oktaysenkan/react-native-iconify/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oktaysenkan/react-native-iconify",
+        "clone": "https://github.com/oktaysenkan/react-native-iconify.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T09:20:05Z",
+        "createdAt": "2023-04-18T13:19:46Z",
+        "pushedAt": "2024-05-24T09:20:05Z",
+        "forks": 4,
+        "issues": 4,
+        "subscribers": 2,
+        "stars": 205
+      },
+      "name": "react-native-iconify",
+      "fullName": "oktaysenkan/react-native-iconify",
+      "description": "Iconify for React Native",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "icon",
+        "iconify"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.2",
+        "tagName": "v1.0.2",
+        "createdAt": "2024-05-24T09:20:07Z",
+        "publishedAt": "2024-05-24T09:20:19Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-iconify",
+    "npm": {
+      "downloads": 1651,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 350
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.038,
+    "topicSearchString": "react-native ios android icon iconify",
+    "matchScore": 111,
+    "category": [
+      "iconify"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/kristerkari/react-native-sass-transformer",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-sass-transformer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kristerkari/react-native-sass-transformer",
+        "clone": "https://github.com/kristerkari/react-native-sass-transformer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T19:31:36Z",
+        "createdAt": "2018-01-07T21:29:23Z",
+        "pushedAt": "2024-05-17T19:31:35Z",
+        "issues": 16,
+        "subscribers": 3,
+        "stars": 218,
+        "forks": 19
+      },
+      "name": "react-native-sass-transformer",
+      "fullName": "kristerkari/react-native-sass-transformer",
+      "description": "Use Sass to style your React Native apps.",
+      "topics": [
+        "react-native",
+        "sass",
+        "scss",
+        "loader",
+        "transform"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "3.0.0",
+        "tagName": "v3.0.0",
+        "createdAt": "2024-05-15T13:00:09Z",
+        "publishedAt": "2024-05-15T13:01:10Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 24653,
+      "weekDownloads": 5304,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native sass scss loader transform",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.035,
+    "category": [
+      "sass",
+      "transform",
+      "scss"
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/jaredpalmer/formik",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "formik",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jaredpalmer/formik",
+        "clone": "https://github.com/jaredpalmer/formik.git",
+        "homepage": "https://formik.org"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T01:15:28Z",
+        "createdAt": "2017-06-14T19:50:59Z",
+        "pushedAt": "2024-05-15T09:43:00Z",
+        "issues": 813,
+        "subscribers": 232,
+        "stars": 33603,
+        "forks": 2770
+      },
+      "name": "formik",
+      "fullName": "jaredpalmer/formik",
+      "description": "Build forms in React, without the tears 😭 ",
+      "topics": [
+        "react",
+        "forms",
+        "form",
+        "hooks",
+        "formik",
+        "react-hooks",
+        "render-props",
+        "higher-order-component",
+        "react-native"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "formik@2.4.6",
+        "tagName": "formik@2.4.6",
+        "createdAt": "2024-04-24T22:23:01Z",
+        "publishedAt": "2024-04-24T22:23:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 10753763,
+      "weekDownloads": 2529850,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react forms form hooks formik react-hooks render-props higher-order-component react-native",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.015,
+    "category": [
+      "forms",
+      "form",
+      "formik"
+    ]
+  }
+]

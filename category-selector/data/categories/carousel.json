@@ -1,0 +1,562 @@
+[
+  {
+    "githubUrl": "https://github.com/dohooo/react-native-reanimated-carousel",
+    "examples": [
+      "https://github.com/dohooo/react-native-reanimated-carousel/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/dohooo/react-native-reanimated-carousel/main/assets/normal-horizontal.gif",
+      "https://raw.githubusercontent.com/dohooo/react-native-reanimated-carousel/main/assets/normal-vertical.gif",
+      "https://raw.githubusercontent.com/dohooo/react-native-reanimated-carousel/main/assets/parallax-horizontal.gif",
+      "https://raw.githubusercontent.com/dohooo/react-native-reanimated-carousel/main/assets/parallax-vertical.gif",
+      "https://raw.githubusercontent.com/dohooo/react-native-reanimated-carousel/main/assets/stack-horizontal-right.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-reanimated-carousel",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dohooo/react-native-reanimated-carousel",
+        "clone": "https://github.com/dohooo/react-native-reanimated-carousel.git",
+        "homepage": "https://react-native-reanimated-carousel.vercel.app"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T06:31:45Z",
+        "createdAt": "2021-09-07T05:58:39Z",
+        "pushedAt": "2024-05-06T16:29:55Z",
+        "issues": 162,
+        "subscribers": 31,
+        "stars": 2503,
+        "forks": 280
+      },
+      "name": "react-native-reanimated-carousel",
+      "fullName": "dohooo/react-native-reanimated-carousel",
+      "description": "🎠 React Native swiper/carousel component, fully implemented using reanimated v2, support to iOS/Android/Web.  (Swiper/Carousel)",
+      "topics": [
+        "react-native",
+        "carousel",
+        "android",
+        "ios",
+        "reanimated",
+        "infinite-scroll",
+        "swiper",
+        "react-native-carousel",
+        "web",
+        "snap",
+        "react-native-snap",
+        "react-native-swiper",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.0.0-alpha.12",
+        "tagName": "v4.0.0-alpha.12",
+        "createdAt": "2024-05-06T10:16:12Z",
+        "publishedAt": "2024-05-06T10:16:13Z",
+        "isPrerelease": true
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 504043,
+      "weekDownloads": 118356,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native carousel android ios reanimated infinite-scroll swiper react-native-carousel web snap react-native-snap react-native-swiper hacktoberfest",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.015,
+    "category": [
+      "carousel",
+      "infinite-scroll",
+      "swiper",
+      "react-native-carousel",
+      "react-native-swiper"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/kristerkari/pinar",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "pinar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kristerkari/pinar",
+        "clone": "https://github.com/kristerkari/pinar.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T18:09:13Z",
+        "createdAt": "2019-01-02T03:48:59Z",
+        "pushedAt": "2024-05-20T11:17:58Z",
+        "issues": 17,
+        "subscribers": 3,
+        "stars": 423,
+        "forks": 7
+      },
+      "name": "pinar",
+      "fullName": "kristerkari/pinar",
+      "description": "🌲☀️ Customizable, lightweight React Native carousel component with accessibility support.",
+      "topics": [
+        "react-native",
+        "carousel",
+        "carousel-component",
+        "slider",
+        "swiper",
+        "typescript",
+        "a11y",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.12.2",
+        "tagName": "0.12.2",
+        "createdAt": "2023-04-24T21:01:00Z",
+        "publishedAt": "2023-04-24T21:01:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11925,
+      "weekDownloads": 3077,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native carousel carousel-component slider swiper typescript a11y ios android",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.008,
+    "category": [
+      "carousel",
+      "carousel-component",
+      "swiper"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/meinto/react-native-viewpager-carousel",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-viewpager-carousel",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/meinto/react-native-viewpager-carousel",
+        "clone": "https://github.com/meinto/react-native-viewpager-carousel.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-11T21:24:22Z",
+        "createdAt": "2017-04-25T18:08:00Z",
+        "pushedAt": "2023-01-03T15:16:19Z",
+        "issues": 14,
+        "subscribers": 3,
+        "stars": 39,
+        "forks": 17
+      },
+      "name": "react-native-viewpager-carousel",
+      "fullName": "meinto/react-native-viewpager-carousel",
+      "description": "a flexible viewpager library with carousel functionality",
+      "topics": [
+        "react-native",
+        "viewpager",
+        "carousel",
+        "rondell",
+        "android",
+        "ios",
+        "tabbar",
+        "pager-component",
+        "swipe",
+        "swipeview",
+        "tabs"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 273,
+      "weekDownloads": 17,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native viewpager carousel rondell android ios tabbar pager-component swipe swipeview tabs",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.187,
+    "category": [
+      "carousel",
+      "swipe",
+      "swipeview",
+      "viewpager"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/macvish/react-native-basic-carousel",
+    "examples": [
+      "https://github.com/macvish/react-native-basic-carousel/tree/develop/example"
+    ],
+    "images": [
+      "https://github.com/macvish/react-native-basic-carousel/raw/develop/example/example.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-basic-carousel",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/macvish/react-native-basic-carousel",
+        "clone": "https://github.com/macvish/react-native-basic-carousel.git",
+        "homepage": "https://www.npmjs.com/package/react-native-basic-carousel"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-03T17:09:27Z",
+        "createdAt": "2022-11-12T17:28:54Z",
+        "pushedAt": "2024-02-01T14:36:55Z",
+        "issues": 1,
+        "subscribers": 1,
+        "stars": 15,
+        "forks": 1
+      },
+      "name": "react-native-basic-carousel",
+      "fullName": "macvish/react-native-basic-carousel",
+      "description": null,
+      "topics": [
+        "android",
+        "carousel",
+        "ios",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 448,
+      "weekDownloads": 105,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android carousel ios react-native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.116,
+    "category": [
+      "carousel"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/archriss/react-native-snap-carousel",
+    "examples": [
+      "https://github.com/meliorence/react-native-snap-carousel/tree/master/example"
+    ],
+    "images": [
+      "https://i.imgur.com/e1WbZcu.gif",
+      "https://i.imgur.com/R7OpEFs.gif",
+      "https://i.imgur.com/foMIGM2.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-snap-carousel",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/meliorence/react-native-snap-carousel",
+        "clone": "https://github.com/meliorence/react-native-snap-carousel.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T04:45:04Z",
+        "createdAt": "2016-10-11T07:22:24Z",
+        "pushedAt": "2024-05-22T07:43:24Z",
+        "issues": 385,
+        "subscribers": 98,
+        "stars": 10218,
+        "forks": 2247
+      },
+      "name": "react-native-snap-carousel",
+      "fullName": "meliorence/react-native-snap-carousel",
+      "description": "Swiper/carousel component for React Native featuring previews, multiple layouts, parallax images, performant handling of huge numbers of items, and more. Compatible with Android & iOS.",
+      "topics": [
+        "carousel",
+        "swiper",
+        "flatlist-based",
+        "parallax-effect",
+        "infinite-scroll",
+        "advanced-effects"
+      ],
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdxId": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "id": "MDc6TGljZW5zZTU="
+      },
+      "lastRelease": {
+        "name": "v3.9.1",
+        "tagName": "v3.9.1",
+        "createdAt": "2020-05-27T05:35:46Z",
+        "publishedAt": "2020-05-27T05:50:39Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 476701,
+      "weekDownloads": 109363,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "carousel swiper flatlist-based parallax-effect infinite-scroll advanced-effects",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "carousel",
+      "swiper"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/appintheair/react-native-looped-carousel",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-looped-carousel",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/phil-r/react-native-looped-carousel",
+        "clone": "https://github.com/phil-r/react-native-looped-carousel.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T06:18:20Z",
+        "createdAt": "2015-04-02T19:56:05Z",
+        "pushedAt": "2023-09-29T16:35:16Z",
+        "issues": 89,
+        "subscribers": 30,
+        "stars": 1494,
+        "forks": 309
+      },
+      "name": "react-native-looped-carousel",
+      "fullName": "phil-r/react-native-looped-carousel",
+      "description": ":carousel_horse: Looped carousel for React Native",
+      "topics": [
+        "react",
+        "carousel",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2170,
+      "weekDownloads": 553,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react carousel react-native",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0.005,
+    "category": [
+      "carousel"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gusgard/react-native-swiper-flatlist",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "examples": [
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-show-next-screen",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-simple-with-renderitems-and-data",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-simple-with-children"
+    ],
+    "npmPkg": "react-native-swiper-flatlist",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gusgard/react-native-swiper-flatlist",
+        "clone": "https://github.com/gusgard/react-native-swiper-flatlist.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T09:59:51Z",
+        "createdAt": "2017-11-19T21:58:25Z",
+        "pushedAt": "2024-05-08T12:42:05Z",
+        "issues": 6,
+        "subscribers": 11,
+        "stars": 498,
+        "forks": 93
+      },
+      "name": "react-native-swiper-flatlist",
+      "fullName": "gusgard/react-native-swiper-flatlist",
+      "description": "👆 Swiper component implemented with FlatList using Hooks & Typescript + strict automation tests with Detox",
+      "topics": [
+        "react-native",
+        "react",
+        "swiper",
+        "swiper-flatlist",
+        "swipeview",
+        "swipe",
+        "react-native-swiper",
+        "hooks",
+        "flatlist",
+        "expo",
+        "typescript",
+        "react-native-swiper-flatlist",
+        "scrollview",
+        "slider",
+        "carousel",
+        "scroll",
+        "detox",
+        "bitrise",
+        "e2e-tests",
+        "images"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "3.2.4",
+        "tagName": "3.2.4",
+        "createdAt": "2024-04-23T03:21:41Z",
+        "publishedAt": "2024-04-23T03:25:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 64174,
+      "weekDownloads": 14525,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react swiper swiper-flatlist swipeview swipe react-native-swiper hooks flatlist expo typescript react-native-swiper-flatlist scrollview slider carousel scroll detox bitrise e2e-tests images",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "swiper",
+      "swiper-flatlist",
+      "swipeview",
+      "swipe",
+      "react-native-swiper",
+      "flatlist",
+      "react-native-swiper-flatlist",
+      "scrollview",
+      "slider",
+      "carousel",
+      "scroll"
+    ]
+  }
+]

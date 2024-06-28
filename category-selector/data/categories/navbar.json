@@ -1,0 +1,72 @@
+[
+  {
+    "githubUrl": "https://github.com/jineshshah36/react-native-nav",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-nav",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jineshshah36/react-native-nav",
+        "clone": "https://github.com/jineshshah36/react-native-nav.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T17:40:44Z",
+        "createdAt": "2016-03-26T22:02:21Z",
+        "pushedAt": "2019-11-11T19:37:21Z",
+        "issues": 3,
+        "subscribers": 6,
+        "stars": 264,
+        "forks": 28
+      },
+      "name": "react-native-nav",
+      "fullName": "jineshshah36/react-native-nav",
+      "description": "A cross-platform (iOS / Android), fully customizable, React Native Navigation Bar component.",
+      "topics": [
+        "react-native",
+        "react",
+        "android",
+        "ios",
+        "navigation",
+        "navbar"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Requires React Native v0.44+",
+        "tagName": "v2.0.0",
+        "createdAt": "2017-07-17T14:38:22Z",
+        "publishedAt": "2017-07-17T14:40:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2115,
+      "weekDownloads": 303,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react android ios navigation navbar",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.356,
+    "category": [
+      "navbar"
+    ]
+  }
+]

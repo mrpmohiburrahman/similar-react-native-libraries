@@ -1,0 +1,72 @@
+[
+  {
+    "githubUrl": "https://github.com/jk-gan/redux-flipper",
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "npmPkg": "redux-flipper",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jk-gan/redux-flipper",
+        "clone": "https://github.com/jk-gan/redux-flipper.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-13T16:46:14Z",
+        "createdAt": "2020-04-16T13:30:06Z",
+        "pushedAt": "2024-03-05T14:15:20Z",
+        "issues": 14,
+        "subscribers": 5,
+        "stars": 158,
+        "forks": 21
+      },
+      "name": "redux-flipper",
+      "fullName": "jk-gan/redux-flipper",
+      "description": "Redux middleware for React Native for Flipper",
+      "topics": [
+        "redux",
+        "redux-middleware",
+        "react-native",
+        "flipper",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.3",
+        "tagName": "v2.0.3",
+        "createdAt": "2024-03-05T14:09:42Z",
+        "publishedAt": "2024-03-05T14:15:20Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 286547,
+      "weekDownloads": 59057,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "redux redux-middleware react-native flipper hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.044,
+    "category": [
+      "flipper"
+    ]
+  }
+]

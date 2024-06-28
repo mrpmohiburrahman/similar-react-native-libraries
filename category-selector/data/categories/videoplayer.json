@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/ihmpavel/expo-video-player",
+    "examples": [
+      "https://github.com/ihmpavel/expo-video-player/tree/master/example-app"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-video-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ihmpavel/expo-video-player",
+        "clone": "https://github.com/ihmpavel/expo-video-player.git",
+        "homepage": "https://npm.im/expo-video-player"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-01T00:56:08Z",
+        "createdAt": "2018-12-20T23:36:22Z",
+        "pushedAt": "2024-04-19T14:49:46Z",
+        "issues": 37,
+        "subscribers": 5,
+        "stars": 196,
+        "forks": 111
+      },
+      "name": "expo-video-player",
+      "fullName": "ihmpavel/expo-video-player",
+      "description": "Customizable Video Player controls for Expo",
+      "topics": [
+        "expo",
+        "video",
+        "player",
+        "videoplayer",
+        "react-native",
+        "typescript",
+        "expo-video-player"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Version 2.2.0",
+        "tagName": "v2.2.0",
+        "createdAt": "2022-09-29T19:32:17Z",
+        "publishedAt": "2022-09-29T19:35:41Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 9123,
+      "weekDownloads": 2071,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "expo video player videoplayer react-native typescript expo-video-player",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.023,
+    "category": [
+      "video",
+      "player",
+      "videoplayer",
+      "expo-video-player"
+    ]
+  }
+]

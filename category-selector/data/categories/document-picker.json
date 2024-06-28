@@ -1,0 +1,161 @@
+[
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-document-picker",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-document-picker",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 293690,
+      "weekDownloads": 64886,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "document-picker"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rnmods/react-native-document-picker",
+    "examples": [
+      "https://github.com/rnmods/react-native-document-picker/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/rnmods/react-native-document-picker/master/docs/android_screenshot.jpg",
+      "https://raw.githubusercontent.com/rnmods/react-native-document-picker/master/docs/ios_screenshot.jpeg"
+    ],
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "npmPkg": "react-native-document-picker",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-documents/document-picker",
+        "clone": "https://github.com/react-native-documents/document-picker.git",
+        "homepage": "https://react-native-documents.github.io/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T16:34:14Z",
+        "createdAt": "2016-06-28T14:58:12Z",
+        "pushedAt": "2024-05-17T16:26:28Z",
+        "issues": 19,
+        "subscribers": 13,
+        "stars": 1322,
+        "forks": 430
+      },
+      "name": "document-picker",
+      "fullName": "react-native-documents/document-picker",
+      "description": "Document Picker for React Native",
+      "topics": [
+        "hacktoberfest",
+        "react-native",
+        "document-picker",
+        "ios",
+        "android",
+        "windows"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 9.2.0",
+        "tagName": "v9.2.0",
+        "createdAt": "2024-04-28T19:06:39Z",
+        "publishedAt": "2024-04-28T19:06:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 995574,
+      "weekDownloads": 216593,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "hacktoberfest react-native document-picker ios android windows",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.032,
+    "category": [
+      "document-picker"
+    ]
+  }
+]

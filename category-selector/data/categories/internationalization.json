@@ -1,0 +1,146 @@
+[
+  {
+    "githubUrl": "https://github.com/stefalda/ReactNativeLocalization",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-localization",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/stefalda/ReactNativeLocalization",
+        "clone": "https://github.com/stefalda/ReactNativeLocalization.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-07-03T11:46:39Z",
+        "createdAt": "2015-04-07T21:30:54Z",
+        "pushedAt": "2023-07-03T11:46:39Z",
+        "forks": 119,
+        "issues": 69,
+        "subscribers": 19,
+        "stars": 895
+      },
+      "name": "ReactNativeLocalization",
+      "fullName": "stefalda/ReactNativeLocalization",
+      "description": "Class to localize the ReactNative interface",
+      "topics": [
+        "localization",
+        "internationalization",
+        "javascript",
+        "typescript",
+        "ios",
+        "android",
+        "react",
+        "react-native",
+        "react-component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 51305,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 11619
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.024,
+    "topicSearchString": "localization internationalization javascript typescript ios android react react-native react-component",
+    "matchScore": 1,
+    "category": [
+      "internationalization"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/fabriciovergara/react-native-localizable",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/fabriciovergara/react-native-localizable",
+        "clone": "https://github.com/fabriciovergara/react-native-localizable.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2018-08-21T06:57:59Z",
+        "createdAt": "2018-01-08T23:28:35Z",
+        "pushedAt": "2018-08-21T06:57:59Z",
+        "forks": 0,
+        "issues": 1,
+        "subscribers": 3,
+        "stars": 4
+      },
+      "name": "react-native-localizable",
+      "fullName": "fabriciovergara/react-native-localizable",
+      "description": "Let the platform take care of internationalization! ...and reduce your bundle.js",
+      "topics": [
+        "react-native",
+        "react-component",
+        "localizable",
+        "ios",
+        "android",
+        "localization",
+        "native",
+        "javascript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.0.0",
+        "tagName": "1.0.0",
+        "createdAt": "2018-01-08T23:45:31Z",
+        "publishedAt": "2018-01-09T18:08:03Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-localizable",
+    "npm": {
+      "downloads": 14,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.8,
+    "topicSearchString": "react-native react-component localizable ios android localization native javascript",
+    "matchScore": 0.01,
+    "category": [
+      "internationalization"
+    ]
+  }
+]

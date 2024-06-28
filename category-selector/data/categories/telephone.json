@@ -1,0 +1,97 @@
+[
+  {
+    "githubUrl": "https://github.com/AstrOOnauta/react-native-international-phone-number",
+    "examples": [
+      "https://snack.expo.dev/@astroonauta/react-native-international-phone-number"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/AstrOOnauta/react-native-international-phone-number/master/images/preview.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-international-phone-number",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/AstrOOnauta/react-native-international-phone-number",
+        "clone": "https://github.com/AstrOOnauta/react-native-international-phone-number.git",
+        "homepage": "https://snack.expo.dev/@astroonauta/react-native-international-phone-number"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T14:22:22Z",
+        "createdAt": "2022-11-22T11:55:26Z",
+        "pushedAt": "2024-04-18T19:05:00Z",
+        "issues": 24,
+        "subscribers": 4,
+        "stars": 232,
+        "forks": 37
+      },
+      "name": "react-native-international-phone-number",
+      "fullName": "AstrOOnauta/react-native-international-phone-number",
+      "description": "⚛️  International mobile phone number input component for React Native  📱",
+      "topics": [
+        "react-native",
+        "typescript",
+        "android",
+        "ios",
+        "mask-input",
+        "phone-input",
+        "react-hook-form",
+        "country-picker",
+        "country",
+        "flags",
+        "mobile",
+        "input",
+        "international",
+        "number",
+        "phone",
+        "phone-number",
+        "web",
+        "cellphone",
+        "telephone"
+      ],
+      "license": {
+        "key": "isc",
+        "name": "ISC License",
+        "spdxId": "ISC",
+        "url": "https://api.github.com/licenses/isc",
+        "id": "MDc6TGljZW5zZTEw"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.7.6",
+        "createdAt": "2024-01-12T11:23:02Z",
+        "publishedAt": "2024-01-12T11:26:28Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7819,
+      "weekDownloads": 1882,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native typescript android ios mask-input phone-input react-hook-form country-picker country flags mobile input international number phone phone-number web cellphone telephone",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.009,
+    "category": [
+      "phone-input",
+      "phone",
+      "phone-number",
+      "telephone",
+      "cellphone"
+    ]
+  }
+]

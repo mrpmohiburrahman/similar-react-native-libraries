@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/Rapsssito/react-native-background-actions",
+    "examples": [
+      "https://github.com/Rapsssito/react-native-background-actions/tree/master/examples/backgroundExample"
+    ],
+    "android": true,
+    "ios": true,
+    "npmPkg": "react-native-background-actions",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Rapsssito/react-native-background-actions",
+        "clone": "https://github.com/Rapsssito/react-native-background-actions.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T20:22:21Z",
+        "createdAt": "2020-01-14T18:59:19Z",
+        "pushedAt": "2024-02-19T06:39:12Z",
+        "issues": 37,
+        "subscribers": 10,
+        "stars": 687,
+        "forks": 93
+      },
+      "name": "react-native-background-actions",
+      "fullName": "Rapsssito/react-native-background-actions",
+      "description": "React Native background service library for running background tasks forever in Android & iOS.",
+      "topics": [
+        "react-native",
+        "react-native-library",
+        "background",
+        "background-task",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.0.1",
+        "tagName": "v3.0.1",
+        "createdAt": "2023-10-11T13:45:10Z",
+        "publishedAt": "2023-10-11T13:45:12Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 30529,
+      "weekDownloads": 7166,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-library background background-task android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.015,
+    "category": [
+      "background",
+      "background-task"
+    ]
+  }
+]

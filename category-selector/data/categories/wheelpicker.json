@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/Liamandrew/react-native-picky",
+    "examples": [
+      "https://github.com/Liamandrew/react-native-picky/tree/main/example"
+    ],
+    "images": [
+      "https://github.com/Liamandrew/react-native-picky/blob/main/docs/android-multi-column-loop.gif",
+      "https://github.com/Liamandrew/react-native-picky/blob/main/docs/ios-multi-column-loop.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-picky",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Liamandrew/react-native-picky",
+        "clone": "https://github.com/Liamandrew/react-native-picky.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-23T12:31:31Z",
+        "createdAt": "2022-06-01T06:17:18Z",
+        "pushedAt": "2023-07-10T20:59:10Z",
+        "issues": 6,
+        "subscribers": 3,
+        "stars": 46,
+        "forks": 7
+      },
+      "name": "react-native-picky",
+      "fullName": "Liamandrew/react-native-picky",
+      "description": "An awesome native wheel picker component for React Native.",
+      "topics": [
+        "picker",
+        "react",
+        "react-native",
+        "typescript",
+        "wheelpicker"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.4.0",
+        "tagName": "v0.4.0",
+        "createdAt": "2022-07-16T06:06:34Z",
+        "publishedAt": "2022-07-16T06:06:41Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 323,
+      "weekDownloads": 77,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "picker react react-native typescript wheelpicker",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.009,
+    "category": [
+      "picker",
+      "wheelpicker"
+    ]
+  }
+]

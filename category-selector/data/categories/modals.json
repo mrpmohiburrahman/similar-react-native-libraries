@@ -1,0 +1,85 @@
+[
+  {
+    "githubUrl": "https://github.com/colorfy-software/react-native-modalfy",
+    "examples": [
+      "https://snack.expo.dev/@charles.m/react-native-modalfy",
+      "https://github.com/colorfy-software/react-native-modalfy/tree/main/example"
+    ],
+    "images": [
+      "https://i.imgur.com/q8QFajL.gif",
+      "https://i.imgur.com/wF0hTBm.gif",
+      "https://i.imgur.com/C79UD6B.gif",
+      "https://i.imgur.com/Z6HsH59.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "npmPkg": "react-native-modalfy",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/colorfy-software/react-native-modalfy",
+        "clone": "https://github.com/colorfy-software/react-native-modalfy.git",
+        "homepage": "https://colorfy-software.gitbook.io/react-native-modalfy"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T14:47:43Z",
+        "createdAt": "2019-04-24T15:47:37Z",
+        "pushedAt": "2024-05-10T06:18:20Z",
+        "issues": 6,
+        "subscribers": 11,
+        "stars": 1016,
+        "forks": 39
+      },
+      "name": "react-native-modalfy",
+      "fullName": "colorfy-software/react-native-modalfy",
+      "description": "🥞 Modal citizen of React Native.",
+      "topics": [
+        "react",
+        "react-native",
+        "ios",
+        "android",
+        "animations",
+        "stack",
+        "modals"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.5.3",
+        "tagName": "v3.5.3",
+        "createdAt": "2024-03-08T22:26:44Z",
+        "publishedAt": "2024-03-08T22:27:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 20224,
+      "weekDownloads": 4859,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native ios android animations stack modals",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.01,
+    "category": [
+      "modals"
+    ]
+  }
+]

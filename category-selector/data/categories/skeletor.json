@@ -1,0 +1,64 @@
+[
+  {
+    "githubUrl": "https://github.com/zeljkoX/react-native-loading-placeholder",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-loading-placeholder",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zeljkoX/react-native-loading-placeholder",
+        "clone": "https://github.com/zeljkoX/react-native-loading-placeholder.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T17:40:50Z",
+        "createdAt": "2017-05-25T17:19:32Z",
+        "pushedAt": "2018-01-10T09:33:08Z",
+        "issues": 4,
+        "subscribers": 1,
+        "stars": 176,
+        "forks": 17
+      },
+      "name": "react-native-loading-placeholder",
+      "fullName": "zeljkoX/react-native-loading-placeholder",
+      "description": "React Native Loading Placeholder",
+      "topics": [
+        "react-native",
+        "placeholder",
+        "loader",
+        "skeletor"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4833,
+      "weekDownloads": 1084,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native placeholder loader skeletor",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.026,
+    "category": [
+      "placeholder",
+      "loader",
+      "skeletor"
+    ]
+  }
+]

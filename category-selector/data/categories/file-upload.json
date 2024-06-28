@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/Vydia/react-native-background-upload",
+    "examples": [
+      "https://github.com/Vydia/react-native-background-upload/tree/master/example/RNBackgroundExample"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-background-upload",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Vydia/react-native-background-upload",
+        "clone": "https://github.com/Vydia/react-native-background-upload.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T06:13:49Z",
+        "createdAt": "2016-12-13T00:19:14Z",
+        "pushedAt": "2024-04-01T22:04:08Z",
+        "issues": 129,
+        "subscribers": 26,
+        "stars": 715,
+        "forks": 327
+      },
+      "name": "react-native-background-upload",
+      "fullName": "Vydia/react-native-background-upload",
+      "description": "Upload files in your React Native app even while it's backgrounded.  Supports Android and iOS, including camera roll assets.",
+      "topics": [
+        "react-native",
+        "android",
+        "ios",
+        "file-upload",
+        "nsurlsession",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v6.6.0",
+        "tagName": "v6.6.0",
+        "createdAt": "2022-10-07T16:23:44Z",
+        "publishedAt": "2022-10-07T16:23:54Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 24482,
+      "weekDownloads": 3200,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android ios file-upload nsurlsession hacktoberfest",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.119,
+    "category": [
+      "file-upload"
+    ]
+  }
+]

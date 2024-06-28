@@ -1,0 +1,641 @@
+[
+  {
+    "githubUrl": "https://github.com/callstack/react-native-slider/tree/main/package",
+    "examples": [
+      "https://github.com/callstack/react-native-slider/tree/main/example"
+    ],
+    "npmPkg": "@react-native-community/slider",
+    "images": [
+      "https://i.postimg.cc/dQTYzGD5/Screenshot-2019-03-25-at-11-24-59.png",
+      "https://i.postimg.cc/CKdtbVqc/Screenshot-2019-03-25-at-11-26-54.png"
+    ],
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "web": true,
+    "visionos": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/callstack/react-native-slider",
+        "clone": "https://github.com/callstack/react-native-slider.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T17:32:15Z",
+        "createdAt": "2019-02-06T16:03:45Z",
+        "pushedAt": "2024-05-21T12:11:05Z",
+        "issues": 50,
+        "subscribers": 14,
+        "stars": 1140,
+        "forks": 260
+      },
+      "name": "react-native-slider",
+      "fullName": "callstack/react-native-slider",
+      "description": "React Native component exposing Slider from iOS and SeekBar from Android",
+      "topics": [
+        "react-native",
+        "seekbar",
+        "slider"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.5.2: New arch measurements hotfix",
+        "tagName": "v4.5.2",
+        "createdAt": "2024-04-13T12:08:49Z",
+        "publishedAt": "2024-04-13T12:13:21Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1137529,
+      "weekDownloads": 259739,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native seekbar slider",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.022,
+    "category": [
+      "slider"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/reactrondev/react-native-web-swiper",
+    "examples": [
+      "https://snack.expo.dev/@oxyii/react-native-web-swiper"
+    ],
+    "android": true,
+    "ios": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-web-swiper",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/reactrondev/react-native-web-swiper",
+        "clone": "https://github.com/reactrondev/react-native-web-swiper.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T09:44:35Z",
+        "createdAt": "2019-01-26T18:52:12Z",
+        "pushedAt": "2023-05-09T17:10:33Z",
+        "issues": 16,
+        "subscribers": 6,
+        "stars": 210,
+        "forks": 53
+      },
+      "name": "react-native-web-swiper",
+      "fullName": "reactrondev/react-native-web-swiper",
+      "description": "Swiper-Slider for React-Native and React-Native-Web",
+      "topics": [
+        "react-native",
+        "react-native-web",
+        "swiper",
+        "slider",
+        "swipe"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "v2.2.4",
+        "tagName": "v2.2.4",
+        "createdAt": "2022-10-02T12:54:53Z",
+        "publishedAt": "2022-10-02T12:55:22Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 37754,
+      "weekDownloads": 10040,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-web swiper slider swipe",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": 0.016,
+    "category": [
+      "swiper",
+      "slider",
+      "swipe"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gorhom/react-native-paper-onboarding",
+    "npmPkg": "@gorhom/paper-onboarding",
+    "examples": [
+      "https://github.com/gorhom/react-native-paper-onboarding/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/gorhom/react-native-paper-onboarding/master/preview.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gorhom/react-native-paper-onboarding",
+        "clone": "https://github.com/gorhom/react-native-paper-onboarding.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T16:40:57Z",
+        "createdAt": "2020-02-29T17:51:41Z",
+        "pushedAt": "2021-11-03T14:49:14Z",
+        "issues": 8,
+        "subscribers": 16,
+        "stars": 799,
+        "forks": 46
+      },
+      "name": "react-native-paper-onboarding",
+      "fullName": "gorhom/react-native-paper-onboarding",
+      "description": "Paper Onboarding is a material design UI slider for `React Native`.",
+      "topics": [
+        "paper",
+        "onboarding",
+        "slider",
+        "material",
+        "ui",
+        "reanimated",
+        "redash",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.2.0",
+        "tagName": "v1.2.0",
+        "createdAt": "2021-07-28T20:26:08Z",
+        "publishedAt": "2021-07-28T20:26:14Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 232,
+      "weekDownloads": 66,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "paper onboarding slider material ui reanimated redash react-native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.416,
+    "category": [
+      "slider",
+      "onboarding"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/sacmii/rn-vertical-slider",
+    "examples": [
+      "https://github.com/sacmii/rn-vertical-slider/tree/master/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/12546974/219866420-4796142d-396f-4b31-996a-89f570f7a863.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "rn-vertical-slider",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sacmii/rn-vertical-slider",
+        "clone": "https://github.com/sacmii/rn-vertical-slider.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-08T04:37:23Z",
+        "createdAt": "2019-03-16T19:38:11Z",
+        "pushedAt": "2023-11-25T04:04:44Z",
+        "issues": 11,
+        "subscribers": 2,
+        "stars": 180,
+        "forks": 41
+      },
+      "name": "rn-vertical-slider",
+      "fullName": "sacmii/rn-vertical-slider",
+      "description": "React Native Vertical Slider",
+      "topics": [
+        "react-native",
+        "vertical-slider",
+        "android",
+        "ios",
+        "slider",
+        "vertical"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 4.0.0",
+        "tagName": "v4.0.0",
+        "createdAt": "2023-11-25T04:04:38Z",
+        "publishedAt": "2023-11-25T04:05:00Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1668,
+      "weekDownloads": 382,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native vertical-slider android ios slider vertical",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "slider",
+      "vertical-slider"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/RichardRNStudio/react-native-slider-intro",
+    "images": [
+      "https://raw.githubusercontent.com/RichardRNStudio/react-native-slider-intro/main/docs/basic-example.gif",
+      "https://raw.githubusercontent.com/RichardRNStudio/react-native-slider-intro/main/docs/custom-buttons-example.gif",
+      "https://raw.githubusercontent.com/RichardRNStudio/react-native-slider-intro/main/docs/column-buttons-example.gif"
+    ],
+    "examples": [
+      "https://github.com/RichardRNStudio/react-native-slider-intro/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-slider-intro",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/RichardRNStudio/react-native-slider-intro",
+        "clone": "https://github.com/RichardRNStudio/react-native-slider-intro.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T08:33:28Z",
+        "createdAt": "2021-01-05T13:02:07Z",
+        "pushedAt": "2024-05-23T21:49:29Z",
+        "issues": 8,
+        "subscribers": 1,
+        "stars": 109,
+        "forks": 2
+      },
+      "name": "react-native-slider-intro",
+      "fullName": "RichardRNStudio/react-native-slider-intro",
+      "description": " A simple and full customizable React Native package which implements a unique slider.",
+      "topics": [
+        "react-native",
+        "slider",
+        "intro",
+        "customizable",
+        "ios",
+        "android",
+        "react-component",
+        "tutorial",
+        "mobile-development",
+        "mobile",
+        "animation",
+        "ui"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.1.14",
+        "tagName": "v2.1.14",
+        "createdAt": "2024-04-30T21:00:32Z",
+        "publishedAt": "2024-04-30T21:04:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 504,
+      "weekDownloads": 84,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native slider intro customizable ios android react-component tutorial mobile-development mobile animation ui",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.083,
+    "category": [
+      "slider",
+      "intro"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/bartgryszko/react-native-circular-slider",
+    "ios": true,
+    "expoGo": true,
+    "examples": [
+      "https://expo.io/@community/bedtime"
+    ],
+    "npmPkg": "react-native-circular-slider",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bartgryszko/react-native-circular-slider",
+        "clone": "https://github.com/bartgryszko/react-native-circular-slider.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T15:38:31Z",
+        "createdAt": "2016-12-30T21:42:04Z",
+        "pushedAt": "2019-09-24T08:23:57Z",
+        "issues": 30,
+        "subscribers": 21,
+        "stars": 855,
+        "forks": 189
+      },
+      "name": "react-native-circular-slider",
+      "fullName": "bartgryszko/react-native-circular-slider",
+      "description": "React Native component for creating circular slider :radio_button:",
+      "topics": [
+        "react-native",
+        "slider",
+        "svg",
+        "clock",
+        "animation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 373,
+      "weekDownloads": 62,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native slider svg clock animation",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.083,
+    "category": [
+      "slider"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jfilter/react-native-onboarding-swiper",
+    "images": [
+      "https://raw.githubusercontent.com/jfilter/react-native-onboarding-swiper/master/demo/simple1.png",
+      "https://raw.githubusercontent.com/jfilter/react-native-onboarding-swiper/master/demo/simple2.png",
+      "https://raw.githubusercontent.com/jfilter/react-native-onboarding-swiper/master/demo/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-onboarding-swiper",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jfilter/react-native-onboarding-swiper",
+        "clone": "https://github.com/jfilter/react-native-onboarding-swiper.git",
+        "homepage": "https://www.npmjs.com/package/react-native-onboarding-swiper"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T06:58:33Z",
+        "createdAt": "2017-10-12T20:02:23Z",
+        "pushedAt": "2024-05-20T14:25:55Z",
+        "issues": 35,
+        "subscribers": 13,
+        "stars": 937,
+        "forks": 175
+      },
+      "name": "react-native-onboarding-swiper",
+      "fullName": "jfilter/react-native-onboarding-swiper",
+      "description": "🛳 Delightful onboarding for your React-Native app",
+      "topics": [
+        "react-native",
+        "react-native-component",
+        "onboarding",
+        "tutorial",
+        "introduction",
+        "intro",
+        "welcome",
+        "instructions",
+        "slider"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 36860,
+      "weekDownloads": 8017,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-component onboarding tutorial introduction intro welcome instructions slider",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.033,
+    "category": [
+      "onboarding",
+      "slider"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gusgard/react-native-swiper-flatlist",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "examples": [
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-show-next-screen",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-simple-with-renderitems-and-data",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-simple-with-children"
+    ],
+    "npmPkg": "react-native-swiper-flatlist",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gusgard/react-native-swiper-flatlist",
+        "clone": "https://github.com/gusgard/react-native-swiper-flatlist.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T09:59:51Z",
+        "createdAt": "2017-11-19T21:58:25Z",
+        "pushedAt": "2024-05-08T12:42:05Z",
+        "issues": 6,
+        "subscribers": 11,
+        "stars": 498,
+        "forks": 93
+      },
+      "name": "react-native-swiper-flatlist",
+      "fullName": "gusgard/react-native-swiper-flatlist",
+      "description": "👆 Swiper component implemented with FlatList using Hooks & Typescript + strict automation tests with Detox",
+      "topics": [
+        "react-native",
+        "react",
+        "swiper",
+        "swiper-flatlist",
+        "swipeview",
+        "swipe",
+        "react-native-swiper",
+        "hooks",
+        "flatlist",
+        "expo",
+        "typescript",
+        "react-native-swiper-flatlist",
+        "scrollview",
+        "slider",
+        "carousel",
+        "scroll",
+        "detox",
+        "bitrise",
+        "e2e-tests",
+        "images"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "3.2.4",
+        "tagName": "3.2.4",
+        "createdAt": "2024-04-23T03:21:41Z",
+        "publishedAt": "2024-04-23T03:25:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 64174,
+      "weekDownloads": 14525,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react swiper swiper-flatlist swipeview swipe react-native-swiper hooks flatlist expo typescript react-native-swiper-flatlist scrollview slider carousel scroll detox bitrise e2e-tests images",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "swiper",
+      "swiper-flatlist",
+      "swipeview",
+      "swipe",
+      "react-native-swiper",
+      "flatlist",
+      "react-native-swiper-flatlist",
+      "scrollview",
+      "slider",
+      "carousel",
+      "scroll"
+    ]
+  }
+]

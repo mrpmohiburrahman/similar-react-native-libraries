@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper",
+    "ios": true,
+    "npmPkg": "react-native-perspective-image-cropper",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper",
+        "clone": "https://github.com/Michaelvilleneuve/react-native-perspective-image-cropper.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T20:59:35Z",
+        "createdAt": "2017-08-20T14:08:41Z",
+        "pushedAt": "2022-07-22T12:57:56Z",
+        "issues": 29,
+        "subscribers": 9,
+        "stars": 306,
+        "forks": 130
+      },
+      "name": "react-native-perspective-image-cropper",
+      "fullName": "Michaelvilleneuve/react-native-perspective-image-cropper",
+      "description": "Perform custom crop, resizing and perspective correction 📐🖼",
+      "topics": [
+        "react-native",
+        "react",
+        "crop",
+        "image",
+        "custom",
+        "perspective"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.2.0",
+        "tagName": "v0.2.0",
+        "createdAt": "2018-08-27T06:42:37Z",
+        "publishedAt": "2018-08-27T06:44:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 157,
+      "weekDownloads": 31,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react crop image custom perspective",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.501,
+    "category": [
+      "crop"
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/orbital-systems/react-native-esp-idf-provisioning",
+    "npmPkg": "@orbital-systems/react-native-esp-idf-provisioning",
+    "examples": [
+      "https://github.com/orbital-systems/react-native-esp-idf-provisioning/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/orbital-systems/react-native-esp-idf-provisioning/master/provisioning.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/orbital-systems/react-native-esp-idf-provisioning",
+        "clone": "https://github.com/orbital-systems/react-native-esp-idf-provisioning.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T13:14:47Z",
+        "createdAt": "2023-09-19T06:55:15Z",
+        "pushedAt": "2024-02-21T09:22:58Z",
+        "issues": 9,
+        "subscribers": 5,
+        "stars": 13,
+        "forks": 4
+      },
+      "name": "react-native-esp-idf-provisioning",
+      "fullName": "orbital-systems/react-native-esp-idf-provisioning",
+      "description": "ESP IDF provisioning and custom data library for react-native",
+      "topics": [
+        "ble",
+        "esp32",
+        "esp32-idf",
+        "provisioning",
+        "softap",
+        "wifi-configuration"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.14",
+        "tagName": "v0.2.14",
+        "createdAt": "2024-01-25T15:02:40Z",
+        "publishedAt": "2024-01-25T15:02:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 187,
+      "weekDownloads": 46,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ble esp32 esp32-idf provisioning softap wifi-configuration",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.55,
+    "category": [
+      "ble",
+      "esp32",
+      "provisioning"
+    ]
+  }
+]

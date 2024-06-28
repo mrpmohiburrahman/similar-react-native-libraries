@@ -1,0 +1,85 @@
+[
+  {
+    "githubUrl": "https://github.com/Stringsaeed/react-native-tooltiplize",
+    "examples": [
+      "https://github.com/Stringsaeed/react-native-tooltiplize/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/Stringsaeed/react-native-tooltiplize/main/.github/images/with-overlay-ios.png",
+      "https://raw.githubusercontent.com/Stringsaeed/react-native-tooltiplize/main/.github/images/without-overlay-ios.png",
+      "https://raw.githubusercontent.com/Stringsaeed/react-native-tooltiplize/main/.github/images/without-overlay-android.png",
+      "https://raw.githubusercontent.com/Stringsaeed/react-native-tooltiplize/main/.github/images/with-overlay-android.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "npmPkg": "react-native-tooltiplize",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Stringsaeed/react-native-tooltiplize",
+        "clone": "https://github.com/Stringsaeed/react-native-tooltiplize.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-10T04:30:29Z",
+        "createdAt": "2022-11-04T23:47:52Z",
+        "pushedAt": "2022-11-09T03:36:19Z",
+        "issues": 2,
+        "subscribers": 2,
+        "stars": 32,
+        "forks": 1
+      },
+      "name": "react-native-tooltiplize",
+      "fullName": "Stringsaeed/react-native-tooltiplize",
+      "description": "react native tooltip like never before, using leading packages like react-native-reanimated v2, framer-motion, and @gorhom/portal",
+      "topics": [
+        "react-native",
+        "tooltip",
+        "tooltiplize",
+        "ios",
+        "popover",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.3.0",
+        "tagName": "v0.3.0",
+        "createdAt": "2022-11-09T03:36:15Z",
+        "publishedAt": "2022-11-09T03:36:22Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 575,
+      "weekDownloads": 6,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native tooltip tooltiplize ios popover android",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.238,
+    "category": [
+      "tooltip",
+      "tooltiplize",
+      "popover"
+    ]
+  }
+]

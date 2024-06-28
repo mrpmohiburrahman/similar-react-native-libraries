@@ -1,0 +1,291 @@
+[
+  {
+    "githubUrl": "https://github.com/iRoachie/react-native-material-tabs",
+    "images": [
+      "https://user-images.githubusercontent.com/5962998/59991843-f2e43600-9616-11e9-913b-b8fb8a566d68.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-material-tabs",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/iRoachie/react-native-material-tabs",
+        "clone": "https://github.com/iRoachie/react-native-material-tabs.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-29T10:09:09Z",
+        "createdAt": "2017-01-22T14:39:57Z",
+        "pushedAt": "2021-03-29T06:12:26Z",
+        "issues": 7,
+        "subscribers": 5,
+        "stars": 120,
+        "forks": 56
+      },
+      "name": "react-native-material-tabs",
+      "fullName": "iRoachie/react-native-material-tabs",
+      "description": "Material Design implementation of Tabs",
+      "topics": [
+        "material",
+        "react-native",
+        "material-design",
+        "tabs",
+        "component",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.2.0",
+        "tagName": "v4.2.0",
+        "createdAt": "2021-03-29T06:10:59Z",
+        "publishedAt": "2021-03-29T06:12:26Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3981,
+      "weekDownloads": 949,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "material react-native material-design tabs component typescript",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.012,
+    "category": [
+      "tabs"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/vonovak/react-native-bottom-toolbar",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-bottom-toolbar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/vonovak/react-native-bottom-toolbar",
+        "clone": "https://github.com/vonovak/react-native-bottom-toolbar.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-26T15:14:46Z",
+        "createdAt": "2016-11-19T13:02:22Z",
+        "pushedAt": "2022-12-03T15:40:42Z",
+        "issues": 4,
+        "subscribers": 5,
+        "stars": 48,
+        "forks": 10
+      },
+      "name": "react-native-bottom-toolbar",
+      "fullName": "vonovak/react-native-bottom-toolbar",
+      "description": "UI Bar in javascript for react native",
+      "topics": [
+        "react-native",
+        "menubar",
+        "menu",
+        "tabbar",
+        "tabs",
+        "ios",
+        "android"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "v4.3.0",
+        "tagName": "v4.3.0",
+        "createdAt": "2019-11-29T15:37:33Z",
+        "publishedAt": "2019-11-29T15:40:16Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 226,
+      "weekDownloads": 38,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native menubar menu tabbar tabs ios android",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.53,
+    "category": [
+      "tabbar",
+      "tabs"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Mindinventory/react-native-tabbar-interaction",
+    "npmPkg": "@mindinventory/react-native-tab-bar-interaction",
+    "examples": [
+      "https://github.com/Mindinventory/react-native-tabbar-interaction/tree/master/example"
+    ],
+    "images": [
+      "https://cdn.dribbble.com/users/1233499/screenshots/4844696/preview.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Mindinventory/react-native-tabbar-interaction",
+        "clone": "https://github.com/Mindinventory/react-native-tabbar-interaction.git",
+        "homepage": "https://www.mindinventory.com/react-native-app-development.php"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T09:25:49Z",
+        "createdAt": "2018-08-07T13:21:43Z",
+        "pushedAt": "2023-09-26T13:23:49Z",
+        "issues": 0,
+        "subscribers": 18,
+        "stars": 795,
+        "forks": 171
+      },
+      "name": "react-native-tabbar-interaction",
+      "fullName": "Mindinventory/react-native-tabbar-interaction",
+      "description": "Tabbar Component For React-Native",
+      "topics": [
+        "react-native",
+        "react-tab",
+        "reactnative",
+        "reactnative-animation-challenges",
+        "react-animation",
+        "tabbar",
+        "react-native-navigation",
+        "react-native-component",
+        "react-native-library",
+        "easy-to-use",
+        "android",
+        "ios",
+        "rtl-support",
+        "tabs"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 252,
+      "weekDownloads": 38,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-tab reactnative reactnative-animation-challenges react-animation tabbar react-native-navigation react-native-component react-native-library easy-to-use android ios rtl-support tabs",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.099,
+    "category": [
+      "tabbar",
+      "react-native-component",
+      "tabs"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/skv-headless/react-native-scrollable-tab-view",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-scrollable-tab-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ptomasroos/react-native-scrollable-tab-view",
+        "clone": "https://github.com/ptomasroos/react-native-scrollable-tab-view.git",
+        "homepage": "https://www.npmjs.com/package/react-native-scrollable-tab-view"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T04:51:50Z",
+        "createdAt": "2015-06-11T05:01:07Z",
+        "pushedAt": "2023-08-04T03:00:51Z",
+        "issues": 164,
+        "subscribers": 140,
+        "stars": 6915,
+        "forks": 2281
+      },
+      "name": "react-native-scrollable-tab-view",
+      "fullName": "ptomasroos/react-native-scrollable-tab-view",
+      "description": "Tabbed navigation that you can swipe between, each tab can have  its own ScrollView and maintain its own scroll position between swipes. Pleasantly animated. Customizable tab bar",
+      "topics": [
+        "react-native",
+        "tabs",
+        "swipe",
+        "animated"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "v1.0.0",
+        "tagName": "v1.0.0",
+        "createdAt": "2019-10-28T12:32:51Z",
+        "publishedAt": "2019-10-28T12:35:59Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 39558,
+      "weekDownloads": 8541,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native tabs swipe animated",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.034,
+    "category": [
+      "tabs"
+    ]
+  }
+]

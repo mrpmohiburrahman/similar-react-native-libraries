@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/malsapp/react-native-photo-upload",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-photo-upload",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/malsapp/react-native-photo-upload",
+        "clone": "https://github.com/malsapp/react-native-photo-upload.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-05-04T13:56:32Z",
+        "createdAt": "2017-06-03T12:05:05Z",
+        "pushedAt": "2022-02-10T15:33:51Z",
+        "issues": 51,
+        "subscribers": 9,
+        "stars": 207,
+        "forks": 88
+      },
+      "name": "react-native-photo-upload",
+      "fullName": "malsapp/react-native-photo-upload",
+      "description": "Cross platform photo upload component for react native",
+      "topics": [
+        "react-native",
+        "photos",
+        "react",
+        "reactjs",
+        "react-native-image-picker",
+        "react-native-fs",
+        "react-native-image-resizer"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 617,
+      "weekDownloads": 179,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native photos react reactjs react-native-image-picker react-native-fs react-native-image-resizer",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.209,
+    "category": [
+      "photos",
+      "react-native-image-resizer",
+      "react-native-image-picker"
+    ]
+  }
+]

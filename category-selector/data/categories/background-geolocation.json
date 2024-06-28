@@ -1,0 +1,69 @@
+[
+  {
+    "githubUrl": "https://github.com/transistorsoft/react-native-background-geolocation",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-background-geolocation",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/transistorsoft/react-native-background-geolocation",
+        "clone": "https://github.com/transistorsoft/react-native-background-geolocation.git",
+        "homepage": "http://shop.transistorsoft.com/pages/react-native-background-geolocation"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T15:05:47Z",
+        "createdAt": "2015-04-19T13:17:30Z",
+        "pushedAt": "2024-05-14T16:45:43Z",
+        "issues": 132,
+        "subscribers": 58,
+        "stars": 2546,
+        "forks": 425
+      },
+      "name": "react-native-background-geolocation",
+      "fullName": "transistorsoft/react-native-background-geolocation",
+      "description": "Sophisticated, battery-conscious background-geolocation with motion-detection",
+      "topics": [
+        "react-native",
+        "background-location",
+        "background",
+        "background-geolocation",
+        "location-tracking"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 56224,
+      "weekDownloads": 14750,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native background-location background background-geolocation location-tracking",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0.012,
+    "category": [
+      "background-location",
+      "background-geolocation",
+      "location-tracking"
+    ]
+  }
+]

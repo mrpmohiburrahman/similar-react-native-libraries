@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/sghiassy/react-native-sglistview",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-sglistview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sghiassy/react-native-sglistview",
+        "clone": "https://github.com/sghiassy/react-native-sglistview.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-30T07:43:37Z",
+        "createdAt": "2015-08-03T18:34:09Z",
+        "pushedAt": "2021-07-21T18:06:27Z",
+        "issues": 20,
+        "subscribers": 24,
+        "stars": 742,
+        "forks": 73
+      },
+      "name": "react-native-sglistview",
+      "fullName": "sghiassy/react-native-sglistview",
+      "description": "SGListView is a memory minded implementation of React Native's ListView",
+      "topics": [
+        "react",
+        "react-native",
+        "react-native-component",
+        "listview",
+        "sglistview",
+        "sglistview-performance",
+        "sg"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.1.2",
+        "tagName": "v0.1.2",
+        "createdAt": "2015-08-11T18:11:28Z",
+        "publishedAt": "2015-08-11T18:13:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 210,
+      "weekDownloads": 49,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native react-native-component listview sglistview sglistview-performance sg",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.714,
+    "category": [
+      "listview",
+      "react-native-component",
+      "sglistview",
+      "sglistview-performance",
+      "sg"
+    ]
+  }
+]

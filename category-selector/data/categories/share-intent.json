@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/meedan/react-native-share-menu",
+    "examples": [
+      "https://github.com/meedan/react-native-share-menu/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/meedan/react-native-share-menu/master/screenshots/android-menu.png",
+      "https://raw.githubusercontent.com/meedan/react-native-share-menu/master/screenshots/ios-share-view.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-share-menu",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Expensify/react-native-share-menu",
+        "clone": "https://github.com/Expensify/react-native-share-menu.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T18:33:59Z",
+        "createdAt": "2016-03-14T03:12:34Z",
+        "pushedAt": "2024-03-16T21:47:32Z",
+        "issues": 171,
+        "subscribers": 62,
+        "stars": 610,
+        "forks": 233
+      },
+      "name": "react-native-share-menu",
+      "fullName": "Expensify/react-native-share-menu",
+      "description": "A module for React Native that adds your app to the share menu of the device",
+      "topics": [
+        "react-native",
+        "share-intent"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.0.0",
+        "tagName": "v5.0.0",
+        "createdAt": "2020-08-01T17:43:41Z",
+        "publishedAt": "2020-08-01T17:46:54Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 10808,
+      "weekDownloads": 2537,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native share-intent",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.015,
+    "category": [
+      "share-intent"
+    ]
+  }
+]

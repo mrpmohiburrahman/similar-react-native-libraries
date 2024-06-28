@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/xcarpentier/react-native-country-picker-modal",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://getexponent.com/@xcarpentier/react-native-country-picker-demo"
+    ],
+    "npmPkg": "react-native-country-picker-modal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xcarpentier/react-native-country-picker-modal",
+        "clone": "https://github.com/xcarpentier/react-native-country-picker-modal.git",
+        "homepage": "https://reactnative.gallery/xcarpentier/country-picker"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T16:11:51Z",
+        "createdAt": "2016-03-03T20:13:50Z",
+        "pushedAt": "2024-01-05T02:57:35Z",
+        "issues": 53,
+        "subscribers": 19,
+        "stars": 1052,
+        "forks": 778
+      },
+      "name": "react-native-country-picker-modal",
+      "fullName": "xcarpentier/react-native-country-picker-modal",
+      "description": "🇦🇶 Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.",
+      "topics": [
+        "country-picker",
+        "countries",
+        "react-native",
+        "modal"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.0",
+        "tagName": "v2.0.0",
+        "createdAt": "2020-07-30T07:00:53Z",
+        "publishedAt": "2020-07-30T07:05:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 229958,
+      "weekDownloads": 54458,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "country-picker countries react-native modal",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "modal",
+      "countries",
+      "country-picker"
+    ]
+  }
+]

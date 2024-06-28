@@ -1,0 +1,85 @@
+[
+  {
+    "githubUrl": "https://github.com/kesha-antonov/react-native-action-cable",
+    "npmPkg": "@kesha-antonov/react-native-action-cable",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kesha-antonov/react-native-action-cable",
+        "clone": "https://github.com/kesha-antonov/react-native-action-cable.git",
+        "homepage": "https://www.npmjs.com/package/@kesha-antonov/react-native-action-cable"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-18T06:51:53Z",
+        "createdAt": "2016-01-25T02:01:39Z",
+        "pushedAt": "2024-03-02T20:11:26Z",
+        "issues": 6,
+        "subscribers": 6,
+        "stars": 57,
+        "forks": 23
+      },
+      "name": "react-native-action-cable",
+      "fullName": "kesha-antonov/react-native-action-cable",
+      "description": "Use Rails 5+ ActionCable channels with React Native for realtime magic.",
+      "topics": [
+        "react-native",
+        "reactnative",
+        "rails",
+        "actioncable",
+        "websockets",
+        "react",
+        "action-cable",
+        "rails5",
+        "rails6",
+        "realtime",
+        "realtime-messaging",
+        "realtime-updates",
+        "ruby-on-rails",
+        "rubyonrails"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.1.4",
+        "tagName": "1.1.4",
+        "createdAt": "2022-11-09T23:06:30Z",
+        "publishedAt": "2022-11-09T23:07:07Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15084,
+      "weekDownloads": 3456,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native reactnative rails actioncable websockets react action-cable rails5 rails6 realtime realtime-messaging realtime-updates ruby-on-rails rubyonrails",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.021,
+    "category": [
+      "rails",
+      "actioncable",
+      "websockets",
+      "action-cable",
+      "rails5",
+      "rails6",
+      "ruby-on-rails",
+      "rubyonrails"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/douglasjunior/react-native-recaptcha-that-works",
+    "examples": [
+      "https://github.com/douglasjunior/react-native-recaptcha-that-works/tree/master/Sample"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/douglasjunior/react-native-recaptcha-that-works/master/screenshots/normal.gif",
+      "https://raw.githubusercontent.com/douglasjunior/react-native-recaptcha-that-works/master/screenshots/invisible.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-recaptcha-that-works",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/douglasjunior/react-native-recaptcha-that-works",
+        "clone": "https://github.com/douglasjunior/react-native-recaptcha-that-works.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T14:11:56Z",
+        "createdAt": "2020-07-03T01:17:44Z",
+        "pushedAt": "2024-05-13T11:24:31Z",
+        "issues": 2,
+        "subscribers": 5,
+        "stars": 156,
+        "forks": 34
+      },
+      "name": "react-native-recaptcha-that-works",
+      "fullName": "douglasjunior/react-native-recaptcha-that-works",
+      "description": "⚛  A reCAPTCHA bridge for React Native that works (Android and iOS)",
+      "topics": [
+        "react-native",
+        "recaptcha",
+        "android",
+        "ios",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.0.0",
+        "tagName": "2.0.0",
+        "createdAt": "2023-08-19T18:14:08Z",
+        "publishedAt": "2023-08-19T18:14:59Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 68591,
+      "weekDownloads": 15981,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native recaptcha android ios hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.017,
+    "category": [
+      "recaptcha"
+    ]
+  }
+]

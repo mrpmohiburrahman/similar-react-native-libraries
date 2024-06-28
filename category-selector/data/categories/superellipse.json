@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/everdrone/react-native-super-ellipse-mask",
+    "ios": true,
+    "npmPkg": "react-native-super-ellipse-mask",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/everdrone/react-native-super-ellipse-mask",
+        "clone": "https://github.com/everdrone/react-native-super-ellipse-mask.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-18T07:59:07Z",
+        "createdAt": "2018-04-22T00:44:10Z",
+        "pushedAt": "2022-12-07T09:17:16Z",
+        "issues": 19,
+        "subscribers": 4,
+        "stars": 64,
+        "forks": 3
+      },
+      "name": "react-native-super-ellipse-mask",
+      "fullName": "everdrone/react-native-super-ellipse-mask",
+      "description": "Apple flavored smooth corners for React Native",
+      "topics": [
+        "react-native",
+        "squircle",
+        "mask",
+        "view",
+        "superellipse",
+        "apple",
+        "smooth-corners",
+        "corners",
+        "rounded-corners"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 62,
+      "weekDownloads": 5,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native squircle mask view superellipse apple smooth-corners corners rounded-corners",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.611,
+    "category": [
+      "squircle",
+      "superellipse",
+      "smooth-corners",
+      "corners",
+      "rounded-corners"
+    ]
+  }
+]

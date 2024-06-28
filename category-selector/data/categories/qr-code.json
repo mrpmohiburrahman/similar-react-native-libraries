@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/rosskhanas/react-qr-code",
+    "examples": [
+      "https://github.com/rosskhanas/react-qr-code/tree/master/demo",
+      "https://github.com/rosskhanas/react-qr-code/tree/master/storybooks/native"
+    ],
+    "images": [
+      "https://github.com/rosskhanas/react-qr-code/raw/master/demo-web.png",
+      "https://github.com/rosskhanas/react-qr-code/raw/master/demo-android.png",
+      "https://github.com/rosskhanas/react-qr-code/raw/master/demo-ios.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "react-qr-code",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rosskhanas/react-qr-code",
+        "clone": "https://github.com/rosskhanas/react-qr-code.git",
+        "homepage": "https://rosskhanas.github.io/react-qr-code/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T23:09:11Z",
+        "createdAt": "2016-07-28T22:43:55Z",
+        "pushedAt": "2024-05-13T15:33:47Z",
+        "issues": 14,
+        "subscribers": 9,
+        "stars": 654,
+        "forks": 71
+      },
+      "name": "react-qr-code",
+      "fullName": "rosskhanas/react-qr-code",
+      "description": "A QR code generator for React and React Native.",
+      "topics": [
+        "react",
+        "react-native",
+        "qr-code",
+        "component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1663671,
+      "weekDownloads": 401829,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native qr-code component",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.008,
+    "category": [
+      "qr-code"
+    ]
+  }
+]

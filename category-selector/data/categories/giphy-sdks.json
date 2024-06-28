@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/Giphy/giphy-react-native-sdk",
+    "npmPkg": "@giphy/react-native-sdk",
+    "examples": [
+      "https://github.com/Giphy/giphy-react-native-sdk/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/Giphy/giphy-react-native-sdk/main/docs/assets/example_app.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Giphy/giphy-react-native-sdk",
+        "clone": "https://github.com/Giphy/giphy-react-native-sdk.git",
+        "homepage": "https://developers.giphy.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T14:59:59Z",
+        "createdAt": "2021-05-06T15:11:24Z",
+        "pushedAt": "2024-05-22T14:59:54Z",
+        "issues": 1,
+        "subscribers": 25,
+        "stars": 61,
+        "forks": 25
+      },
+      "name": "giphy-react-native-sdk",
+      "fullName": "Giphy/giphy-react-native-sdk",
+      "description": "GIPHY React Native SDK ",
+      "topics": [
+        "gifs",
+        "giphy",
+        "giphy-sdks",
+        "react-native",
+        "sdk"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "v3.2.6",
+        "tagName": "v3.2.6",
+        "createdAt": "2024-05-22T14:59:51Z",
+        "publishedAt": "2024-05-22T15:00:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15012,
+      "weekDownloads": 3794,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "gifs giphy giphy-sdks react-native sdk",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.003,
+    "category": [
+      "gifs",
+      "giphy",
+      "giphy-sdks"
+    ]
+  }
+]

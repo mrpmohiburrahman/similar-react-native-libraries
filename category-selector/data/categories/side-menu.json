@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/aspect-apps/react-native-navigation-drawer-extension",
+    "examples": [
+      "https://github.com/aspect-apps/react-native-navigation-drawer-extension/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/LukeBrandonFarrell/open-source-images/master/react-native-navigation-drawer-extension/left-drawer.gif",
+      "https://raw.githubusercontent.com/LukeBrandonFarrell/open-source-images/master/react-native-navigation-drawer-extension/bottom-drawer.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-navigation-drawer-extension",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lukebrandonfarrell/react-native-navigation-drawer-extension",
+        "clone": "https://github.com/lukebrandonfarrell/react-native-navigation-drawer-extension.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T13:54:53Z",
+        "createdAt": "2019-02-18T16:19:52Z",
+        "pushedAt": "2023-03-05T15:50:32Z",
+        "issues": 28,
+        "subscribers": 9,
+        "stars": 209,
+        "forks": 33
+      },
+      "name": "react-native-navigation-drawer-extension",
+      "fullName": "lukebrandonfarrell/react-native-navigation-drawer-extension",
+      "description": "Drawer API built on top of wix react-native-navigation for iOS and Android (with TypeScript!)",
+      "topics": [
+        "react-native-navigation",
+        "wix",
+        "navigation",
+        "react-native",
+        "drawer",
+        "side-menu",
+        "ios",
+        "android",
+        "native",
+        "typescript",
+        "typescript-library"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "v4.3.1",
+        "tagName": "v4.3.1",
+        "createdAt": "2022-11-02T13:18:55Z",
+        "publishedAt": "2022-11-02T13:19:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1774,
+      "weekDownloads": 439,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native-navigation wix navigation react-native drawer side-menu ios android native typescript typescript-library",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.002,
+    "category": [
+      "react-native-navigation",
+      "navigation",
+      "drawer",
+      "side-menu"
+    ]
+  }
+]

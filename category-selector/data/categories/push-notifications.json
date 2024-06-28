@@ -1,0 +1,296 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-push-notification-ios/push-notification-ios",
+    "ios": true,
+    "npmPkg": "@react-native-community/push-notification-ios",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-push-notification/ios",
+        "clone": "https://github.com/react-native-push-notification/ios.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T03:50:07Z",
+        "createdAt": "2019-02-08T15:50:15Z",
+        "pushedAt": "2024-04-24T22:22:25Z",
+        "issues": 175,
+        "subscribers": 15,
+        "stars": 724,
+        "forks": 277
+      },
+      "name": "ios",
+      "fullName": "react-native-push-notification/ios",
+      "description": " React Native Push Notification API for iOS.",
+      "topics": [
+        "react-native",
+        "hacktoberfest",
+        "ios",
+        "push-notifications"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.11.0",
+        "tagName": "v1.11.0",
+        "createdAt": "2023-02-19T11:32:37Z",
+        "publishedAt": "2023-04-05T03:10:12Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 575591,
+      "weekDownloads": 126708,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native hacktoberfest ios push-notifications",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.03,
+    "category": [
+      "push-notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/zo0r/react-native-push-notification",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-push-notification",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zo0r/react-native-push-notification",
+        "clone": "https://github.com/zo0r/react-native-push-notification.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T16:21:25Z",
+        "createdAt": "2015-12-14T19:53:36Z",
+        "pushedAt": "2024-01-30T05:26:00Z",
+        "issues": 202,
+        "subscribers": 98,
+        "stars": 6720,
+        "forks": 2046
+      },
+      "name": "react-native-push-notification",
+      "fullName": "zo0r/react-native-push-notification",
+      "description": "React Native Local and Remote Notifications",
+      "topics": [
+        "react-native",
+        "android",
+        "ios",
+        "push-notifications"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "8.1.1",
+        "tagName": "8.1.1",
+        "createdAt": "2021-10-01T14:08:22Z",
+        "publishedAt": "2021-10-01T14:23:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 389183,
+      "weekDownloads": 88690,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android ios push-notifications",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.272,
+    "category": [
+      "push-notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/geektimecoil/react-native-onesignal",
+    "ios": true,
+    "android": true,
+    "goldstar": true,
+    "npmPkg": "react-native-onesignal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/OneSignal/react-native-onesignal",
+        "clone": "https://github.com/OneSignal/react-native-onesignal.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T13:07:11Z",
+        "createdAt": "2016-02-19T11:03:31Z",
+        "pushedAt": "2024-05-24T21:22:24Z",
+        "issues": 90,
+        "subscribers": 51,
+        "stars": 1556,
+        "forks": 368
+      },
+      "name": "react-native-onesignal",
+      "fullName": "OneSignal/react-native-onesignal",
+      "description": "React Native Library for OneSignal Push Notifications Service",
+      "topics": [
+        "react-native",
+        "onesignal",
+        "react-native-onesignal",
+        "push-notifications",
+        "android",
+        "ios",
+        "push",
+        "mobile",
+        "onesignal-instructions",
+        "onesignal-notifications",
+        "notifications"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "Release 5.2.0",
+        "tagName": "5.2.0",
+        "createdAt": "2024-05-16T22:13:41Z",
+        "publishedAt": "2024-05-16T22:35:50Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 176537,
+      "weekDownloads": 43719,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native onesignal react-native-onesignal push-notifications android ios push mobile onesignal-instructions onesignal-notifications notifications",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recommended",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.002,
+    "category": [
+      "onesignal",
+      "react-native-onesignal",
+      "push-notifications",
+      "onesignal-notifications",
+      "notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/bamlab/react-native-batch-push",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-batch-push",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bamlab/react-native-batch-push",
+        "clone": "https://github.com/bamlab/react-native-batch-push.git",
+        "homepage": "https://bamlab.github.io/react-native-batch-push"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T18:59:01Z",
+        "createdAt": "2017-09-17T19:41:51Z",
+        "pushedAt": "2022-07-28T09:44:54Z",
+        "issues": 0,
+        "subscribers": 21,
+        "stars": 41,
+        "forks": 23
+      },
+      "name": "react-native-batch-push",
+      "fullName": "bamlab/react-native-batch-push",
+      "description": "⛔️ DEPRECATED : React Native integration of Batch.com push notifications SDK",
+      "topics": [
+        "react-native",
+        "react-native-library",
+        "batch",
+        "push-notifications",
+        "archived",
+        "deprecated",
+        "obsolete"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v7.0.3",
+        "tagName": "v7.0.3",
+        "createdAt": "2022-01-25T17:07:17Z",
+        "publishedAt": "2022-01-25T17:08:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-library batch push-notifications archived deprecated obsolete",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.583,
+    "category": [
+      "push-notifications",
+      "batch"
+    ]
+  }
+]

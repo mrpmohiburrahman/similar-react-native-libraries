@@ -1,0 +1,73 @@
+[
+  {
+    "githubUrl": "https://github.com/wix/react-native-keyboard-input",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-keyboard-input",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wix-incubator/react-native-keyboard-input",
+        "clone": "https://github.com/wix-incubator/react-native-keyboard-input.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-27T23:28:19Z",
+        "createdAt": "2016-12-14T09:49:51Z",
+        "pushedAt": "2023-07-18T20:22:33Z",
+        "issues": 79,
+        "subscribers": 284,
+        "stars": 817,
+        "forks": 149
+      },
+      "name": "react-native-keyboard-input",
+      "fullName": "wix-incubator/react-native-keyboard-input",
+      "description": "Use your own custom input component instead of the system keyboard",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "keyboard-input",
+        "keyboard",
+        "keyboard-component",
+        "inputaccessoryview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6001,
+      "weekDownloads": 1543,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android keyboard-input keyboard keyboard-component inputaccessoryview",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.243,
+    "category": [
+      "keyboard-input",
+      "keyboard",
+      "keyboard-component",
+      "inputaccessoryview"
+    ]
+  }
+]

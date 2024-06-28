@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/Mindinventory/awesome-clock",
+    "npmPkg": "@mindinventory/react-native-awesome-clock",
+    "examples": [
+      "https://github.com/Mindinventory/awesome-clock/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/87525902/181426102-61d69a91-922f-45ef-aebb-0a087894e6ad.gif",
+      "https://user-images.githubusercontent.com/87525902/181426355-eb55b0e1-dc2e-484f-8675-f699e61bea80.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Mindinventory/awesome-clock",
+        "clone": "https://github.com/Mindinventory/awesome-clock.git",
+        "homepage": "https://www.mindinventory.com/react-native-app-development.php"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-30T07:35:37Z",
+        "createdAt": "2022-07-19T07:03:50Z",
+        "pushedAt": "2022-07-28T09:55:02Z",
+        "issues": 0,
+        "subscribers": 5,
+        "stars": 14,
+        "forks": 0
+      },
+      "name": "awesome-clock",
+      "fullName": "Mindinventory/awesome-clock",
+      "description": "MindInventory react-native-awesome-clock lib can be used to show this awesome Clock UI in your react-native projects",
+      "topics": [
+        "awesome-clock",
+        "customcomponent",
+        "npm-package",
+        "npmjs",
+        "reactnative",
+        "clock-view"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "awesome-clock customcomponent npm-package npmjs reactnative clock-view",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.675,
+    "category": [
+      "clock-view"
+    ]
+  }
+]

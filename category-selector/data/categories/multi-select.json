@@ -1,0 +1,90 @@
+[
+  {
+    "githubUrl": "https://github.com/azeezat/react-native-select",
+    "npmPkg": "react-native-input-select",
+    "examples": [
+      "https://github.com/azeezat/react-native-select/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/9849221/227393554-91ed1a92-d229-4814-84d8-5f9095e8d048.png",
+      "https://user-images.githubusercontent.com/9849221/227392644-a039424a-9bdf-4253-b984-7b043e4a9545.png",
+      "https://user-images.githubusercontent.com/9849221/227391036-44b5e935-bc5e-48d6-a3a9-7a285a4879fd.png",
+      "https://user-images.githubusercontent.com/9849221/227393546-3aba8a28-f437-4f8f-9611-bf300c5af8f2.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/azeezat/react-native-select",
+        "clone": "https://github.com/azeezat/react-native-select.git",
+        "homepage": "https://azeezat.github.io/react-native-select/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T04:40:28Z",
+        "createdAt": "2022-01-04T07:33:01Z",
+        "pushedAt": "2024-05-13T07:02:17Z",
+        "issues": 5,
+        "subscribers": 2,
+        "stars": 76,
+        "forks": 12
+      },
+      "name": "react-native-select",
+      "fullName": "azeezat/react-native-select",
+      "description": "A customizable dropdown selection package for react-native for android and iOS with multiple select and search capabilities. Look is consistent across platforms. Compatible with Expo.",
+      "topics": [
+        "react",
+        "react-native",
+        "android",
+        "ios",
+        "dropdown",
+        "select",
+        "multi-select",
+        "multipleselection",
+        "search",
+        "picker"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.3.4",
+        "tagName": "v1.3.4",
+        "createdAt": "2024-02-19T09:49:49Z",
+        "publishedAt": "2024-02-19T10:03:48Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4364,
+      "weekDownloads": 1237,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native android ios dropdown select multi-select multipleselection search picker",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.033,
+    "category": [
+      "dropdown",
+      "select",
+      "multi-select",
+      "multipleselection",
+      "picker"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/xanderdeseyn/react-native-responsive-linechart",
+    "examples": [
+      "https://github.com/xanderdeseyn/react-native-responsive-linechart/tree/master/demo"
+    ],
+    "images": [
+      "https://iili.io/dwGw92.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-responsive-linechart",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xanderdeseyn/react-native-responsive-linechart",
+        "clone": "https://github.com/xanderdeseyn/react-native-responsive-linechart.git",
+        "homepage": "https://react-native-responsive-linechart.surge.sh"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-08T10:09:28Z",
+        "createdAt": "2018-03-28T20:28:07Z",
+        "pushedAt": "2023-01-06T13:43:04Z",
+        "issues": 69,
+        "subscribers": 3,
+        "stars": 202,
+        "forks": 45
+      },
+      "name": "react-native-responsive-linechart",
+      "fullName": "xanderdeseyn/react-native-responsive-linechart",
+      "description": "A customizable and responsive line or area chart for react-native",
+      "topics": [
+        "linechart",
+        "responsive",
+        "svg",
+        "area-chart"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v5.7.1",
+        "createdAt": "2021-03-30T12:01:10Z",
+        "publishedAt": "2021-03-30T12:04:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11101,
+      "weekDownloads": 1802,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "linechart responsive svg area-chart",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.088,
+    "category": [
+      "linechart",
+      "area-chart"
+    ]
+  }
+]

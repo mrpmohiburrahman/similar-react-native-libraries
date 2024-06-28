@@ -1,0 +1,61 @@
+[
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/jest-expo-puppeteer",
+    "web": true,
+    "expoGo": true,
+    "dev": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2022-11-23T21:21:39Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2022-11-23T21:21:39Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29828
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "jest-expo-puppeteer",
+    "npm": {
+      "downloads": 42,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.617,
+    "topicSearchString": "",
+    "matchScore": 100,
+    "category": [
+      "jest"
+    ]
+  }
+]

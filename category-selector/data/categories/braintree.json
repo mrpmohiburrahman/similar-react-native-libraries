@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/smarkets/react-native-paypal",
+    "images": [
+      "https://s3-eu-west-1.amazonaws.com/smarkets-mobile/PayPal+demo+lowres.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-paypal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/smarkets/react-native-paypal",
+        "clone": "https://github.com/smarkets/react-native-paypal.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-12T17:10:37Z",
+        "createdAt": "2018-10-12T11:53:04Z",
+        "pushedAt": "2023-01-06T15:25:49Z",
+        "issues": 38,
+        "subscribers": 13,
+        "stars": 113,
+        "forks": 55
+      },
+      "name": "react-native-paypal",
+      "fullName": "smarkets/react-native-paypal",
+      "description": "React Native library that implements PayPal Checkout flow using purely native code",
+      "topics": [
+        "react-native",
+        "paypal",
+        "paypal-checkout",
+        "braintree",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "4.1.0",
+        "tagName": "4.1.0",
+        "createdAt": "2021-02-14T23:22:58Z",
+        "publishedAt": "2021-02-14T23:24:21Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 672,
+      "weekDownloads": 182,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native paypal paypal-checkout braintree ios android",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.021,
+    "category": [
+      "paypal",
+      "paypal-checkout",
+      "braintree"
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "githubUrl": "https://github.com/rmrs/react-native-settings",
+    "examples": [
+      "https://github.com/rmrs/react-native-settings/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-settings",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rmrs/react-native-settings",
+        "clone": "https://github.com/rmrs/react-native-settings.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-08T10:10:22Z",
+        "createdAt": "2017-04-22T11:57:17Z",
+        "pushedAt": "2023-02-09T07:50:07Z",
+        "issues": 17,
+        "subscribers": 4,
+        "stars": 225,
+        "forks": 33
+      },
+      "name": "react-native-settings",
+      "fullName": "rmrs/react-native-settings",
+      "description": "Allows access to various Android and iOS device settings using React Native",
+      "topics": [
+        "react-native",
+        "settings",
+        "android",
+        "xcode"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.0",
+        "tagName": "v1.0.0",
+        "createdAt": "2022-11-05T16:20:56Z",
+        "publishedAt": "2022-11-05T16:26:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6364,
+      "weekDownloads": 1568,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native settings android xcode",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.004,
+    "category": [
+      "settings"
+    ]
+  }
+]

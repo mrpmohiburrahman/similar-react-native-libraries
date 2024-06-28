@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/ascoders/react-native-image-viewer",
+    "images": [
+      "https://cloud.githubusercontent.com/assets/7970947/21086300/388dedfc-c056-11e6-955e-0a2a0b541f7f.gif",
+      "https://cloud.githubusercontent.com/assets/7970947/21086323/7355face-c056-11e6-8d68-384000d41d47.gif",
+      "https://user-images.githubusercontent.com/7970947/37651584-8b642458-2c73-11e8-9ecc-ef7c72aca1be.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-image-zoom-viewer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ascoders/react-native-image-viewer",
+        "clone": "https://github.com/ascoders/react-native-image-viewer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T16:12:36Z",
+        "createdAt": "2016-09-13T13:43:44Z",
+        "pushedAt": "2021-09-20T21:30:31Z",
+        "issues": 195,
+        "subscribers": 23,
+        "stars": 2437,
+        "forks": 577
+      },
+      "name": "react-native-image-viewer",
+      "fullName": "ascoders/react-native-image-viewer",
+      "description": "🚀 tiny & fast lib for react native image viewer pan and zoom",
+      "topics": [
+        "react-native",
+        "image-viewer",
+        "react-component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v3.0.1",
+        "createdAt": "2020-05-19T21:35:09Z",
+        "publishedAt": "2020-05-19T21:37:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 157337,
+      "weekDownloads": 37280,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native image-viewer react-component",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "image-viewer"
+    ]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "githubUrl": "https://github.com/websitebeaver/react-native-document-scanner-plugin",
+    "images": [
+      "https://user-images.githubusercontent.com/26162804/160485984-e6c46563-56ee-4be9-b241-34a186e0029d.gif",
+      "https://user-images.githubusercontent.com/26162804/160306955-af9c5dd6-5cdf-4e2c-8770-c734a594985d.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-document-scanner-plugin",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/WebsiteBeaver/react-native-document-scanner-plugin",
+        "clone": "https://github.com/WebsiteBeaver/react-native-document-scanner-plugin.git",
+        "homepage": "https://react-native-document-scanner.js.org/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T14:41:05Z",
+        "createdAt": "2022-07-23T22:45:42Z",
+        "pushedAt": "2024-03-21T15:35:09Z",
+        "issues": 16,
+        "subscribers": 11,
+        "stars": 243,
+        "forks": 44
+      },
+      "name": "react-native-document-scanner-plugin",
+      "fullName": "WebsiteBeaver/react-native-document-scanner-plugin",
+      "description": "A React Native document scanner plugin for Android and iOS",
+      "topics": [
+        "react-native",
+        "document-scanner"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 23640,
+      "weekDownloads": 5647,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native document-scanner",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.011,
+    "category": [
+      "document-scanner"
+    ]
+  }
+]

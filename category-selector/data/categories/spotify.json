@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/cjam/react-native-spotify-remote",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-spotify-remote",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/cjam/react-native-spotify-remote",
+        "clone": "https://github.com/cjam/react-native-spotify-remote.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T17:40:57Z",
+        "createdAt": "2019-03-09T03:58:51Z",
+        "pushedAt": "2024-02-24T13:57:36Z",
+        "issues": 75,
+        "subscribers": 10,
+        "stars": 237,
+        "forks": 95
+      },
+      "name": "react-native-spotify-remote",
+      "fullName": "cjam/react-native-spotify-remote",
+      "description": "React Native wrapper around the Spotify Remote SDK",
+      "topics": [
+        "spotify",
+        "react-native",
+        "objective-c",
+        "cocoapods",
+        "xcode",
+        "typescript",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.0.0-1",
+        "tagName": "v1.0.0-1",
+        "createdAt": "2022-06-17T14:51:37Z",
+        "publishedAt": "2022-06-17T14:51:45Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 337,
+      "weekDownloads": 47,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "spotify react-native objective-c cocoapods xcode typescript android ios",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Lots of open issues"
+    ],
+    "popularity": -0.11,
+    "category": [
+      "spotify"
+    ]
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-share/react-native-share",
+    "images": [
+      "https://react-native-share.github.io/react-native-share/img/assets-docs/android-component.gif",
+      "https://react-native-share.github.io/react-native-share/img/assets-docs/ios-component.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-share/react-native-share",
+        "clone": "https://github.com/react-native-share/react-native-share.git",
+        "homepage": "https://react-native-share.github.io/react-native-share"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T09:31:39Z",
+        "createdAt": "2015-09-30T02:27:34Z",
+        "pushedAt": "2024-05-24T09:31:39Z",
+        "forks": 873,
+        "issues": 16,
+        "subscribers": 60,
+        "stars": 3553
+      },
+      "name": "react-native-share",
+      "fullName": "react-native-share/react-native-share",
+      "description": "Social share, sending simple data to other apps.",
+      "topics": [
+        "react-native",
+        "android",
+        "ios",
+        "windows",
+        "bridge",
+        "react",
+        "share",
+        "intent",
+        "uwp"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v10.2.1",
+        "tagName": "v10.2.1",
+        "createdAt": "2024-05-17T07:35:51Z",
+        "publishedAt": "2024-05-17T07:36:03Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "npmPkg": "react-native-share",
+    "npm": {
+      "downloads": 1117785,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 233657
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.041,
+    "topicSearchString": "react-native android ios windows bridge react share intent uwp",
+    "matchScore": 111,
+    "category": [
+      "share"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/lucasferreira/react-native-send-intent",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lucasferreira/react-native-send-intent",
+        "clone": "https://github.com/lucasferreira/react-native-send-intent.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-09-28T12:20:08Z",
+        "createdAt": "2015-11-05T16:33:08Z",
+        "pushedAt": "2021-09-28T12:20:08Z",
+        "forks": 151,
+        "issues": 49,
+        "subscribers": 10,
+        "stars": 412
+      },
+      "name": "react-native-send-intent",
+      "fullName": "lucasferreira/react-native-send-intent",
+      "description": "React Native Android module to use Android's Intent actions for send text to shareable apps or make phone calls or opening third party apps",
+      "topics": [
+        "react",
+        "react-native",
+        "react-component",
+        "intent",
+        "email",
+        "send",
+        "sent",
+        "share",
+        "text",
+        "phone",
+        "sms",
+        "call",
+        "calls",
+        "dial",
+        "number",
+        "maps",
+        "android"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-send-intent",
+    "npm": {
+      "downloads": 25006,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5291
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.038,
+    "topicSearchString": "react react-native react-component intent email send sent share text phone sms call calls dial number maps android",
+    "matchScore": 11,
+    "category": [
+      "share"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/doefler/react-native-social-share",
+    "ios": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/doefler/react-native-social-share",
+        "clone": "https://github.com/doefler/react-native-social-share.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-08-28T08:24:46Z",
+        "createdAt": "2015-04-26T09:31:27Z",
+        "pushedAt": "2019-08-28T08:24:46Z",
+        "forks": 73,
+        "issues": 22,
+        "subscribers": 10,
+        "stars": 418
+      },
+      "name": "react-native-social-share",
+      "fullName": "doefler/react-native-social-share",
+      "description": "Use the iOS and Android native Twitter and Facebook share popup with React Native https://github.com/doefler/react-native-social-share",
+      "topics": [
+        "react",
+        "twitter",
+        "facebook",
+        "slcomposeviewcontroller",
+        "rctbridgemodule",
+        "social",
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "mobile",
+        "ui",
+        "react-native-facebook",
+        "react-native-twitter",
+        "popup",
+        "share-popups"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-social-share",
+    "npm": {
+      "downloads": 397,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 36
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.409,
+    "topicSearchString": "react twitter facebook slcomposeviewcontroller rctbridgemodule social react-native react-component react-native-component mobile ui react-native-facebook react-native-twitter popup share-popups",
+    "matchScore": 0.111,
+    "category": [
+      "share"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/naoufal/react-native-activity-view",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/naoufal/react-native-activity-view",
+        "clone": "https://github.com/naoufal/react-native-activity-view.git",
+        "homepage": "https://www.npmjs.com/package/react-native-activity-view"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2017-03-22T23:49:10Z",
+        "createdAt": "2015-06-07T04:25:13Z",
+        "pushedAt": "2017-03-22T23:49:10Z",
+        "forks": 56,
+        "issues": 21,
+        "subscribers": 8,
+        "stars": 481
+      },
+      "name": "react-native-activity-view",
+      "fullName": "naoufal/react-native-activity-view",
+      "description": "iOS share and action sheets for React Native",
+      "topics": [
+        "react-native",
+        "react",
+        "native",
+        "activity-view",
+        "react-component",
+        "react-native-component",
+        "action-sheet",
+        "share-sheet",
+        "share",
+        "sheet",
+        "facebook",
+        "twitter",
+        "mail",
+        "social",
+        "airdrop"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "0.2.11",
+        "tagName": "v0.2.11",
+        "createdAt": "2017-03-22T23:49:10Z",
+        "publishedAt": "2017-03-22T23:51:06Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-activity-view",
+    "npm": {
+      "downloads": 408,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 95
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.267,
+    "topicSearchString": "react-native react native activity-view react-component react-native-component action-sheet share-sheet share sheet facebook twitter mail social airdrop",
+    "matchScore": 0.011,
+    "category": [
+      "share"
+    ]
+  }
+]

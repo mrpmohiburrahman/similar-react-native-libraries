@@ -1,0 +1,64 @@
+[
+  {
+    "githubUrl": "https://github.com/meinto/react-native-mirror",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-mirror",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/meinto/react-native-mirror",
+        "clone": "https://github.com/meinto/react-native-mirror.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2020-08-11T11:34:17Z",
+        "createdAt": "2017-05-18T21:52:56Z",
+        "pushedAt": "2018-08-06T05:35:16Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 5,
+        "forks": 1
+      },
+      "name": "react-native-mirror",
+      "fullName": "meinto/react-native-mirror",
+      "description": "Library to mirror equal react-native components",
+      "topics": [
+        "react-native",
+        "mirror",
+        "javascript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 76,
+      "weekDownloads": 8,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native mirror javascript",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.695,
+    "category": [
+      "mirror"
+    ]
+  }
+]

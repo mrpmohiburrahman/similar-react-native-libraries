@@ -1,0 +1,220 @@
+[
+  {
+    "githubUrl": "https://github.com/gmsgowtham/react-native-marked",
+    "examples": [
+      "https://github.com/gmsgowtham/react-native-marked/tree/main/examples/react-native-marked-sample"
+    ],
+    "images": [
+      "https://github.com/gmsgowtham/react-native-marked/blob/main/assets/dark-theme.png",
+      "https://github.com/gmsgowtham/react-native-marked/blob/main/assets/light-theme.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-marked",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gmsgowtham/react-native-marked",
+        "clone": "https://github.com/gmsgowtham/react-native-marked.git",
+        "homepage": "https://www.npmjs.com/package/react-native-marked"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T19:19:29Z",
+        "createdAt": "2022-08-20T06:45:23Z",
+        "pushedAt": "2024-05-24T12:43:30Z",
+        "issues": 15,
+        "subscribers": 3,
+        "stars": 170,
+        "forks": 10
+      },
+      "name": "react-native-marked",
+      "fullName": "gmsgowtham/react-native-marked",
+      "description": "Markdown renderer for React Native powered by marked.js",
+      "topics": [
+        "markdown",
+        "react-native",
+        "react",
+        "renderer",
+        "marked-js",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v6.0.4",
+        "tagName": "v6.0.4",
+        "createdAt": "2023-11-14T10:57:25Z",
+        "publishedAt": "2023-11-14T10:57:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 21517,
+      "weekDownloads": 5388,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "markdown react-native react renderer marked-js typescript",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0,
+    "category": [
+      "markdown",
+      "marked-js"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Expensify/react-native-live-markdown",
+    "examples": [
+      "https://github.com/Expensify/react-native-live-markdown/tree/main/example",
+      "https://github.com/Expensify/react-native-live-markdown/tree/main/WebExample"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/Expensify/react-native-live-markdown/main/assets/hero-animation.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "react-native-live-markdown",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Expensify/react-native-live-markdown",
+        "clone": "https://github.com/Expensify/react-native-live-markdown.git",
+        "homepage": "https://www.npmjs.com/package/@expensify/react-native-live-markdown"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T16:51:03Z",
+        "createdAt": "2023-11-20T08:24:03Z",
+        "pushedAt": "2024-05-24T15:00:16Z",
+        "issues": 56,
+        "subscribers": 39,
+        "stars": 610,
+        "forks": 29
+      },
+      "name": "react-native-live-markdown",
+      "fullName": "Expensify/react-native-live-markdown",
+      "description": "Drop-in replacement for React Native's TextInput component with Markdown formatting.",
+      "topics": [
+        "markdown",
+        "react-native",
+        "textinput"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "markdown react-native textinput",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.575,
+    "category": [
+      "markdown"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/CharlesMangwa/react-native-simple-markdown",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-simple-markdown",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/CharlesMangwa/react-native-simple-markdown",
+        "clone": "https://github.com/CharlesMangwa/react-native-simple-markdown.git",
+        "homepage": "https://www.npmjs.com/package/react-native-simple-markdown"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:33:22Z",
+        "createdAt": "2016-08-02T08:34:35Z",
+        "pushedAt": "2022-12-06T19:47:14Z",
+        "issues": 56,
+        "subscribers": 6,
+        "stars": 413,
+        "forks": 132
+      },
+      "name": "react-native-simple-markdown",
+      "fullName": "CharlesMangwa/react-native-simple-markdown",
+      "description": "📜 React Native Markdown component (iOS & Android).",
+      "topics": [
+        "ios",
+        "android",
+        "react",
+        "react-native",
+        "markdown",
+        "library"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.1.0",
+        "tagName": "v1.1.0",
+        "createdAt": "2018-01-18T08:08:32Z",
+        "publishedAt": "2018-01-18T08:22:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5590,
+      "weekDownloads": 1258,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ios android react react-native markdown library",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.025,
+    "category": [
+      "markdown"
+    ]
+  }
+]

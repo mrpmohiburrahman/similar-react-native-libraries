@@ -1,0 +1,72 @@
+[
+  {
+    "githubUrl": "https://github.com/gs-akhan/react-native-chooser",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-chooser",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gs-akhan/react-native-chooser",
+        "clone": "https://github.com/gs-akhan/react-native-chooser.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-08T17:17:39Z",
+        "createdAt": "2016-11-27T17:52:06Z",
+        "pushedAt": "2021-06-16T18:51:41Z",
+        "issues": 16,
+        "subscribers": 7,
+        "stars": 154,
+        "forks": 47
+      },
+      "name": "react-native-chooser",
+      "fullName": "gs-akhan/react-native-chooser",
+      "description": "Simple Cross Platform HTML Select Tag for react-native",
+      "topics": [
+        "react-native",
+        "select-tag",
+        "chooser"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.6.0",
+        "tagName": "v1.6.0",
+        "createdAt": "2017-08-16T20:18:29Z",
+        "publishedAt": "2017-08-17T12:06:30Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 310,
+      "weekDownloads": 62,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native select-tag chooser",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.298,
+    "category": [
+      "select-tag",
+      "chooser"
+    ]
+  }
+]

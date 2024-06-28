@@ -1,0 +1,92 @@
+[
+  {
+    "githubUrl": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts",
+    "images": [
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/bars.png",
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/lineArea.png",
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/blues.png",
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/scrollLine.gif",
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/animatedDataLine.gif"
+    ],
+    "android": true,
+    "ios": true,
+    "expoGo": true,
+    "npmPkg": "react-native-gifted-charts",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts",
+        "clone": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts.git",
+        "homepage": "https://www.npmjs.com/package/react-native-gifted-charts"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:55:41Z",
+        "createdAt": "2021-07-30T13:10:45Z",
+        "pushedAt": "2024-05-23T20:43:38Z",
+        "issues": 76,
+        "subscribers": 4,
+        "stars": 596,
+        "forks": 128
+      },
+      "name": "react-native-gifted-charts",
+      "fullName": "Abhinandan-Kushwaha/react-native-gifted-charts",
+      "description": "The most complete library for Bar, Line, Area, Pie, Donut, Stacked Bar and Population Pyramid charts in React Native. Allows 2D, 3D, gradient, animations and live data updates.",
+      "topics": [
+        "charts",
+        "barchart",
+        "piechart",
+        "line-charts",
+        "pie-chart",
+        "donut-chart",
+        "area-chart",
+        "react-native",
+        "data-visualization",
+        "graph",
+        "population",
+        "pyramid",
+        "pyramid-chart"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 57913,
+      "weekDownloads": 14551,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "charts barchart piechart line-charts pie-chart donut-chart area-chart react-native data-visualization graph population pyramid pyramid-chart",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0.001,
+    "category": [
+      "charts",
+      "barchart",
+      "piechart",
+      "line-charts",
+      "pie-chart",
+      "area-chart",
+      "data-visualization",
+      "graph",
+      "pyramid-chart",
+      "pyramid"
+    ]
+  }
+]

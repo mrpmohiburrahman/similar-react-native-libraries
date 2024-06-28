@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/animate-react-native/marquee",
+    "npmPkg": "@animatereactnative/marquee",
+    "examples": [
+      "https://github.com/animate-react-native/marquee/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/animate-react-native/marquee",
+        "clone": "https://github.com/animate-react-native/marquee.git",
+        "homepage": "https://www.animatereactnative.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T08:51:11Z",
+        "createdAt": "2023-08-25T20:40:34Z",
+        "pushedAt": "2023-12-31T13:52:57Z",
+        "issues": 5,
+        "subscribers": 4,
+        "stars": 155,
+        "forks": 11
+      },
+      "name": "marquee",
+      "fullName": "animate-react-native/marquee",
+      "description": "A React Native Marquee component.",
+      "topics": [
+        "expo",
+        "news-ticker",
+        "react-native",
+        "react-native-marquee",
+        "typescript",
+        "react-native-ticker",
+        "react-native-reanimated",
+        "reanimated3"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.0",
+        "tagName": "v0.2.0",
+        "createdAt": "2023-08-25T20:56:41Z",
+        "publishedAt": "2023-08-25T20:56:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4320,
+      "weekDownloads": 1088,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "expo news-ticker react-native react-native-marquee typescript react-native-ticker react-native-reanimated reanimated3",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.002,
+    "category": [
+      "react-native-marquee"
+    ]
+  }
+]

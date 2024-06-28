@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/brh55/react-native-open-maps",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/brh55/react-native-open-maps",
+        "clone": "https://github.com/brh55/react-native-open-maps.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-07-17T16:02:52Z",
+        "createdAt": "2017-07-27T05:39:43Z",
+        "pushedAt": "2023-07-17T16:02:52Z",
+        "forks": 48,
+        "issues": 6,
+        "subscribers": 4,
+        "stars": 347
+      },
+      "name": "react-native-open-maps",
+      "fullName": "brh55/react-native-open-maps",
+      "description": "🗺   A simple react-native library to perform cross-platform map actions (Google, Apple, or Yandex Maps)",
+      "topics": [
+        "react-native",
+        "maps",
+        "open-link",
+        "apple-maps",
+        "google-maps",
+        "map-deep-links",
+        "map-url-scheme",
+        "react-native-linking",
+        "linking"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.4.0",
+        "tagName": "v0.4.0",
+        "createdAt": "2021-08-26T02:50:17Z",
+        "publishedAt": "2021-08-26T03:29:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-open-maps",
+    "npm": {
+      "downloads": 60679,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 13386
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.029,
+    "topicSearchString": "react-native maps open-link apple-maps google-maps map-deep-links map-url-scheme react-native-linking linking",
+    "matchScore": 1,
+    "category": [
+      "google-maps"
+    ]
+  }
+]

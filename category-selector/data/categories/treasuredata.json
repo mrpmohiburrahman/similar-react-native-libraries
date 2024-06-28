@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/quipper/react-native-td",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-td",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/quipper/react-native-td",
+        "clone": "https://github.com/quipper/react-native-td.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-01-28T10:44:12Z",
+        "createdAt": "2017-12-22T07:34:19Z",
+        "pushedAt": "2018-07-01T04:25:38Z",
+        "issues": 0,
+        "subscribers": 171,
+        "stars": 28,
+        "forks": 4
+      },
+      "name": "react-native-td",
+      "fullName": "quipper/react-native-td",
+      "description": "An unofficial React Native SDK for Treasure Data.",
+      "topics": [
+        "react-native",
+        "typescript",
+        "treasuredata"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "0.9.3",
+        "tagName": "0.9.3",
+        "createdAt": "2018-07-01T04:17:21Z",
+        "publishedAt": "2018-07-01T04:26:44Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 33,
+      "weekDownloads": 5,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native typescript treasuredata",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.791,
+    "category": [
+      "treasuredata"
+    ]
+  }
+]

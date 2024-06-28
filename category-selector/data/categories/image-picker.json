@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-image-picker/react-native-image-picker",
+    "examples": [
+      "https://github.com/react-native-image-picker/react-native-image-picker/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "react-native-image-picker",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-image-picker/react-native-image-picker",
+        "clone": "https://github.com/react-native-image-picker/react-native-image-picker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T13:57:12Z",
+        "createdAt": "2015-06-08T20:25:31Z",
+        "pushedAt": "2024-05-10T10:26:14Z",
+        "issues": 287,
+        "subscribers": 111,
+        "stars": 8387,
+        "forks": 2066
+      },
+      "name": "react-native-image-picker",
+      "fullName": "react-native-image-picker/react-native-image-picker",
+      "description": ":sunrise_over_mountains: A React Native module that allows you to use native UI to select media from the device library or directly from the camera.",
+      "topics": [
+        "react-native",
+        "image-picker",
+        "picker"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v7.1.2",
+        "tagName": "v7.1.2",
+        "createdAt": "2024-03-20T20:18:29Z",
+        "publishedAt": "2024-03-20T20:18:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1004629,
+      "weekDownloads": 218388,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native image-picker picker",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.033,
+    "category": [
+      "image-picker",
+      "picker"
+    ]
+  }
+]

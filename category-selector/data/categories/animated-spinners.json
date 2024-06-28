@@ -1,0 +1,63 @@
+[
+  {
+    "githubUrl": "https://github.com/mohebifar/react-native-loader",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-loader",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mohebifar/react-native-loader",
+        "clone": "https://github.com/mohebifar/react-native-loader.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:34:14Z",
+        "createdAt": "2016-04-12T16:16:18Z",
+        "pushedAt": "2023-02-28T04:58:15Z",
+        "issues": 22,
+        "subscribers": 11,
+        "stars": 390,
+        "forks": 69
+      },
+      "name": "react-native-loader",
+      "fullName": "mohebifar/react-native-loader",
+      "description": "A collection of animated spinners for React Native",
+      "topics": [
+        "animated-spinners",
+        "react-native",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2571,
+      "weekDownloads": 639,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "animated-spinners react-native android ios",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.001,
+    "category": [
+      "animated-spinners"
+    ]
+  }
+]

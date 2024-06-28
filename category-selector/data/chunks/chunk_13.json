@@ -1,0 +1,3803 @@
+[
+  {
+    "githubUrl": "https://github.com/xcarpentier/rn-pdf-reader-js",
+    "images": [
+      "https://thumbs.gfycat.com/DeadPoisedBrownbutterfly-max-14mb.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "rn-pdf-reader-js",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xcarpentier/rn-pdf-reader-js",
+        "clone": "https://github.com/xcarpentier/rn-pdf-reader-js.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T19:31:25Z",
+        "createdAt": "2018-03-27T08:56:51Z",
+        "pushedAt": "2024-05-08T21:57:58Z",
+        "issues": 26,
+        "subscribers": 6,
+        "stars": 377,
+        "forks": 161
+      },
+      "name": "rn-pdf-reader-js",
+      "fullName": "xcarpentier/rn-pdf-reader-js",
+      "description": "📄 PDF reader in JavaScript only for Expo - Android & iOS capable",
+      "topics": [
+        "expo",
+        "pdf-viewer",
+        "pdfjs",
+        "react-native",
+        "pdf-reader",
+        "react-pdf"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.1.1",
+        "tagName": "v4.1.1",
+        "createdAt": "2020-07-14T14:38:26Z",
+        "publishedAt": "2020-07-14T14:56:48Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15660,
+      "weekDownloads": 3494,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "expo pdf-viewer pdfjs react-native pdf-reader react-pdf",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.027,
+    "category": [
+      "pdf-viewer",
+      "pdfjs",
+      "pdf-reader",
+      "react-pdf"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/cooperka/react-native-snackbar",
+    "examples": [
+      "https://github.com/cooperka/react-native-snackbar/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/cooperka/react-native-snackbar/main/example/screenshots/snackbar.png"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-snackbar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/cooperka/react-native-snackbar",
+        "clone": "https://github.com/cooperka/react-native-snackbar.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T22:07:10Z",
+        "createdAt": "2016-04-06T15:06:29Z",
+        "pushedAt": "2024-05-15T05:58:59Z",
+        "issues": 29,
+        "subscribers": 13,
+        "stars": 813,
+        "forks": 147
+      },
+      "name": "react-native-snackbar",
+      "fullName": "cooperka/react-native-snackbar",
+      "description": ":candy: Material Design \"Snackbar\" component for Android and iOS.",
+      "topics": [
+        "android",
+        "material",
+        "snackbar",
+        "material-design",
+        "react-native",
+        "component"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v2.7.1",
+        "createdAt": "2023-05-10T13:59:11Z",
+        "publishedAt": "2023-05-10T14:01:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 52711,
+      "weekDownloads": 12344,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android material snackbar material-design react-native component",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.016,
+    "category": [
+      "snackbar"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ardaogulcan/react-native-keyboard-accessory",
+    "examples": [
+      "https://snack.expo.dev/@ardaogulcan/react-native-keyboard-accessory-playground"
+    ],
+    "images": [
+      "https://media.giphy.com/media/ZFh86727hAbAc/giphy.gif",
+      "https://media.giphy.com/media/NYsR2BtQaUaQw/giphy.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-keyboard-accessory",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ardaogulcan/react-native-keyboard-accessory",
+        "clone": "https://github.com/ardaogulcan/react-native-keyboard-accessory.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T16:15:54Z",
+        "createdAt": "2017-08-21T08:30:34Z",
+        "pushedAt": "2023-08-16T06:19:20Z",
+        "issues": 39,
+        "subscribers": 4,
+        "stars": 524,
+        "forks": 63
+      },
+      "name": "react-native-keyboard-accessory",
+      "fullName": "ardaogulcan/react-native-keyboard-accessory",
+      "description": "A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.",
+      "topics": [
+        "react",
+        "react-native",
+        "keyboard-accessory",
+        "input-accessory",
+        "sticky-views"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.1.16",
+        "tagName": "0.1.16",
+        "createdAt": "2021-11-29T19:16:33Z",
+        "publishedAt": "2021-11-29T19:19:57Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 47706,
+      "weekDownloads": 11276,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native keyboard-accessory input-accessory sticky-views",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.014,
+    "category": [
+      "keyboard",
+      "keyboard-accessory",
+      "input-accessory"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/FriendsOfReact/react-native-gradients",
+    "images": [
+      "https://media.giphy.com/media/2aGD6js89xV3tGAIrd/giphy.gif",
+      "https://media.giphy.com/media/xUJYCCeNdDATlcSDNo/giphy.gif",
+      "https://media.giphy.com/media/1X5Z1goLOMY7cMUEuM/giphy.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-gradients",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/FriendsOfReact/react-native-gradients",
+        "clone": "https://github.com/FriendsOfReact/react-native-gradients.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-29T09:21:26Z",
+        "createdAt": "2018-09-16T20:48:25Z",
+        "pushedAt": "2023-11-03T14:00:32Z",
+        "issues": 2,
+        "subscribers": 3,
+        "stars": 47,
+        "forks": 9
+      },
+      "name": "react-native-gradients",
+      "fullName": "FriendsOfReact/react-native-gradients",
+      "description": "A simple gradient library for React Native.",
+      "topics": [
+        "react-native",
+        "react",
+        "gradient",
+        "javascript",
+        "es6"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8371,
+      "weekDownloads": 1895,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react gradient javascript es6",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.024,
+    "category": [
+      "gradient"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/tessus/react-native-version-info",
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "npmPkg": "react-native-version-info",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tessus/react-native-version-info",
+        "clone": "https://github.com/tessus/react-native-version-info.git",
+        "homepage": "https://www.npmjs.com/package/react-native-version-info"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T15:47:32Z",
+        "createdAt": "2018-10-22T21:50:18Z",
+        "pushedAt": "2024-03-10T06:33:32Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 44,
+        "forks": 8
+      },
+      "name": "react-native-version-info",
+      "fullName": "tessus/react-native-version-info",
+      "description": "Version Information for React Native Android, iOS, and Windows ",
+      "topics": [
+        "react-native",
+        "react-android",
+        "react-ios",
+        "react-windows"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 32439,
+      "weekDownloads": 7479,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-android react-ios react-windows",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.019,
+    "category": []
+  },
+  {
+    "githubUrl": "https://github.com/doublesymmetry/react-native-track-player",
+    "examples": [
+      "https://github.com/doublesymmetry/react-native-track-player/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/ios-app.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/ios-lockscreen.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/android-app.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/android-lockscreen.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/android-notification.png"
+    ],
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "npmPkg": "react-native-track-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/doublesymmetry/react-native-track-player",
+        "clone": "https://github.com/doublesymmetry/react-native-track-player.git",
+        "homepage": "https://rntp.dev/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T13:24:44Z",
+        "createdAt": "2017-03-16T20:18:39Z",
+        "pushedAt": "2024-05-19T10:13:39Z",
+        "issues": 47,
+        "subscribers": 50,
+        "stars": 3150,
+        "forks": 969
+      },
+      "name": "react-native-track-player",
+      "fullName": "doublesymmetry/react-native-track-player",
+      "description": "A fully fledged audio module created for music apps. Provides audio playback, external media controls, background mode and more!",
+      "topics": [
+        "react-native",
+        "music-player",
+        "music-library",
+        "media-control",
+        "android",
+        "ios",
+        "windows",
+        "audio",
+        "audio-library",
+        "audio-player"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 87330,
+      "weekDownloads": 20851,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native music-player music-library media-control android ios windows audio audio-library audio-player",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.011,
+    "category": [
+      "music-player",
+      "music-library",
+      "media-control",
+      "audio",
+      "audio-library",
+      "audio-player"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/hicay/react-native-text-avatar",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-text-avatar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/hicay/react-native-text-avatar",
+        "clone": "https://github.com/hicay/react-native-text-avatar.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-07-12T19:59:35Z",
+        "createdAt": "2018-12-21T19:18:01Z",
+        "pushedAt": "2019-06-06T15:33:19Z",
+        "issues": 0,
+        "subscribers": 4,
+        "stars": 28,
+        "forks": 2
+      },
+      "name": "react-native-text-avatar",
+      "fullName": "hicay/react-native-text-avatar",
+      "description": "React Native component for a text avatar",
+      "topics": [
+        "react-native",
+        "text-avatar",
+        "letter-avatar"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "",
+        "tagName": "1.0.3",
+        "createdAt": "2018-12-21T20:41:17Z",
+        "publishedAt": "2019-01-08T13:13:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 545,
+      "weekDownloads": 145,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native text-avatar letter-avatar",
+    "score": 25,
+    "matchingScoreModifiers": [
+      "No license",
+      "Not updated recently"
+    ],
+    "popularity": 0.017,
+    "category": [
+      "text-avatar",
+      "letter-avatar"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Buglife/react-native-buglife",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-buglife",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Buglife/react-native-buglife",
+        "clone": "https://github.com/Buglife/react-native-buglife.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-07-25T17:57:53Z",
+        "createdAt": "2016-07-27T06:35:25Z",
+        "pushedAt": "2019-04-18T00:00:10Z",
+        "issues": 7,
+        "subscribers": 3,
+        "stars": 12,
+        "forks": 12
+      },
+      "name": "react-native-buglife",
+      "fullName": "Buglife/react-native-buglife",
+      "description": "A React Native wrapper for Buglife",
+      "topics": [
+        "buglife",
+        "react-native",
+        "bug-reporting",
+        "bug-reporter"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 62,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "buglife react-native bug-reporting bug-reporter",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.744,
+    "category": [
+      "buglife",
+      "bug-reporting",
+      "bug-reporter"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/hungdev/react-native-customize-selected-date",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-customize-selected-date",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/hungdev/react-native-customize-selected-date",
+        "clone": "https://github.com/hungdev/react-native-customize-selected-date.git",
+        "homepage": "https://www.npmjs.com/package/react-native-customize-selected-date"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-03-27T08:29:26Z",
+        "createdAt": "2018-11-29T10:34:27Z",
+        "pushedAt": "2022-12-08T20:54:32Z",
+        "issues": 14,
+        "subscribers": 1,
+        "stars": 17,
+        "forks": 13
+      },
+      "name": "react-native-customize-selected-date",
+      "fullName": "hungdev/react-native-customize-selected-date",
+      "description": "a component calendar date allow customize event date. (support android & ios). Pull requests are welcome!",
+      "topics": [
+        "customize-event",
+        "calendar",
+        "react-native",
+        "customize-date",
+        "event"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 64,
+      "weekDownloads": 11,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "customize-event calendar react-native customize-date event",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.628,
+    "category": [
+      "calendar"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xcarpentier/react-native-suggester",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-suggester",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xcarpentier/react-native-suggester",
+        "clone": "https://github.com/xcarpentier/react-native-suggester.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-28T15:07:05Z",
+        "createdAt": "2019-01-31T08:44:53Z",
+        "pushedAt": "2023-12-15T17:47:39Z",
+        "issues": 18,
+        "subscribers": 5,
+        "stars": 56,
+        "forks": 4
+      },
+      "name": "react-native-suggester",
+      "fullName": "xcarpentier/react-native-suggester",
+      "description": "🔎 React-Native package to decorate TextInput and get suggestions with good UX",
+      "topics": [
+        "react-native",
+        "textinput"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 34,
+      "weekDownloads": 5,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native textinput",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.538,
+    "category": []
+  },
+  {
+    "githubUrl": "https://github.com/lfkwtz/react-native-ruler",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-ruler",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lfkwtz/react-native-ruler",
+        "clone": "https://github.com/lfkwtz/react-native-ruler.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-06-09T08:48:30Z",
+        "createdAt": "2018-12-30T13:25:40Z",
+        "pushedAt": "2023-01-03T22:35:15Z",
+        "issues": 12,
+        "subscribers": 2,
+        "stars": 34,
+        "forks": 3
+      },
+      "name": "react-native-ruler",
+      "fullName": "lfkwtz/react-native-ruler",
+      "description": "📏 A devtool for measuring pixel dimensions on your React Native screens",
+      "topics": [
+        "devtools",
+        "expo",
+        "react",
+        "react-native",
+        "measure",
+        "ruler"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.1.0",
+        "tagName": "0.1.0",
+        "createdAt": "2019-05-24T22:27:06Z",
+        "publishedAt": "2019-05-27T13:43:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 37,
+      "weekDownloads": 11,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "devtools expo react react-native measure ruler",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.396,
+    "category": [
+      "ruler",
+      "measure"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xcarpentier/react-native-safe-image",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-safe-image",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xcarpentier/react-native-safe-image",
+        "clone": "https://github.com/xcarpentier/react-native-safe-image.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T23:44:43Z",
+        "createdAt": "2018-12-20T17:07:50Z",
+        "pushedAt": "2023-01-04T01:14:16Z",
+        "issues": 13,
+        "subscribers": 3,
+        "stars": 28,
+        "forks": 0
+      },
+      "name": "react-native-safe-image",
+      "fullName": "xcarpentier/react-native-safe-image",
+      "description": "Really light React-Native package to handle fallback when image is on error",
+      "topics": [
+        "react-native",
+        "typescript",
+        "image"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 31,
+      "weekDownloads": 7,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native typescript image",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.45,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-ads-facebook",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "expo-ads-facebook",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 709,
+      "weekDownloads": 337,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": []
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-analytics-amplitude",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "expo-analytics-amplitude",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1511,
+      "weekDownloads": 270,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.321,
+    "category": []
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-analytics-segment",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "expo-analytics-segment",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4614,
+      "weekDownloads": 1127,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.256,
+    "category": []
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-application",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-application",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1525604,
+      "weekDownloads": 344250,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": []
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-battery",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-battery",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 19735,
+      "weekDownloads": 4452,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "battery",
+      "expo-battery",
+      "battery-info"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-blur",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-blur",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 272193,
+      "weekDownloads": 61414,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-brightness",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-brightness",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 28590,
+      "weekDownloads": 5949,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.042,
+    "category": [
+      "brightness"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-calendar",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-calendar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 57904,
+      "weekDownloads": 13001,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.025,
+    "category": [
+      "calendar"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-cellular",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-cellular",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11577,
+      "weekDownloads": 2864,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.003,
+    "category": [
+      "cellular"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-constants",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-constants",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2811978,
+      "weekDownloads": 644354,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "constants"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-contacts",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-contacts",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 79405,
+      "weekDownloads": 19036,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.01,
+    "category": [
+      "contacts"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-device",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-device",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 778161,
+      "weekDownloads": 178887,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.02,
+    "category": [
+      "device",
+      "device-info"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-document-picker",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-document-picker",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 293690,
+      "weekDownloads": 64886,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "document-picker"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-error-recovery",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "expo-error-recovery",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 146784,
+      "weekDownloads": 32515,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.278
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-face-detector",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-face-detector",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 13620,
+      "weekDownloads": 3442,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0.003,
+    "category": [
+      "face-detector",
+      "ml"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-facebook",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "expo-facebook",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5228,
+      "weekDownloads": 1141,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.282
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-file-system",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-file-system",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2761190,
+      "weekDownloads": 625408,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "fs",
+      "file-system"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-font",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-font",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2298104,
+      "weekDownloads": 532421,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.018,
+    "category": [
+      "font"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-gl",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-gl",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 33709,
+      "weekDownloads": 7099,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.039,
+    "category": [
+      "gl"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-haptics",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-haptics",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 354605,
+      "weekDownloads": 79335,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "haptics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-in-app-purchases",
+    "ios": true,
+    "android": true,
+    "npmPkg": "expo-in-app-purchases",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7264,
+      "weekDownloads": 1232,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.08,
+    "category": [
+      "in-app-purchases"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-intent-launcher",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-intent-launcher",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 108108,
+      "weekDownloads": 25677,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.012,
+    "category": [
+      "intent-launcher"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-linear-gradient",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-linear-gradient",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 803709,
+      "weekDownloads": 186732,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.018,
+    "category": [
+      "gradient"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-localization",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-localization",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 533479,
+      "weekDownloads": 122529,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.02,
+    "category": [
+      "localization",
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-location",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-location",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 448969,
+      "weekDownloads": 99385,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "location"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-mail-composer",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-mail-composer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 52847,
+      "weekDownloads": 13217,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0,
+    "category": [
+      "mail-composer",
+      "email"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-media-library",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-media-library",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 223414,
+      "weekDownloads": 51689,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.019,
+    "category": [
+      "media-library"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-network",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-network",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 99051,
+      "weekDownloads": 22184,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "network",
+      "network-info"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-notifications",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-notifications",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 575678,
+      "weekDownloads": 134894,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.016,
+    "category": [
+      "notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-permissions",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-permissions",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 105308,
+      "weekDownloads": 22998,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.032,
+    "category": [
+      "permissions"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo-pixi",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-pixi",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo-pixi",
+        "clone": "https://github.com/expo/expo-pixi.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T08:23:02Z",
+        "createdAt": "2017-12-13T22:39:37Z",
+        "pushedAt": "2022-11-11T22:31:25Z",
+        "issues": 99,
+        "subscribers": 12,
+        "stars": 304,
+        "forks": 119
+      },
+      "name": "expo-pixi",
+      "fullName": "expo/expo-pixi",
+      "description": "Tools for using pixi.js in Expo",
+      "topics": [
+        "pixi",
+        "expo",
+        "webgl",
+        "cross-platform",
+        "signature"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 691,
+      "weekDownloads": 103,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "pixi expo webgl cross-platform signature",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.1,
+    "category": [
+      "pixi"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-print",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-print",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 75229,
+      "weekDownloads": 16347,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.033,
+    "category": [
+      "print"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-random",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-random",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 432940,
+      "weekDownloads": 101924,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.015,
+    "category": [
+      "random",
+      "math",
+      "crypto"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-secure-store",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-secure-store",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 617777,
+      "weekDownloads": 140395,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.023,
+    "category": [
+      "secure-store",
+      "storage",
+      "secure"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sensors",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-sensors",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 62189,
+      "weekDownloads": 13401,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.035,
+    "category": [
+      "sensors",
+      "sensor"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sms",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-sms",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 42145,
+      "weekDownloads": 9641,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "sms"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-speech",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-speech",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 16833,
+      "weekDownloads": 3908,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.018,
+    "category": [
+      "text-to-speech"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sqlite",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-sqlite",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 90393,
+      "weekDownloads": 21961,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.007,
+    "category": [
+      "sqlite",
+      "storage"
+    ]
+  }
+]

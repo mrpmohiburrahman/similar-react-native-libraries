@@ -1,0 +1,156 @@
+[
+  {
+    "githubUrl": "https://github.com/arronhunt/react-native-emoji-selector",
+    "examples": [
+      "https://github.com/arronhunt/react-native-emoji-selector/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-emoji-selector",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/arronhunt/react-native-emoji-selector",
+        "clone": "https://github.com/arronhunt/react-native-emoji-selector.git",
+        "homepage": "https://www.npmjs.com/package/react-native-emoji-selector"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T10:41:28Z",
+        "createdAt": "2017-12-25T01:44:50Z",
+        "pushedAt": "2024-04-19T10:38:26Z",
+        "issues": 25,
+        "subscribers": 9,
+        "stars": 294,
+        "forks": 110
+      },
+      "name": "react-native-emoji-selector",
+      "fullName": "arronhunt/react-native-emoji-selector",
+      "description": "⚛️😎 Simple, customizable and theme-able Emoji selector for React Native",
+      "topics": [
+        "react-native",
+        "emoji",
+        "emoji-keyboard",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.2.0",
+        "tagName": "v0.2.0",
+        "createdAt": "2020-12-04T19:33:10Z",
+        "publishedAt": "2020-12-04T19:34:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 18186,
+      "weekDownloads": 4003,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native emoji emoji-keyboard react",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.03,
+    "category": [
+      "emoji",
+      "emoji-keyboard"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/TheWidlarzGroup/rn-emoji-keyboard",
+    "examples": [
+      "https://github.com/TheWidlarzGroup/rn-emoji-keyboard/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/TheWidlarzGroup/rn-emoji-keyboard/master/example/assets/preview-small.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "rn-emoji-keyboard",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/TheWidlarzGroup/rn-emoji-keyboard",
+        "clone": "https://github.com/TheWidlarzGroup/rn-emoji-keyboard.git",
+        "homepage": "https://thewidlarzgroup.github.io/rn-emoji-keyboard/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T07:06:18Z",
+        "createdAt": "2021-07-09T19:24:24Z",
+        "pushedAt": "2024-05-09T15:51:57Z",
+        "issues": 14,
+        "subscribers": 7,
+        "stars": 315,
+        "forks": 55
+      },
+      "name": "rn-emoji-keyboard",
+      "fullName": "TheWidlarzGroup/rn-emoji-keyboard",
+      "description": "Super performant, lightweight, fully customizable emoji picker 🚀 ",
+      "topics": [
+        "react-native",
+        "typescript",
+        "emoji-picker",
+        "emoji",
+        "emoji-keyboard",
+        "android",
+        "ios",
+        "hacktoberfest",
+        "hacktoberfest2021",
+        "hacktoberfest2022"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.7.0",
+        "tagName": "v1.7.0",
+        "createdAt": "2024-05-09T15:51:53Z",
+        "publishedAt": "2024-05-09T15:52:09Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 30405,
+      "weekDownloads": 7774,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native typescript emoji-picker emoji emoji-keyboard android ios hacktoberfest hacktoberfest2021 hacktoberfest2022",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.006,
+    "category": [
+      "emoji",
+      "emoji-keyboard"
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/williambout/react-native-proximity",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-proximity",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/williambout/react-native-proximity",
+        "clone": "https://github.com/williambout/react-native-proximity.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T14:25:18Z",
+        "createdAt": "2016-05-02T13:19:21Z",
+        "pushedAt": "2021-07-07T13:20:15Z",
+        "issues": 16,
+        "subscribers": 7,
+        "stars": 211,
+        "forks": 69
+      },
+      "name": "react-native-proximity",
+      "fullName": "williambout/react-native-proximity",
+      "description": ":iphone: A React Native wrapper that provides access to the proximity sensor on iOS and Android.",
+      "topics": [
+        "react-native",
+        "proximity-sensor",
+        "sensor",
+        "iphone",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "React Native 47 support",
+        "tagName": "3.0.0",
+        "createdAt": "2017-12-15T09:30:36Z",
+        "publishedAt": "2017-12-15T09:34:41Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 196,
+      "weekDownloads": 49,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native proximity-sensor sensor iphone ios android",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.7,
+    "category": [
+      "proximity-sensor",
+      "sensor"
+    ]
+  }
+]

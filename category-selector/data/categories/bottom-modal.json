@@ -1,0 +1,63 @@
+[
+  {
+    "githubUrl": "https://github.com/AtharvaDeolalikar/react-native-animated-bottom-drawer",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-animated-bottom-drawer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/AtharvaDeolalikar/react-native-animated-bottom-drawer",
+        "clone": "https://github.com/AtharvaDeolalikar/react-native-animated-bottom-drawer.git",
+        "homepage": "https://www.npmjs.com/package/react-native-animated-bottom-drawer"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:55:26Z",
+        "createdAt": "2023-03-23T07:56:22Z",
+        "pushedAt": "2023-08-13T13:30:00Z",
+        "issues": 6,
+        "subscribers": 1,
+        "stars": 27,
+        "forks": 9
+      },
+      "name": "react-native-animated-bottom-drawer",
+      "fullName": "AtharvaDeolalikar/react-native-animated-bottom-drawer",
+      "description": "A lightweight and animated bottom drawer for react native 🚀",
+      "topics": [
+        "bottom-drawer",
+        "bottom-modal",
+        "bottom-sheet",
+        "modal",
+        "react-native",
+        "typescript"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1640,
+      "weekDownloads": 382,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "bottom-drawer bottom-modal bottom-sheet modal react-native typescript",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.017,
+    "category": [
+      "bottom-drawer",
+      "bottom-modal",
+      "bottom-sheet",
+      "modal"
+    ]
+  }
+]

@@ -1,0 +1,1056 @@
+[
+  {
+    "githubUrl": "https://github.com/sohobloo/react-native-modal-dropdown",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-modal-dropdown",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sohobloo/react-native-modal-dropdown",
+        "clone": "https://github.com/sohobloo/react-native-modal-dropdown.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T11:02:00Z",
+        "createdAt": "2016-09-13T10:17:51Z",
+        "pushedAt": "2022-07-20T07:13:35Z",
+        "issues": 107,
+        "subscribers": 12,
+        "stars": 1184,
+        "forks": 479
+      },
+      "name": "react-native-modal-dropdown",
+      "fullName": "sohobloo/react-native-modal-dropdown",
+      "description": "A react-native dropdown/picker/selector component for both Android & iOS.",
+      "topics": [
+        "react",
+        "react-native",
+        "react-native-component",
+        "modal",
+        "dropdown",
+        "picker",
+        "select",
+        "selector",
+        "option"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.6.2",
+        "tagName": "v0.6.2",
+        "createdAt": "2018-03-09T07:30:25Z",
+        "publishedAt": "2018-03-09T07:32:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 32063,
+      "weekDownloads": 7307,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native react-native-component modal dropdown picker select selector option",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.022,
+    "category": [
+      "modal",
+      "dropdown",
+      "picker",
+      "select",
+      "selector",
+      "option"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/listenzz/react-native-modal-translucent",
+    "android": true,
+    "npmPkg": "react-native-modal-translucent",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/listenzz/react-native-modal-translucent",
+        "clone": "https://github.com/listenzz/react-native-modal-translucent.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T09:35:27Z",
+        "createdAt": "2018-04-22T19:00:05Z",
+        "pushedAt": "2019-11-23T03:04:43Z",
+        "issues": 7,
+        "subscribers": 5,
+        "stars": 203,
+        "forks": 30
+      },
+      "name": "react-native-modal-translucent",
+      "fullName": "listenzz/react-native-modal-translucent",
+      "description": "Remove the StatusBar background for Modal on Android",
+      "topics": [
+        "react-native",
+        "modal",
+        "translucent"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1315,
+      "weekDownloads": 343,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native modal translucent",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.011,
+    "category": [
+      "modal",
+      "translucent"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jeremybarbet/react-native-modalize",
+    "examples": [
+      "https://github.com/jeremybarbet/react-native-modalize/tree/master/examples",
+      "https://exp.host/@jeremdsgn/react-native-modalize"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/937328/80501705-458d2d80-895f-11ea-9667-d193c135cabf.gif",
+      "https://user-images.githubusercontent.com/937328/80501698-42923d00-895f-11ea-8db0-da3d4f772710.gif",
+      "https://user-images.githubusercontent.com/937328/80501668-3a3a0200-895f-11ea-92b6-a7bc9b301a1a.gif",
+      "https://user-images.githubusercontent.com/937328/80615701-881e3b00-8a2f-11ea-94f5-a4cbf6d13d97.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-modalize",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jeremybarbet/react-native-modalize",
+        "clone": "https://github.com/jeremybarbet/react-native-modalize.git",
+        "homepage": "https://jeremybarbet.github.io/react-native-modalize"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T07:39:27Z",
+        "createdAt": "2018-10-22T08:47:38Z",
+        "pushedAt": "2024-05-17T17:19:54Z",
+        "issues": 118,
+        "subscribers": 18,
+        "stars": 2784,
+        "forks": 297
+      },
+      "name": "react-native-modalize",
+      "fullName": "jeremybarbet/react-native-modalize",
+      "description": "A highly customizable modal/bottom sheet that loves scrolling content.",
+      "topics": [
+        "react-native",
+        "react",
+        "modal",
+        "scrollview",
+        "component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.1.0",
+        "tagName": "2.1.0",
+        "createdAt": "2022-08-10T09:43:22Z",
+        "publishedAt": "2022-08-10T09:44:19Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 133434,
+      "weekDownloads": 34226,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react modal scrollview component",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0.007,
+    "category": [
+      "modal"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gorhom/react-native-bottom-sheet",
+    "npmPkg": "@gorhom/bottom-sheet",
+    "images": [
+      "https://github.com/gorhom/react-native-bottom-sheet/raw/master/preview.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gorhom/react-native-bottom-sheet",
+        "clone": "https://github.com/gorhom/react-native-bottom-sheet.git",
+        "homepage": "https://ui.gorhom.dev/components/bottom-sheet"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T04:26:29Z",
+        "createdAt": "2020-07-31T12:28:32Z",
+        "pushedAt": "2024-05-19T17:08:10Z",
+        "issues": 75,
+        "subscribers": 33,
+        "stars": 6184,
+        "forks": 708
+      },
+      "name": "react-native-bottom-sheet",
+      "fullName": "gorhom/react-native-bottom-sheet",
+      "description": "A performant interactive bottom sheet with fully configurable options 🚀",
+      "topics": [
+        "bottom-sheet",
+        "bottomsheet",
+        "sheet",
+        "react-native",
+        "reanimated",
+        "modal"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 5.0.0-alpha.10",
+        "tagName": "v5.0.0-alpha.10",
+        "createdAt": "2024-05-19T17:02:50Z",
+        "publishedAt": "2024-05-19T17:02:54Z",
+        "isPrerelease": true
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1087926,
+      "weekDownloads": 254671,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "bottom-sheet bottomsheet sheet react-native reanimated modal",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.016,
+    "category": [
+      "bottom-sheet",
+      "bottomsheet",
+      "modal"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/dominicstop/react-native-ios-modal",
+    "examples": [
+      "https://github.com/dominicstop/react-native-ios-modal/tree/master/example"
+    ],
+    "images": [
+      "https://github.com/dominicstop/react-native-ios-modal/raw/master/assets/ModalExample-06-07-2.gif",
+      "https://github.com/dominicstop/react-native-ios-modal/raw/master/assets/ModalExample-02-03.gif",
+      "https://github.com/dominicstop/react-native-ios-modal/raw/master/assets/ModalExample-00-01.gif",
+      "https://github.com/dominicstop/react-native-ios-modal/raw/master/assets/ModalExample-04-05.gif"
+    ],
+    "ios": true,
+    "npmPkg": "react-native-ios-modal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dominicstop/react-native-ios-modal",
+        "clone": "https://github.com/dominicstop/react-native-ios-modal.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-23T18:21:43Z",
+        "createdAt": "2020-10-15T05:06:11Z",
+        "pushedAt": "2023-10-05T22:47:00Z",
+        "issues": 9,
+        "subscribers": 3,
+        "stars": 124,
+        "forks": 3
+      },
+      "name": "react-native-ios-modal",
+      "fullName": "dominicstop/react-native-ios-modal",
+      "description": "A react-native component for displaying a modal on iOS by natively wrapping a react-native view inside a UIViewController and presenting it.",
+      "topics": [
+        "react-native",
+        "modal",
+        "ios-swift",
+        "native-module",
+        "native-ui-component",
+        "react-native-component",
+        "react-native-modal"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 2.0.0-3",
+        "tagName": "v2.0.0-3",
+        "createdAt": "2023-05-13T00:28:00Z",
+        "publishedAt": "2023-05-13T00:28:08Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7067,
+      "weekDownloads": 2383,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native modal ios-swift native-module native-ui-component react-native-component react-native-modal",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.087,
+    "category": [
+      "modal",
+      "react-native-modal"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/inferusvv/react-native-unicorn-modals",
+    "examples": [
+      "https://snack.expo.dev/@inferusvv/react-native-unicorn-modals",
+      "https://github.com/inferusvv/react-native-unicorn-modals/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/inferusvv/react-native-unicorn-modals/main/.github/images/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-unicorn-modals",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bezenson/react-native-unicorn-modals",
+        "clone": "https://github.com/bezenson/react-native-unicorn-modals.git",
+        "homepage": "https://inferusvv.github.io/react-native-unicorn-modals/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T12:35:00Z",
+        "createdAt": "2022-12-27T09:49:30Z",
+        "pushedAt": "2023-03-03T14:46:39Z",
+        "issues": 4,
+        "subscribers": 1,
+        "stars": 32,
+        "forks": 2
+      },
+      "name": "react-native-unicorn-modals",
+      "fullName": "bezenson/react-native-unicorn-modals",
+      "description": "Custom modals with Imperative API 🦄",
+      "topics": [
+        "alert",
+        "android",
+        "ios",
+        "modal",
+        "react-native",
+        "typescript",
+        "dialog",
+        "menu",
+        "reanimated2",
+        "popup"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.5.1",
+        "tagName": "v0.5.1",
+        "createdAt": "2023-03-03T14:46:37Z",
+        "publishedAt": "2023-03-03T14:47:01Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 72,
+      "weekDownloads": 8,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "alert android ios modal react-native typescript dialog menu reanimated2 popup",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.589,
+    "category": [
+      "alert",
+      "modal",
+      "dialog",
+      "menu",
+      "popup"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/AtharvaDeolalikar/react-native-animated-bottom-drawer",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-animated-bottom-drawer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/AtharvaDeolalikar/react-native-animated-bottom-drawer",
+        "clone": "https://github.com/AtharvaDeolalikar/react-native-animated-bottom-drawer.git",
+        "homepage": "https://www.npmjs.com/package/react-native-animated-bottom-drawer"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:55:26Z",
+        "createdAt": "2023-03-23T07:56:22Z",
+        "pushedAt": "2023-08-13T13:30:00Z",
+        "issues": 6,
+        "subscribers": 1,
+        "stars": 27,
+        "forks": 9
+      },
+      "name": "react-native-animated-bottom-drawer",
+      "fullName": "AtharvaDeolalikar/react-native-animated-bottom-drawer",
+      "description": "A lightweight and animated bottom drawer for react native 🚀",
+      "topics": [
+        "bottom-drawer",
+        "bottom-modal",
+        "bottom-sheet",
+        "modal",
+        "react-native",
+        "typescript"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1640,
+      "weekDownloads": 382,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "bottom-drawer bottom-modal bottom-sheet modal react-native typescript",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.017,
+    "category": [
+      "bottom-drawer",
+      "bottom-modal",
+      "bottom-sheet",
+      "modal"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/steffeydev/react-native-popover-view",
+    "examples": [
+      "https://snack.expo.dev/@steffeydev/react-native-popover-view"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/SteffeyDev/react-native-popover-view/master/gifs/react-native-popover-view-smaller.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-popover-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/SteffeyDev/react-native-popover-view",
+        "clone": "https://github.com/SteffeyDev/react-native-popover-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T07:55:44Z",
+        "createdAt": "2017-05-30T18:02:19Z",
+        "pushedAt": "2023-08-11T11:42:36Z",
+        "issues": 25,
+        "subscribers": 4,
+        "stars": 546,
+        "forks": 86
+      },
+      "name": "react-native-popover-view",
+      "fullName": "SteffeyDev/react-native-popover-view",
+      "description": "A well-tested, adaptable, lightweight <Popover> component for react-native",
+      "topics": [
+        "react-native",
+        "popover",
+        "modal",
+        "view",
+        "component",
+        "tablet",
+        "react-navigation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 106346,
+      "weekDownloads": 27060,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native popover modal view component tablet react-navigation",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": 0.004,
+    "category": [
+      "popover",
+      "modal"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Temzasse/react-modal-sheet",
+    "examples": [
+      "https://github.com/Temzasse/react-modal-sheet/tree/main/example",
+      "https://github.com/Temzasse/react-modal-sheet/tree/main/example-ssr"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/Temzasse/react-modal-sheet/main/media/1.gif",
+      "https://raw.githubusercontent.com/Temzasse/react-modal-sheet/main/media/2.gif",
+      "https://raw.githubusercontent.com/Temzasse/react-modal-sheet/main/media/3.gif",
+      "https://raw.githubusercontent.com/Temzasse/react-modal-sheet/main/media/4.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-modal-sheet",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Temzasse/react-modal-sheet",
+        "clone": "https://github.com/Temzasse/react-modal-sheet.git",
+        "homepage": "https://temzasse.github.io/react-modal-sheet/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T16:20:15Z",
+        "createdAt": "2020-05-17T20:06:18Z",
+        "pushedAt": "2024-05-14T08:10:01Z",
+        "issues": 19,
+        "subscribers": 4,
+        "stars": 752,
+        "forks": 72
+      },
+      "name": "react-modal-sheet",
+      "fullName": "Temzasse/react-modal-sheet",
+      "description": "Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐",
+      "topics": [
+        "reactjs",
+        "framer-motion",
+        "bottom-sheet",
+        "modal",
+        "accessibility"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v3.1.0",
+        "createdAt": "2024-05-13T20:32:05Z",
+        "publishedAt": "2024-05-13T20:32:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 151236,
+      "weekDownloads": 37832,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "reactjs framer-motion bottom-sheet modal accessibility",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": 0,
+    "category": [
+      "modal",
+      "bottom-sheet"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-modal/react-native-modal",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/ByBCD_2r-"
+    ],
+    "npmPkg": "react-native-modal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-modal/react-native-modal",
+        "clone": "https://github.com/react-native-modal/react-native-modal.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T07:55:34Z",
+        "createdAt": "2016-09-23T16:45:46Z",
+        "pushedAt": "2024-03-26T07:01:47Z",
+        "issues": 139,
+        "subscribers": 39,
+        "stars": 5401,
+        "forks": 612
+      },
+      "name": "react-native-modal",
+      "fullName": "react-native-modal/react-native-modal",
+      "description": "An enhanced, animated, customizable Modal for React Native.",
+      "topics": [
+        "react-native",
+        "react",
+        "modal",
+        "android",
+        "ios",
+        "backdrop",
+        "animation",
+        "animated"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v13.0.1",
+        "tagName": "v13.0.1",
+        "createdAt": "2022-03-01T15:40:27Z",
+        "publishedAt": "2022-03-01T15:40:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1324668,
+      "weekDownloads": 286588,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react modal android ios backdrop animation animated",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.034,
+    "category": [
+      "modal"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/maxjvh/react-native-simple-modal",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-simple-modal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/httnn/react-native-simple-modal",
+        "clone": "https://github.com/httnn/react-native-simple-modal.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-02-26T06:20:17Z",
+        "createdAt": "2015-12-24T09:11:36Z",
+        "pushedAt": "2021-08-28T09:37:19Z",
+        "issues": 10,
+        "subscribers": 8,
+        "stars": 183,
+        "forks": 50
+      },
+      "name": "react-native-simple-modal",
+      "fullName": "httnn/react-native-simple-modal",
+      "description": "A simple JavaScript modal component for React Native.",
+      "topics": [
+        "react-native",
+        "react-native-component",
+        "modal"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v9.0.1",
+        "tagName": "v9.0.1",
+        "createdAt": "2018-06-09T11:37:05Z",
+        "publishedAt": "2018-06-09T11:38:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1659,
+      "weekDownloads": 285,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-component modal",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.078,
+    "category": [
+      "modal"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xcarpentier/react-native-country-picker-modal",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://getexponent.com/@xcarpentier/react-native-country-picker-demo"
+    ],
+    "npmPkg": "react-native-country-picker-modal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xcarpentier/react-native-country-picker-modal",
+        "clone": "https://github.com/xcarpentier/react-native-country-picker-modal.git",
+        "homepage": "https://reactnative.gallery/xcarpentier/country-picker"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T16:11:51Z",
+        "createdAt": "2016-03-03T20:13:50Z",
+        "pushedAt": "2024-01-05T02:57:35Z",
+        "issues": 53,
+        "subscribers": 19,
+        "stars": 1052,
+        "forks": 778
+      },
+      "name": "react-native-country-picker-modal",
+      "fullName": "xcarpentier/react-native-country-picker-modal",
+      "description": "🇦🇶 Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.",
+      "topics": [
+        "country-picker",
+        "countries",
+        "react-native",
+        "modal"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.0",
+        "tagName": "v2.0.0",
+        "createdAt": "2020-07-30T07:00:53Z",
+        "publishedAt": "2020-07-30T07:05:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 229958,
+      "weekDownloads": 54458,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "country-picker countries react-native modal",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "modal",
+      "countries",
+      "country-picker"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/douglasjunior/react-native-simple-dialogs",
+    "examples": [
+      "https://github.com/douglasjunior/react-native-simple-dialogs/tree/master/Sample",
+      "https://snack.expo.dev/@douglasjunior/react-native-simple-dialogs-example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-simple-dialogs",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/douglasjunior/react-native-simple-dialogs",
+        "clone": "https://github.com/douglasjunior/react-native-simple-dialogs.git",
+        "homepage": "https://www.npmjs.com/package/react-native-simple-dialogs"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-09T02:14:49Z",
+        "createdAt": "2017-06-18T17:57:06Z",
+        "pushedAt": "2024-05-09T03:06:52Z",
+        "issues": 1,
+        "subscribers": 5,
+        "stars": 310,
+        "forks": 55
+      },
+      "name": "react-native-simple-dialogs",
+      "fullName": "douglasjunior/react-native-simple-dialogs",
+      "description": "⚛ Cross-platform React Native dialogs based on the Modal component",
+      "topics": [
+        "react-native",
+        "android",
+        "ios",
+        "cross-platform",
+        "dialog",
+        "modal",
+        "popup",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.0.3",
+        "tagName": "2.0.3",
+        "createdAt": "2024-03-01T12:41:25Z",
+        "publishedAt": "2024-03-01T12:54:41Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 9499,
+      "weekDownloads": 2126,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android ios cross-platform dialog modal popup hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "modal",
+      "dialog",
+      "popup"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/doomsower/react-native-modal-popover",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-modal-popover",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/doomsower/react-native-modal-popover",
+        "clone": "https://github.com/doomsower/react-native-modal-popover.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-04T03:06:55Z",
+        "createdAt": "2017-06-18T12:44:10Z",
+        "pushedAt": "2023-03-04T03:28:00Z",
+        "issues": 22,
+        "subscribers": 4,
+        "stars": 313,
+        "forks": 41
+      },
+      "name": "react-native-modal-popover",
+      "fullName": "doomsower/react-native-modal-popover",
+      "description": "React-Native pure JS popover that uses Modal",
+      "topics": [
+        "react-native",
+        "popover",
+        "modal"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.1.3",
+        "tagName": "v2.1.3",
+        "createdAt": "2022-12-30T12:05:21Z",
+        "publishedAt": "2022-12-30T12:05:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 21286,
+      "weekDownloads": 5947,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native popover modal",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.029,
+    "category": [
+      "popover",
+      "modal"
+    ]
+  }
+]

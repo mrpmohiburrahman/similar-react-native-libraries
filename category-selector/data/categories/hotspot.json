@@ -1,0 +1,72 @@
+[
+  {
+    "githubUrl": "https://github.com/lawnstarter/react-native-hotspot",
+    "images": [
+      "https://raw.githubusercontent.com/lawnstarter/react-native-hotspot/master/example/ios-example.gif",
+      "https://raw.githubusercontent.com/lawnstarter/react-native-hotspot/master/example/android-example.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lawnstarter/react-native-hotspot",
+        "clone": "https://github.com/lawnstarter/react-native-hotspot.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T15:43:51Z",
+        "createdAt": "2018-05-14T14:06:24Z",
+        "pushedAt": "2024-05-24T15:43:51Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 5,
+        "stars": 32
+      },
+      "name": "react-native-hotspot",
+      "fullName": "lawnstarter/react-native-hotspot",
+      "description": "🎯 A React Native component that displays hotspots over desired components to help lead your users through an onboarding flow or direct them towards new UI elements",
+      "topics": [
+        "hotspot",
+        "tutorial",
+        "onboarding",
+        "react",
+        "react-native",
+        "expo",
+        "frontend"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-hotspot",
+    "npm": {
+      "downloads": 27,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.561,
+    "topicSearchString": "hotspot tutorial onboarding react react-native expo frontend",
+    "matchScore": 111,
+    "category": [
+      "hotspot"
+    ]
+  }
+]

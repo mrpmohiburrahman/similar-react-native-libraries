@@ -1,0 +1,85 @@
+[
+  {
+    "githubUrl": "https://github.com/animate-react-native/stagger",
+    "npmPkg": "@animatereactnative/stagger",
+    "examples": [
+      "https://github.com/animate-react-native/stagger/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/animate-react-native/stagger/main/animatereactnative-stagger-preview.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/animate-react-native/stagger",
+        "clone": "https://github.com/animate-react-native/stagger.git",
+        "homepage": "https://www.animatereactnative.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-19T09:05:20Z",
+        "createdAt": "2023-08-31T09:05:22Z",
+        "pushedAt": "2024-02-12T09:46:27Z",
+        "issues": 1,
+        "subscribers": 3,
+        "stars": 137,
+        "forks": 6
+      },
+      "name": "stagger",
+      "fullName": "animate-react-native/stagger",
+      "description": "A cross-platform React Native Stagger component, powered by Reanimated",
+      "topics": [
+        "react-native",
+        "react-native-animation",
+        "react-native-stagger-view",
+        "reanimated2",
+        "reanimated3",
+        "react-native-layout-animation",
+        "react-native-stagger",
+        "stagger-animation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.3.0",
+        "tagName": "v0.3.0",
+        "createdAt": "2024-02-12T09:46:24Z",
+        "publishedAt": "2024-02-12T09:46:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3018,
+      "weekDownloads": 997,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-animation react-native-stagger-view reanimated2 reanimated3 react-native-layout-animation react-native-stagger stagger-animation",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.081,
+    "category": [
+      "react-native-stagger-view",
+      "stagger-animation",
+      "react-native-stagger",
+      "react-native-layout-animation"
+    ]
+  }
+]

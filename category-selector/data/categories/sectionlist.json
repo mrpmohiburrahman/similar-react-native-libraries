@@ -1,0 +1,68 @@
+[
+  {
+    "githubUrl": "https://github.com/dozsolti/react-native-use-list",
+    "examples": [
+      "https://github.com/dozsolti/react-native-use-list/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-use-list",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dozsolti/react-native-use-list",
+        "clone": "https://github.com/dozsolti/react-native-use-list.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-14T05:54:10Z",
+        "createdAt": "2023-04-17T08:03:45Z",
+        "pushedAt": "2023-04-28T11:39:31Z",
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 35,
+        "forks": 3
+      },
+      "name": "react-native-use-list",
+      "fullName": "dozsolti/react-native-use-list",
+      "description": "React Native library of easy solutions for common List use cases.",
+      "topics": [
+        "flatlist",
+        "sectionlist",
+        "virtualizedlist"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 93,
+      "weekDownloads": 35,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "flatlist sectionlist virtualizedlist",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.321,
+    "category": [
+      "flatlist",
+      "sectionlist",
+      "virtualizedlist"
+    ]
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "githubUrl": "https://github.com/evollu/react-native-fcm",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-fcm",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/evollu/react-native-fcm",
+        "clone": "https://github.com/evollu/react-native-fcm.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T18:58:51Z",
+        "createdAt": "2016-05-29T03:53:22Z",
+        "pushedAt": "2022-12-06T20:27:57Z",
+        "issues": 307,
+        "subscribers": 37,
+        "stars": 1728,
+        "forks": 681
+      },
+      "name": "react-native-fcm",
+      "fullName": "evollu/react-native-fcm",
+      "description": "react native module for firebase cloud messaging and local notification",
+      "topics": [
+        "notifications",
+        "fcm",
+        "android",
+        "firebase",
+        "ios",
+        "local-notifications"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v16.2.4",
+        "createdAt": "2018-11-04T01:34:42Z",
+        "publishedAt": "2018-11-04T01:42:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 390,
+      "weekDownloads": 71,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "notifications fcm android firebase ios local-notifications",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.317,
+    "category": [
+      "firebase",
+      "fcm",
+      "notifications",
+      "local-notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/crashlytics",
+    "npmPkg": "@react-native-firebase/crashlytics",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git",
+        "homepage": "https://rnfirebase.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T20:28:42Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:51:00Z",
+        "issues": 46,
+        "subscribers": 165,
+        "stars": 11465,
+        "forks": 2176
+      },
+      "name": "react-native-firebase",
+      "fullName": "invertase/react-native-firebase",
+      "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+      "topics": [
+        "firebase",
+        "analytics",
+        "android",
+        "ios",
+        "database",
+        "push-notifications",
+        "react-native",
+        "fcm",
+        "react-native-app",
+        "react",
+        "auth",
+        "javascript",
+        "realtime-database",
+        "web-sdk",
+        "storage",
+        "transactions",
+        "remote-config",
+        "firestore",
+        "crashlytics",
+        "react-hooks"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "v6.4.0",
+        "tagName": "v6.4.0",
+        "createdAt": "2020-04-08T11:15:52Z",
+        "publishedAt": "2020-04-08T11:26:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 620829,
+      "weekDownloads": 139312,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "firebase analytics android ios database push-notifications react-native fcm react-native-app react auth javascript realtime-database web-sdk storage transactions remote-config firestore crashlytics react-hooks",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "firebase",
+      "crashlytics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/iid",
+    "npmPkg": "@react-native-firebase/iid",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git",
+        "homepage": "https://rnfirebase.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T20:28:42Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:51:00Z",
+        "issues": 46,
+        "subscribers": 165,
+        "stars": 11465,
+        "forks": 2176
+      },
+      "name": "react-native-firebase",
+      "fullName": "invertase/react-native-firebase",
+      "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+      "topics": [
+        "firebase",
+        "analytics",
+        "android",
+        "ios",
+        "database",
+        "push-notifications",
+        "react-native",
+        "fcm",
+        "react-native-app",
+        "react",
+        "auth",
+        "javascript",
+        "realtime-database",
+        "web-sdk",
+        "storage",
+        "transactions",
+        "remote-config",
+        "firestore",
+        "crashlytics",
+        "react-hooks"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "v6.4.0",
+        "tagName": "v6.4.0",
+        "createdAt": "2020-04-08T11:15:52Z",
+        "publishedAt": "2020-04-08T11:26:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6127,
+      "weekDownloads": 1205,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "firebase analytics android ios database push-notifications react-native fcm react-native-app react auth javascript realtime-database web-sdk storage transactions remote-config firestore crashlytics react-hooks",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.053,
+    "category": [
+      "firebase"
+    ]
+  }
+]

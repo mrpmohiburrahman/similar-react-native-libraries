@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/carloscuesta/react-native-error-boundary",
+    "examples": [
+      "https://snack.expo.dev/@carloscuesta/react-native-error-boundary"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/7629661/52532748-d8758400-2d29-11e9-80a0-15182517271c.gif",
+      "https://user-images.githubusercontent.com/7629661/106904482-89d20900-66fb-11eb-80ed-71b95ebd9120.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-error-boundary",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/carloscuesta/react-native-error-boundary",
+        "clone": "https://github.com/carloscuesta/react-native-error-boundary.git",
+        "homepage": "https://react-native-error-boundary.js.org"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T03:59:02Z",
+        "createdAt": "2019-02-08T19:13:18Z",
+        "pushedAt": "2024-05-08T08:15:50Z",
+        "issues": 3,
+        "subscribers": 5,
+        "stars": 457,
+        "forks": 30
+      },
+      "name": "react-native-error-boundary",
+      "fullName": "carloscuesta/react-native-error-boundary",
+      "description": "A simple and reusable React-Native error boundary component 🐛",
+      "topics": [
+        "react-native",
+        "error-boundary"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.2.4",
+        "tagName": "v1.2.4",
+        "createdAt": "2023-12-09T08:16:27Z",
+        "publishedAt": "2023-12-09T08:17:20Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 120439,
+      "weekDownloads": 28678,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native error-boundary",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.012,
+    "category": [
+      "error-boundary"
+    ]
+  }
+]

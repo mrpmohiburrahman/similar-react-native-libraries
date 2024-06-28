@@ -1,0 +1,144 @@
+[
+  {
+    "githubUrl": "https://github.com/airbnb/native-navigation",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "native-navigation",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/airbnb/native-navigation",
+        "clone": "https://github.com/airbnb/native-navigation.git",
+        "homepage": "http://airbnb.io/native-navigation/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T11:09:45Z",
+        "createdAt": "2016-09-16T17:16:56Z",
+        "pushedAt": "2023-03-04T02:23:14Z",
+        "issues": 64,
+        "subscribers": 112,
+        "stars": 3126,
+        "forks": 177
+      },
+      "name": "native-navigation",
+      "fullName": "airbnb/native-navigation",
+      "description": "Native navigation library for React Native applications",
+      "topics": [
+        "react-native",
+        "react",
+        "navigation",
+        "navigator"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 38,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react navigation navigator",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.858,
+    "category": [
+      "navigation",
+      "navigator"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wix/react-native-navigation",
+    "ios": true,
+    "tvos": true,
+    "android": true,
+    "goldstar": true,
+    "npmPkg": "react-native-navigation",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wix/react-native-navigation",
+        "clone": "https://github.com/wix/react-native-navigation.git",
+        "homepage": "https://wix.github.io/react-native-navigation/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T12:23:50Z",
+        "createdAt": "2016-03-11T11:22:54Z",
+        "pushedAt": "2024-05-22T20:30:06Z",
+        "issues": 262,
+        "subscribers": 494,
+        "stars": 13000,
+        "forks": 2677
+      },
+      "name": "react-native-navigation",
+      "fullName": "wix/react-native-navigation",
+      "description": "A complete native navigation solution for React Native",
+      "topics": [
+        "react-native",
+        "navigation",
+        "navigator",
+        "react-native-navigation",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "7.39.2",
+        "tagName": "7.39.2",
+        "createdAt": "2024-04-24T08:51:07Z",
+        "publishedAt": "2024-04-24T08:51:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 182959,
+      "weekDownloads": 43257,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native navigation navigator react-native-navigation hacktoberfest",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recommended",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.014,
+    "category": [
+      "navigation",
+      "navigator",
+      "react-native-navigation"
+    ]
+  }
+]

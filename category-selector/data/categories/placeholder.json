@@ -1,0 +1,216 @@
+[
+  {
+    "githubUrl": "https://github.com/tomzaku/react-native-shimmer-placeholder",
+    "images": [
+      "https://raw.githubusercontent.com/tomzaku/react-native-shimmer-placeholder/master/example.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-shimmer-placeholder",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tomzaku/react-native-shimmer-placeholder",
+        "clone": "https://github.com/tomzaku/react-native-shimmer-placeholder.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T07:27:54Z",
+        "createdAt": "2017-05-24T09:47:57Z",
+        "pushedAt": "2024-02-20T11:04:59Z",
+        "issues": 22,
+        "subscribers": 14,
+        "stars": 1023,
+        "forks": 91
+      },
+      "name": "react-native-shimmer-placeholder",
+      "fullName": "tomzaku/react-native-shimmer-placeholder",
+      "description": "Placeholder/ Skeleton of React Native",
+      "topics": [
+        "react-native",
+        "placeholder",
+        "shimmer",
+        "module",
+        "skeleton"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v2.0.7",
+        "createdAt": "2021-03-04T06:14:12Z",
+        "publishedAt": "2021-03-04T06:14:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 126872,
+      "weekDownloads": 27184,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native placeholder shimmer module skeleton",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.036,
+    "category": [
+      "placeholder",
+      "shimmer",
+      "skeleton"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mfrachet/rn-placeholder",
+    "examples": [
+      "https://github.com/mfrachet/rn-placeholder/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/mfrachet/rn-placeholder/master/assets/placeholder.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "rn-placeholder",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mfrachet/rn-placeholder",
+        "clone": "https://github.com/mfrachet/rn-placeholder.git",
+        "homepage": "https://mfrachet.github.io/rn-placeholder/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T07:15:40Z",
+        "createdAt": "2017-05-07T16:22:54Z",
+        "pushedAt": "2023-01-26T13:18:17Z",
+        "issues": 24,
+        "subscribers": 12,
+        "stars": 2119,
+        "forks": 177
+      },
+      "name": "rn-placeholder",
+      "fullName": "mfrachet/rn-placeholder",
+      "description": "🏖️ Display some placeholder stuff before rendering your text or media content in React Native",
+      "topics": [
+        "react",
+        "react-native",
+        "ux",
+        "placeholder"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.0",
+        "tagName": "v2.0.0",
+        "createdAt": "2019-04-27T21:56:27Z",
+        "publishedAt": "2019-04-28T15:34:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 83513,
+      "weekDownloads": 17956,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native ux placeholder",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.035,
+    "category": [
+      "placeholder"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/zeljkoX/react-native-loading-placeholder",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-loading-placeholder",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zeljkoX/react-native-loading-placeholder",
+        "clone": "https://github.com/zeljkoX/react-native-loading-placeholder.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T17:40:50Z",
+        "createdAt": "2017-05-25T17:19:32Z",
+        "pushedAt": "2018-01-10T09:33:08Z",
+        "issues": 4,
+        "subscribers": 1,
+        "stars": 176,
+        "forks": 17
+      },
+      "name": "react-native-loading-placeholder",
+      "fullName": "zeljkoX/react-native-loading-placeholder",
+      "description": "React Native Loading Placeholder",
+      "topics": [
+        "react-native",
+        "placeholder",
+        "loader",
+        "skeletor"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4833,
+      "weekDownloads": 1084,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native placeholder loader skeletor",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.026,
+    "category": [
+      "placeholder",
+      "loader",
+      "skeletor"
+    ]
+  }
+]

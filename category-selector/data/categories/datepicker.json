@@ -1,0 +1,82 @@
+[
+  {
+    "githubUrl": "https://github.com/MohamadKh75/react-native-jalali-datepicker",
+    "npmPkg": "@mohamadkh75/react-native-jalali-datepicker",
+    "examples": [
+      "https://github.com/MohamadKh75/react-native-jalali-datepicker/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/MohamadKh75/react-native-jalali-datepicker/master/assets/react-native-jalali-datepicker-1.jpg",
+      "https://raw.githubusercontent.com/MohamadKh75/react-native-jalali-datepicker/master/assets/react-native-jalali-datepicker-2.jpg"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "windows": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/MoKhajavi75/react-native-jalali-datepicker",
+        "clone": "https://github.com/MoKhajavi75/react-native-jalali-datepicker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-05T20:50:41Z",
+        "createdAt": "2020-03-01T06:44:12Z",
+        "pushedAt": "2024-04-05T20:50:41Z",
+        "forks": 4,
+        "issues": 1,
+        "subscribers": 5,
+        "stars": 82
+      },
+      "name": "react-native-jalali-datepicker",
+      "fullName": "MoKhajavi75/react-native-jalali-datepicker",
+      "description": "📅 React Native Jalali DatePicker component for both Android and iOS ✨",
+      "topics": [
+        "react-native",
+        "calendar",
+        "date",
+        "datepicker",
+        "jalali",
+        "jalaali",
+        "shamsi",
+        "persian"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v1.1.1",
+        "createdAt": "2020-11-06T13:51:38Z",
+        "publishedAt": "2020-11-06T13:52:00Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 59,
+      "weekDownloads": 6,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.586,
+    "topicSearchString": "react-native calendar date datepicker jalali jalaali shamsi persian",
+    "matchScore": 111,
+    "category": [
+      "datepicker"
+    ]
+  }
+]

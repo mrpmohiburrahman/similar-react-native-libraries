@@ -1,0 +1,168 @@
+[
+  {
+    "githubUrl": "https://github.com/stovmascript/react-native-version",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "dev": true,
+    "npmPkg": "react-native-version",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/stovmascript/react-native-version",
+        "clone": "https://github.com/stovmascript/react-native-version.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T20:18:46Z",
+        "createdAt": "2016-09-04T14:26:53Z",
+        "pushedAt": "2023-07-21T15:31:04Z",
+        "issues": 56,
+        "subscribers": 5,
+        "stars": 566,
+        "forks": 73
+      },
+      "name": "react-native-version",
+      "fullName": "stovmascript/react-native-version",
+      "description": ":1234: Version your React Native or Expo app in a `npm version` fashion.",
+      "topics": [
+        "react-native",
+        "semantic-versioning",
+        "semver",
+        "npm-version",
+        "expo",
+        "create-react-native-app",
+        "hooks",
+        "cli",
+        "versioning",
+        "release"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.0.0",
+        "tagName": "v4.0.0",
+        "createdAt": "2020-03-04T22:13:31Z",
+        "publishedAt": "2020-03-04T23:01:21Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 136681,
+      "weekDownloads": 31531,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native semantic-versioning semver npm-version expo create-react-native-app hooks cli versioning release",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.019,
+    "category": [
+      "versioning",
+      "release"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/margelo/react-native-release-profiler",
+    "examples": [
+      "https://github.com/margelo/react-native-release-profiler/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "npmPkg": "react-native-release-profiler",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-release-profiler",
+        "clone": "https://github.com/margelo/react-native-release-profiler.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T19:28:12Z",
+        "createdAt": "2023-11-30T18:00:11Z",
+        "pushedAt": "2024-01-17T11:01:36Z",
+        "issues": 2,
+        "subscribers": 7,
+        "stars": 182,
+        "forks": 0
+      },
+      "name": "react-native-release-profiler",
+      "fullName": "margelo/react-native-release-profiler",
+      "description": "A fast and simple library to passively profile JS/Hermes performance in production and release builds.",
+      "topics": [
+        "debug",
+        "debugger",
+        "hermes",
+        "jsi",
+        "perf",
+        "performance",
+        "production",
+        "profiler",
+        "profiling",
+        "release",
+        "sample",
+        "trace"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.6",
+        "tagName": "v0.1.6",
+        "createdAt": "2024-01-17T11:01:33Z",
+        "publishedAt": "2024-01-17T11:01:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11344,
+      "weekDownloads": 1254,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "debug debugger hermes jsi perf performance production profiler profiling release sample trace",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.139,
+    "category": [
+      "performance",
+      "profiler",
+      "profiling",
+      "release",
+      "trace",
+      "debug",
+      "debugger",
+      "hermes",
+      "perf"
+    ]
+  }
+]

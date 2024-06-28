@@ -1,0 +1,3804 @@
+[
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-google-sign-in",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2022-05-08T08:43:36Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2022-05-08T08:43:36Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29828
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "expo-google-sign-in",
+    "npm": {
+      "downloads": 5189,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 934
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.32,
+    "topicSearchString": "",
+    "matchScore": 0.1,
+    "category": [
+      "google-sign-in"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/dcangulo/react-native-pkce-challenge",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "windows": true,
+    "macos": true,
+    "examples": [
+      "https://github.com/dcangulo/react-native-pkce-challenge/tree/main/example"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dcangulo/react-native-pkce-challenge",
+        "clone": "https://github.com/dcangulo/react-native-pkce-challenge.git",
+        "homepage": "https://www.npmjs.com/package/react-native-pkce-challenge"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-07T13:12:33Z",
+        "createdAt": "2020-08-20T14:20:16Z",
+        "pushedAt": "2024-04-07T13:12:33Z",
+        "forks": 6,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 26
+      },
+      "name": "react-native-pkce-challenge",
+      "fullName": "dcangulo/react-native-pkce-challenge",
+      "description": "Proof Key for Code Exchange (PKCE) challenge generator for React Native.",
+      "topics": [
+        "react-native",
+        "react-native-web",
+        "react-native-macos",
+        "pkce",
+        "oauth2",
+        "jsi",
+        "c++",
+        "react",
+        "reactjs",
+        "react-native-windows",
+        "expo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.3.1",
+        "tagName": "v5.3.1",
+        "createdAt": "2024-02-03T06:52:14Z",
+        "publishedAt": "2024-02-03T06:53:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-pkce-challenge",
+    "npm": {
+      "downloads": 19971,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5054
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.003,
+    "topicSearchString": "react-native react-native-web react-native-macos pkce oauth2 jsi c++ react reactjs react-native-windows expo",
+    "matchScore": 1,
+    "category": [
+      "oauth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/candlefinance/faster-image",
+    "npmPkg": "@candlefinance/faster-image",
+    "examples": [
+      "https://github.com/candlefinance/faster-image/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/candlefinance/faster-image",
+        "clone": "https://github.com/candlefinance/faster-image.git",
+        "homepage": "https://candle.fi"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T11:39:36Z",
+        "createdAt": "2023-03-25T21:09:34Z",
+        "pushedAt": "2024-05-14T11:39:36Z",
+        "forks": 16,
+        "issues": 9,
+        "subscribers": 6,
+        "stars": 439
+      },
+      "name": "faster-image",
+      "fullName": "candlefinance/faster-image",
+      "description": "Fast image loading for React Native backed by performant native libraries.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image",
+        "nuke",
+        "activityindicator",
+        "transition",
+        "coil",
+        "coil-kotlin",
+        "cache"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.5.3",
+        "tagName": "v1.5.3",
+        "createdAt": "2024-05-14T11:40:27Z",
+        "publishedAt": "2024-05-14T11:40:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 24580,
+      "weekDownloads": 4410,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.071,
+    "topicSearchString": "react-native ios android image nuke activityindicator transition coil coil-kotlin cache",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/intellidev1991/react-native-image-slider-box",
+    "examples": [
+      "https://github.com/intellidev1991/react-native-image-slider-box/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/intellidev1991/react-native-image-slider-box/master/assets/pic1.jpg",
+      "https://raw.githubusercontent.com/intellidev1991/react-native-image-slider-box/master/assets/gif.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/intellidev1991/react-native-image-slider-box",
+        "clone": "https://github.com/intellidev1991/react-native-image-slider-box.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T11:43:30Z",
+        "createdAt": "2019-07-31T13:58:08Z",
+        "pushedAt": "2024-05-22T11:43:30Z",
+        "forks": 90,
+        "issues": 59,
+        "subscribers": 4,
+        "stars": 262
+      },
+      "name": "react-native-image-slider-box",
+      "fullName": "intellidev1991/react-native-image-slider-box",
+      "description": "A simple and fully customizable React Native component that implements an Image Slider UI.",
+      "topics": [
+        "react-native-image-slider-box",
+        "react-native-image-slider",
+        "react-native",
+        "react-native-slider",
+        "reactnative",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "slider",
+        "image-slider",
+        "image-paging-slider",
+        "react-components",
+        "react-native-image",
+        "react-native-library"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-image-slider-box",
+    "npm": {
+      "downloads": 17372,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 4206
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.008,
+    "topicSearchString": "react-native-image-slider-box react-native-image-slider react-native react-native-slider reactnative react-component react-native-component react mobile ios android ui slider image-slider image-paging-slider react-components react-native-image react-native-library",
+    "matchScore": 1,
+    "category": [
+      "react-native-component"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image-picker",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev/versions/latest/sdk/imagepicker/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T20:03:42Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-15T20:03:42Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29828
+      },
+      "name": "expo-image-picker",
+      "fullName": "expo/expo",
+      "description": "Provides access to the system's UI for selecting images and videos from the phone's library or taking a photo with the camera.",
+      "topics": [
+        "react-native",
+        "expo",
+        "image",
+        "picker",
+        "image-picker"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [
+      "https://github.com/expo/expo/raw/main/.github/resources/expo-image-picker.svg"
+    ],
+    "npmPkg": "expo-image-picker",
+    "npm": {
+      "downloads": 589521,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 139542
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "topicSearchString": "react-native expo image picker image-picker",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image-manipulator",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev/versions/latest/sdk/imagemanipulator/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T18:35:34Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-13T18:35:34Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29828
+      },
+      "name": "expo-image-manipulator",
+      "fullName": "expo/expo",
+      "description": "Provides functions that let you manipulation images on the local file system, eg: resize, crop.",
+      "topics": [
+        "react-native",
+        "expo",
+        "expo-image-manipulator"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "expo-image-manipulator",
+    "npm": {
+      "downloads": 270432,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 61110
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "topicSearchString": "react-native expo expo-image-manipulator",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/baronha/react-native-multiple-image-picker",
+    "npmPkg": "@baronha/react-native-multiple-image-picker",
+    "examples": [
+      "https://github.com/baronha/react-native-multiple-image-picker/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/baronha/react-native-multiple-image-picker/main/files/demo-main-android.gif",
+      "https://raw.githubusercontent.com/baronha/react-native-multiple-image-picker/main/files/demo-main-ios.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/baronha/react-native-multiple-image-picker",
+        "clone": "https://github.com/baronha/react-native-multiple-image-picker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T09:13:54Z",
+        "createdAt": "2021-02-21T08:34:18Z",
+        "pushedAt": "2024-05-15T09:13:54Z",
+        "forks": 89,
+        "issues": 26,
+        "subscribers": 6,
+        "stars": 356
+      },
+      "name": "react-native-multiple-image-picker",
+      "fullName": "baronha/react-native-multiple-image-picker",
+      "description": "🏞 react-native-multiple-image-picker enables applications to pick images and videos from multiple smart albums in iOS/Android, similar to the current Facebook app.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image-picker",
+        "native-module",
+        "picker",
+        "swift",
+        "video",
+        "multi-selector",
+        "photo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.1.2",
+        "tagName": "1.1.2",
+        "createdAt": "2023-09-20T07:04:53Z",
+        "publishedAt": "2023-09-20T07:14:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4240,
+      "weekDownloads": 1037,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.005,
+    "topicSearchString": "react-native ios android image-picker native-module picker swift video multi-selector photo",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ivpusic/react-native-image-crop-picker",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ivpusic/react-native-image-crop-picker",
+        "clone": "https://github.com/ivpusic/react-native-image-crop-picker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-10T22:06:53Z",
+        "createdAt": "2016-05-17T14:25:03Z",
+        "pushedAt": "2024-05-10T22:06:53Z",
+        "forks": 1414,
+        "issues": 738,
+        "subscribers": 72,
+        "stars": 6015
+      },
+      "name": "react-native-image-crop-picker",
+      "fullName": "ivpusic/react-native-image-crop-picker",
+      "description": "iOS/Android image picker with support for camera, video, configurable compression, multiple images and cropping",
+      "topics": [
+        "react",
+        "native",
+        "react-native",
+        "image",
+        "picker",
+        "crop",
+        "cropping",
+        "multiple",
+        "camera",
+        "video",
+        "ios",
+        "android",
+        "recording"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.41.1",
+        "tagName": "v0.41.1",
+        "createdAt": "2024-05-10T22:07:02Z",
+        "publishedAt": "2024-05-10T22:08:07Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-image-crop-picker",
+    "npm": {
+      "downloads": 804332,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 162472
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.048,
+    "topicSearchString": "react native react-native image picker crop cropping multiple camera video ios android recording",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/bamlab/react-native-image-resizer",
+    "npmPkg": "@bam.tech/react-native-image-resizer",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bamlab/react-native-image-resizer",
+        "clone": "https://github.com/bamlab/react-native-image-resizer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-29T12:36:58Z",
+        "createdAt": "2015-11-30T10:23:11Z",
+        "pushedAt": "2024-04-29T12:36:58Z",
+        "forks": 318,
+        "issues": 4,
+        "subscribers": 20,
+        "stars": 1578
+      },
+      "name": "react-native-image-resizer",
+      "fullName": "bamlab/react-native-image-resizer",
+      "description": "🗻 Resize local images with React Native",
+      "topics": [
+        "react-native",
+        "react",
+        "android",
+        "ios",
+        "images",
+        "image",
+        "image-resizer",
+        "scaling",
+        "scale",
+        "resize",
+        "jpeg"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.0.9",
+        "tagName": "v3.0.9",
+        "createdAt": "2024-04-29T12:37:02Z",
+        "publishedAt": "2024-04-29T12:37:48Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npm": {
+      "downloads": 105502,
+      "weekDownloads": 23738,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.025,
+    "topicSearchString": "react-native react android ios images image image-resizer scaling scale resize jpeg",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/likashefqet/react-native-image-zoom",
+    "npmPkg": "@likashefqet/react-native-image-zoom",
+    "examples": [
+      "https://github.com/likashefqet/react-native-image-zoom/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/likashefqet/react-native-image-zoom/main/demo.gif"
+    ],
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/likashefqet/react-native-image-zoom",
+        "clone": "https://github.com/likashefqet/react-native-image-zoom.git",
+        "homepage": "https://www.npmjs.com/package/@likashefqet/react-native-image-zoom"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-24T18:14:11Z",
+        "createdAt": "2021-12-09T05:46:30Z",
+        "pushedAt": "2024-03-24T18:14:11Z",
+        "forks": 36,
+        "issues": 6,
+        "subscribers": 5,
+        "stars": 220
+      },
+      "name": "react-native-image-zoom",
+      "fullName": "likashefqet/react-native-image-zoom",
+      "description": "A performant and customizable image zoom component built with Reanimated v2+ and TypeScript. 🌃 🚀",
+      "topics": [
+        "photo",
+        "image",
+        "picture",
+        "zoom",
+        "pinch",
+        "pan",
+        "reanimated",
+        "gesture",
+        "instagram",
+        "react",
+        "react-native",
+        "react-native-image-zoom",
+        "react-native-zoom",
+        "react-native-image",
+        "image-zoom",
+        "zoom-image",
+        "zoomable-image",
+        "zoomable",
+        "javascript",
+        "ui-lib",
+        "rn",
+        "likashefqet",
+        "likashefi"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.0.0",
+        "tagName": "v3.0.0",
+        "createdAt": "2024-03-24T18:14:16Z",
+        "publishedAt": "2024-03-24T18:31:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 33324,
+      "weekDownloads": 8597,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.008,
+    "topicSearchString": "photo image picture zoom pinch pan reanimated gesture instagram react react-native react-native-image-zoom react-native-zoom react-native-image image-zoom zoom-image zoomable-image zoomable javascript ui-lib rn likashefqet likashefi",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/sbaiahmed1/react-native-image-preview",
+    "npmPkg": "react-native-image-preview-reanimated",
+    "examples": [
+      "https://github.com/sbaiahmed1/react-native-image-preview/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/sbaiahmed1/react-native-image-preview/main/example/PreviewModal.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "newArchitecture": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sbaiahmed1/react-native-image-preview",
+        "clone": "https://github.com/sbaiahmed1/react-native-image-preview.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-22T23:45:26Z",
+        "createdAt": "2023-12-12T21:55:37Z",
+        "pushedAt": "2024-03-22T23:45:26Z",
+        "forks": 2,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 24
+      },
+      "name": "react-native-image-preview",
+      "fullName": "sbaiahmed1/react-native-image-preview",
+      "description": "React Native Image Preview made with Reanimated 3 and RNGH ",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "react-native-image-viewer",
+        "image-viewer",
+        "image-modal"
+      ],
+      "license": {
+        "key": "gpl-2.0",
+        "name": "GNU General Public License v2.0",
+        "spdxId": "GPL-2.0",
+        "url": "http://choosealicense.com/licenses/gpl-2.0/",
+        "id": "MDc6TGljZW5zZTg="
+      },
+      "lastRelease": {
+        "name": "Release 0.5.2",
+        "tagName": "v0.5.2",
+        "createdAt": "2024-03-22T23:45:28Z",
+        "publishedAt": "2024-03-22T23:45:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 138,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 16
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.68,
+    "topicSearchString": "react-native ios android react-native-image-viewer image-viewer image-modal",
+    "matchScore": 1,
+    "category": [
+      "image-modal"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/JimmyDaddy/react-native-image-marker",
+    "ios": true,
+    "android": true,
+    "examples": [
+      "https://github.com/JimmyDaddy/react-native-image-marker/tree/master/example",
+      "https://github.com/JimmyDaddy/react-native-image-marker/tree/master/expo-example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/multiple_icon_markers.png",
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/rotatetexts.png",
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/alphicononly.png",
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/alphabgonly.png",
+      "https://raw.githubusercontent.com/JimmyDaddy/react-native-image-marker/master/asset/textswihoutbg.png"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/JimmyDaddy/react-native-image-marker",
+        "clone": "https://github.com/JimmyDaddy/react-native-image-marker.git",
+        "homepage": "https://jimmydaddy.github.io/react-native-image-marker/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-04T13:21:23Z",
+        "createdAt": "2017-03-04T16:33:14Z",
+        "pushedAt": "2024-02-04T13:21:23Z",
+        "forks": 87,
+        "issues": 6,
+        "subscribers": 5,
+        "stars": 303
+      },
+      "name": "react-native-image-marker",
+      "fullName": "JimmyDaddy/react-native-image-marker",
+      "description": "🙈Adding text or icon watermark to your image using React Native👀👀",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image",
+        "marker",
+        "text",
+        "watermark",
+        "icon",
+        "mark",
+        "photo",
+        "reactnative",
+        "icon-watermark"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.2.6 🌈",
+        "tagName": "v1.2.6",
+        "createdAt": "2024-02-04T12:13:46Z",
+        "publishedAt": "2024-02-04T13:24:11Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-image-marker",
+    "npm": {
+      "downloads": 193371,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 40392
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.041,
+    "topicSearchString": "react-native ios android image marker text watermark icon mark photo reactnative icon-watermark",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/iChengbo/react-native-imagemin-asset-plugin",
+    "examples": [
+      "https://github.com/iChengbo/react-native-imagemin-asset-plugin/tree/master/playground"
+    ],
+    "images": [
+      "https://github.com/iChengbo/react-native-imagemin-asset-plugin/blob/master/example.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "dev": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/iChengbo/react-native-imagemin-asset-plugin",
+        "clone": "https://github.com/iChengbo/react-native-imagemin-asset-plugin.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-04T01:44:53Z",
+        "createdAt": "2021-08-13T06:03:49Z",
+        "pushedAt": "2024-02-04T01:44:53Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 14
+      },
+      "name": "react-native-imagemin-asset-plugin",
+      "fullName": "iChengbo/react-native-imagemin-asset-plugin",
+      "description": "Metro Asset plugin for compressing images in React Native. 一款在项目构建阶段自动压缩图片资源的插件。",
+      "topics": [
+        "react-native",
+        "metro",
+        "compress",
+        "image",
+        "assetplugin",
+        "imagemin",
+        "asset-plugin"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.5.3",
+        "tagName": "v1.5.3",
+        "createdAt": "2024-01-05T01:01:46Z",
+        "publishedAt": "2024-01-05T01:01:50Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-imagemin-asset-plugin",
+    "npm": {
+      "downloads": 59,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 11
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.601,
+    "topicSearchString": "react-native metro compress image assetplugin imagemin asset-plugin",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/osamaqarem/react-native-image-colors",
+    "examples": [
+      "https://github.com/osamaqarem/react-native-image-colors/tree/master/example",
+      "https://snack.expo.dev/@osamaqarem/imagecolors-example?platform=web"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/osamaqarem/react-native-image-colors/master/assets/demo1_ios.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "newArchitecture": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/osamaqarem/react-native-image-colors",
+        "clone": "https://github.com/osamaqarem/react-native-image-colors.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-12T08:30:09Z",
+        "createdAt": "2020-02-16T15:07:53Z",
+        "pushedAt": "2024-01-12T08:30:09Z",
+        "forks": 34,
+        "issues": 4,
+        "subscribers": 6,
+        "stars": 641
+      },
+      "name": "react-native-image-colors",
+      "fullName": "osamaqarem/react-native-image-colors",
+      "description": "Fetch prominent colors from an image.",
+      "topics": [
+        "react-native",
+        "expo",
+        "react-native-image-colors",
+        "rnimagecolors",
+        "ios",
+        "android",
+        "react",
+        "image",
+        "dominant",
+        "average",
+        "color",
+        "palette"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.4.0",
+        "tagName": "v2.4.0",
+        "createdAt": "2024-01-04T19:25:07Z",
+        "publishedAt": "2024-01-04T19:25:17Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-image-colors",
+    "npm": {
+      "downloads": 105765,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 16522
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.094,
+    "topicSearchString": "react-native expo react-native-image-colors rnimagecolors ios android react image dominant average color palette",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/andresribeiro/react-native-reanimated-image-viewer",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/andresribeiro/react-native-reanimated-image-viewer",
+        "clone": "https://github.com/andresribeiro/react-native-reanimated-image-viewer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-12-27T17:56:47Z",
+        "createdAt": "2022-12-29T18:24:20Z",
+        "pushedAt": "2023-12-27T17:56:47Z",
+        "forks": 7,
+        "issues": 3,
+        "subscribers": 1,
+        "stars": 135
+      },
+      "name": "react-native-reanimated-image-viewer",
+      "fullName": "andresribeiro/react-native-reanimated-image-viewer",
+      "description": "A image viewer for React Native created with Reanimated",
+      "topics": [
+        "react-native",
+        "react",
+        "reanimated",
+        "image",
+        "image-viewer",
+        "image-viewing",
+        "viewer",
+        "viewing",
+        "pinch",
+        "pan",
+        "zoom",
+        "double-tap",
+        "rn",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-reanimated-image-viewer",
+    "npm": {
+      "downloads": 3857,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 452
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.133,
+    "topicSearchString": "react-native react reanimated image image-viewer image-viewing viewer viewing pinch pan zoom double-tap rn typescript",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/georstat/react-native-image-cache",
+    "npmPkg": "@georstat/react-native-image-cache",
+    "examples": [
+      "https://github.com/georstat/react-native-image-cache/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/717975/117460761-85fd8f00-af55-11eb-8804-69c008bfeb8d.gif",
+      "https://user-images.githubusercontent.com/717975/117491773-4ba5e900-af79-11eb-8ae1-99604b47c55c.gif",
+      "https://user-images.githubusercontent.com/717975/125193571-b4e5f900-e255-11eb-8164-3ca097ce6e74.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/georstat/react-native-image-cache",
+        "clone": "https://github.com/georstat/react-native-image-cache.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-06T21:31:42Z",
+        "createdAt": "2021-05-07T07:57:30Z",
+        "pushedAt": "2023-09-06T21:31:42Z",
+        "forks": 27,
+        "issues": 8,
+        "subscribers": 6,
+        "stars": 356
+      },
+      "name": "react-native-image-cache",
+      "fullName": "georstat/react-native-image-cache",
+      "description": "React-Native image caching in file system with progressive loading for iOS and Android",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "image-cache",
+        "cache",
+        "file-system-image-cache"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.1.0",
+        "tagName": "v3.1.0",
+        "createdAt": "2023-09-06T21:31:44Z",
+        "publishedAt": "2023-09-06T21:31:50Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8034,
+      "weekDownloads": 2005,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0,
+    "topicSearchString": "react-native ios android image-cache cache file-system-image-cache",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/WrathChaos/react-native-progressive-fast-image",
+    "npmPkg": "@freakycoder/react-native-progressive-fast-image",
+    "examples": [
+      "https://github.com/WrathChaos/react-native-progressive-fast-image/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/WrathChaos/react-native-progressive-fast-image",
+        "clone": "https://github.com/WrathChaos/react-native-progressive-fast-image.git",
+        "homepage": "https://freakycoder.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-04-05T11:32:36Z",
+        "createdAt": "2020-08-24T16:52:28Z",
+        "pushedAt": "2023-04-05T11:32:36Z",
+        "forks": 11,
+        "issues": 3,
+        "subscribers": 5,
+        "stars": 101
+      },
+      "name": "react-native-progressive-fast-image",
+      "fullName": "WrathChaos/react-native-progressive-fast-image",
+      "description": "Customizable progressive image for React Native with FastImage",
+      "topics": [
+        "loading",
+        "loading-image",
+        "progressive",
+        "lazy",
+        "lazy-load",
+        "fast-image",
+        "image",
+        "progressive-image",
+        "progressive-fast-image",
+        "freakycoder",
+        "kuray",
+        "react",
+        "react-native",
+        "javascript",
+        "ui-lib",
+        "rn",
+        "mobile-app",
+        "mobile"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "Version 1 😍",
+        "tagName": "1.0.0",
+        "createdAt": "2023-04-05T11:29:34Z",
+        "publishedAt": "2023-04-05T11:33:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 5174,
+      "weekDownloads": 1210,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.016,
+    "topicSearchString": "loading loading-image progressive lazy lazy-load fast-image image progressive-image progressive-fast-image freakycoder kuray react react-native javascript ui-lib rn mobile-app mobile",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/DylanVann/react-native-fast-image",
+    "images": [
+      "https://raw.githubusercontent.com/DylanVann/react-native-fast-image/master/docs/assets/scroll.gif",
+      "https://raw.githubusercontent.com/DylanVann/react-native-fast-image/master/docs/assets/priority.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/DylanVann/react-native-fast-image",
+        "clone": "https://github.com/DylanVann/react-native-fast-image.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-10-31T01:41:06Z",
+        "createdAt": "2017-04-13T04:13:44Z",
+        "pushedAt": "2022-10-31T01:41:06Z",
+        "forks": 1269,
+        "issues": 392,
+        "subscribers": 62,
+        "stars": 8056
+      },
+      "name": "react-native-fast-image",
+      "fullName": "DylanVann/react-native-fast-image",
+      "description": "🚩 FastImage, performant React Native image component.",
+      "topics": [
+        "cache",
+        "cached",
+        "fastimage",
+        "image",
+        "priority",
+        "react-native",
+        "sdwebimage",
+        "glide",
+        "image-cache",
+        "cocoapod",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v8.6.3",
+        "tagName": "v8.6.3",
+        "createdAt": "2022-10-31T01:41:06Z",
+        "publishedAt": "2022-10-31T01:41:10Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-fast-image",
+    "npm": {
+      "downloads": 1048500,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 226333
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.034,
+    "topicSearchString": "cache cached fastimage image priority react-native sdwebimage glide image-cache cocoapod hacktoberfest",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/AndreYonadam/react-native-scrolling-images",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/AndreYonadam/react-native-scrolling-images",
+        "clone": "https://github.com/AndreYonadam/react-native-scrolling-images.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-06-28T14:03:28Z",
+        "createdAt": "2019-01-25T00:20:09Z",
+        "pushedAt": "2022-06-28T14:03:28Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 17
+      },
+      "name": "react-native-scrolling-images",
+      "fullName": "AndreYonadam/react-native-scrolling-images",
+      "description": "Easily create looping scrolling images for backgrounds and parallax",
+      "topics": [
+        "animated",
+        "scrolling",
+        "image",
+        "background",
+        "parallax"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-scrolling-images",
+    "npm": {
+      "downloads": 131,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 28
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.581,
+    "topicSearchString": "animated scrolling image background parallax",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jobtoday/react-native-image-viewing",
+    "examples": [
+      "https://expo.dev/@antonkalinin/react-native-image-viewing",
+      "https://github.com/jobtoday/react-native-image-viewing/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jobtoday/react-native-image-viewing/master/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jobtoday/react-native-image-viewing",
+        "clone": "https://github.com/jobtoday/react-native-image-viewing.git",
+        "homepage": "https://exp.host/@antonkalinin/react-native-image-viewing"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-04-18T19:44:46Z",
+        "createdAt": "2019-11-07T20:44:32Z",
+        "pushedAt": "2022-04-18T19:44:46Z",
+        "forks": 243,
+        "issues": 78,
+        "subscribers": 20,
+        "stars": 857
+      },
+      "name": "react-native-image-viewing",
+      "fullName": "jobtoday/react-native-image-viewing",
+      "description": "Tiny, purely TS, modal component for viewing images 🏙 ",
+      "topics": [
+        "react",
+        "react-native",
+        "image",
+        "gallery",
+        "image-gallery",
+        "image-viewer",
+        "pinch-to-zoom"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.2.2",
+        "tagName": "v0.2.2",
+        "createdAt": "2022-04-18T19:37:45Z",
+        "publishedAt": "2022-04-18T19:41:10Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-image-viewing",
+    "npm": {
+      "downloads": 96243,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 21969
+    },
+    "score": 31,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.022,
+    "topicSearchString": "react react-native image gallery image-gallery image-viewer pinch-to-zoom",
+    "matchScore": 1,
+    "category": [
+      "gallery"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/GregoryNative/react-native-gl-image-filters",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://github.com/GregoryNative/react-native-gl-image-filters/tree/master/example",
+      "https://github.com/GregoryNative/react-native-gl-image-filters/tree/master/example-expo"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/GregoryNative/react-native-gl-image-filters",
+        "clone": "https://github.com/GregoryNative/react-native-gl-image-filters.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-04-17T09:35:53Z",
+        "createdAt": "2018-02-15T14:15:10Z",
+        "pushedAt": "2022-04-17T09:35:53Z",
+        "forks": 34,
+        "issues": 7,
+        "subscribers": 5,
+        "stars": 235
+      },
+      "name": "react-native-gl-image-filters",
+      "fullName": "GregoryNative/react-native-gl-image-filters",
+      "description": "React-Native image filters using gl-react",
+      "topics": [
+        "react-native",
+        "gl-react",
+        "gl-react-native",
+        "image-filters",
+        "gl-react-expo",
+        "gl-react-dom",
+        "expo",
+        "gl",
+        "opengl",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-gl-image-filters",
+    "npm": {
+      "downloads": 1444,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 28
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.231,
+    "topicSearchString": "react-native gl-react gl-react-native image-filters gl-react-expo gl-react-dom expo gl opengl react",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/shijingsh/react-native-customized-image-picker",
+    "images": [
+      "https://raw.githubusercontent.com/samad324/react-native-customized-image-picker/master/images/pic.png",
+      "https://raw.githubusercontent.com/samad324/react-native-customized-image-picker/master/images/pic3.png"
+    ],
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/shijingsh/react-native-customized-image-picker",
+        "clone": "https://github.com/shijingsh/react-native-customized-image-picker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-03-12T04:07:27Z",
+        "createdAt": "2016-11-24T05:35:58Z",
+        "pushedAt": "2022-03-12T04:07:27Z",
+        "forks": 53,
+        "issues": 44,
+        "subscribers": 5,
+        "stars": 245
+      },
+      "name": "react-native-customized-image-picker",
+      "fullName": "shijingsh/react-native-customized-image-picker",
+      "description": "iOS/Android image picker with support for camera, video compression, multiple images and cropping",
+      "topics": [
+        "react",
+        "native",
+        "react-native",
+        "image",
+        "picker",
+        "crop",
+        "cropping",
+        "multiple",
+        "camera"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-customized-image-picker",
+    "npm": {
+      "downloads": 2624,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 174
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.184,
+    "topicSearchString": "react native react-native image picker crop cropping multiple camera",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wonday/react-native-image-cache-wrapper",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wonday/react-native-image-cache-wrapper",
+        "clone": "https://github.com/wonday/react-native-image-cache-wrapper.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-01-23T13:02:58Z",
+        "createdAt": "2018-06-09T14:19:34Z",
+        "pushedAt": "2022-01-23T13:02:58Z",
+        "forks": 16,
+        "issues": 5,
+        "subscribers": 4,
+        "stars": 36
+      },
+      "name": "react-native-image-cache-wrapper",
+      "fullName": "wonday/react-native-image-cache-wrapper",
+      "description": "The best react native image cache wrapper.",
+      "topics": [
+        "cache",
+        "cached-image",
+        "image-cache",
+        "image",
+        "imagebackground",
+        "react-component",
+        "react-native",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.7",
+        "tagName": "v1.0.7",
+        "createdAt": "2020-03-31T15:18:31Z",
+        "publishedAt": "2020-03-31T15:21:44Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-image-cache-wrapper",
+    "npm": {
+      "downloads": 634,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 142
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.025,
+    "topicSearchString": "cache cached-image image-cache image imagebackground react-component react-native android ios",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/oblador/react-native-image-progress",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-image-progress",
+        "clone": "https://github.com/oblador/react-native-image-progress.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-01-02T13:24:08Z",
+        "createdAt": "2015-07-16T12:22:46Z",
+        "pushedAt": "2022-01-02T13:24:08Z",
+        "forks": 175,
+        "issues": 21,
+        "subscribers": 30,
+        "stars": 1706
+      },
+      "name": "react-native-image-progress",
+      "fullName": "oblador/react-native-image-progress",
+      "description": "Progress indicator for networked images in React Native",
+      "topics": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "ui",
+        "image",
+        "progress",
+        "bar",
+        "progressbar",
+        "spinner",
+        "activityindicator",
+        "loading",
+        "indicator"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.2.0",
+        "tagName": "v1.2.0",
+        "createdAt": "2022-01-02T13:24:08Z",
+        "publishedAt": "2022-01-02T13:27:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-image-progress",
+    "npm": {
+      "downloads": 42265,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 10284
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "react-native react-component react-native-component react mobile ios ui image progress bar progressbar spinner activityindicator loading indicator",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ihor/react-native-scalable-image",
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ihor/react-native-scalable-image",
+        "clone": "https://github.com/ihor/react-native-scalable-image.git",
+        "homepage": "https://www.npmjs.com/package/react-native-scalable-image"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-02-12T23:02:54Z",
+        "createdAt": "2017-02-23T23:33:49Z",
+        "pushedAt": "2021-02-12T23:02:54Z",
+        "forks": 60,
+        "issues": 14,
+        "subscribers": 10,
+        "stars": 314
+      },
+      "name": "react-native-scalable-image",
+      "fullName": "ihor/react-native-scalable-image",
+      "description": "React Native Image component which scales width or height automatically to keep the original aspect ratio",
+      "topics": [
+        "react-native",
+        "image",
+        "component",
+        "scalable",
+        "aspect-ratio",
+        "scales-width",
+        "scales-height",
+        "responsive",
+        "reactjs"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.1.0",
+        "tagName": "1.1.0",
+        "createdAt": "2021-02-12T23:05:50Z",
+        "publishedAt": "2021-02-12T23:30:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-scalable-image",
+    "npm": {
+      "downloads": 43567,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 9134
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.04,
+    "topicSearchString": "react-native image component scalable aspect-ratio scales-width scales-height responsive reactjs",
+    "matchScore": 111,
+    "category": [
+      "image"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Nozbe/WatermelonDB",
+    "images": [
+      "https://github.com/Nozbe/WatermelonDB/raw/master/assets/watermelon-demo-thumbnail.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "@nozbe/watermelondb",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Nozbe/WatermelonDB",
+        "clone": "https://github.com/Nozbe/WatermelonDB.git",
+        "homepage": "https://watermelondb.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-21T11:26:25Z",
+        "createdAt": "2018-08-28T15:32:05Z",
+        "pushedAt": "2024-04-21T11:26:25Z",
+        "forks": 556,
+        "issues": 194,
+        "subscribers": 103,
+        "stars": 10198
+      },
+      "name": "WatermelonDB",
+      "fullName": "Nozbe/WatermelonDB",
+      "description": "🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️",
+      "topics": [
+        "database",
+        "sqlite",
+        "react",
+        "react-native",
+        "indexeddb",
+        "lokijs",
+        "watermelon",
+        "watermelondb",
+        "offline",
+        "offline-first",
+        "persistence",
+        "reactive",
+        "rxjs",
+        "better-sqlite3",
+        "db",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 28224,
+      "weekDownloads": 6860,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 69,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "database sqlite react react-native indexeddb lokijs watermelon watermelondb offline offline-first persistence reactive rxjs better-sqlite3 db hacktoberfest",
+    "matchScore": 101,
+    "category": [
+      "db"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/darkrishabh/react-native-db-models",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/darkrishabh/react-native-db-models",
+        "clone": "https://github.com/darkrishabh/react-native-db-models.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2018-04-15T10:41:10Z",
+        "createdAt": "2015-06-13T00:58:33Z",
+        "pushedAt": "2018-04-15T10:41:10Z",
+        "forks": 32,
+        "issues": 11,
+        "subscribers": 11,
+        "stars": 173
+      },
+      "name": "react-native-db-models",
+      "fullName": "darkrishabh/react-native-db-models",
+      "description": "React native Library for creating Local DB models ",
+      "topics": [
+        "react-native",
+        "asyncstorage",
+        "database",
+        "local-db",
+        "db-events",
+        "rerender",
+        "emmit-database-operations",
+        "models",
+        "data-store",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-db-models",
+    "npm": {
+      "downloads": 41,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 7
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.773,
+    "topicSearchString": "react-native asyncstorage database local-db db-events rerender emmit-database-operations models data-store ios",
+    "matchScore": 0.111,
+    "category": [
+      "db"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mongodb/stitch-js-sdk",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "mongodb-stitch-react-native-sdk",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mongodb/stitch-js-sdk",
+        "clone": "https://github.com/mongodb/stitch-js-sdk.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2022-07-26T21:09:09Z",
+        "createdAt": "2017-04-03T17:19:27Z",
+        "pushedAt": "2022-07-26T21:09:09Z",
+        "forks": 62,
+        "issues": 39,
+        "subscribers": 31,
+        "stars": 113
+      },
+      "name": "stitch-js-sdk",
+      "fullName": "mongodb/stitch-js-sdk",
+      "description": "MongoDB Stitch JavaScript SDK",
+      "topics": [],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "Release 4.9.0",
+        "tagName": "v4.9.0",
+        "createdAt": "2020-01-31T15:23:00Z",
+        "publishedAt": "2020-01-31T15:50:26Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 83,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.631,
+    "topicSearchString": "",
+    "matchScore": 110,
+    "category": [
+      "mongodb"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ammarahm-ed/react-native-mmkv-storage",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ammarahm-ed/react-native-mmkv-storage",
+        "clone": "https://github.com/ammarahm-ed/react-native-mmkv-storage.git",
+        "homepage": "https://rnmmkv.now.sh"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-12-02T04:03:15Z",
+        "createdAt": "2020-03-10T15:23:29Z",
+        "pushedAt": "2023-12-02T04:03:15Z",
+        "forks": 101,
+        "issues": 31,
+        "subscribers": 15,
+        "stars": 1518
+      },
+      "name": "react-native-mmkv-storage",
+      "fullName": "ammarahm-ed/react-native-mmkv-storage",
+      "description": "An ultra fast (0.0002s read/write), small & encrypted mobile key-value storage framework for React Native written in C++ using JSI",
+      "topics": [
+        "react-native",
+        "fast-storage",
+        "react",
+        "native",
+        "asyncstorage",
+        "async-storage",
+        "mmkv-database",
+        "mmkv-storage",
+        "encrypted-storage",
+        "encryption",
+        "mmkv",
+        "android",
+        "ios",
+        "key-value-storage",
+        "database",
+        "fast",
+        "storage",
+        "persist-storage",
+        "secure-storage",
+        "redux-persist-storage",
+        "react-native-mmkv-storage",
+        "java",
+        "objective-c"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.9.0",
+        "tagName": "v0.9.0",
+        "createdAt": "2023-03-10T15:02:30Z",
+        "publishedAt": "2023-03-10T15:06:12Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-mmkv-storage",
+    "npm": {
+      "downloads": 56496,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 13810
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.006,
+    "topicSearchString": "react-native fast-storage react native asyncstorage async-storage mmkv-database mmkv-storage encrypted-storage encryption mmkv android ios key-value-storage database fast storage persist-storage secure-storage redux-persist-storage react-native-mmkv-storage java objective-c",
+    "matchScore": 111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/emeraldsanto/react-native-encrypted-storage",
+    "examples": [
+      "https://github.com/emeraldsanto/react-native-encrypted-storage/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/emeraldsanto/react-native-encrypted-storage",
+        "clone": "https://github.com/emeraldsanto/react-native-encrypted-storage.git",
+        "homepage": "https://www.npmjs.com/package/react-native-encrypted-storage"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-11-03T22:34:33Z",
+        "createdAt": "2020-02-10T17:10:56Z",
+        "pushedAt": "2022-11-03T22:34:33Z",
+        "forks": 60,
+        "issues": 28,
+        "subscribers": 9,
+        "stars": 567
+      },
+      "name": "react-native-encrypted-storage",
+      "fullName": "emeraldsanto/react-native-encrypted-storage",
+      "description": "React Native wrapper around EncryptedSharedPreferences and Keychain to provide a secure alternative to Async Storage.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "async-storage",
+        "keychain",
+        "sharedpreferences",
+        "encryption",
+        "security",
+        "kotlin",
+        "swift"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "4.0.3",
+        "tagName": "4.0.3",
+        "createdAt": "2022-11-03T22:39:32Z",
+        "publishedAt": "2022-11-03T22:39:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-encrypted-storage",
+    "npm": {
+      "downloads": 168060,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 40802
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "react-native ios android async-storage keychain sharedpreferences encryption security kotlin swift",
+    "matchScore": 111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-async-storage/async-storage",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "windows": true,
+    "macos": true,
+    "visionos": true,
+    "npmPkg": "@react-native-async-storage/async-storage",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-async-storage/async-storage",
+        "clone": "https://github.com/react-native-async-storage/async-storage.git",
+        "homepage": "https://react-native-async-storage.github.io/async-storage/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2024-05-02T12:47:36Z",
+        "createdAt": "2019-02-06T15:51:20Z",
+        "pushedAt": "2024-05-02T12:47:36Z",
+        "forks": 436,
+        "issues": 20,
+        "subscribers": 30,
+        "stars": 4570
+      },
+      "name": "async-storage",
+      "fullName": "react-native-async-storage/async-storage",
+      "description": "An asynchronous, persistent, key-value storage system for React Native.",
+      "topics": [],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.23.1",
+        "tagName": "v1.23.1",
+        "createdAt": "2024-03-20T11:43:18Z",
+        "publishedAt": "2024-03-20T11:44:01Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 3840606,
+      "weekDownloads": 861870,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "topicSearchString": "",
+    "matchScore": 110,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/talut/rn-secure-storage",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/talut/rn-secure-storage",
+        "clone": "https://github.com/talut/rn-secure-storage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-29T13:16:01Z",
+        "createdAt": "2018-09-14T14:48:56Z",
+        "pushedAt": "2024-01-29T13:16:01Z",
+        "forks": 55,
+        "issues": 6,
+        "subscribers": 7,
+        "stars": 194
+      },
+      "name": "rn-secure-storage",
+      "fullName": "talut/rn-secure-storage",
+      "description": "Secure Storage for React Native (Android & iOS)",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "keychain-service",
+        "keystore-service",
+        "device-security",
+        "keystore",
+        "keychain",
+        "secure-preferences",
+        "token",
+        "react-token",
+        "multiple-values",
+        "multiple-keys"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.0.1",
+        "tagName": "3.0.1",
+        "createdAt": "2024-01-29T13:16:01Z",
+        "publishedAt": "2024-01-29T13:21:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "rn-secure-storage",
+    "npm": {
+      "downloads": 16706,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 4000
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.011,
+    "topicSearchString": "react-native ios android keychain-service keystore-service device-security keystore keychain secure-preferences token react-token multiple-values multiple-keys",
+    "matchScore": 110,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ahmedrowaihi/react-native-i18n-storage",
+    "npmPkg": "@ahmedrowaihi/react-native-i18n-storage",
+    "examples": [
+      "https://github.com/ahmedrowaihi/react-native-i18n-storage/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ahmedrowaihi/react-native-i18n-storage",
+        "clone": "https://github.com/ahmedrowaihi/react-native-i18n-storage.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-11-13T19:44:21Z",
+        "createdAt": "2023-04-20T17:02:02Z",
+        "pushedAt": "2023-11-13T19:44:21Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 17
+      },
+      "name": "react-native-i18n-storage",
+      "fullName": "ahmedrowaihi/react-native-i18n-storage",
+      "description": "React Native I18n Storage is a simple library to manage your app's I18nManager settings and language by keeping them in sync with local storage from the initial native app launch!.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.5",
+        "tagName": "v2.0.5",
+        "createdAt": "2023-05-07T10:51:32Z",
+        "publishedAt": "2023-05-07T10:52:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 2,
+      "weekDownloads": 0,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -1,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/apperside/cross-local-storage",
+    "examples": [
+      "https://github.com/apperside/cross-local-storage/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/apperside/cross-local-storage",
+        "clone": "https://github.com/apperside/cross-local-storage.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-09-24T08:20:40Z",
+        "createdAt": "2022-05-20T10:22:33Z",
+        "pushedAt": "2022-09-24T08:20:40Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 7
+      },
+      "name": "cross-local-storage",
+      "fullName": "apperside/cross-local-storage",
+      "description": "A small, typescript first, well tested, cross platform wrapper around react-native-async-storage/async-storage which works out of the on both the browser and react native",
+      "topics": [
+        "react",
+        "library",
+        "storybook",
+        "components"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "cross-local-storage",
+    "npm": {
+      "downloads": 230,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 66
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.511,
+    "topicSearchString": "react library storybook components",
+    "matchScore": 110,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/andpor/react-native-sqlite-storage",
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/andpor/react-native-sqlite-storage",
+        "clone": "https://github.com/andpor/react-native-sqlite-storage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-10-01T14:16:35Z",
+        "createdAt": "2015-10-30T08:42:28Z",
+        "pushedAt": "2021-10-01T14:16:35Z",
+        "forks": 443,
+        "issues": 159,
+        "subscribers": 53,
+        "stars": 2718
+      },
+      "name": "react-native-sqlite-storage",
+      "fullName": "andpor/react-native-sqlite-storage",
+      "description": "Full featured SQLite3 Native Plugin for React Native (Android and iOS)",
+      "topics": [
+        "react-native-sqlite-storage",
+        "react-native-sqlite",
+        "react-component",
+        "reactnative",
+        "react-native",
+        "sqlite",
+        "sqlite3",
+        "ios",
+        "android",
+        "promise",
+        "cordova-sqlite-storage"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Maintenance release",
+        "tagName": "6.0.1",
+        "createdAt": "2021-10-01T14:16:35Z",
+        "publishedAt": "2021-10-01T14:18:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-sqlite-storage",
+    "npm": {
+      "downloads": 73734,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 18675
+    },
+    "score": 31,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": 0.003,
+    "topicSearchString": "react-native-sqlite-storage react-native-sqlite react-component reactnative react-native sqlite sqlite3 ios android promise cordova-sqlite-storage",
+    "matchScore": 101,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jasonmerino/react-native-simple-store",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jasonmerino/react-native-simple-store",
+        "clone": "https://github.com/jasonmerino/react-native-simple-store.git",
+        "homepage": "https://www.npmjs.com/package/react-native-simple-store"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2020-03-23T22:51:26Z",
+        "createdAt": "2015-08-19T04:12:07Z",
+        "pushedAt": "2020-03-23T22:51:26Z",
+        "forks": 81,
+        "issues": 2,
+        "subscribers": 12,
+        "stars": 876
+      },
+      "name": "react-native-simple-store",
+      "fullName": "jasonmerino/react-native-simple-store",
+      "description": "A minimalistic wrapper around React Native's AsyncStorage.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "asyncstorage",
+        "data-store",
+        "key-value-store"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-simple-store",
+    "npm": {
+      "downloads": 2485,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 486
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.054,
+    "topicSearchString": "react-native ios android asyncstorage data-store key-value-store",
+    "matchScore": 11,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mrousavy/react-native-mmkv",
+    "examples": [
+      "https://github.com/mrousavy/react-native-mmkv/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mrousavy/react-native-mmkv",
+        "clone": "https://github.com/mrousavy/react-native-mmkv.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "updatedAt": "2024-05-21T15:26:17Z",
+        "createdAt": "2021-02-24T07:33:00Z",
+        "pushedAt": "2024-05-21T15:26:17Z",
+        "forks": 227,
+        "issues": 38,
+        "subscribers": 31,
+        "stars": 5321
+      },
+      "name": "react-native-mmkv",
+      "fullName": "mrousavy/react-native-mmkv",
+      "description": "⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.0.0-beta.5",
+        "tagName": "v3.0.0-beta.5",
+        "createdAt": "2024-04-30T16:43:51Z",
+        "publishedAt": "2024-04-30T16:43:52Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "react-native-mmkv",
+    "npm": {
+      "downloads": 614838,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 134570
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.031,
+    "topicSearchString": "",
+    "matchScore": 10,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/timfpark/react-native-cache",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/timfpark/react-native-cache",
+        "clone": "https://github.com/timfpark/react-native-cache.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2022-12-30T19:55:30Z",
+        "createdAt": "2015-11-20T21:14:41Z",
+        "pushedAt": "2022-12-30T19:55:30Z",
+        "forks": 27,
+        "issues": 11,
+        "subscribers": 7,
+        "stars": 190
+      },
+      "name": "react-native-cache",
+      "fullName": "timfpark/react-native-cache",
+      "description": "React Native LRU cache build on top of AsyncStorage",
+      "topics": [],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-cache",
+    "npm": {
+      "downloads": 10068,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2100
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.041,
+    "topicSearchString": "",
+    "matchScore": 10,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/peterpme/react-native-asyncstorage",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/peterpme/react-native-asyncstorage",
+        "clone": "https://github.com/peterpme/react-native-asyncstorage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2017-08-27T18:24:48Z",
+        "createdAt": "2017-08-26T22:52:25Z",
+        "pushedAt": "2017-08-27T18:24:48Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 31
+      },
+      "name": "react-native-asyncstorage",
+      "fullName": "peterpme/react-native-asyncstorage",
+      "description": "📬 📫 🗄 Declarative AsyncStorage component for React Native",
+      "topics": [
+        "react",
+        "react-native",
+        "asyncstorage",
+        "declarative"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-asyncstorage",
+    "npm": {
+      "downloads": 10,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.7,
+    "topicSearchString": "react react-native asyncstorage declarative",
+    "matchScore": 0.111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/sunnylqm/react-native-storage",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sunnylqm/react-native-storage",
+        "clone": "https://github.com/sunnylqm/react-native-storage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-03T12:49:50Z",
+        "createdAt": "2015-07-27T12:49:29Z",
+        "pushedAt": "2024-03-03T12:49:50Z",
+        "forks": 269,
+        "issues": 23,
+        "subscribers": 44,
+        "stars": 3003
+      },
+      "name": "react-native-storage",
+      "fullName": "sunnylqm/react-native-storage",
+      "description": "local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.",
+      "topics": [
+        "react-native",
+        "localstorage",
+        "asyncstorage",
+        "reactjs",
+        "sync"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-storage",
+    "npm": {
+      "downloads": 26413,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 6425
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "react-native localstorage asyncstorage reactjs sync",
+    "matchScore": 111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/artxty/typed-async-storage",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/artxty/typed-async-storage",
+        "clone": "https://github.com/artxty/typed-async-storage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-24T00:39:35Z",
+        "createdAt": "2020-08-25T00:45:29Z",
+        "pushedAt": "2023-09-24T00:39:35Z",
+        "forks": 11,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 8
+      },
+      "name": "typed-async-storage",
+      "fullName": "artxty/typed-async-storage",
+      "description": "Validate your AsyncStorage using PropTypes!",
+      "topics": [
+        "react",
+        "react-native",
+        "asyncstorage",
+        "storage",
+        "asyncstorage-wrapper",
+        "proptype-validators"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Extended API",
+        "tagName": "v3.1.0",
+        "createdAt": "2020-09-25T18:46:06Z",
+        "publishedAt": "2020-09-25T18:49:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "typed-async-storage",
+    "npm": {
+      "downloads": 148,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 59
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.401,
+    "topicSearchString": "react react-native asyncstorage storage asyncstorage-wrapper proptype-validators",
+    "matchScore": 111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/KjellConnelly/react-native-shared-group-preferences",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/KjellConnelly/react-native-shared-group-preferences",
+        "clone": "https://github.com/KjellConnelly/react-native-shared-group-preferences.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-18T15:52:52Z",
+        "createdAt": "2018-03-09T18:40:25Z",
+        "pushedAt": "2023-09-18T15:52:52Z",
+        "forks": 46,
+        "issues": 9,
+        "subscribers": 5,
+        "stars": 120
+      },
+      "name": "react-native-shared-group-preferences",
+      "fullName": "KjellConnelly/react-native-shared-group-preferences",
+      "description": "#### To Know - Doesn't work for Expo since this uses native code. - iOS & Android ONLY - Uses Xcode's Shared Preferences App Groups (iOS) and Public External Storage for Android. - Once you install via npm, you will need to do some configuration in Xcode for your javascript to access a shared group container. Android will need Permissions. - I tried to model this after React Native's AsyncStorage. Main thing is that you no longer need to do JSON.stringify and JSON.parse when you set/get. Not sure why they make you do that to begin with... but you can set/get an JSONable item using this module. - All methods return a promise. So make sure to make your functions async. - iOS's data is securely sandboxed within your app group. I couldn't find something as easy to access, or that wouldn't be deleted if you delete an app, so the Android version saves a json file to the android device's external storage. This is good because if the app is deleted, another app can still access the data. But this is bad because any other app can delete/edit/access this file. For this reason, at least for Android, do not store data in it that is sensitive. If you're saving user preferences, fine. But do not save something like credit card numbers or anything like that in here. That would be irresponsible. The file is saved to the user's storage in the following format: ```$storage/$appGroupIdentifier/data.json```. So make sure your appGroupIdentifier is a valid folder name. Reverse dns works fine.",
+      "topics": [
+        "react-native"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-shared-group-preferences",
+    "npm": {
+      "downloads": 67034,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 15154
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.024,
+    "topicSearchString": "react-native",
+    "matchScore": 10,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rt2zz/redux-persist",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rt2zz/redux-persist",
+        "clone": "https://github.com/rt2zz/redux-persist.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-10-24T01:11:37Z",
+        "createdAt": "2015-07-23T04:43:58Z",
+        "pushedAt": "2021-10-24T01:11:37Z",
+        "forks": 837,
+        "issues": 516,
+        "subscribers": 85,
+        "stars": 12878
+      },
+      "name": "redux-persist",
+      "fullName": "rt2zz/redux-persist",
+      "description": "persist and rehydrate a redux store",
+      "topics": [
+        "persistor",
+        "storage",
+        "redux",
+        "redux-middleware"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v6.0.0",
+        "createdAt": "2019-09-02T00:39:12Z",
+        "publishedAt": "2019-09-02T00:41:59Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "redux-persist",
+    "npm": {
+      "downloads": 4275585,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 993867
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.018,
+    "topicSearchString": "persistor storage redux redux-middleware",
+    "matchScore": 1,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/MetaLabs-inc/react-native-components-tracking",
+    "examples": [
+      "https://github.com/MetaLabs-inc/react-native-components-tracking/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/MetaLabs-inc/react-native-components-tracking",
+        "clone": "https://github.com/MetaLabs-inc/react-native-components-tracking.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-03-24T21:31:58Z",
+        "createdAt": "2022-08-21T19:30:18Z",
+        "pushedAt": "2023-03-24T21:31:58Z",
+        "forks": 0,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 16
+      },
+      "name": "react-native-components-tracking",
+      "fullName": "MetaLabs-inc/react-native-components-tracking",
+      "description": "React Native library to automatically track events on several componentes",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.1.2",
+        "tagName": "v1.1.2",
+        "createdAt": "2023-03-24T21:32:39Z",
+        "publishedAt": "2023-03-25T17:37:14Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-components-tracking",
+    "npm": {
+      "downloads": 88,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 20
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.573,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 100,
+    "category": [
+      "react-native-component"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/GetStream/stream-chat-react-native",
+    "images": [
+      "https://raw.githubusercontent.com/GetStream/stream-chat-react-native/master/screenshots/readme/cover.png",
+      "https://raw.githubusercontent.com/GetStream/stream-chat-react-native/master/screenshots/1.png",
+      "https://raw.githubusercontent.com/GetStream/stream-chat-react-native/master/screenshots/2.png",
+      "https://raw.githubusercontent.com/GetStream/stream-chat-react-native/master/screenshots/3.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/GetStream/stream-chat-react-native",
+        "clone": "https://github.com/GetStream/stream-chat-react-native.git",
+        "homepage": "https://getstream.io/chat/sdk/react-native/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T10:03:58Z",
+        "createdAt": "2019-03-28T08:50:26Z",
+        "pushedAt": "2024-05-23T10:03:58Z",
+        "forks": 303,
+        "issues": 26,
+        "subscribers": 39,
+        "stars": 921
+      },
+      "name": "stream-chat-react-native",
+      "fullName": "GetStream/stream-chat-react-native",
+      "description": " 💬 React-Native Chat SDK ➜ Stream Chat. Includes a tutorial on building your own chat app experience using React-Native, React-Navigation and Stream",
+      "topics": [
+        "react-native",
+        "chat",
+        "react-native-component",
+        "react-native-chat",
+        "chat-sdk",
+        "react-native-app",
+        "messaging-app",
+        "chat-app",
+        "chat-application",
+        "chat-api"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": "http://choosealicense.com/licenses/other/",
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "v5.31.0",
+        "tagName": "v5.31.0",
+        "createdAt": "2024-05-23T10:02:24Z",
+        "publishedAt": "2024-05-23T10:03:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "stream-chat-react-native",
+    "npm": {
+      "downloads": 25023,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 6090
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "react-native chat react-native-component react-native-chat chat-sdk react-native-app messaging-app chat-app chat-application chat-api",
+    "matchScore": 1,
+    "category": [
+      "react-native-component"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/oblador/react-native-vector-icons",
+    "images": [
+      "https://cloud.githubusercontent.com/assets/378279/8903470/a9fe6b46-3458-11e5-901f-98b7b676d0d3.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "goldstar": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-vector-icons",
+        "clone": "https://github.com/oblador/react-native-vector-icons.git",
+        "homepage": "https://oblador.github.io/react-native-vector-icons/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T07:55:57Z",
+        "createdAt": "2015-05-15T16:38:57Z",
+        "pushedAt": "2024-05-17T07:55:57Z",
+        "forks": 2069,
+        "issues": 142,
+        "subscribers": 205,
+        "stars": 17252
+      },
+      "name": "react-native-vector-icons",
+      "fullName": "oblador/react-native-vector-icons",
+      "description": "Customizable Icons for React Native with support for image source and full styling.",
+      "topics": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "osx",
+        "windows",
+        "macos",
+        "ui",
+        "icon",
+        "icons",
+        "vector",
+        "retina",
+        "font",
+        "icon-pack"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "10.1.0",
+        "tagName": "v10.1.0",
+        "createdAt": "2024-05-01T12:01:05Z",
+        "publishedAt": "2024-05-01T12:01:37Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": true
+    },
+    "npmPkg": "react-native-vector-icons",
+    "npm": {
+      "downloads": 1974136,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 445807
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recommended",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "topicSearchString": "react-native react-component react-native-component react mobile ios android osx windows macos ui icon icons vector retina font icon-pack",
+    "matchScore": 111,
+    "category": [
+      "icon"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/alantoa/react-native-awesome-slider",
+    "examples": [
+      "https://github.com/alantoa/react-native-awesome-slider/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/alantoa/react-native-awesome-slider/main/assets/slider.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/alantoa/react-native-awesome-slider",
+        "clone": "https://github.com/alantoa/react-native-awesome-slider.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T09:33:28Z",
+        "createdAt": "2022-01-09T06:16:54Z",
+        "pushedAt": "2024-05-14T09:33:28Z",
+        "forks": 26,
+        "issues": 7,
+        "subscribers": 2,
+        "stars": 219
+      },
+      "name": "react-native-awesome-slider",
+      "fullName": "alantoa/react-native-awesome-slider",
+      "description": "🚀 An anwesome <Slider/> that supports various features haptic, lottie, animation, ballon, etc.",
+      "topics": [
+        "react-native",
+        "react-native-reanimted",
+        "react-native-gesture-handle",
+        "slider",
+        "scrubber",
+        "react-native-slider",
+        "react-native-scrubber",
+        "slider-haptics-feedback",
+        "react-native-component",
+        "react-native-reanimated",
+        "react-native-gesture-handler"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 2.5.3",
+        "tagName": "v2.5.3",
+        "createdAt": "2024-05-08T13:10:23Z",
+        "publishedAt": "2024-05-08T13:11:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-awesome-slider",
+    "npm": {
+      "downloads": 16263,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3974
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.006,
+    "topicSearchString": "react-native react-native-reanimted react-native-gesture-handle slider scrubber react-native-slider react-native-scrubber slider-haptics-feedback react-native-component react-native-reanimated react-native-gesture-handler",
+    "matchScore": 1,
+    "category": [
+      "react-native-component"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/stephy/CalendarPicker",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-calendar-picker",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/stephy/CalendarPicker",
+        "clone": "https://github.com/stephy/CalendarPicker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-08T05:46:04Z",
+        "createdAt": "2015-04-12T06:11:27Z",
+        "pushedAt": "2024-05-08T05:46:04Z",
+        "forks": 329,
+        "issues": 83,
+        "subscribers": 14,
+        "stars": 780
+      },
+      "name": "CalendarPicker",
+      "fullName": "stephy/CalendarPicker",
+      "description": "CalendarPicker Component for React Native",
+      "topics": [
+        "calendar",
+        "picker",
+        "date",
+        "day",
+        "calendar-picker-component",
+        "react-native-component",
+        "calendarpicker",
+        "react-native-calendar-picker"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "8.0.1",
+        "tagName": "8.0.1",
+        "createdAt": "2024-01-29T05:43:54Z",
+        "publishedAt": "2024-02-07T20:28:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 75529,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 16726
+    },
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "topicSearchString": "calendar picker date day calendar-picker-component react-native-component calendarpicker react-native-calendar-picker",
+    "matchScore": 1,
+    "category": [
+      "react-native-component"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/StefanoMartella/react-native-simple-bottom-sheet",
+    "images": [
+      "https://github.com/StefanoMartella/react-native-simple-bottom-sheet/raw/master/gif/example1.gif",
+      "https://github.com/StefanoMartella/react-native-simple-bottom-sheet/raw/master/gif/example2.gif",
+      "https://github.com/StefanoMartella/react-native-simple-bottom-sheet/raw/master/gif/toggle.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/StefanoMartella/react-native-simple-bottom-sheet",
+        "clone": "https://github.com/StefanoMartella/react-native-simple-bottom-sheet.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-06T16:23:17Z",
+        "createdAt": "2020-04-30T12:24:04Z",
+        "pushedAt": "2024-05-06T16:23:17Z",
+        "forks": 9,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 124
+      },
+      "name": "react-native-simple-bottom-sheet",
+      "fullName": "StefanoMartella/react-native-simple-bottom-sheet",
+      "description": "A simple react native bottom sheet component",
+      "topics": [
+        "react",
+        "react-native",
+        "react-native-component",
+        "slider",
+        "panel",
+        "bottom-sheet",
+        "sheet",
+        "simple",
+        "slider-panel",
+        "bottom",
+        "bottom-slider",
+        "ios",
+        "android",
+        "mobile"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-simple-bottom-sheet",
+    "npm": {
+      "downloads": 4533,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1062
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.016,
+    "topicSearchString": "react react-native react-native-component slider panel bottom-sheet sheet simple slider-panel bottom bottom-slider ios android mobile",
+    "matchScore": 1,
+    "category": [
+      "react-native-component"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/heyman333/react-native-animated-numbers",
+    "images": [
+      "https://raw.githubusercontent.com/heyman333/react-native-animated-numbers/master/images/android.gif",
+      "https://raw.githubusercontent.com/heyman333/react-native-animated-numbers/master/images/ios.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/heyman333/react-native-animated-numbers",
+        "clone": "https://github.com/heyman333/react-native-animated-numbers.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-06T12:20:52Z",
+        "createdAt": "2020-06-06T15:16:09Z",
+        "pushedAt": "2024-05-06T12:20:52Z",
+        "forks": 35,
+        "issues": 7,
+        "subscribers": 4,
+        "stars": 316
+      },
+      "name": "react-native-animated-numbers",
+      "fullName": "heyman333/react-native-animated-numbers",
+      "description": "🎰  Library showing animation of number changes in react-native",
+      "topics": [
+        "react-native",
+        "react-native-component",
+        "react-component",
+        "ios",
+        "android",
+        "react",
+        "animation",
+        "text",
+        "number",
+        "animated",
+        "numbers"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.6.2",
+        "tagName": "v0.6.2",
+        "createdAt": "2024-05-06T12:20:52Z",
+        "publishedAt": "2024-05-06T12:22:06Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-animated-numbers",
+    "npm": {
+      "downloads": 1999,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 395
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.052,
+    "topicSearchString": "react-native react-native-component react-component ios android react animation text number animated numbers",
+    "matchScore": 1,
+    "category": [
+      "react-native-component"
+    ]
+  }
+]

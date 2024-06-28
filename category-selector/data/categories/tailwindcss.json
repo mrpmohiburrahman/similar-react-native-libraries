@@ -1,0 +1,160 @@
+[
+  {
+    "githubUrl": "https://github.com/arabold/react-native-whirlwind",
+    "examples": [
+      "https://snack.expo.dev/@arabold/react-native-whirlwind"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-whirlwind",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/arabold/react-native-whirlwind",
+        "clone": "https://github.com/arabold/react-native-whirlwind.git",
+        "homepage": "https://arabold.github.io/react-native-whirlwind/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-17T02:41:20Z",
+        "createdAt": "2021-08-09T17:39:30Z",
+        "pushedAt": "2023-07-13T09:14:53Z",
+        "issues": 6,
+        "subscribers": 5,
+        "stars": 107,
+        "forks": 5
+      },
+      "name": "react-native-whirlwind",
+      "fullName": "arabold/react-native-whirlwind",
+      "description": "Whirlwind is a utility-first styling framework specifically designed for React Native. It is heavily inspired by Tachyons and Tailwind CSS and uses low-level building blocks for rapidly building custom designs.",
+      "topics": [
+        "reactnative",
+        "react-native",
+        "css",
+        "tachyons",
+        "tailwindcss",
+        "styled-components"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.3.0",
+        "createdAt": "2022-06-21T13:49:49Z",
+        "publishedAt": "2022-06-21T13:52:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 349,
+      "weekDownloads": 106,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "reactnative react-native css tachyons tailwindcss styled-components",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.054,
+    "category": [
+      "tachyons",
+      "tailwindcss"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/marklawlor/nativewind/tree/main/packages/nativewind",
+    "examples": [
+      "https://github.com/marklawlor/nativewind/tree/main/examples/expo"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/3946701/178458837-df03c080-eb13-4dcc-9080-186b061a8678.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "dev": true,
+    "npmPkg": "nativewind",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/marklawlor/nativewind",
+        "clone": "https://github.com/marklawlor/nativewind.git",
+        "homepage": "https://nativewind.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T22:13:17Z",
+        "createdAt": "2022-04-02T12:30:41Z",
+        "pushedAt": "2024-05-13T15:30:24Z",
+        "issues": 164,
+        "subscribers": 22,
+        "stars": 4332,
+        "forks": 234
+      },
+      "name": "nativewind",
+      "fullName": "marklawlor/nativewind",
+      "description": "React Native utility-first universal design system - powered by Tailwind CSS",
+      "topics": [
+        "react-native",
+        "tailwindcss",
+        "css",
+        "react",
+        "tailwind",
+        "react-native-web",
+        "nativewind"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "nativewind@2.0.11",
+        "tagName": "nativewind@2.0.11",
+        "createdAt": "2022-09-27T12:18:27Z",
+        "publishedAt": "2022-09-27T12:18:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 252729,
+      "weekDownloads": 59957,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native tailwindcss css react tailwind react-native-web nativewind",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "tailwindcss",
+      "tailwind",
+      "nativewind"
+    ]
+  }
+]

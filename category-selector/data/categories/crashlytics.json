@@ -1,0 +1,89 @@
+[
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/crashlytics",
+    "npmPkg": "@react-native-firebase/crashlytics",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git",
+        "homepage": "https://rnfirebase.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T20:28:42Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:51:00Z",
+        "issues": 46,
+        "subscribers": 165,
+        "stars": 11465,
+        "forks": 2176
+      },
+      "name": "react-native-firebase",
+      "fullName": "invertase/react-native-firebase",
+      "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+      "topics": [
+        "firebase",
+        "analytics",
+        "android",
+        "ios",
+        "database",
+        "push-notifications",
+        "react-native",
+        "fcm",
+        "react-native-app",
+        "react",
+        "auth",
+        "javascript",
+        "realtime-database",
+        "web-sdk",
+        "storage",
+        "transactions",
+        "remote-config",
+        "firestore",
+        "crashlytics",
+        "react-hooks"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "v6.4.0",
+        "tagName": "v6.4.0",
+        "createdAt": "2020-04-08T11:15:52Z",
+        "publishedAt": "2020-04-08T11:26:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 620829,
+      "weekDownloads": 139312,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "firebase analytics android ios database push-notifications react-native fcm react-native-app react auth javascript realtime-database web-sdk storage transactions remote-config firestore crashlytics react-hooks",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "firebase",
+      "crashlytics"
+    ]
+  }
+]

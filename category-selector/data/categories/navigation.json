@@ -1,0 +1,381 @@
+[
+  {
+    "githubUrl": "https://github.com/aspect-apps/react-native-navigation-drawer-extension",
+    "examples": [
+      "https://github.com/aspect-apps/react-native-navigation-drawer-extension/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/LukeBrandonFarrell/open-source-images/master/react-native-navigation-drawer-extension/left-drawer.gif",
+      "https://raw.githubusercontent.com/LukeBrandonFarrell/open-source-images/master/react-native-navigation-drawer-extension/bottom-drawer.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-navigation-drawer-extension",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lukebrandonfarrell/react-native-navigation-drawer-extension",
+        "clone": "https://github.com/lukebrandonfarrell/react-native-navigation-drawer-extension.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T13:54:53Z",
+        "createdAt": "2019-02-18T16:19:52Z",
+        "pushedAt": "2023-03-05T15:50:32Z",
+        "issues": 28,
+        "subscribers": 9,
+        "stars": 209,
+        "forks": 33
+      },
+      "name": "react-native-navigation-drawer-extension",
+      "fullName": "lukebrandonfarrell/react-native-navigation-drawer-extension",
+      "description": "Drawer API built on top of wix react-native-navigation for iOS and Android (with TypeScript!)",
+      "topics": [
+        "react-native-navigation",
+        "wix",
+        "navigation",
+        "react-native",
+        "drawer",
+        "side-menu",
+        "ios",
+        "android",
+        "native",
+        "typescript",
+        "typescript-library"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "v4.3.1",
+        "tagName": "v4.3.1",
+        "createdAt": "2022-11-02T13:18:55Z",
+        "publishedAt": "2022-11-02T13:19:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1774,
+      "weekDownloads": 439,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native-navigation wix navigation react-native drawer side-menu ios android native typescript typescript-library",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.002,
+    "category": [
+      "react-native-navigation",
+      "navigation",
+      "drawer",
+      "side-menu"
+    ]
+  },
+  {
+    "nameOverride": "react-navigation",
+    "githubUrl": "https://github.com/react-navigation/react-navigation/tree/main/packages/native",
+    "npmPkg": "@react-navigation/native",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "windows": true,
+    "macos": true,
+    "tvos": true,
+    "visionos": true,
+    "goldstar": true,
+    "examples": [
+      "https://snack.expo.dev/rJnUK4nrZ",
+      "https://github.com/dlowder-salesforce/ReactNavigationTVDemo",
+      "https://github.com/react-native-tvos/TVReanimated"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-navigation/react-navigation",
+        "clone": "https://github.com/react-navigation/react-navigation.git",
+        "homepage": "https://reactnavigation.org"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T10:42:23Z",
+        "createdAt": "2017-01-26T19:51:40Z",
+        "pushedAt": "2024-05-23T12:16:44Z",
+        "issues": 735,
+        "subscribers": 321,
+        "stars": 23316,
+        "forks": 4974
+      },
+      "name": "react-navigation",
+      "fullName": "react-navigation/react-navigation",
+      "description": "Routing and navigation for your React Native apps",
+      "topics": [
+        "react",
+        "react-native",
+        "react-navigation",
+        "navigation",
+        "hacktoberfest"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "react-native-drawer-layout@4.0.0-alpha.9",
+        "tagName": "react-native-drawer-layout@4.0.0-alpha.9",
+        "createdAt": "2024-03-25T09:15:02Z",
+        "publishedAt": "2024-03-25T09:15:06Z",
+        "isPrerelease": true
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3899430,
+      "weekDownloads": 895578,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native react-navigation navigation hacktoberfest",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recommended",
+      "Lots of open issues",
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.02,
+    "category": [
+      "react-navigation",
+      "navigation"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/airbnb/native-navigation",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "native-navigation",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/airbnb/native-navigation",
+        "clone": "https://github.com/airbnb/native-navigation.git",
+        "homepage": "http://airbnb.io/native-navigation/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T11:09:45Z",
+        "createdAt": "2016-09-16T17:16:56Z",
+        "pushedAt": "2023-03-04T02:23:14Z",
+        "issues": 64,
+        "subscribers": 112,
+        "stars": 3126,
+        "forks": 177
+      },
+      "name": "native-navigation",
+      "fullName": "airbnb/native-navigation",
+      "description": "Native navigation library for React Native applications",
+      "topics": [
+        "react-native",
+        "react",
+        "navigation",
+        "navigator"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 38,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react navigation navigator",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.858,
+    "category": [
+      "navigation",
+      "navigator"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wix/react-native-navigation",
+    "ios": true,
+    "tvos": true,
+    "android": true,
+    "goldstar": true,
+    "npmPkg": "react-native-navigation",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wix/react-native-navigation",
+        "clone": "https://github.com/wix/react-native-navigation.git",
+        "homepage": "https://wix.github.io/react-native-navigation/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T12:23:50Z",
+        "createdAt": "2016-03-11T11:22:54Z",
+        "pushedAt": "2024-05-22T20:30:06Z",
+        "issues": 262,
+        "subscribers": 494,
+        "stars": 13000,
+        "forks": 2677
+      },
+      "name": "react-native-navigation",
+      "fullName": "wix/react-native-navigation",
+      "description": "A complete native navigation solution for React Native",
+      "topics": [
+        "react-native",
+        "navigation",
+        "navigator",
+        "react-native-navigation",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "7.39.2",
+        "tagName": "7.39.2",
+        "createdAt": "2024-04-24T08:51:07Z",
+        "publishedAt": "2024-04-24T08:51:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 182959,
+      "weekDownloads": 43257,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native navigation navigator react-native-navigation hacktoberfest",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recommended",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.014,
+    "category": [
+      "navigation",
+      "navigator",
+      "react-native-navigation"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-simple-router-community/react-native-simple-router",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-simple-router",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-simple-router-community/react-native-simple-router",
+        "clone": "https://github.com/react-native-simple-router-community/react-native-simple-router.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-08-17T16:16:34Z",
+        "createdAt": "2016-01-20T16:04:38Z",
+        "pushedAt": "2021-05-06T17:35:14Z",
+        "issues": 28,
+        "subscribers": 15,
+        "stars": 269,
+        "forks": 56
+      },
+      "name": "react-native-simple-router",
+      "fullName": "react-native-simple-router-community/react-native-simple-router",
+      "description": "A community maintained router component for React Native",
+      "topics": [
+        "react-native",
+        "react-router",
+        "router",
+        "navigation",
+        "react-native-navigation",
+        "react-navigation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Improve better support for Android",
+        "tagName": "0.12.1",
+        "createdAt": "2019-05-31T16:29:19Z",
+        "publishedAt": "2019-06-20T16:46:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 50,
+      "weekDownloads": 5,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-router router navigation react-native-navigation react-navigation",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.84,
+    "category": [
+      "router",
+      "navigation",
+      "react-native-navigation",
+      "react-navigation",
+      "react-router"
+    ]
+  }
+]

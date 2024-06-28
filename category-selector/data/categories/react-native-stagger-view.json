@@ -1,0 +1,158 @@
+[
+  {
+    "githubUrl": "https://github.com/Mindinventory/react-native-stagger-view",
+    "npmPkg": "@mindinventory/react-native-stagger-view",
+    "examples": [
+      "https://github.com/Mindinventory/react-native-stagger-view/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/88423352/160378928-a2e472c6-df2f-4e11-9566-cd1e32e67a3e.gif",
+      "https://user-images.githubusercontent.com/88423352/160379456-33f6202c-4184-4ecd-852b-a85c099faf71.gif",
+      "https://user-images.githubusercontent.com/88423352/160379469-37adc7e9-9ebf-4a46-a895-0ecaf7c226ec.gif",
+      "https://user-images.githubusercontent.com/88423352/160378368-563dc457-54e6-421d-94c6-534e3bd9e9cc.gif",
+      "https://user-images.githubusercontent.com/88423352/160379485-809a22e8-82f8-4016-aa57-0d1553f54e15.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Mindinventory/react-native-stagger-view",
+        "clone": "https://github.com/Mindinventory/react-native-stagger-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-01T15:17:52Z",
+        "createdAt": "2022-01-04T09:30:28Z",
+        "pushedAt": "2023-04-18T08:45:11Z",
+        "issues": 0,
+        "subscribers": 6,
+        "stars": 81,
+        "forks": 10
+      },
+      "name": "react-native-stagger-view",
+      "fullName": "Mindinventory/react-native-stagger-view",
+      "description": "Staggered Grid View is a type of layout that is used to display images and posts. As you see in various social platforms such as Pinterest and many more. (staggered, masonry, quilted, woven, etc.).",
+      "topics": [
+        "react-native",
+        "reactnative-list-view",
+        "react-native-stagger-view",
+        "stagger-view"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1018,
+      "weekDownloads": 305,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native reactnative-list-view react-native-stagger-view stagger-view",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.05,
+    "category": [
+      "react-native-stagger-view",
+      "stagger-view"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/animate-react-native/stagger",
+    "npmPkg": "@animatereactnative/stagger",
+    "examples": [
+      "https://github.com/animate-react-native/stagger/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/animate-react-native/stagger/main/animatereactnative-stagger-preview.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/animate-react-native/stagger",
+        "clone": "https://github.com/animate-react-native/stagger.git",
+        "homepage": "https://www.animatereactnative.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-19T09:05:20Z",
+        "createdAt": "2023-08-31T09:05:22Z",
+        "pushedAt": "2024-02-12T09:46:27Z",
+        "issues": 1,
+        "subscribers": 3,
+        "stars": 137,
+        "forks": 6
+      },
+      "name": "stagger",
+      "fullName": "animate-react-native/stagger",
+      "description": "A cross-platform React Native Stagger component, powered by Reanimated",
+      "topics": [
+        "react-native",
+        "react-native-animation",
+        "react-native-stagger-view",
+        "reanimated2",
+        "reanimated3",
+        "react-native-layout-animation",
+        "react-native-stagger",
+        "stagger-animation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.3.0",
+        "tagName": "v0.3.0",
+        "createdAt": "2024-02-12T09:46:24Z",
+        "publishedAt": "2024-02-12T09:46:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3018,
+      "weekDownloads": 997,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-animation react-native-stagger-view reanimated2 reanimated3 react-native-layout-animation react-native-stagger stagger-animation",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.081,
+    "category": [
+      "react-native-stagger-view",
+      "stagger-animation",
+      "react-native-stagger",
+      "react-native-layout-animation"
+    ]
+  }
+]

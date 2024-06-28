@@ -1,0 +1,68 @@
+[
+  {
+    "githubUrl": "https://github.com/naoufal/react-native-safari-view",
+    "ios": true,
+    "android": true,
+    "examples": [
+      "https://snack.expo.dev/r116LYJne?session_id=snack-session-rygins1kH-"
+    ],
+    "npmPkg": "react-native-safari-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/naoufal/react-native-safari-view",
+        "clone": "https://github.com/naoufal/react-native-safari-view.git",
+        "homepage": "https://www.npmjs.com/package/react-native-safari-view"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-22T13:40:42Z",
+        "createdAt": "2015-06-25T00:45:18Z",
+        "pushedAt": "2021-09-21T05:01:39Z",
+        "issues": 35,
+        "subscribers": 5,
+        "stars": 492,
+        "forks": 110
+      },
+      "name": "react-native-safari-view",
+      "fullName": "naoufal/react-native-safari-view",
+      "description": "A React Native wrapper for Safari View Controller.",
+      "topics": [
+        "react-native",
+        "apple",
+        "safari-view-controller",
+        "safari"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "2.1.0",
+        "tagName": "v2.1.0",
+        "createdAt": "2017-10-02T15:24:25Z",
+        "publishedAt": "2017-10-02T15:30:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 22156,
+      "weekDownloads": 4114,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native apple safari-view-controller safari",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.064,
+    "category": [
+      "safari-view-controller",
+      "safari"
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/dotnet/aspnetcore/tree/main/src/SignalR/clients/ts/signalr",
+    "npmPkg": "@microsoft/signalr",
+    "nameOverride": "ASP.NET Core SignalR Client",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dotnet/aspnetcore",
+        "clone": "https://github.com/dotnet/aspnetcore.git",
+        "homepage": "https://asp.net"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:41:55Z",
+        "createdAt": "2014-03-11T06:09:42Z",
+        "pushedAt": "2024-05-25T12:00:25Z",
+        "issues": 3132,
+        "subscribers": 1447,
+        "stars": 34549,
+        "forks": 9764
+      },
+      "name": "aspnetcore",
+      "fullName": "dotnet/aspnetcore",
+      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "topics": [
+        "dotnet",
+        "aspnetcore",
+        "hacktoberfest",
+        "help-wanted"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": ".NET 9 Preview 4",
+        "tagName": "v9.0.0-preview.4.24267.6",
+        "createdAt": "2024-05-17T15:03:52Z",
+        "publishedAt": "2024-05-21T15:06:21Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2080731,
+      "weekDownloads": 498455,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "dotnet aspnetcore hacktoberfest help-wanted",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.01,
+    "category": [
+      "dotnet",
+      "aspnetcore"
+    ]
+  }
+]

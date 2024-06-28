@@ -1,0 +1,227 @@
+[
+  {
+    "githubUrl": "https://github.com/mohakapt/react-native-js-tableview",
+    "examples": [
+      "https://github.com/mohakapt/react-native-js-tableview/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/mohakapt/react-native-js-tableview/master/images/screenshot_ios.gif",
+      "https://raw.githubusercontent.com/mohakapt/react-native-js-tableview/master/images/screenshot_android.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-js-tableview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mohakapt/react-native-js-tableview",
+        "clone": "https://github.com/mohakapt/react-native-js-tableview.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-05T06:40:42Z",
+        "createdAt": "2018-08-14T12:45:05Z",
+        "pushedAt": "2023-05-31T08:57:28Z",
+        "issues": 7,
+        "subscribers": 4,
+        "stars": 28,
+        "forks": 8
+      },
+      "name": "react-native-js-tableview",
+      "fullName": "mohakapt/react-native-js-tableview",
+      "description": "A JavaScript implementation for TableView that looks great on both iOS and Android.",
+      "topics": [
+        "react-native",
+        "tableview",
+        "uitableview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.5.0",
+        "tagName": "v2.5.0",
+        "createdAt": "2022-07-14T14:26:21Z",
+        "publishedAt": "2022-07-14T14:47:12Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 144,
+      "weekDownloads": 23,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native tableview uitableview",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.54,
+    "category": [
+      "tableview"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Purii/react-native-tableview-simple",
+    "examples": [
+      "https://snack.expo.dev/@purii/react-native-tableview-simple",
+      "https://github.com/Purii/react-native-tableview-simple/tree/master/example"
+    ],
+    "images": [
+      "https://raw.github.com/Purii/react-native-tableview-simple/master/screenshotStandard.png",
+      "https://raw.github.com/Purii/react-native-tableview-simple/master/screenshotDark.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-tableview-simple",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Purii/react-native-tableview-simple",
+        "clone": "https://github.com/Purii/react-native-tableview-simple.git",
+        "homepage": "https://snack.expo.io/@purii/react-native-tableview-simple"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-18T04:30:00Z",
+        "createdAt": "2015-10-25T21:05:29Z",
+        "pushedAt": "2023-07-23T18:11:31Z",
+        "issues": 18,
+        "subscribers": 12,
+        "stars": 530,
+        "forks": 62
+      },
+      "name": "react-native-tableview-simple",
+      "fullName": "Purii/react-native-tableview-simple",
+      "description": "Flexible and lightweight React Native component for UITableView made with pure CSS",
+      "topics": [
+        "javascript",
+        "react-native",
+        "uitableview",
+        "tableview",
+        "ios",
+        "react",
+        "css"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "4.3.1",
+        "tagName": "v4.3.1",
+        "createdAt": "2021-12-12T18:50:36Z",
+        "publishedAt": "2021-12-12T18:51:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3059,
+      "weekDownloads": 822,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "javascript react-native uitableview tableview ios react css",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.019,
+    "category": [
+      "tableview"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/lodev09/react-native-cell-components",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-cell-components",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lodev09/react-native-cell-components",
+        "clone": "https://github.com/lodev09/react-native-cell-components.git",
+        "homepage": "https://www.npmjs.com/package/react-native-cell-components"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-11T18:04:42Z",
+        "createdAt": "2017-02-23T06:48:43Z",
+        "pushedAt": "2023-01-26T14:48:13Z",
+        "issues": 1,
+        "subscribers": 6,
+        "stars": 177,
+        "forks": 16
+      },
+      "name": "react-native-cell-components",
+      "fullName": "lodev09/react-native-cell-components",
+      "description": "Awesome react-native cell components! From a Cell to more complex & awesome components.",
+      "topics": [
+        "cell",
+        "components",
+        "react-native",
+        "ios",
+        "listview",
+        "tableview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "0.5",
+        "createdAt": "2019-05-23T07:48:17Z",
+        "publishedAt": "2019-05-23T07:49:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 137,
+      "weekDownloads": 4,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "cell components react-native ios listview tableview",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.669,
+    "category": [
+      "cell",
+      "listview",
+      "tableview"
+    ]
+  }
+]

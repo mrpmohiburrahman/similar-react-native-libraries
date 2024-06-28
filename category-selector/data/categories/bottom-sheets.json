@@ -1,0 +1,89 @@
+[
+  {
+    "githubUrl": "https://github.com/stanleyugwu/react-native-bottom-sheet",
+    "npmPkg": "@devvie/bottom-sheet",
+    "examples": [
+      "https://github.com/stanleyugwu/react-native-bottom-sheet/tree/main/example"
+    ],
+    "images": [
+      "https://i.ibb.co/Y38XsMr/Combined.gif",
+      "https://i.ibb.co/rMTZz6D/Main.gif",
+      "https://i.ibb.co/BrxcZpD/Main.gif",
+      "https://i.ibb.co/sJpsFKD/Web.png",
+      "https://i.ibb.co/302ZYBL/Keyboard-Response.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/stanleyugwu/react-native-bottom-sheet",
+        "clone": "https://github.com/stanleyugwu/react-native-bottom-sheet.git",
+        "homepage": "https://github.com/stanleyugwu/react-native-bottom-sheet#readme"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T23:17:13Z",
+        "createdAt": "2023-09-29T19:29:16Z",
+        "pushedAt": "2024-02-19T10:08:41Z",
+        "issues": 6,
+        "subscribers": 3,
+        "stars": 208,
+        "forks": 7
+      },
+      "name": "react-native-bottom-sheet",
+      "fullName": "stanleyugwu/react-native-bottom-sheet",
+      "description": "The tiny 📦, smart 😎, and flexible 🎗 bottom sheet your app craves",
+      "topics": [
+        "bottom-sheets",
+        "bottomsheet",
+        "bottomsheet-android",
+        "bottomsheetios",
+        "react-native-bottom-sheet",
+        "react-native-bottomsheet"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.3.0",
+        "tagName": "v0.3.0",
+        "createdAt": "2024-02-02T13:34:27Z",
+        "publishedAt": "2024-02-02T13:34:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4671,
+      "weekDownloads": 1258,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "bottom-sheets bottomsheet bottomsheet-android bottomsheetios react-native-bottom-sheet react-native-bottomsheet",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.019,
+    "category": [
+      "bottom-sheets",
+      "bottomsheet",
+      "bottomsheet-android",
+      "bottomsheetios",
+      "react-native-bottom-sheet",
+      "react-native-bottomsheet"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/maxkomarychev/react-native-ultimate-config",
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "npmPkg": "react-native-ultimate-config",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/maxkomarychev/react-native-ultimate-config",
+        "clone": "https://github.com/maxkomarychev/react-native-ultimate-config.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T12:39:03Z",
+        "createdAt": "2020-03-28T15:48:29Z",
+        "pushedAt": "2024-02-07T08:49:38Z",
+        "issues": 19,
+        "subscribers": 7,
+        "stars": 251,
+        "forks": 29
+      },
+      "name": "react-native-ultimate-config",
+      "fullName": "maxkomarychev/react-native-ultimate-config",
+      "description": "Config that works",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "env",
+        "environment",
+        "dotenv",
+        "config",
+        "xcconfig",
+        "objective-c",
+        "java",
+        "gradle",
+        "typescript",
+        "12factor",
+        "12factorapp",
+        "javascript",
+        "monorepo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15085,
+      "weekDownloads": 3625,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android env environment dotenv config xcconfig objective-c java gradle typescript 12factor 12factorapp javascript monorepo",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.01,
+    "category": [
+      "config",
+      "dotenv"
+    ]
+  }
+]

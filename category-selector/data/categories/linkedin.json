@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/jodybrewster/react-native-linkedin-login",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-linkedin-login",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jodybrewster/react-native-linkedin-login",
+        "clone": "https://github.com/jodybrewster/react-native-linkedin-login.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-04T08:42:28Z",
+        "createdAt": "2015-12-21T15:42:13Z",
+        "pushedAt": "2022-07-13T02:22:57Z",
+        "issues": 14,
+        "subscribers": 4,
+        "stars": 71,
+        "forks": 42
+      },
+      "name": "react-native-linkedin-login",
+      "fullName": "jodybrewster/react-native-linkedin-login",
+      "description": "React Native Linkedin login",
+      "topics": [
+        "react-native",
+        "linkedin-sdk",
+        "android",
+        "ios",
+        "linkedin",
+        "login",
+        "signin"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "RN version 0.40+ support and library linking",
+        "tagName": "1.44.1",
+        "createdAt": "2017-05-28T16:08:33Z",
+        "publishedAt": "2017-05-28T17:14:15Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 55,
+      "weekDownloads": 2,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native linkedin-sdk android ios linkedin login signin",
+    "score": 25,
+    "matchingScoreModifiers": [
+      "No license",
+      "Not updated recently"
+    ],
+    "popularity": -0.9,
+    "category": [
+      "linkedin-sdk",
+      "linkedin"
+    ]
+  }
+]

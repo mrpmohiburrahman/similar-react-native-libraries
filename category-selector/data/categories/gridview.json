@@ -1,0 +1,73 @@
+[
+  {
+    "githubUrl": "https://github.com/saleel/react-native-super-grid",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-super-grid",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/saleel/react-native-super-grid",
+        "clone": "https://github.com/saleel/react-native-super-grid.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T09:05:02Z",
+        "createdAt": "2017-04-07T21:01:50Z",
+        "pushedAt": "2024-03-28T05:56:35Z",
+        "issues": 2,
+        "subscribers": 28,
+        "stars": 1377,
+        "forks": 153
+      },
+      "name": "react-native-super-grid",
+      "fullName": "saleel/react-native-super-grid",
+      "description": "Responsive Grid View for React Native",
+      "topics": [
+        "react-native",
+        "gridview",
+        "grid",
+        "listview",
+        "responsive",
+        "flatlist",
+        "responsive-grid"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 45789,
+      "weekDownloads": 10853,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native gridview grid listview responsive flatlist responsive-grid",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "gridview",
+      "grid",
+      "listview",
+      "responsive",
+      "responsive-grid"
+    ]
+  }
+]

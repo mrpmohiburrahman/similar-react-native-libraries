@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/frw/react-native-ssl-public-key-pinning",
+    "examples": [
+      "https://github.com/frw/react-native-ssl-public-key-pinning/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-ssl-public-key-pinning",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/frw/react-native-ssl-public-key-pinning",
+        "clone": "https://github.com/frw/react-native-ssl-public-key-pinning.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T06:48:33Z",
+        "createdAt": "2023-03-09T05:59:16Z",
+        "pushedAt": "2024-05-21T06:48:30Z",
+        "issues": 3,
+        "subscribers": 1,
+        "stars": 138,
+        "forks": 11
+      },
+      "name": "react-native-ssl-public-key-pinning",
+      "fullName": "frw/react-native-ssl-public-key-pinning",
+      "description": "Simple and secure SSL public key pinning for React Native. No native configuration needed, set up in <5 minutes.",
+      "topics": [
+        "android",
+        "ios",
+        "network",
+        "pki",
+        "react-native",
+        "ssl",
+        "ssl-pinning"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.2.3",
+        "tagName": "v1.2.3",
+        "createdAt": "2024-04-01T04:26:48Z",
+        "publishedAt": "2024-04-01T04:26:54Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 21621,
+      "weekDownloads": 5330,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android ios network pki react-native ssl ssl-pinning",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.003,
+    "category": [
+      "ssl",
+      "ssl-pinning"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "githubUrl": "https://github.com/pietile/pietile-native-kit/tree/master/packages/fade-view",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "@pietile-native-kit/fade-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/pietile/pietile-native-kit",
+        "clone": "https://github.com/pietile/pietile-native-kit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T15:13:46Z",
+        "createdAt": "2018-10-31T13:17:40Z",
+        "pushedAt": "2022-08-14T15:08:21Z",
+        "issues": 4,
+        "subscribers": 3,
+        "stars": 185,
+        "forks": 8
+      },
+      "name": "pietile-native-kit",
+      "fullName": "pietile/pietile-native-kit",
+      "description": "🥧 Set of React Native components",
+      "topics": [
+        "react-native",
+        "components",
+        "accordion",
+        "fadein-fadeout",
+        "keyboardaware",
+        "keyboardavoiding",
+        "keyboard"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 29,
+      "weekDownloads": 4,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native components accordion fadein-fadeout keyboardaware keyboardavoiding keyboard",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.553,
+    "category": [
+      "fadein-fadeout"
+    ]
+  }
+]

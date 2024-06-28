@@ -1,0 +1,63 @@
+[
+  {
+    "githubUrl": "https://github.com/alexfoxy/react-native-units",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-units",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/alexfoxy/react-native-units",
+        "clone": "https://github.com/alexfoxy/react-native-units.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-29T00:58:24Z",
+        "createdAt": "2019-03-26T15:38:27Z",
+        "pushedAt": "2019-04-10T11:28:22Z",
+        "issues": 0,
+        "subscribers": 5,
+        "stars": 27,
+        "forks": 0
+      },
+      "name": "react-native-units",
+      "fullName": "alexfoxy/react-native-units",
+      "description": "A collection of useful units and a simple grid implementation for responsive layouts in React Native.",
+      "topics": [
+        "react-native",
+        "units",
+        "css",
+        "pixels",
+        "javascript",
+        "responsive"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 47,
+      "weekDownloads": 21,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native units css pixels javascript responsive",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.237,
+    "category": [
+      "units",
+      "pixels",
+      "responsive"
+    ]
+  }
+]

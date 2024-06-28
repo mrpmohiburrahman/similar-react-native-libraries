@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/teovillanueva/react-native-web-maps",
+    "npmPkg": "@teovilla/react-native-web-maps",
+    "examples": [
+      "https://github.com/teovillanueva/react-native-web-maps/tree/main/example",
+      "https://github.com/teovillanueva/react-native-web-maps-solito-example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/inokawa/react-native-react-bridge/main/examples/android.gif",
+      "https://raw.githubusercontent.com/inokawa/react-native-react-bridge/main/examples/ios.gif"
+    ],
+    "android": true,
+    "ios": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/teovillanueva/react-native-web-maps",
+        "clone": "https://github.com/teovillanueva/react-native-web-maps.git",
+        "homepage": "https://teovillanueva.github.io/react-native-web-maps/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2024-04-25T15:20:39Z",
+        "createdAt": "2022-07-01T13:21:13Z",
+        "pushedAt": "2024-04-25T15:20:39Z",
+        "forks": 12,
+        "issues": 8,
+        "subscribers": 3,
+        "stars": 52
+      },
+      "name": "react-native-web-maps",
+      "fullName": "teovillanueva/react-native-web-maps",
+      "description": "Cross platform maps for react & react-native 🗺",
+      "topics": [],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.9.5",
+        "tagName": "v0.9.5",
+        "createdAt": "2024-04-25T15:20:41Z",
+        "publishedAt": "2024-04-25T15:20:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 17905,
+      "weekDownloads": 4847,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.021,
+    "topicSearchString": "",
+    "matchScore": 110,
+    "category": [
+      "maps"
+    ]
+  }
+]

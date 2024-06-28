@@ -1,0 +1,160 @@
+[
+  {
+    "githubUrl": "https://github.com/wkh237/react-native-fetch-blob",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-fetch-blob",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wkh237/react-native-fetch-blob",
+        "clone": "https://github.com/wkh237/react-native-fetch-blob.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T04:56:48Z",
+        "createdAt": "2016-05-04T13:08:37Z",
+        "pushedAt": "2022-07-25T19:50:18Z",
+        "issues": 268,
+        "subscribers": 50,
+        "stars": 2611,
+        "forks": 1557
+      },
+      "name": "react-native-fetch-blob",
+      "fullName": "wkh237/react-native-fetch-blob",
+      "description": "A project committed to making file access and data transfer easier, efficient for React Native developers.",
+      "topics": [
+        "file-access",
+        "react-native",
+        "storage",
+        "network",
+        "file-system",
+        "file",
+        "polyfill",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.10.9",
+        "tagName": "v0.10.9",
+        "createdAt": "2017-08-09T09:56:39Z",
+        "publishedAt": "2017-08-09T15:13:08Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 18263,
+      "weekDownloads": 3783,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "file-access react-native storage network file-system file polyfill android ios",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.293,
+    "category": [
+      "file-access",
+      "network",
+      "file-system"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-file-system",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-file-system",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2761190,
+      "weekDownloads": 625408,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "fs",
+      "file-system"
+    ]
+  }
+]

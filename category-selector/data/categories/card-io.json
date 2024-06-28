@@ -1,0 +1,62 @@
+[
+  {
+    "githubUrl": "https://github.com/Kerumen/react-native-awesome-card-io",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-awesome-card-io",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Kerumen/react-native-awesome-card-io",
+        "clone": "https://github.com/Kerumen/react-native-awesome-card-io.git",
+        "homepage": "https://kerumen.github.io/react-native-awesome-card-io/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:33:23Z",
+        "createdAt": "2016-08-30T08:46:53Z",
+        "pushedAt": "2023-01-27T04:26:44Z",
+        "issues": 26,
+        "subscribers": 10,
+        "stars": 456,
+        "forks": 135
+      },
+      "name": "react-native-awesome-card-io",
+      "fullName": "Kerumen/react-native-awesome-card-io",
+      "description": "A complete and cross-platform card.io component for React Native (iOS and Android).",
+      "topics": [
+        "react",
+        "react-native",
+        "card-scanning",
+        "card-io",
+        "ios",
+        "android"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 81597,
+      "weekDownloads": 13545,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native card-scanning card-io ios android",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "No license"
+    ],
+    "popularity": -0.334,
+    "category": [
+      "card-io"
+    ]
+  }
+]

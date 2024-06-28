@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/BugiDev/react-native-calendar-strip",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/By-aQF8LZ"
+    ],
+    "npmPkg": "react-native-calendar-strip",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/BugiDev/react-native-calendar-strip",
+        "clone": "https://github.com/BugiDev/react-native-calendar-strip.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-19T16:30:24Z",
+        "createdAt": "2016-08-29T15:04:01Z",
+        "pushedAt": "2023-09-14T13:38:11Z",
+        "issues": 84,
+        "subscribers": 15,
+        "stars": 917,
+        "forks": 321
+      },
+      "name": "react-native-calendar-strip",
+      "fullName": "BugiDev/react-native-calendar-strip",
+      "description": "Easy to use and visually stunning calendar component for React Native.",
+      "topics": [
+        "javascript",
+        "react-native",
+        "calendar",
+        "calendar-strip"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.2.5",
+        "tagName": "2.2.5",
+        "createdAt": "2021-09-13T21:10:53Z",
+        "publishedAt": "2021-09-13T21:12:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 20739,
+      "weekDownloads": 5359,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "javascript react-native calendar calendar-strip",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0.008,
+    "category": [
+      "calendar",
+      "calendar-strip"
+    ]
+  }
+]

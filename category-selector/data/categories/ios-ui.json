@@ -1,0 +1,73 @@
+[
+  {
+    "githubUrl": "https://github.com/callstack/react-native-ios-kit",
+    "examples": [
+      "https://github.com/callstack/react-native-ios-kit/tree/master/example"
+    ],
+    "ios": true,
+    "expoGo": true,
+    "npmPkg": "react-native-ios-kit",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/callstack/react-native-ios-kit",
+        "clone": "https://github.com/callstack/react-native-ios-kit.git",
+        "homepage": "https://callstack.github.io/react-native-ios-kit/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-10T05:21:54Z",
+        "createdAt": "2017-07-27T11:27:16Z",
+        "pushedAt": "2024-02-26T19:00:39Z",
+        "issues": 68,
+        "subscribers": 6,
+        "stars": 521,
+        "forks": 53
+      },
+      "name": "react-native-ios-kit",
+      "fullName": "callstack/react-native-ios-kit",
+      "description": "The missing React Native UI Kit for iOS",
+      "topics": [
+        "react-native",
+        "ios-ui",
+        "ui-kit"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.0.25",
+        "tagName": "v0.0.25",
+        "createdAt": "2020-05-13T12:01:25Z",
+        "publishedAt": "2020-05-13T12:01:40Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 807,
+      "weekDownloads": 136,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios-ui ui-kit",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.081,
+    "category": [
+      "ui-kit",
+      "ios-ui"
+    ]
+  }
+]

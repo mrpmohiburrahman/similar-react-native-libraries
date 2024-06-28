@@ -1,0 +1,93 @@
+[
+  {
+    "githubUrl": "https://github.com/Luffos/rxn-units",
+    "examples": [
+      "https://codesandbox.io/s/rxn-units-example-ox6n4h"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "rxn-units",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Luffos/rxn-units",
+        "clone": "https://github.com/Luffos/rxn-units.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-12-26T16:12:42Z",
+        "createdAt": "2022-04-04T18:57:55Z",
+        "pushedAt": "2023-04-17T19:00:30Z",
+        "issues": 3,
+        "subscribers": 2,
+        "stars": 35,
+        "forks": 0
+      },
+      "name": "rxn-units",
+      "fullName": "Luffos/rxn-units",
+      "description": "📐 Cross-Platform Viewport Units (vw, vh, vmin, vmax, percentage) + useUnits hook for React Native, React Native Web and Expo.",
+      "topics": [
+        "rxn",
+        "react",
+        "react-native",
+        "react-native-web",
+        "typescript",
+        "units",
+        "expo",
+        "reactjs",
+        "vh",
+        "viewport",
+        "viewport-size",
+        "viewport-units",
+        "vmax",
+        "vmin",
+        "vw",
+        "xplat"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.1.7",
+        "tagName": "v0.1.7",
+        "createdAt": "2022-12-30T00:47:28Z",
+        "publishedAt": "2022-12-30T00:49:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 614,
+      "weekDownloads": 458,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "rxn react react-native react-native-web typescript units expo reactjs vh viewport viewport-size viewport-units vmax vmin vw xplat",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.497,
+    "category": [
+      "rxn",
+      "viewport",
+      "viewport-size",
+      "viewport-units",
+      "vmax",
+      "vmin",
+      "vw",
+      "xplat",
+      "vh"
+    ]
+  }
+]

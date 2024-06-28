@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-progress-view/progress-view",
+    "examples": [
+      "https://github.com/react-native-progress-view/progress-view/tree/master/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/6936373/73007429-e09dd500-3e4f-11ea-85dd-ce06be668975.png",
+      "https://user-images.githubusercontent.com/42554868/87102503-fb4de580-c206-11ea-98f7-b9f911d115f8.gif"
+    ],
+    "ios": true,
+    "windows": true,
+    "macos": true,
+    "npmPkg": "@react-native-community/progress-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-progress-view/progress-view",
+        "clone": "https://github.com/react-native-progress-view/progress-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-22T19:47:52Z",
+        "createdAt": "2019-02-08T15:43:17Z",
+        "pushedAt": "2024-03-29T05:02:44Z",
+        "issues": 7,
+        "subscribers": 5,
+        "stars": 157,
+        "forks": 40
+      },
+      "name": "progress-view",
+      "fullName": "react-native-progress-view/progress-view",
+      "description": "ProgressView Component for react-native iOS/macOS/Windows",
+      "topics": [
+        "react-native",
+        "progress-bar",
+        "ios",
+        "hacktoberfest",
+        "windows",
+        "macos"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v1.3.1",
+        "createdAt": "2021-05-06T14:39:12Z",
+        "publishedAt": "2021-05-06T14:43:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 98027,
+      "weekDownloads": 23749,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native progress-bar ios hacktoberfest windows macos",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.008,
+    "category": [
+      "progress-bar"
+    ]
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "githubUrl": "https://github.com/qiuxiang/react-native-amap3d",
+    "examples": [
+      "https://github.com/qiuxiang/react-native-amap3d/tree/main/example-app"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/1709072/140698774-bdbfee64-d403-4e49-9a85-716d44783cfd.png",
+      "https://user-images.githubusercontent.com/1709072/140849894-3add3858-fc7f-47cd-9786-94aeef399ebc.PNG",
+      "https://user-images.githubusercontent.com/1709072/140707579-4abe070a-3fc1-481d-8a2e-91ac2ad8bdc7.png",
+      "https://user-images.githubusercontent.com/1709072/140849886-7eb9322b-8fa8-4049-a7b0-3eb36d006992.PNG"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/qiuxiang/react-native-amap3d",
+        "clone": "https://github.com/qiuxiang/react-native-amap3d.git",
+        "homepage": "https://qiuxiang.github.io/react-native-amap3d/api/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-07-10T03:45:37Z",
+        "createdAt": "2017-05-26T06:48:38Z",
+        "pushedAt": "2023-07-10T03:45:37Z",
+        "forks": 309,
+        "issues": 265,
+        "subscribers": 26,
+        "stars": 1256
+      },
+      "name": "react-native-amap3d",
+      "fullName": "qiuxiang/react-native-amap3d",
+      "description": "react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS",
+      "topics": [
+        "react-native",
+        "amap",
+        "maps",
+        "mapview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v3.2.4",
+        "createdAt": "2023-07-10T03:45:37Z",
+        "publishedAt": "2023-07-10T03:46:37Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-amap3d",
+    "npm": {
+      "downloads": 460,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 76
+    },
+    "score": 31,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.085,
+    "topicSearchString": "react-native amap maps mapview",
+    "matchScore": 1,
+    "category": [
+      "mapview"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/venits/react-native-map-clustering",
+    "examples": [
+      "https://github.com/venits/react-native-map-clustering/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/venits/react-native-map-clustering",
+        "clone": "https://github.com/venits/react-native-map-clustering.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-01-10T14:35:17Z",
+        "createdAt": "2017-09-01T15:25:34Z",
+        "pushedAt": "2021-01-10T14:35:17Z",
+        "forks": 205,
+        "issues": 61,
+        "subscribers": 6,
+        "stars": 672
+      },
+      "name": "react-native-map-clustering",
+      "fullName": "venits/react-native-map-clustering",
+      "description": "React Native map clustering both for Android and iOS.",
+      "topics": [
+        "react-native",
+        "react",
+        "cluster",
+        "android",
+        "ios",
+        "map",
+        "clustering",
+        "mapview",
+        "markers",
+        "maps"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "3.4.0",
+        "tagName": "3.4.0",
+        "createdAt": "2021-01-03T20:17:04Z",
+        "publishedAt": "2021-01-03T20:19:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-map-clustering",
+    "npm": {
+      "downloads": 59063,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 13978
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.013,
+    "topicSearchString": "react-native react cluster android ios map clustering mapview markers maps",
+    "matchScore": 1,
+    "category": [
+      "mapview"
+    ]
+  }
+]

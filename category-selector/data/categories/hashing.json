@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/TheRogue76/react-native-hashing",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-hashing",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/TheRogue76/react-native-hashing",
+        "clone": "https://github.com/TheRogue76/react-native-hashing.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-03-16T07:49:14Z",
+        "createdAt": "2022-02-14T22:09:30Z",
+        "pushedAt": "2022-04-13T06:31:49Z",
+        "issues": 8,
+        "subscribers": 2,
+        "stars": 18,
+        "forks": 1
+      },
+      "name": "react-native-hashing",
+      "fullName": "TheRogue76/react-native-hashing",
+      "description": "A hashing library for react native written in c++ with JSI",
+      "topics": [
+        "react-native",
+        "ios",
+        "javascript",
+        "react",
+        "typescript",
+        "jsi",
+        "android",
+        "hashing"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "V0.1.5",
+        "tagName": "v0.1.5",
+        "createdAt": "2022-03-26T17:22:26Z",
+        "publishedAt": "2022-03-26T17:23:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 18,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios javascript react typescript jsi android hashing",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.606,
+    "category": [
+      "hashing"
+    ]
+  }
+]

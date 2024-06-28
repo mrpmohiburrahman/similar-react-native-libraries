@@ -1,0 +1,184 @@
+[
+  {
+    "githubUrl": "https://github.com/margelo/react-native-graph",
+    "examples": [
+      "https://github.com/margelo/react-native-graph/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/margelo/react-native-graph/main/img/demo.gif",
+      "https://raw.githubusercontent.com/margelo/react-native-graph/main/img/change.gif",
+      "https://raw.githubusercontent.com/margelo/react-native-graph/main/img/pan.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-graph",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-graph",
+        "clone": "https://github.com/margelo/react-native-graph.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T07:15:37Z",
+        "createdAt": "2022-04-29T12:40:18Z",
+        "pushedAt": "2024-05-19T05:52:21Z",
+        "issues": 38,
+        "subscribers": 15,
+        "stars": 1897,
+        "forks": 103
+      },
+      "name": "react-native-graph",
+      "fullName": "margelo/react-native-graph",
+      "description": "📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia",
+      "topics": [
+        "animated",
+        "animation",
+        "beautiful",
+        "chart",
+        "charts",
+        "crypto",
+        "graph",
+        "graphs",
+        "library",
+        "linegraph",
+        "performance",
+        "react",
+        "react-native",
+        "skia",
+        "stock",
+        "svg",
+        "wallet",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.1.0",
+        "tagName": "v1.1.0",
+        "createdAt": "2024-03-12T12:21:33Z",
+        "publishedAt": "2024-03-12T12:21:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7240,
+      "weekDownloads": 1831,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "animated animation beautiful chart charts crypto graph graphs library linegraph performance react react-native skia stock svg wallet android ios",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": 0.003,
+    "category": [
+      "charts",
+      "graph",
+      "graphs",
+      "linegraph",
+      "chart"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/capitalone/react-native-pathjs-charts",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-pathjs-charts",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/capitalone/react-native-pathjs-charts",
+        "clone": "https://github.com/capitalone/react-native-pathjs-charts.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-20T17:13:05Z",
+        "createdAt": "2016-07-29T19:43:20Z",
+        "pushedAt": "2018-03-01T15:28:09Z",
+        "issues": 75,
+        "subscribers": 35,
+        "stars": 879,
+        "forks": 263
+      },
+      "name": "react-native-pathjs-charts",
+      "fullName": "capitalone/react-native-pathjs-charts",
+      "description": "Android and iOS charts based on react-native-svg and paths-js",
+      "topics": [
+        "charts",
+        "graphs",
+        "paths-js",
+        "react-native",
+        "ios",
+        "android",
+        "react-native-svg",
+        "cross-platform",
+        "radar-graphs",
+        "bar-graphs",
+        "pie-graphs",
+        "tree"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "0.0.34",
+        "tagName": "0.0.34",
+        "createdAt": "2018-02-19T01:37:41Z",
+        "publishedAt": "2018-02-19T01:42:23Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 394,
+      "weekDownloads": 58,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "charts graphs paths-js react-native ios android react-native-svg cross-platform radar-graphs bar-graphs pie-graphs tree",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": -0.352,
+    "category": [
+      "charts",
+      "graphs",
+      "paths-js",
+      "react-native-svg",
+      "radar-graphs",
+      "bar-graphs",
+      "pie-graphs",
+      "tree"
+    ]
+  }
+]

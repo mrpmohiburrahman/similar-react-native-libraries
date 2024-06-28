@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/dylankenneally/react-native-ssh-sftp",
+    "npmPkg": "@dylankenneally/react-native-ssh-sftp",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dylankenneally/react-native-ssh-sftp",
+        "clone": "https://github.com/dylankenneally/react-native-ssh-sftp.git",
+        "homepage": "https://www.npmjs.com/package/@dylankenneally/react-native-ssh-sftp"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-19T12:43:58Z",
+        "createdAt": "2024-01-16T02:56:23Z",
+        "pushedAt": "2024-05-17T00:55:24Z",
+        "issues": 2,
+        "subscribers": 0,
+        "stars": 9,
+        "forks": 6
+      },
+      "name": "react-native-ssh-sftp",
+      "fullName": "dylankenneally/react-native-ssh-sftp",
+      "description": "SSH and SFTP client library for React Native",
+      "topics": [
+        "react-native",
+        "sftp",
+        "sftp-client",
+        "ssh",
+        "ssh-client"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.5.16",
+        "tagName": "v1.5.16",
+        "createdAt": "2024-05-17T00:53:22Z",
+        "publishedAt": "2024-05-17T00:55:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 395,
+      "weekDownloads": 103,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native sftp sftp-client ssh ssh-client",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.087,
+    "category": [
+      "sftp",
+      "sftp-client",
+      "ssh-client",
+      "ssh"
+    ]
+  }
+]

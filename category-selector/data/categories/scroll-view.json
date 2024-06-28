@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/APSL/react-native-keyboard-aware-scroll-view",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-keyboard-aware-scroll-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/APSL/react-native-keyboard-aware-scroll-view",
+        "clone": "https://github.com/APSL/react-native-keyboard-aware-scroll-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T02:18:50Z",
+        "createdAt": "2015-10-20T18:22:34Z",
+        "pushedAt": "2023-10-28T05:40:30Z",
+        "issues": 190,
+        "subscribers": 45,
+        "stars": 5226,
+        "forks": 641
+      },
+      "name": "react-native-keyboard-aware-scroll-view",
+      "fullName": "APSL/react-native-keyboard-aware-scroll-view",
+      "description": "A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.",
+      "topics": [
+        "react-native",
+        "scroll-view",
+        "react",
+        "react-components",
+        "scrollview-component",
+        "keyboard"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.9.5",
+        "createdAt": "2021-11-04T10:02:03Z",
+        "publishedAt": "2021-11-04T10:03:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1101982,
+      "weekDownloads": 249346,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native scroll-view react react-components scrollview-component keyboard",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "scroll-view",
+      "scrollview-component",
+      "keyboard"
+    ]
+  }
+]

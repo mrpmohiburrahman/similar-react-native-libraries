@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-branch",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution",
+        "clone": "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution.git",
+        "homepage": "https://docs.branch.io/apps/react-native/"
+      },
+      "stats": {
+        "hasIssues": false,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T09:40:50Z",
+        "createdAt": "2016-04-10T23:56:20Z",
+        "pushedAt": "2024-05-22T20:30:45Z",
+        "issues": 105,
+        "subscribers": 74,
+        "stars": 513,
+        "forks": 202
+      },
+      "name": "react-native-branch-deep-linking-attribution",
+      "fullName": "BranchMetrics/react-native-branch-deep-linking-attribution",
+      "description": "The Branch React Native SDK for deep linking and attribution. Branch helps mobile apps grow with deep links / deeplinks that power paid acquisition and re-engagement campaigns, referral programs, content sharing, deep linked emails, smart banners, custom user onboarding, and more. ",
+      "topics": [
+        "ios",
+        "android",
+        "universal-links",
+        "app-links",
+        "analytics",
+        "react",
+        "react-native",
+        "deep-linking",
+        "branch",
+        "metrics"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 6.2.1",
+        "tagName": "v6.2.1",
+        "createdAt": "2024-04-04T00:46:51Z",
+        "publishedAt": "2024-04-04T00:48:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 303530,
+      "weekDownloads": 62521,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ios android universal-links app-links analytics react react-native deep-linking branch metrics",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.044,
+    "category": [
+      "branch",
+      "metrics",
+      "analytics"
+    ]
+  }
+]

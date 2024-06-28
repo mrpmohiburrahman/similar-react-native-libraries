@@ -1,0 +1,397 @@
+[
+  {
+    "npmPkg": "@react-native-ml-kit/text-recognition",
+    "githubUrl": "https://github.com/a7medev/react-native-ml-kit/tree/main/text-recognition",
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/a7medev/react-native-ml-kit",
+        "clone": "https://github.com/a7medev/react-native-ml-kit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:08:25Z",
+        "createdAt": "2021-10-16T15:20:52Z",
+        "pushedAt": "2023-10-19T17:50:17Z",
+        "issues": 17,
+        "subscribers": 9,
+        "stars": 328,
+        "forks": 51
+      },
+      "name": "react-native-ml-kit",
+      "fullName": "a7medev/react-native-ml-kit",
+      "description": "React Native On-Device Machine Learning w/ Google ML Kit",
+      "topics": [
+        "react-native",
+        "ml-kit",
+        "ml-kit-vision",
+        "ml",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5556,
+      "weekDownloads": 1257,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ml-kit ml-kit-vision ml android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
+  },
+  {
+    "npmPkg": "@react-native-ml-kit/face-detection",
+    "githubUrl": "https://github.com/a7medev/react-native-ml-kit/tree/main/face-detection",
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/a7medev/react-native-ml-kit",
+        "clone": "https://github.com/a7medev/react-native-ml-kit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:08:25Z",
+        "createdAt": "2021-10-16T15:20:52Z",
+        "pushedAt": "2023-10-19T17:50:17Z",
+        "issues": 17,
+        "subscribers": 9,
+        "stars": 328,
+        "forks": 51
+      },
+      "name": "react-native-ml-kit",
+      "fullName": "a7medev/react-native-ml-kit",
+      "description": "React Native On-Device Machine Learning w/ Google ML Kit",
+      "topics": [
+        "react-native",
+        "ml-kit",
+        "ml-kit-vision",
+        "ml",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1004,
+      "weekDownloads": 216,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ml-kit ml-kit-vision ml android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.035,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
+  },
+  {
+    "npmPkg": "@react-native-ml-kit/image-labeling",
+    "githubUrl": "https://github.com/a7medev/react-native-ml-kit/tree/main/image-labeling",
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/a7medev/react-native-ml-kit",
+        "clone": "https://github.com/a7medev/react-native-ml-kit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:08:25Z",
+        "createdAt": "2021-10-16T15:20:52Z",
+        "pushedAt": "2023-10-19T17:50:17Z",
+        "issues": 17,
+        "subscribers": 9,
+        "stars": 328,
+        "forks": 51
+      },
+      "name": "react-native-ml-kit",
+      "fullName": "a7medev/react-native-ml-kit",
+      "description": "React Native On-Device Machine Learning w/ Google ML Kit",
+      "topics": [
+        "react-native",
+        "ml-kit",
+        "ml-kit-vision",
+        "ml",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 76,
+      "weekDownloads": 13,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ml-kit ml-kit-vision ml android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.529,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
+  },
+  {
+    "npmPkg": "@react-native-ml-kit/barcode-scanning",
+    "githubUrl": "https://github.com/a7medev/react-native-ml-kit/tree/main/barcode-scanning",
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/a7medev/react-native-ml-kit",
+        "clone": "https://github.com/a7medev/react-native-ml-kit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:08:25Z",
+        "createdAt": "2021-10-16T15:20:52Z",
+        "pushedAt": "2023-10-19T17:50:17Z",
+        "issues": 17,
+        "subscribers": 9,
+        "stars": 328,
+        "forks": 51
+      },
+      "name": "react-native-ml-kit",
+      "fullName": "a7medev/react-native-ml-kit",
+      "description": "React Native On-Device Machine Learning w/ Google ML Kit",
+      "topics": [
+        "react-native",
+        "ml-kit",
+        "ml-kit-vision",
+        "ml",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2090,
+      "weekDownloads": 584,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ml-kit ml-kit-vision ml android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.03,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
+  },
+  {
+    "npmPkg": "@react-native-ml-kit/identify-languages",
+    "githubUrl": "https://github.com/a7medev/react-native-ml-kit/tree/main/identify-languages",
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/a7medev/react-native-ml-kit",
+        "clone": "https://github.com/a7medev/react-native-ml-kit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:08:25Z",
+        "createdAt": "2021-10-16T15:20:52Z",
+        "pushedAt": "2023-10-19T17:50:17Z",
+        "issues": 17,
+        "subscribers": 9,
+        "stars": 328,
+        "forks": 51
+      },
+      "name": "react-native-ml-kit",
+      "fullName": "a7medev/react-native-ml-kit",
+      "description": "React Native On-Device Machine Learning w/ Google ML Kit",
+      "topics": [
+        "react-native",
+        "ml-kit",
+        "ml-kit-vision",
+        "ml",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 203,
+      "weekDownloads": 14,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ml-kit ml-kit-vision ml android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.627,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
+  },
+  {
+    "npmPkg": "@react-native-ml-kit/translate-text",
+    "githubUrl": "https://github.com/a7medev/react-native-ml-kit/tree/main/translate-text",
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/a7medev/react-native-ml-kit",
+        "clone": "https://github.com/a7medev/react-native-ml-kit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:08:25Z",
+        "createdAt": "2021-10-16T15:20:52Z",
+        "pushedAt": "2023-10-19T17:50:17Z",
+        "issues": 17,
+        "subscribers": 9,
+        "stars": 328,
+        "forks": 51
+      },
+      "name": "react-native-ml-kit",
+      "fullName": "a7medev/react-native-ml-kit",
+      "description": "React Native On-Device Machine Learning w/ Google ML Kit",
+      "topics": [
+        "react-native",
+        "ml-kit",
+        "ml-kit-vision",
+        "ml",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 25,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ml-kit ml-kit-vision ml android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.57,
+    "category": [
+      "ml-kit",
+      "ml-kit-vision",
+      "ml"
+    ]
+  }
+]

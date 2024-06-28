@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/aws/amazon-ivs-react-native-player",
+    "examples": [
+      "https://github.com/aws/amazon-ivs-react-native-player/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "amazon-ivs-react-native-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/aws/amazon-ivs-react-native-player",
+        "clone": "https://github.com/aws/amazon-ivs-react-native-player.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-01T02:51:49Z",
+        "createdAt": "2021-08-17T19:48:45Z",
+        "pushedAt": "2024-05-16T20:19:13Z",
+        "issues": 28,
+        "subscribers": 27,
+        "stars": 286,
+        "forks": 30
+      },
+      "name": "amazon-ivs-react-native-player",
+      "fullName": "aws/amazon-ivs-react-native-player",
+      "description": "A React Native wrapper for the Amazon IVS iOS and Android player SDKs.",
+      "topics": [
+        "react-native",
+        "amazon-ivs"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "1.5.0",
+        "createdAt": "2024-02-20T21:02:16Z",
+        "publishedAt": "2024-02-20T21:02:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 9089,
+      "weekDownloads": 1914,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native amazon-ivs",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.039,
+    "category": [
+      "amazon-ivs"
+    ]
+  }
+]

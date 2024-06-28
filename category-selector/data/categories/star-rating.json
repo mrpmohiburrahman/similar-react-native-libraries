@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/djchie/react-native-star-rating",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-star-rating",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/djchie/react-native-star-rating",
+        "clone": "https://github.com/djchie/react-native-star-rating.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T19:54:33Z",
+        "createdAt": "2015-11-20T03:19:17Z",
+        "pushedAt": "2023-05-15T09:33:34Z",
+        "issues": 57,
+        "subscribers": 12,
+        "stars": 832,
+        "forks": 200
+      },
+      "name": "react-native-star-rating",
+      "fullName": "djchie/react-native-star-rating",
+      "description": "A React Native component for generating and displaying interactive star ratings",
+      "topics": [
+        "star-rating",
+        "star-rating-component",
+        "react-native",
+        "react-native-component",
+        "custom-star",
+        "star-icon",
+        "react-native-star-rating",
+        "star",
+        "rating",
+        "ratings",
+        "component"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 96569,
+      "weekDownloads": 21129,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "star-rating star-rating-component react-native react-native-component custom-star star-icon react-native-star-rating star rating ratings component",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.281,
+    "category": [
+      "star-rating",
+      "star-rating-component",
+      "react-native-component",
+      "react-native-star-rating",
+      "star",
+      "rating",
+      "ratings",
+      "component",
+      "custom-star",
+      "star-icon"
+    ]
+  }
+]

@@ -1,0 +1,231 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-maps/react-native-maps",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/H1zOFxnN-"
+    ],
+    "goldstar": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-maps/react-native-maps",
+        "clone": "https://github.com/react-native-maps/react-native-maps.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T10:07:32Z",
+        "createdAt": "2015-12-29T19:54:20Z",
+        "pushedAt": "2024-05-24T10:07:32Z",
+        "forks": 4588,
+        "issues": 39,
+        "subscribers": 215,
+        "stars": 14814
+      },
+      "name": "react-native-maps",
+      "fullName": "react-native-maps/react-native-maps",
+      "description": "React Native Mapview component for iOS + Android",
+      "topics": [
+        "react",
+        "react-native",
+        "react-component",
+        "map",
+        "mapview",
+        "google-maps",
+        "mapkit",
+        "maps"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.15.3",
+        "tagName": "v1.15.3",
+        "createdAt": "2024-05-24T10:07:32Z",
+        "publishedAt": "2024-05-24T10:07:40Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-maps",
+    "npm": {
+      "downloads": 1060284,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 231311
+    },
+    "score": 100,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recommended",
+      "Recently updated"
+    ],
+    "popularity": -0.032,
+    "topicSearchString": "react react-native react-component map mapview google-maps mapkit maps",
+    "matchScore": 1,
+    "category": [
+      "mapkit"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/bramus/react-native-maps-directions",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/@bramus/react-native-maps-directions"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bramus/react-native-maps-directions",
+        "clone": "https://github.com/bramus/react-native-maps-directions.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-07-27T21:51:21Z",
+        "createdAt": "2017-11-19T20:27:42Z",
+        "pushedAt": "2022-07-27T21:51:21Z",
+        "forks": 183,
+        "issues": 50,
+        "subscribers": 18,
+        "stars": 1221
+      },
+      "name": "react-native-maps-directions",
+      "fullName": "bramus/react-native-maps-directions",
+      "description": "Directions Component for `react-native-maps`",
+      "topics": [
+        "react-native",
+        "react-native-component",
+        "react-native-maps",
+        "directions",
+        "google-maps",
+        "ios",
+        "android",
+        "google-maps-api",
+        "mapkit"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-maps-directions",
+    "npm": {
+      "downloads": 43779,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 9967
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.022,
+    "topicSearchString": "react-native react-native-component react-native-maps directions google-maps ios android google-maps-api mapkit",
+    "matchScore": 1,
+    "category": [
+      "mapkit"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Splicer97/react-native-apple-mapkit-directions",
+    "examples": [
+      "https://github.com/Splicer97/react-native-apple-mapkit-directions/tree/main/example"
+    ],
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Splicer97/react-native-apple-mapkit-directions",
+        "clone": "https://github.com/Splicer97/react-native-apple-mapkit-directions.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-01-30T15:49:11Z",
+        "createdAt": "2022-11-09T16:52:36Z",
+        "pushedAt": "2023-01-30T15:49:11Z",
+        "forks": 0,
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 7
+      },
+      "name": "react-native-apple-mapkit-directions",
+      "fullName": "Splicer97/react-native-apple-mapkit-directions",
+      "description": "React Native wrapper for Apple MapKit Directions",
+      "topics": [
+        "react-native",
+        "ios",
+        "apple",
+        "mapkit",
+        "directions",
+        "react-native-maps"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.2.1",
+        "tagName": "v1.2.1",
+        "createdAt": "2023-01-30T15:49:18Z",
+        "publishedAt": "2023-01-30T15:49:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-apple-mapkit-directions",
+    "npm": {
+      "downloads": 56,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.764,
+    "topicSearchString": "react-native ios apple mapkit directions react-native-maps",
+    "matchScore": 111,
+    "category": [
+      "mapkit"
+    ]
+  }
+]

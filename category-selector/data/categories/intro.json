@@ -1,0 +1,88 @@
+[
+  {
+    "githubUrl": "https://github.com/RichardRNStudio/react-native-slider-intro",
+    "images": [
+      "https://raw.githubusercontent.com/RichardRNStudio/react-native-slider-intro/main/docs/basic-example.gif",
+      "https://raw.githubusercontent.com/RichardRNStudio/react-native-slider-intro/main/docs/custom-buttons-example.gif",
+      "https://raw.githubusercontent.com/RichardRNStudio/react-native-slider-intro/main/docs/column-buttons-example.gif"
+    ],
+    "examples": [
+      "https://github.com/RichardRNStudio/react-native-slider-intro/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-slider-intro",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/RichardRNStudio/react-native-slider-intro",
+        "clone": "https://github.com/RichardRNStudio/react-native-slider-intro.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T08:33:28Z",
+        "createdAt": "2021-01-05T13:02:07Z",
+        "pushedAt": "2024-05-23T21:49:29Z",
+        "issues": 8,
+        "subscribers": 1,
+        "stars": 109,
+        "forks": 2
+      },
+      "name": "react-native-slider-intro",
+      "fullName": "RichardRNStudio/react-native-slider-intro",
+      "description": " A simple and full customizable React Native package which implements a unique slider.",
+      "topics": [
+        "react-native",
+        "slider",
+        "intro",
+        "customizable",
+        "ios",
+        "android",
+        "react-component",
+        "tutorial",
+        "mobile-development",
+        "mobile",
+        "animation",
+        "ui"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.1.14",
+        "tagName": "v2.1.14",
+        "createdAt": "2024-04-30T21:00:32Z",
+        "publishedAt": "2024-04-30T21:04:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 504,
+      "weekDownloads": 84,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native slider intro customizable ios android react-component tutorial mobile-development mobile animation ui",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.083,
+    "category": [
+      "slider",
+      "intro"
+    ]
+  }
+]

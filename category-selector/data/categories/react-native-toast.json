@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/crazycodeboy/react-native-easy-toast",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-easy-toast",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/crazycodeboy/react-native-easy-toast",
+        "clone": "https://github.com/crazycodeboy/react-native-easy-toast.git",
+        "homepage": "http://www.devio.org/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T07:41:21Z",
+        "createdAt": "2016-09-02T09:14:42Z",
+        "pushedAt": "2024-04-25T07:56:51Z",
+        "issues": 85,
+        "subscribers": 18,
+        "stars": 1101,
+        "forks": 262
+      },
+      "name": "react-native-easy-toast",
+      "fullName": "crazycodeboy/react-native-easy-toast",
+      "description": "A react native module to show toast like android, it works on iOS and Android.",
+      "topics": [
+        "toast",
+        "react-native-toast",
+        "react-native",
+        "react-toast"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.1.0",
+        "tagName": "v2.1.0",
+        "createdAt": "2022-11-15T15:44:50Z",
+        "publishedAt": "2022-11-15T15:45:45Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 25978,
+      "weekDownloads": 5725,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "toast react-native-toast react-native react-toast",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.03,
+    "category": [
+      "toast",
+      "react-native-toast"
+    ]
+  }
+]

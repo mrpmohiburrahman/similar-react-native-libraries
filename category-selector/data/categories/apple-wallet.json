@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/dev-family/react-native-wallet-manager",
+    "examples": [
+      "https://github.com/dev-family/react-native-wallet-manager/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/dev-family/react-native-wallet-manager/main/docs/screenshot.gif"
+    ],
+    "ios": true,
+    "npmPkg": "react-native-wallet-manager",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dev-family/react-native-wallet-manager",
+        "clone": "https://github.com/dev-family/react-native-wallet-manager.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-18T17:48:59Z",
+        "createdAt": "2021-08-10T07:31:15Z",
+        "pushedAt": "2024-05-15T09:00:40Z",
+        "issues": 2,
+        "subscribers": 4,
+        "stars": 98,
+        "forks": 16
+      },
+      "name": "react-native-wallet-manager",
+      "fullName": "dev-family/react-native-wallet-manager",
+      "description": "Provides some Apple Wallet functionality, like adding passes, removing passes and checking passises for existing.",
+      "topics": [
+        "apple-wallet",
+        "react-native",
+        "wallet"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.0.7",
+        "tagName": "0.0.7",
+        "createdAt": "2024-05-15T08:59:10Z",
+        "publishedAt": "2024-05-15T09:00:40Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8593,
+      "weekDownloads": 1938,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "apple-wallet react-native wallet",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "apple-wallet",
+      "wallet"
+    ]
+  }
+]

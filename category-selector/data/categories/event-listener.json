@@ -1,0 +1,65 @@
+[
+  {
+    "githubUrl": "https://github.com/meinto/react-native-event-listeners",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-event-listeners",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/meinto/react-native-event-listeners",
+        "clone": "https://github.com/meinto/react-native-event-listeners.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-06T17:51:34Z",
+        "createdAt": "2017-04-29T20:58:55Z",
+        "pushedAt": "2023-01-04T21:45:29Z",
+        "issues": 19,
+        "subscribers": 6,
+        "stars": 205,
+        "forks": 19
+      },
+      "name": "react-native-event-listeners",
+      "fullName": "meinto/react-native-event-listeners",
+      "description": "global event listener extension for react or react-native",
+      "topics": [
+        "react",
+        "event-listener",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 64705,
+      "weekDownloads": 14771,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react event-listener react-native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.022,
+    "category": [
+      "event-listener"
+    ]
+  }
+]

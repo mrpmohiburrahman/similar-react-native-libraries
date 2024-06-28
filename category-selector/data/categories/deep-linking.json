@@ -1,0 +1,69 @@
+[
+  {
+    "githubUrl": "https://github.com/luisfcofv/react-native-deep-linking",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-deep-linking",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/luisfcofv/react-native-deep-linking",
+        "clone": "https://github.com/luisfcofv/react-native-deep-linking.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T17:40:49Z",
+        "createdAt": "2017-02-10T14:35:55Z",
+        "pushedAt": "2020-05-24T20:18:18Z",
+        "issues": 22,
+        "subscribers": 13,
+        "stars": 246,
+        "forks": 23
+      },
+      "name": "react-native-deep-linking",
+      "fullName": "luisfcofv/react-native-deep-linking",
+      "description": "Simple route-matching library to handle deep links",
+      "topics": [
+        "react-native",
+        "deep-linking",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.1.0",
+        "tagName": "v2.1.0",
+        "createdAt": "2017-04-04T11:23:36Z",
+        "publishedAt": "2017-04-04T11:25:26Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 9916,
+      "weekDownloads": 2157,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native deep-linking ios android",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.282,
+    "category": [
+      "deep-linking"
+    ]
+  }
+]

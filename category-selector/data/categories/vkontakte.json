@@ -1,0 +1,66 @@
+[
+  {
+    "githubUrl": "https://github.com/doomsower/react-native-vkontakte-login",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-vkontakte-login",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/doomsower/react-native-vkontakte-login",
+        "clone": "https://github.com/doomsower/react-native-vkontakte-login.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-06T17:14:42Z",
+        "createdAt": "2016-06-22T15:00:01Z",
+        "pushedAt": "2023-01-04T07:21:22Z",
+        "issues": 50,
+        "subscribers": 5,
+        "stars": 98,
+        "forks": 44
+      },
+      "name": "react-native-vkontakte-login",
+      "fullName": "doomsower/react-native-vkontakte-login",
+      "description": "React native wrapper around VK iOS/Adnroid SDK",
+      "topics": [
+        "react-native",
+        "vkontakte"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.1",
+        "tagName": "v1.0.1",
+        "createdAt": "2020-07-20T06:56:26Z",
+        "publishedAt": "2020-07-20T06:56:46Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 629,
+      "weekDownloads": 173,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native vkontakte",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.025,
+    "category": [
+      "vkontakte"
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/ardaogulcan/react-native-keyboard-accessory",
+    "examples": [
+      "https://snack.expo.dev/@ardaogulcan/react-native-keyboard-accessory-playground"
+    ],
+    "images": [
+      "https://media.giphy.com/media/ZFh86727hAbAc/giphy.gif",
+      "https://media.giphy.com/media/NYsR2BtQaUaQw/giphy.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-keyboard-accessory",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ardaogulcan/react-native-keyboard-accessory",
+        "clone": "https://github.com/ardaogulcan/react-native-keyboard-accessory.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T16:15:54Z",
+        "createdAt": "2017-08-21T08:30:34Z",
+        "pushedAt": "2023-08-16T06:19:20Z",
+        "issues": 39,
+        "subscribers": 4,
+        "stars": 524,
+        "forks": 63
+      },
+      "name": "react-native-keyboard-accessory",
+      "fullName": "ardaogulcan/react-native-keyboard-accessory",
+      "description": "A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.",
+      "topics": [
+        "react",
+        "react-native",
+        "keyboard-accessory",
+        "input-accessory",
+        "sticky-views"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.1.16",
+        "tagName": "0.1.16",
+        "createdAt": "2021-11-29T19:16:33Z",
+        "publishedAt": "2021-11-29T19:19:57Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 47706,
+      "weekDownloads": 11276,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native keyboard-accessory input-accessory sticky-views",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.014,
+    "category": [
+      "keyboard",
+      "keyboard-accessory",
+      "input-accessory"
+    ]
+  }
+]

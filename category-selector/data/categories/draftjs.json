@@ -1,0 +1,72 @@
+[
+  {
+    "githubUrl": "https://github.com/globocom/react-native-draftjs-render",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-draftjs-render",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/globocom/react-native-draftjs-render",
+        "clone": "https://github.com/globocom/react-native-draftjs-render.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-28T15:13:01Z",
+        "createdAt": "2017-03-06T19:56:08Z",
+        "pushedAt": "2024-04-24T19:29:15Z",
+        "issues": 11,
+        "subscribers": 23,
+        "stars": 390,
+        "forks": 63
+      },
+      "name": "react-native-draftjs-render",
+      "fullName": "globocom/react-native-draftjs-render",
+      "description": "React Native render for draft.js model",
+      "topics": [
+        "reactnative",
+        "draftjs",
+        "react-native",
+        "draft-js"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v2.8.3",
+        "createdAt": "2018-10-31T13:33:22Z",
+        "publishedAt": "2018-10-31T14:29:23Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 14913,
+      "weekDownloads": 1062,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "reactnative draftjs react-native draft-js",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.429,
+    "category": [
+      "draftjs",
+      "draft-js"
+    ]
+  }
+]

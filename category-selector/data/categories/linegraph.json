@@ -1,0 +1,98 @@
+[
+  {
+    "githubUrl": "https://github.com/margelo/react-native-graph",
+    "examples": [
+      "https://github.com/margelo/react-native-graph/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/margelo/react-native-graph/main/img/demo.gif",
+      "https://raw.githubusercontent.com/margelo/react-native-graph/main/img/change.gif",
+      "https://raw.githubusercontent.com/margelo/react-native-graph/main/img/pan.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-graph",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-graph",
+        "clone": "https://github.com/margelo/react-native-graph.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T07:15:37Z",
+        "createdAt": "2022-04-29T12:40:18Z",
+        "pushedAt": "2024-05-19T05:52:21Z",
+        "issues": 38,
+        "subscribers": 15,
+        "stars": 1897,
+        "forks": 103
+      },
+      "name": "react-native-graph",
+      "fullName": "margelo/react-native-graph",
+      "description": "📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia",
+      "topics": [
+        "animated",
+        "animation",
+        "beautiful",
+        "chart",
+        "charts",
+        "crypto",
+        "graph",
+        "graphs",
+        "library",
+        "linegraph",
+        "performance",
+        "react",
+        "react-native",
+        "skia",
+        "stock",
+        "svg",
+        "wallet",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.1.0",
+        "tagName": "v1.1.0",
+        "createdAt": "2024-03-12T12:21:33Z",
+        "publishedAt": "2024-03-12T12:21:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7240,
+      "weekDownloads": 1831,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "animated animation beautiful chart charts crypto graph graphs library linegraph performance react react-native skia stock svg wallet android ios",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": 0.003,
+    "category": [
+      "charts",
+      "graph",
+      "graphs",
+      "linegraph",
+      "chart"
+    ]
+  }
+]

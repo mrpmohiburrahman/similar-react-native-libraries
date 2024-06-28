@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/Yasser-G/react-native-redux",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-redux",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Yasser-G/react-native-redux",
+        "clone": "https://github.com/Yasser-G/react-native-redux.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-15T10:20:11Z",
+        "createdAt": "2019-12-31T13:41:10Z",
+        "pushedAt": "2023-10-30T07:06:56Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 11,
+        "forks": 6
+      },
+      "name": "react-native-redux",
+      "fullName": "Yasser-G/react-native-redux",
+      "description": "React Native Redux",
+      "topics": [
+        "react",
+        "redux",
+        "react-native",
+        "react-redux",
+        "react-hooks",
+        "reactjs",
+        "redux-persist",
+        "redux-thunk",
+        "redux-store",
+        "redux-actions"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 317,
+      "weekDownloads": 70,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react redux react-native react-redux react-hooks reactjs redux-persist redux-thunk redux-store redux-actions",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.128,
+    "category": [
+      "redux",
+      "react-redux",
+      "redux-persist",
+      "redux-thunk",
+      "redux-store",
+      "redux-actions"
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/srk-sharingan/sharingan-rn-modal-dropdown",
+    "images": [
+      "https://raw.githubusercontent.com/srk-sharingan/sharingan-rn-modal-dropdown/master/demo/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "sharingan-rn-modal-dropdown",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/selvamk-js/sharingan-rn-modal-dropdown",
+        "clone": "https://github.com/selvamk-js/sharingan-rn-modal-dropdown.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-29T04:00:07Z",
+        "createdAt": "2020-11-06T07:34:21Z",
+        "pushedAt": "2022-12-22T07:12:22Z",
+        "issues": 22,
+        "subscribers": 2,
+        "stars": 86,
+        "forks": 27
+      },
+      "name": "sharingan-rn-modal-dropdown",
+      "fullName": "selvamk-js/sharingan-rn-modal-dropdown",
+      "description": "A simple and customizable react-native dropdown created using react-native-modal and react-native-paper.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "react-native-dropdown",
+        "dropdown",
+        "material-dropdown",
+        "react-native-group-dropdown",
+        "group-dropdown",
+        "react-native-material-dropdown"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.4.0",
+        "tagName": "v1.4.0",
+        "createdAt": "2021-08-14T17:19:40Z",
+        "publishedAt": "2021-08-14T17:19:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 817,
+      "weekDownloads": 166,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android react-native-dropdown dropdown material-dropdown react-native-group-dropdown group-dropdown react-native-material-dropdown",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.047,
+    "category": [
+      "react-native-dropdown",
+      "dropdown",
+      "material-dropdown",
+      "react-native-material-dropdown"
+    ]
+  }
+]

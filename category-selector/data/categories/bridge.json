@@ -1,0 +1,225 @@
+[
+  {
+    "githubUrl": "https://github.com/chaimPaneth/react-native-zoom-bridge",
+    "images": [
+      "https://raw.githubusercontent.com/chaimPaneth/react-native-zoom-bridge/master/images/Sample.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-zoom-bridge",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/chaimPaneth/react-native-zoom-bridge",
+        "clone": "https://github.com/chaimPaneth/react-native-zoom-bridge.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-08-11T18:23:07Z",
+        "createdAt": "2020-03-16T12:03:33Z",
+        "pushedAt": "2021-01-20T09:55:15Z",
+        "issues": 18,
+        "subscribers": 2,
+        "stars": 22,
+        "forks": 15
+      },
+      "name": "react-native-zoom-bridge",
+      "fullName": "chaimPaneth/react-native-zoom-bridge",
+      "description": null,
+      "topics": [
+        "zoom-us",
+        "sdk",
+        "bridge",
+        "video-calls",
+        "react-native",
+        "ios",
+        "android",
+        "confrence",
+        "calls",
+        "meetings",
+        "online"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 26,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "zoom-us sdk bridge video-calls react-native ios android confrence calls meetings online",
+    "score": 25,
+    "matchingScoreModifiers": [
+      "No license",
+      "Not updated recently"
+    ],
+    "popularity": -0.742,
+    "category": [
+      "sdk",
+      "zoom-us",
+      "bridge",
+      "video-calls",
+      "confrence",
+      "calls",
+      "meetings"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/BlackBoxVision/react-native-mercadopago-px",
+    "npmPkg": "@blackbox-vision/react-native-mercadopago-px",
+    "examples": [
+      "https://github.com/BlackBoxVision/react-native-mercadopago-px/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/BlackBoxVision/react-native-mercadopago-px",
+        "clone": "https://github.com/BlackBoxVision/react-native-mercadopago-px.git",
+        "homepage": "https://react-native-mercadopago-px.blackbox-vision.tech"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T02:45:08Z",
+        "createdAt": "2020-05-21T01:43:28Z",
+        "pushedAt": "2023-03-04T22:34:48Z",
+        "issues": 33,
+        "subscribers": 6,
+        "stars": 104,
+        "forks": 25
+      },
+      "name": "react-native-mercadopago-px",
+      "fullName": "BlackBoxVision/react-native-mercadopago-px",
+      "description": "🚀 MercadoPago PX bridge for react-native",
+      "topics": [
+        "react-native",
+        "react",
+        "mercadopago",
+        "sdk",
+        "library",
+        "mercadopago-api",
+        "bridge",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.8.0",
+        "tagName": "v0.8.0",
+        "createdAt": "2022-09-08T13:14:03Z",
+        "publishedAt": "2022-09-08T13:14:09Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 39,
+      "weekDownloads": 4,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react mercadopago sdk library mercadopago-api bridge android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.578,
+    "category": [
+      "sdk",
+      "bridge",
+      "mercadopago-api"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/peggyrayzis/react-native-create-bridge",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-create-bridge",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/peggyrayzis/react-native-create-bridge",
+        "clone": "https://github.com/peggyrayzis/react-native-create-bridge.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T11:12:13Z",
+        "createdAt": "2017-01-11T16:42:51Z",
+        "pushedAt": "2023-01-12T09:51:27Z",
+        "issues": 51,
+        "subscribers": 28,
+        "stars": 1019,
+        "forks": 64
+      },
+      "name": "react-native-create-bridge",
+      "fullName": "peggyrayzis/react-native-create-bridge",
+      "description": "A CLI tool that bridges React Native modules & UI components with ease 🎉",
+      "topics": [
+        "react-native",
+        "bridge",
+        "cli",
+        "swift",
+        "java",
+        "objective-c",
+        "kotlin"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Split out UI components & native modules",
+        "tagName": "v1.2.0",
+        "createdAt": "2017-07-11T05:28:44Z",
+        "publishedAt": "2017-07-11T05:31:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 970,
+      "weekDownloads": 287,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native bridge cli swift java objective-c kotlin",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.046,
+    "category": [
+      "bridge"
+    ]
+  }
+]

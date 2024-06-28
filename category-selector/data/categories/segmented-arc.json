@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/shipt/segmented-arc-for-react-native",
+    "npmPkg": "@shipt/segmented-arc-for-react-native",
+    "examples": [
+      "https://github.com/shipt/segmented-arc-for-react-native/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/shipt/segmented-arc-for-react-native/development/example.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/shipt/segmented-arc-for-react-native",
+        "clone": "https://github.com/shipt/segmented-arc-for-react-native.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T17:53:42Z",
+        "createdAt": "2021-11-02T21:30:27Z",
+        "pushedAt": "2024-05-16T22:00:18Z",
+        "issues": 3,
+        "subscribers": 63,
+        "stars": 57,
+        "forks": 6
+      },
+      "name": "segmented-arc-for-react-native",
+      "fullName": "shipt/segmented-arc-for-react-native",
+      "description": "Segmented arc component for React Native",
+      "topics": [
+        "react-native",
+        "arc",
+        "segmented-arc",
+        "segmented-gauge"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.2.1",
+        "tagName": "v1.2.1",
+        "createdAt": "2024-05-13T22:16:26Z",
+        "publishedAt": "2024-05-14T00:50:11Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2424,
+      "weekDownloads": 704,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native arc segmented-arc segmented-gauge",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.04,
+    "category": [
+      "arc",
+      "segmented-arc",
+      "segmented-gauge"
+    ]
+  }
+]

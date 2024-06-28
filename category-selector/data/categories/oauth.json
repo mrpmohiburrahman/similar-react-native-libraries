@@ -1,0 +1,516 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-google-signin/google-signin",
+    "ios": true,
+    "android": true,
+    "npmPkg": "@react-native-google-signin/google-signin",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-google-signin/google-signin",
+        "clone": "https://github.com/react-native-google-signin/google-signin.git",
+        "homepage": "https://react-native-google-signin.github.io/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T14:13:43Z",
+        "createdAt": "2015-08-13T06:13:57Z",
+        "pushedAt": "2024-05-24T14:13:43Z",
+        "forks": 833,
+        "issues": 14,
+        "subscribers": 48,
+        "stars": 3101
+      },
+      "name": "google-signin",
+      "fullName": "react-native-google-signin/google-signin",
+      "description": "Google Sign-in for your React Native applications",
+      "topics": [
+        "react-native",
+        "google-sign-in",
+        "google-login",
+        "android-creadential-manager",
+        "oauth",
+        "oauth2",
+        "ios",
+        "android",
+        "web",
+        "googlesignin",
+        "googleauth",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v12.1.0",
+        "tagName": "v12.1.0",
+        "createdAt": "2024-05-24T09:44:48Z",
+        "publishedAt": "2024-05-24T09:45:00Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npm": {
+      "downloads": 465423,
+      "weekDownloads": 97864,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.04,
+    "topicSearchString": "react-native google-sign-in google-login android-creadential-manager oauth oauth2 ios android web googlesignin googleauth hacktoberfest",
+    "matchScore": 1,
+    "category": [
+      "oauth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-auth-session",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev/versions/latest/sdk/auth-session"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T09:41:34Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-21T09:41:34Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29829
+      },
+      "name": "expo-auth-session",
+      "fullName": "expo/expo",
+      "description": "Expo module for browser-based authentication",
+      "topics": [
+        "react-native",
+        "expo",
+        "expo-auth-session",
+        "auth",
+        "oauth",
+        "authentication",
+        "auth-session"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "expo-auth-session",
+    "npm": {
+      "downloads": 262801,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 57955
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "topicSearchString": "react-native expo expo-auth-session auth oauth authentication auth-session",
+    "matchScore": 1,
+    "category": [
+      "oauth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/fullstackreact/react-native-oauth",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/fullstackreact/react-native-oauth",
+        "clone": "https://github.com/fullstackreact/react-native-oauth.git",
+        "homepage": "https://fullstackreact.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2018-07-29T21:50:13Z",
+        "createdAt": "2016-06-22T07:22:57Z",
+        "pushedAt": "2018-07-29T21:50:13Z",
+        "forks": 201,
+        "issues": 120,
+        "subscribers": 26,
+        "stars": 803
+      },
+      "name": "react-native-oauth",
+      "fullName": "fullstackreact/react-native-oauth",
+      "description": "A react-native wrapper for social authentication login for both Android and iOS",
+      "topics": [
+        "react",
+        "react-native",
+        "react-native-firestack",
+        "firestack",
+        "firebase",
+        "oauth",
+        "twitter"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-oauth",
+    "npm": {
+      "downloads": 221,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 22
+    },
+    "score": 31,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.599,
+    "topicSearchString": "react react-native react-native-firestack firestack firebase oauth twitter",
+    "matchScore": 101,
+    "category": [
+      "oauth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/vmurin/react-native-azure-auth",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/vmurin/react-native-azure-auth",
+        "clone": "https://github.com/vmurin/react-native-azure-auth.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T15:27:04Z",
+        "createdAt": "2018-02-23T08:03:13Z",
+        "pushedAt": "2024-05-13T15:27:04Z",
+        "forks": 59,
+        "issues": 27,
+        "subscribers": 7,
+        "stars": 85
+      },
+      "name": "react-native-azure-auth",
+      "fullName": "vmurin/react-native-azure-auth",
+      "description": "React Native library implementing Azure AD OAuth2 API",
+      "topics": [
+        "azure",
+        "azuread",
+        "authentication",
+        "active-directory",
+        "react-native",
+        "oauth",
+        "oauth2"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-azure-auth",
+    "npm": {
+      "downloads": 15740,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 4086
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.01,
+    "topicSearchString": "azure azuread authentication active-directory react-native oauth oauth2",
+    "matchScore": 11,
+    "category": [
+      "oauth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gobeyondidentity/bi-sdk-react-native",
+    "npmPkg": "@beyondidentity/bi-sdk-react-native",
+    "examples": [
+      "https://github.com/gobeyondidentity/bi-sdk-react-native/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gobeyondidentity/bi-sdk-react-native",
+        "clone": "https://github.com/gobeyondidentity/bi-sdk-react-native.git",
+        "homepage": "https://developers.beyondidentity.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-28T20:49:56Z",
+        "createdAt": "2021-12-06T15:40:51Z",
+        "pushedAt": "2023-09-28T20:49:56Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 4,
+        "stars": 11
+      },
+      "name": "bi-sdk-react-native",
+      "fullName": "gobeyondidentity/bi-sdk-react-native",
+      "description": "React Native SDK for Beyond Identity Passkeys",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "oauth",
+        "passkey",
+        "passkeys",
+        "passwordless",
+        "authentication"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "2.0.1",
+        "tagName": "2.0.1",
+        "createdAt": "2023-09-28T20:13:36Z",
+        "publishedAt": "2023-09-28T20:21:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 7,
+      "weekDownloads": 0,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -1,
+    "topicSearchString": "react-native ios android oauth passkey passkeys passwordless authentication",
+    "matchScore": 1,
+    "category": [
+      "oauth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/hungdev/react-native-instagram-login",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/hungdev/react-native-instagram-login",
+        "clone": "https://github.com/hungdev/react-native-instagram-login.git",
+        "homepage": "https://www.npmjs.com/package/react-native-instagram-login"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-06-26T03:42:34Z",
+        "createdAt": "2017-06-22T07:27:48Z",
+        "pushedAt": "2023-06-26T03:42:34Z",
+        "forks": 95,
+        "issues": 21,
+        "subscribers": 7,
+        "stars": 182
+      },
+      "name": "react-native-instagram-login",
+      "fullName": "hungdev/react-native-instagram-login",
+      "description": "a react native instagram login component (support android & ios). Pull requests are welcome!",
+      "topics": [
+        "instagram",
+        "login",
+        "auth",
+        "react-native",
+        "ios",
+        "android",
+        "instagram-login",
+        "instagram-api",
+        "instagram-oauth",
+        "authentication",
+        "oauth"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-instagram-login",
+    "npm": {
+      "downloads": 5345,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1030
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.057,
+    "topicSearchString": "instagram login auth react-native ios android instagram-login instagram-api instagram-oauth authentication oauth",
+    "matchScore": 1,
+    "category": [
+      "oauth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/dcangulo/react-native-pkce-challenge",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "windows": true,
+    "macos": true,
+    "examples": [
+      "https://github.com/dcangulo/react-native-pkce-challenge/tree/main/example"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dcangulo/react-native-pkce-challenge",
+        "clone": "https://github.com/dcangulo/react-native-pkce-challenge.git",
+        "homepage": "https://www.npmjs.com/package/react-native-pkce-challenge"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-07T13:12:33Z",
+        "createdAt": "2020-08-20T14:20:16Z",
+        "pushedAt": "2024-04-07T13:12:33Z",
+        "forks": 6,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 26
+      },
+      "name": "react-native-pkce-challenge",
+      "fullName": "dcangulo/react-native-pkce-challenge",
+      "description": "Proof Key for Code Exchange (PKCE) challenge generator for React Native.",
+      "topics": [
+        "react-native",
+        "react-native-web",
+        "react-native-macos",
+        "pkce",
+        "oauth2",
+        "jsi",
+        "c++",
+        "react",
+        "reactjs",
+        "react-native-windows",
+        "expo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.3.1",
+        "tagName": "v5.3.1",
+        "createdAt": "2024-02-03T06:52:14Z",
+        "publishedAt": "2024-02-03T06:53:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-pkce-challenge",
+    "npm": {
+      "downloads": 19971,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5054
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.003,
+    "topicSearchString": "react-native react-native-web react-native-macos pkce oauth2 jsi c++ react reactjs react-native-windows expo",
+    "matchScore": 1,
+    "category": [
+      "oauth"
+    ]
+  }
+]

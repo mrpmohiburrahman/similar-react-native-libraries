@@ -1,0 +1,85 @@
+[
+  {
+    "githubUrl": "https://github.com/mouselangelo/react-native-actions-shortcuts",
+    "examples": [
+      "https://github.com/mouselangelo/react-native-actions-shortcuts/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-actions-shortcuts",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mouselangelo/react-native-actions-shortcuts",
+        "clone": "https://github.com/mouselangelo/react-native-actions-shortcuts.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T14:26:29Z",
+        "createdAt": "2020-07-22T13:32:59Z",
+        "pushedAt": "2023-11-16T12:05:02Z",
+        "issues": 42,
+        "subscribers": 3,
+        "stars": 113,
+        "forks": 21
+      },
+      "name": "react-native-actions-shortcuts",
+      "fullName": "mouselangelo/react-native-actions-shortcuts",
+      "description": "iOS Home screen Quick Actions & Android App Shortcuts for react-native",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "quick-actions",
+        "app-shortcuts",
+        "home-screen",
+        "actions",
+        "uiapplicationshortcutitem",
+        "shortcut",
+        "shortcuts",
+        "dynamic-shortcuts"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Core react-native module published",
+        "tagName": "1.0.1",
+        "createdAt": "2020-07-29T06:24:27Z",
+        "publishedAt": "2020-07-29T06:35:09Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6880,
+      "weekDownloads": 1555,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android quick-actions app-shortcuts home-screen actions uiapplicationshortcutitem shortcut shortcuts dynamic-shortcuts",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "quick-actions",
+      "app-shortcuts",
+      "home-screen",
+      "shortcut",
+      "shortcuts",
+      "dynamic-shortcuts"
+    ]
+  }
+]

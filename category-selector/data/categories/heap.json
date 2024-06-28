@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/zacharyfmarion/react-native-heap-profiler",
+    "examples": [
+      "https://github.com/zacharyfmarion/react-native-heap-profiler/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "npmPkg": "react-native-heap-profiler",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zacharyfmarion/react-native-heap-profiler",
+        "clone": "https://github.com/zacharyfmarion/react-native-heap-profiler.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-29T21:02:40Z",
+        "createdAt": "2024-01-25T09:04:53Z",
+        "pushedAt": "2024-01-27T20:38:42Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 6,
+        "forks": 0
+      },
+      "name": "react-native-heap-profiler",
+      "fullName": "zacharyfmarion/react-native-heap-profiler",
+      "description": "🔍 Heap profiling for hermes",
+      "topics": [
+        "debugging",
+        "heap",
+        "jsi",
+        "memory",
+        "observability",
+        "profiling",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.2",
+        "tagName": "v0.2.2",
+        "createdAt": "2024-01-27T20:38:40Z",
+        "publishedAt": "2024-01-27T20:39:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 17,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "debugging heap jsi memory observability profiling react-native",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.726,
+    "category": [
+      "debugging",
+      "heap",
+      "profiling"
+    ]
+  }
+]

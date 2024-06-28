@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/Jm-Zion/rn-wave-bottom-bar",
+    "examples": [
+      "https://github.com/Jm-Zion/rn-wave-bottom-bar/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/Jm-Zion/rn-wave-bottom-bar/master/sample.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "rn-wave-bottom-bar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Jm-Zion/rn-wave-bottom-bar",
+        "clone": "https://github.com/Jm-Zion/rn-wave-bottom-bar.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-19T23:06:28Z",
+        "createdAt": "2020-05-30T19:11:38Z",
+        "pushedAt": "2024-05-24T13:19:05Z",
+        "issues": 35,
+        "subscribers": 4,
+        "stars": 303,
+        "forks": 24
+      },
+      "name": "rn-wave-bottom-bar",
+      "fullName": "Jm-Zion/rn-wave-bottom-bar",
+      "description": "🌊 Animated Tab Bottom Bar for react-navigation",
+      "topics": [
+        "animation",
+        "bottom-tabs",
+        "curved",
+        "react-native",
+        "react-navigation",
+        "wave"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.2.1",
+        "tagName": "v2.2.1",
+        "createdAt": "2022-12-16T21:29:02Z",
+        "publishedAt": "2022-12-17T10:21:11Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 566,
+      "weekDownloads": 165,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "animation bottom-tabs curved react-native react-navigation wave",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.042,
+    "category": [
+      "bottom-tabs"
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/VittoriDavide/react-native-barcode-creator",
+    "examples": [
+      "https://github.com/VittoriDavide/react-native-barcode-creator/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-barcode-creator",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/VittoriDavide/react-native-barcode-creator",
+        "clone": "https://github.com/VittoriDavide/react-native-barcode-creator.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T08:58:58Z",
+        "createdAt": "2021-08-18T06:27:32Z",
+        "pushedAt": "2024-03-08T17:19:15Z",
+        "issues": 1,
+        "subscribers": 2,
+        "stars": 19,
+        "forks": 8
+      },
+      "name": "react-native-barcode-creator",
+      "fullName": "VittoriDavide/react-native-barcode-creator",
+      "description": "React Native Barcode Creator creates different type of barcodes including EAN13, CODE128, PDF417, UPCA, QR and AZTEC. ",
+      "topics": [
+        "react-native",
+        "barcode",
+        "barcode-generator",
+        "qrcode-generator",
+        "native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "React Native 0.73",
+        "tagName": "0.1.6",
+        "createdAt": "2024-02-25T16:02:48Z",
+        "publishedAt": "2024-02-27T09:31:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11003,
+      "weekDownloads": 2697,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native barcode barcode-generator qrcode-generator native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.105,
+    "category": [
+      "barcode",
+      "barcode-generator",
+      "qrcode-generator"
+    ]
+  }
+]

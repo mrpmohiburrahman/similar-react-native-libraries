@@ -1,0 +1,566 @@
+[
+  {
+    "githubUrl": "https://github.com/chaimPaneth/react-native-jw-media-player",
+    "examples": [
+      "https://github.com/chaimPaneth/react-native-jw-media-player/tree/master/Example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/chaimPaneth/react-native-jw-media-player/master/images/1.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-jw-media-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/chaimPaneth/react-native-jw-media-player",
+        "clone": "https://github.com/chaimPaneth/react-native-jw-media-player.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-12T07:16:16Z",
+        "createdAt": "2019-08-04T16:45:05Z",
+        "pushedAt": "2024-05-12T07:16:13Z",
+        "issues": 99,
+        "subscribers": 9,
+        "stars": 188,
+        "forks": 91
+      },
+      "name": "react-native-jw-media-player",
+      "fullName": "chaimPaneth/react-native-jw-media-player",
+      "description": "React-Native Android/iOS bridge for JWPlayer SDK (https://www.jwplayer.com/)",
+      "topics": [
+        "react",
+        "react-native",
+        "jwplayer",
+        "media",
+        "player",
+        "mediaplayer",
+        "media-player",
+        "jw",
+        "android",
+        "ios",
+        "audio",
+        "video",
+        "sdk"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.2.46",
+        "tagName": "0.2.46",
+        "createdAt": "2024-04-18T17:20:50Z",
+        "publishedAt": "2024-04-18T16:21:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4406,
+      "weekDownloads": 1288,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native jwplayer media player mediaplayer media-player jw android ios audio video sdk",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0.042,
+    "category": [
+      "jwplayer",
+      "media",
+      "player",
+      "mediaplayer",
+      "media-player",
+      "jw",
+      "video",
+      "sdk"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/shahen94/react-native-video-processing",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-video-processing",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/shahen94/react-native-video-processing",
+        "clone": "https://github.com/shahen94/react-native-video-processing.git",
+        "homepage": "https://shahen94.github.io/react-native-video-processing/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T21:03:59Z",
+        "createdAt": "2016-11-13T14:10:21Z",
+        "pushedAt": "2024-04-15T12:44:07Z",
+        "issues": 131,
+        "subscribers": 28,
+        "stars": 1233,
+        "forks": 320
+      },
+      "name": "react-native-video-processing",
+      "fullName": "shahen94/react-native-video-processing",
+      "description": "Native Video editing/trimming/compressing  :movie_camera: library for React-Native",
+      "topics": [
+        "react",
+        "react-native",
+        "video",
+        "javascript",
+        "processing",
+        "xcode",
+        "ios-video-editor",
+        "android-video-editor",
+        "ios",
+        "android",
+        "swift",
+        "java"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.13.0",
+        "tagName": "v1.13.0",
+        "createdAt": "2017-11-01T09:00:15Z",
+        "publishedAt": "2017-11-01T09:14:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1337,
+      "weekDownloads": 227,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native video javascript processing xcode ios-video-editor android-video-editor ios android swift java",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.08,
+    "category": [
+      "video",
+      "ios-video-editor",
+      "android-video-editor"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ihmpavel/expo-video-player",
+    "examples": [
+      "https://github.com/ihmpavel/expo-video-player/tree/master/example-app"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-video-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ihmpavel/expo-video-player",
+        "clone": "https://github.com/ihmpavel/expo-video-player.git",
+        "homepage": "https://npm.im/expo-video-player"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-01T00:56:08Z",
+        "createdAt": "2018-12-20T23:36:22Z",
+        "pushedAt": "2024-04-19T14:49:46Z",
+        "issues": 37,
+        "subscribers": 5,
+        "stars": 196,
+        "forks": 111
+      },
+      "name": "expo-video-player",
+      "fullName": "ihmpavel/expo-video-player",
+      "description": "Customizable Video Player controls for Expo",
+      "topics": [
+        "expo",
+        "video",
+        "player",
+        "videoplayer",
+        "react-native",
+        "typescript",
+        "expo-video-player"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Version 2.2.0",
+        "tagName": "v2.2.0",
+        "createdAt": "2022-09-29T19:32:17Z",
+        "publishedAt": "2022-09-29T19:35:41Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 9123,
+      "weekDownloads": 2071,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "expo video player videoplayer react-native typescript expo-video-player",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.023,
+    "category": [
+      "video",
+      "player",
+      "videoplayer",
+      "expo-video-player"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/criszz77/react-native-media-console",
+    "images": [
+      "https://user-images.githubusercontent.com/55203625/159137837-4e34a8be-1cbb-48ae-9d67-99ce4922e660.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "tvos": true,
+    "npmPkg": "react-native-media-console",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/LunatiqueCoder/react-native-media-console",
+        "clone": "https://github.com/LunatiqueCoder/react-native-media-console.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-30T10:46:37Z",
+        "createdAt": "2022-02-24T13:52:16Z",
+        "pushedAt": "2024-05-04T12:23:47Z",
+        "issues": 21,
+        "subscribers": 4,
+        "stars": 176,
+        "forks": 27
+      },
+      "name": "react-native-media-console",
+      "fullName": "LunatiqueCoder/react-native-media-console",
+      "description": "A React Native video player. Built with TypeScript ❤️",
+      "topics": [
+        "react",
+        "react-native",
+        "video-controls",
+        "video-player",
+        "react-native-video",
+        "video",
+        "react-native-community",
+        "tvos",
+        "react-native-tvos",
+        "media-player"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 2.2.0",
+        "tagName": "v2.2.0",
+        "createdAt": "2023-11-24T15:04:40Z",
+        "publishedAt": "2023-11-24T14:42:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 13656,
+      "weekDownloads": 3149,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native video-controls video-player react-native-video video react-native-community tvos react-native-tvos media-player",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.019,
+    "category": [
+      "video-player",
+      "video-controls",
+      "react-native-video",
+      "video",
+      "media-player"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/imgly/vesdk-react-native",
+    "ios": true,
+    "android": true,
+    "examples": [
+      "https://github.com/imgly/vesdk-react-native-demo"
+    ],
+    "npmPkg": "react-native-videoeditorsdk",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/imgly/vesdk-react-native",
+        "clone": "https://github.com/imgly/vesdk-react-native.git",
+        "homepage": "https://www.videoeditorsdk.com"
+      },
+      "stats": {
+        "hasIssues": false,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T05:23:06Z",
+        "createdAt": "2019-10-29T08:56:40Z",
+        "pushedAt": "2024-04-03T09:58:50Z",
+        "issues": 0,
+        "subscribers": 11,
+        "stars": 138,
+        "forks": 28
+      },
+      "name": "vesdk-react-native",
+      "fullName": "imgly/vesdk-react-native",
+      "description": "React Native module for VideoEditor SDK",
+      "topics": [
+        "react-native",
+        "videoeditor-sdk",
+        "sdk",
+        "video",
+        "video-editing",
+        "video-manipulation",
+        "ios",
+        "android",
+        "crop",
+        "filter",
+        "stickers",
+        "overlays",
+        "frames",
+        "transform",
+        "text",
+        "brush",
+        "adjustment",
+        "video-edit-sdk"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "3.2.0",
+        "tagName": "3.2.0",
+        "createdAt": "2024-04-03T07:52:38Z",
+        "publishedAt": "2024-04-03T10:29:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6960,
+      "weekDownloads": 1472,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native videoeditor-sdk sdk video video-editing video-manipulation ios android crop filter stickers overlays frames transform text brush adjustment video-edit-sdk",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.039,
+    "category": [
+      "videoeditor-sdk",
+      "video",
+      "video-editing",
+      "video-manipulation",
+      "video-edit-sdk"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/khalisafkari/react-native-google-photos",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-google-photos",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/khalisafkari/react-native-google-photos",
+        "clone": "https://github.com/khalisafkari/react-native-google-photos.git",
+        "homepage": "https://verdauen.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-05-24T08:24:46Z",
+        "createdAt": "2019-03-24T03:43:56Z",
+        "pushedAt": "2024-03-15T19:43:42Z",
+        "issues": 12,
+        "subscribers": 2,
+        "stars": 9,
+        "forks": 6
+      },
+      "name": "react-native-google-photos",
+      "fullName": "khalisafkari/react-native-google-photos",
+      "description": "Grabs Streaming & Downloader Link Google Photos",
+      "topics": [
+        "blogger",
+        "google-photos",
+        "video",
+        "downloader",
+        "react-native",
+        "cloudvideo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 25,
+      "weekDownloads": 2,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "blogger google-photos video downloader react-native cloudvideo",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.71,
+    "category": [
+      "google-photos",
+      "downloader",
+      "video"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/MetaLabs-inc/react-native-vimeo-iframe",
+    "examples": [
+      "https://github.com/MetaLabs-inc/react-native-vimeo-iframe/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-vimeo-iframe",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/MetaLabs-inc/react-native-vimeo-iframe",
+        "clone": "https://github.com/MetaLabs-inc/react-native-vimeo-iframe.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-06T01:49:17Z",
+        "createdAt": "2021-02-17T05:59:21Z",
+        "pushedAt": "2024-05-05T14:51:19Z",
+        "issues": 15,
+        "subscribers": 2,
+        "stars": 42,
+        "forks": 36
+      },
+      "name": "react-native-vimeo-iframe",
+      "fullName": "MetaLabs-inc/react-native-vimeo-iframe",
+      "description": null,
+      "topics": [
+        "hacktoberfest",
+        "vimeo",
+        "video-player",
+        "javascript",
+        "video",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.2.0",
+        "tagName": "1.2.0",
+        "createdAt": "2022-08-27T19:46:43Z",
+        "publishedAt": "2022-08-27T19:49:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15041,
+      "weekDownloads": 3298,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "hacktoberfest vimeo video-player javascript video react-native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.031,
+    "category": [
+      "vimeo",
+      "video-player",
+      "video"
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/mockingbot/react-native-zip-archive",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-zip-archive",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mockingbot/react-native-zip-archive",
+        "clone": "https://github.com/mockingbot/react-native-zip-archive.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T02:20:06Z",
+        "createdAt": "2015-08-26T09:06:18Z",
+        "pushedAt": "2024-05-23T02:20:02Z",
+        "issues": 22,
+        "subscribers": 13,
+        "stars": 404,
+        "forks": 147
+      },
+      "name": "react-native-zip-archive",
+      "fullName": "mockingbot/react-native-zip-archive",
+      "description": "Zip archive utility for react-native",
+      "topics": [
+        "unzip",
+        "android",
+        "react-native",
+        "ios",
+        "zip",
+        "zip-assets"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v6.1.1",
+        "tagName": "v6.1.1",
+        "createdAt": "2024-05-07T02:06:39Z",
+        "publishedAt": "2024-05-07T02:11:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 167621,
+      "weekDownloads": 33539,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "unzip android react-native ios zip zip-assets",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.05,
+    "category": [
+      "zip",
+      "unzip",
+      "zip-assets"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/khalisafkari/react-native-bigimageviewer",
+    "examples": [
+      "https://github.com/khalisafkari/react-native-bigimageviewer/tree/master/example"
+    ],
+    "android": true,
+    "npmPkg": "react-native-bigimageviewer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/khalisafkari/react-native-bigimageviewer",
+        "clone": "https://github.com/khalisafkari/react-native-bigimageviewer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-02-19T05:17:53Z",
+        "createdAt": "2020-08-19T10:15:29Z",
+        "pushedAt": "2020-08-24T00:32:11Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 9,
+        "forks": 0
+      },
+      "name": "react-native-bigimageviewer",
+      "fullName": "khalisafkari/react-native-bigimageviewer",
+      "description": "react native Big image viewer supporting pan and zoom",
+      "topics": [
+        "react-native",
+        "image",
+        "bigimageviewer",
+        "react-native-image",
+        "imageview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native image bigimageviewer react-native-image imageview",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.55,
+    "category": [
+      "bigimageviewer",
+      "react-native-image",
+      "imageview",
+      "image"
+    ]
+  }
+]

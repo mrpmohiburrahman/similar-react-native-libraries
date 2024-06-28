@@ -1,0 +1,524 @@
+[
+  {
+    "githubUrl": "https://github.com/APSL/react-native-keyboard-aware-scroll-view",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-keyboard-aware-scroll-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/APSL/react-native-keyboard-aware-scroll-view",
+        "clone": "https://github.com/APSL/react-native-keyboard-aware-scroll-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T02:18:50Z",
+        "createdAt": "2015-10-20T18:22:34Z",
+        "pushedAt": "2023-10-28T05:40:30Z",
+        "issues": 190,
+        "subscribers": 45,
+        "stars": 5226,
+        "forks": 641
+      },
+      "name": "react-native-keyboard-aware-scroll-view",
+      "fullName": "APSL/react-native-keyboard-aware-scroll-view",
+      "description": "A ScrollView component that handles keyboard appearance and automatically scrolls to focused TextInput.",
+      "topics": [
+        "react-native",
+        "scroll-view",
+        "react",
+        "react-components",
+        "scrollview-component",
+        "keyboard"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.9.5",
+        "createdAt": "2021-11-04T10:02:03Z",
+        "publishedAt": "2021-11-04T10:03:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1101982,
+      "weekDownloads": 249346,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native scroll-view react react-components scrollview-component keyboard",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "scroll-view",
+      "scrollview-component",
+      "keyboard"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/kirillzyusko/react-native-keyboard-controller",
+    "examples": [
+      "https://github.com/kirillzyusko/react-native-keyboard-controller/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/kirillzyusko/react-native-keyboard-controller/main/gifs/android.gif",
+      "https://raw.githubusercontent.com/kirillzyusko/react-native-keyboard-controller/main/gifs/ios.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-keyboard-controller",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kirillzyusko/react-native-keyboard-controller",
+        "clone": "https://github.com/kirillzyusko/react-native-keyboard-controller.git",
+        "homepage": "https://kirillzyusko.github.io/react-native-keyboard-controller/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T23:46:17Z",
+        "createdAt": "2022-04-17T18:00:04Z",
+        "pushedAt": "2024-05-23T20:25:50Z",
+        "issues": 23,
+        "subscribers": 12,
+        "stars": 1279,
+        "forks": 53
+      },
+      "name": "react-native-keyboard-controller",
+      "fullName": "kirillzyusko/react-native-keyboard-controller",
+      "description": "Keyboard manager which works in identical way on both iOS and Android",
+      "topics": [
+        "animation",
+        "keyboard",
+        "react-native",
+        "android",
+        "ios",
+        "focused-input",
+        "avoiding-view",
+        "keyboard-toolbar"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.12.1",
+        "tagName": "1.12.1",
+        "createdAt": "2024-05-16T09:26:03Z",
+        "publishedAt": "2024-05-16T09:34:04Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 142404,
+      "weekDownloads": 32993,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "animation keyboard react-native android ios focused-input avoiding-view keyboard-toolbar",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.018,
+    "category": [
+      "keyboard",
+      "avoiding-view",
+      "focused-input",
+      "keyboard-toolbar"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Andr3wHur5t/react-native-keyboard-spacer",
+    "images": [
+      "https://media.giphy.com/media/3oEjHJwLyYg7upTyYo/giphy.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-keyboard-spacer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Andr3wHur5t/react-native-keyboard-spacer",
+        "clone": "https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T03:17:29Z",
+        "createdAt": "2015-10-12T23:29:34Z",
+        "pushedAt": "2023-05-03T05:21:03Z",
+        "issues": 36,
+        "subscribers": 13,
+        "stars": 1548,
+        "forks": 220
+      },
+      "name": "react-native-keyboard-spacer",
+      "fullName": "Andr3wHur5t/react-native-keyboard-spacer",
+      "description": "Plug and play react-native keyboard spacer view.",
+      "topics": [
+        "keyboard",
+        "react-native",
+        "ios",
+        "helper",
+        "clean-code"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.0",
+        "tagName": "v4.0",
+        "createdAt": "2017-09-26T16:46:06Z",
+        "publishedAt": "2017-09-26T16:50:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 42889,
+      "weekDownloads": 9095,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "keyboard react-native ios helper clean-code",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.288,
+    "category": [
+      "keyboard"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wix/react-native-keyboard-input",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-keyboard-input",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wix-incubator/react-native-keyboard-input",
+        "clone": "https://github.com/wix-incubator/react-native-keyboard-input.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-27T23:28:19Z",
+        "createdAt": "2016-12-14T09:49:51Z",
+        "pushedAt": "2023-07-18T20:22:33Z",
+        "issues": 79,
+        "subscribers": 284,
+        "stars": 817,
+        "forks": 149
+      },
+      "name": "react-native-keyboard-input",
+      "fullName": "wix-incubator/react-native-keyboard-input",
+      "description": "Use your own custom input component instead of the system keyboard",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "keyboard-input",
+        "keyboard",
+        "keyboard-component",
+        "inputaccessoryview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6001,
+      "weekDownloads": 1543,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android keyboard-input keyboard keyboard-component inputaccessoryview",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.243,
+    "category": [
+      "keyboard-input",
+      "keyboard",
+      "keyboard-component",
+      "inputaccessoryview"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/DanielMSchmidt/react-native-dismiss-keyboard",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-dismiss-keyboard",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/DanielMSchmidt/react-native-dismiss-keyboard",
+        "clone": "https://github.com/DanielMSchmidt/react-native-dismiss-keyboard.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:34:11Z",
+        "createdAt": "2016-01-10T20:13:47Z",
+        "pushedAt": "2024-05-22T05:22:16Z",
+        "issues": 14,
+        "subscribers": 2,
+        "stars": 93,
+        "forks": 12
+      },
+      "name": "react-native-dismiss-keyboard",
+      "fullName": "DanielMSchmidt/react-native-dismiss-keyboard",
+      "description": "A simple way to dismiss the keyboard programmatically in a react native application",
+      "topics": [
+        "react-native",
+        "keyboard"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Initial Release (feature complete)",
+        "tagName": "0.0.2",
+        "createdAt": "2016-01-13T21:35:32Z",
+        "publishedAt": "2016-01-14T20:37:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 233005,
+      "weekDownloads": 47167,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native keyboard",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.298,
+    "category": [
+      "keyboard"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/douglasjunior/react-native-keyboard-manager",
+    "examples": [
+      "https://github.com/douglasjunior/react-native-keyboard-manager/tree/master/Sample"
+    ],
+    "ios": true,
+    "npmPkg": "react-native-keyboard-manager",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/douglasjunior/react-native-keyboard-manager",
+        "clone": "https://github.com/douglasjunior/react-native-keyboard-manager.git",
+        "homepage": "https://www.npmjs.com/package/react-native-keyboard-manager"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T20:07:27Z",
+        "createdAt": "2017-06-21T11:27:21Z",
+        "pushedAt": "2024-05-07T17:36:20Z",
+        "issues": 1,
+        "subscribers": 8,
+        "stars": 921,
+        "forks": 60
+      },
+      "name": "react-native-keyboard-manager",
+      "fullName": "douglasjunior/react-native-keyboard-manager",
+      "description": "⚛ Library to prevent issues of keyboard sliding up and cover inputs on React-Native iOS projects.",
+      "topics": [
+        "react-native",
+        "ios",
+        "keyboard",
+        "iqkeyboardmanager",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "6.5.16-0",
+        "tagName": "6.5.16-0",
+        "createdAt": "2024-05-06T13:10:33Z",
+        "publishedAt": "2024-05-06T13:15:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 71702,
+      "weekDownloads": 16176,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios keyboard iqkeyboardmanager hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "keyboard"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ardaogulcan/react-native-keyboard-accessory",
+    "examples": [
+      "https://snack.expo.dev/@ardaogulcan/react-native-keyboard-accessory-playground"
+    ],
+    "images": [
+      "https://media.giphy.com/media/ZFh86727hAbAc/giphy.gif",
+      "https://media.giphy.com/media/NYsR2BtQaUaQw/giphy.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-keyboard-accessory",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ardaogulcan/react-native-keyboard-accessory",
+        "clone": "https://github.com/ardaogulcan/react-native-keyboard-accessory.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T16:15:54Z",
+        "createdAt": "2017-08-21T08:30:34Z",
+        "pushedAt": "2023-08-16T06:19:20Z",
+        "issues": 39,
+        "subscribers": 4,
+        "stars": 524,
+        "forks": 63
+      },
+      "name": "react-native-keyboard-accessory",
+      "fullName": "ardaogulcan/react-native-keyboard-accessory",
+      "description": "A React Native Keyboard Accessory (View, Navigation) Component. Sticky views on keyboard.",
+      "topics": [
+        "react",
+        "react-native",
+        "keyboard-accessory",
+        "input-accessory",
+        "sticky-views"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.1.16",
+        "tagName": "0.1.16",
+        "createdAt": "2021-11-29T19:16:33Z",
+        "publishedAt": "2021-11-29T19:19:57Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 47706,
+      "weekDownloads": 11276,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native keyboard-accessory input-accessory sticky-views",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.014,
+    "category": [
+      "keyboard",
+      "keyboard-accessory",
+      "input-accessory"
+    ]
+  }
+]

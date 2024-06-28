@@ -1,0 +1,90 @@
+[
+  {
+    "githubUrl": "https://github.com/onmotion/react-native-autocomplete-dropdown",
+    "examples": [
+      "https://snack.expo.dev/@onmotion/react-native-autocomplete-dropdown",
+      "https://github.com/onmotion/react-native-autocomplete-dropdown/tree/main/example/components"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/onmotion/react-native-autocomplete-dropdown/main/screens/ios.gif",
+      "https://raw.githubusercontent.com/onmotion/react-native-autocomplete-dropdown/main/screens/android.gif",
+      "https://raw.githubusercontent.com/onmotion/react-native-autocomplete-dropdown/main/screens/Example.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-autocomplete-dropdown",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/onmotion/react-native-autocomplete-dropdown",
+        "clone": "https://github.com/onmotion/react-native-autocomplete-dropdown.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T02:52:54Z",
+        "createdAt": "2021-04-06T14:27:04Z",
+        "pushedAt": "2024-04-15T18:20:52Z",
+        "issues": 33,
+        "subscribers": 5,
+        "stars": 172,
+        "forks": 71
+      },
+      "name": "react-native-autocomplete-dropdown",
+      "fullName": "onmotion/react-native-autocomplete-dropdown",
+      "description": "Dropdown Item picker with search and autocomplete (typeahead) functionality for react native",
+      "topics": [
+        "react-native",
+        "android",
+        "ios",
+        "dropdown",
+        "dropdown-menu",
+        "typeahead",
+        "select",
+        "autocomplete",
+        "autocomplete-suggestions",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "3.1.5",
+        "tagName": "3.1.5",
+        "createdAt": "2024-03-17T16:25:32Z",
+        "publishedAt": "2024-03-17T16:27:17Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 40146,
+      "weekDownloads": 9485,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android ios dropdown dropdown-menu typeahead select autocomplete autocomplete-suggestions hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.014,
+    "category": [
+      "dropdown",
+      "dropdown-menu",
+      "typeahead",
+      "autocomplete",
+      "autocomplete-suggestions"
+    ]
+  }
+]

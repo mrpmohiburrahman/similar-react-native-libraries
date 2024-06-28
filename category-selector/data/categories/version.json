@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/kimxogus/react-native-version-check/tree/master/packages/react-native-version-check",
+    "examples": [
+      "https://github.com/kimxogus/react-native-version-check/tree/master/examples/reactnative"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-version-check",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kimxogus/react-native-version-check",
+        "clone": "https://github.com/kimxogus/react-native-version-check.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T09:04:57Z",
+        "createdAt": "2016-10-15T08:35:35Z",
+        "pushedAt": "2024-05-13T12:22:49Z",
+        "issues": 56,
+        "subscribers": 17,
+        "stars": 686,
+        "forks": 167
+      },
+      "name": "react-native-version-check",
+      "fullName": "kimxogus/react-native-version-check",
+      "description": "A version checker for react-native applications",
+      "topics": [
+        "react-native",
+        "version",
+        "version-check"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.4.7",
+        "tagName": "v3.4.7",
+        "createdAt": "2023-01-29T16:18:13Z",
+        "publishedAt": "2023-01-29T16:23:40Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 147398,
+      "weekDownloads": 34051,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native version version-check",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.019,
+    "category": [
+      "version",
+      "version-check"
+    ]
+  }
+]

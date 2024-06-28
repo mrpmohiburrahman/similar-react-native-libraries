@@ -1,0 +1,436 @@
+[
+  {
+    "githubUrl": "https://github.com/XHMM/react-native-cloud-store",
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/XHMM/react-native-cloud-store",
+        "clone": "https://github.com/XHMM/react-native-cloud-store.git",
+        "homepage": "https://react-native-cloud-store.vercel.app/docs/install/with-crna"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-11T05:50:55Z",
+        "createdAt": "2021-10-17T10:13:02Z",
+        "pushedAt": "2024-04-11T05:50:55Z",
+        "forks": 10,
+        "issues": 4,
+        "subscribers": 3,
+        "stars": 65
+      },
+      "name": "react-native-cloud-store",
+      "fullName": "XHMM/react-native-cloud-store",
+      "description": "A react-native module for icloud drive",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "icloud",
+        "swift",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.12.0",
+        "tagName": "0.12.0",
+        "createdAt": "2024-04-11T05:50:55Z",
+        "publishedAt": "2024-04-11T06:22:15Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-cloud-store",
+    "npm": {
+      "downloads": 7642,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1959
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.006,
+    "topicSearchString": "react-native ios android icloud swift react",
+    "matchScore": 111,
+    "category": [
+      "cloud"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Kuatsu/react-native-cloud-storage",
+    "examples": [
+      "https://github.com/Kuatsu/react-native-cloud-storage/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Kuatsu/react-native-cloud-storage",
+        "clone": "https://github.com/Kuatsu/react-native-cloud-storage.git",
+        "homepage": "https://react-native-cloud-storage.oss.kuatsu.de/docs/intro"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-25T19:09:36Z",
+        "createdAt": "2023-04-03T20:47:52Z",
+        "pushedAt": "2024-04-25T19:09:36Z",
+        "forks": 5,
+        "issues": 2,
+        "subscribers": 1,
+        "stars": 90
+      },
+      "name": "react-native-cloud-storage",
+      "fullName": "Kuatsu/react-native-cloud-storage",
+      "description": "☁️ Save to & read from iCloud and Google Drive using React Native",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.4.0",
+        "tagName": "v1.4.0",
+        "createdAt": "2024-04-25T19:09:36Z",
+        "publishedAt": "2024-04-25T19:09:37Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-cloud-storage",
+    "npm": {
+      "downloads": 1168,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 150
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.122,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "cloud"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/app",
+    "npmPkg": "@react-native-firebase/app",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T03:50:59Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:50:59Z",
+        "forks": 2105,
+        "issues": 41,
+        "subscribers": 165,
+        "stars": 11465
+      },
+      "name": "@react-native-firebase/app",
+      "fullName": "invertase/react-native-firebase",
+      "description": "A well tested, feature rich Firebase implementation for React Native, supporting iOS & Android. Individual module support for Admob, Analytics, Auth, Crash Reporting, Cloud Firestore, Database, Dynamic Links, Functions, Messaging (FCM), Remote Config, Storage and more.",
+      "topics": [
+        "react",
+        "admob",
+        "auth",
+        "config",
+        "digits",
+        "fabric",
+        "functions",
+        "phone-auth",
+        "sms",
+        "firestore",
+        "cloud-firestore",
+        "datastore",
+        "remote-config",
+        "transactions",
+        "react-native",
+        "react-native-firebase",
+        "firebase",
+        "fcm",
+        "apn",
+        "gcm",
+        "analytics",
+        "messaging",
+        "database",
+        "android",
+        "ios",
+        "crash",
+        "firestack",
+        "performance",
+        "firestore",
+        "dynamic-links",
+        "crashlytics"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 1821323,
+      "weekDownloads": 411994,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "topicSearchString": "react admob auth config digits fabric functions phone-auth sms firestore cloud-firestore datastore remote-config transactions react-native react-native-firebase firebase fcm apn gcm analytics messaging database android ios crash firestack performance firestore dynamic-links crashlytics",
+    "matchScore": 11,
+    "category": [
+      "cloud"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/storage",
+    "npmPkg": "@react-native-firebase/storage",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T03:50:59Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:50:59Z",
+        "forks": 2105,
+        "issues": 41,
+        "subscribers": 165,
+        "stars": 11465
+      },
+      "name": "@react-native-firebase/storage",
+      "fullName": "invertase/react-native-firebase",
+      "description": "React Native Firebase - React Native Firebase provides native integration with Cloud Storage, providing support to upload and download files directly from your device and from your Firebase Cloud Storage bucket.",
+      "topics": [
+        "react",
+        "react-native",
+        "firebase",
+        "images",
+        "audio",
+        "video",
+        "json",
+        "cloud-storage",
+        "storage",
+        "upload",
+        "download"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 95267,
+      "weekDownloads": 21686,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.022,
+    "topicSearchString": "react react-native firebase images audio video json cloud-storage storage upload download",
+    "matchScore": 11,
+    "category": [
+      "cloud"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/functions",
+    "npmPkg": "@react-native-firebase/functions",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T03:50:59Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:50:59Z",
+        "forks": 2105,
+        "issues": 41,
+        "subscribers": 165,
+        "stars": 11465
+      },
+      "name": "@react-native-firebase/functions",
+      "fullName": "invertase/react-native-firebase",
+      "description": "React Native Firebase - Cloud Functions for Firebase lets you automatically run backend code in response to events triggered by Firebase features and HTTPS requests. React Native Firebase supports integration with production and locally emulated Cloud Functions with a simple API interface.\n\n",
+      "topics": [
+        "react",
+        "react-native",
+        "firebase",
+        "https",
+        "callable",
+        "functions"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 37977,
+      "weekDownloads": 9508,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": 0,
+    "topicSearchString": "react react-native firebase https callable functions",
+    "matchScore": 10,
+    "category": [
+      "cloud"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/messaging",
+    "npmPkg": "@react-native-firebase/messaging",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T03:50:59Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:50:59Z",
+        "forks": 2105,
+        "issues": 41,
+        "subscribers": 165,
+        "stars": 11465
+      },
+      "name": "@react-native-firebase/messaging",
+      "fullName": "invertase/react-native-firebase",
+      "description": "React Native Firebase - React Native Firebase provides native integration of Firebase Cloud Messaging (FCM) for both Android & iOS. FCM is a cost free service, allowing for server-device and device-device communication. The React Native Firebase Messaging module provides a simple JavaScript API to interact with FCM.",
+      "topics": [
+        "react",
+        "react-native",
+        "firebase",
+        "messaging"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 1126451,
+      "weekDownloads": 258635,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.02,
+    "topicSearchString": "react react-native firebase messaging",
+    "matchScore": 10,
+    "category": [
+      "cloud"
+    ]
+  }
+]

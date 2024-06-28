@@ -1,0 +1,69 @@
+[
+  {
+    "githubUrl": "https://github.com/khalisafkari/react-native-google-photos",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-google-photos",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/khalisafkari/react-native-google-photos",
+        "clone": "https://github.com/khalisafkari/react-native-google-photos.git",
+        "homepage": "https://verdauen.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-05-24T08:24:46Z",
+        "createdAt": "2019-03-24T03:43:56Z",
+        "pushedAt": "2024-03-15T19:43:42Z",
+        "issues": 12,
+        "subscribers": 2,
+        "stars": 9,
+        "forks": 6
+      },
+      "name": "react-native-google-photos",
+      "fullName": "khalisafkari/react-native-google-photos",
+      "description": "Grabs Streaming & Downloader Link Google Photos",
+      "topics": [
+        "blogger",
+        "google-photos",
+        "video",
+        "downloader",
+        "react-native",
+        "cloudvideo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 25,
+      "weekDownloads": 2,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "blogger google-photos video downloader react-native cloudvideo",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.71,
+    "category": [
+      "google-photos",
+      "downloader",
+      "video"
+    ]
+  }
+]

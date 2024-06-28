@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/moschan/react-native-flip-card",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-flip-card",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/moschan/react-native-flip-card",
+        "clone": "https://github.com/moschan/react-native-flip-card.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T04:55:14Z",
+        "createdAt": "2016-01-23T11:40:52Z",
+        "pushedAt": "2023-02-13T14:55:22Z",
+        "issues": 25,
+        "subscribers": 8,
+        "stars": 383,
+        "forks": 112
+      },
+      "name": "react-native-flip-card",
+      "fullName": "moschan/react-native-flip-card",
+      "description": "The card component which has a motion of flip for React Native(iOS/Android)",
+      "topics": [
+        "react",
+        "react-native",
+        "card-component",
+        "animation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.5.7",
+        "tagName": "v3.5.7",
+        "createdAt": "2023-02-13T14:43:32Z",
+        "publishedAt": "2023-02-13T14:45:11Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 27979,
+      "weekDownloads": 6019,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native card-component animation",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.035,
+    "category": [
+      "card-component"
+    ]
+  }
+]

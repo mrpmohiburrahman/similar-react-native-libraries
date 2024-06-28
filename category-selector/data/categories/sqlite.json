@@ -1,0 +1,283 @@
+[
+  {
+    "githubUrl": "https://github.com/craftzdog/react-native-sqlite-2",
+    "android": true,
+    "ios": true,
+    "npmPkg": "react-native-sqlite-2",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/craftzdog/react-native-sqlite-2",
+        "clone": "https://github.com/craftzdog/react-native-sqlite-2.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T01:12:29Z",
+        "createdAt": "2017-03-20T03:26:12Z",
+        "pushedAt": "2023-03-07T06:00:09Z",
+        "issues": 33,
+        "subscribers": 15,
+        "stars": 373,
+        "forks": 87
+      },
+      "name": "react-native-sqlite-2",
+      "fullName": "craftzdog/react-native-sqlite-2",
+      "description": "SQLite3 Native Plugin for React Native for iOS, Android, Windows and macOS.",
+      "topics": [
+        "pouchdb",
+        "react-native",
+        "sqlite",
+        "sqlite3"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v1.6.0",
+        "createdAt": "2018-04-12T02:51:05Z",
+        "publishedAt": "2018-04-12T03:01:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6291,
+      "weekDownloads": 1571,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "pouchdb react-native sqlite sqlite3",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0,
+    "category": [
+      "sqlite",
+      "sqlite3"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/craftzdog/react-native-quick-websql",
+    "examples": [
+      "https://github.com/craftzdog/react-native-quick-websql/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-quick-websql",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/craftzdog/react-native-quick-websql",
+        "clone": "https://github.com/craftzdog/react-native-quick-websql.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-04T12:01:12Z",
+        "createdAt": "2022-04-29T06:21:05Z",
+        "pushedAt": "2023-01-17T06:30:50Z",
+        "issues": 1,
+        "subscribers": 3,
+        "stars": 43,
+        "forks": 4
+      },
+      "name": "react-native-quick-websql",
+      "fullName": "craftzdog/react-native-quick-websql",
+      "description": "Fast WebSQL-compatible SQLite driver for React Native",
+      "topics": [
+        "react-native",
+        "sqlite",
+        "jsi",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 320,
+      "weekDownloads": 62,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native sqlite jsi typescript",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.056,
+    "category": [
+      "sqlite"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/OP-Engineering/op-sqlite",
+    "npmPkg": "@op-engineering/op-sqlite",
+    "examples": [
+      "https://github.com/OP-Engineering/op-sqlite/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/OP-Engineering/op-sqlite",
+        "clone": "https://github.com/OP-Engineering/op-sqlite.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T05:55:06Z",
+        "createdAt": "2023-11-06T12:03:30Z",
+        "pushedAt": "2024-05-24T16:11:36Z",
+        "issues": 7,
+        "subscribers": 7,
+        "stars": 393,
+        "forks": 22
+      },
+      "name": "op-sqlite",
+      "fullName": "OP-Engineering/op-sqlite",
+      "description": "Fastest SQLite library for react-native by @ospfranco",
+      "topics": [
+        "jsi",
+        "react-native",
+        "sqlite"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "6.0.1",
+        "tagName": "6.0.1",
+        "createdAt": "2024-05-13T05:16:25Z",
+        "publishedAt": "2024-05-13T05:19:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7096,
+      "weekDownloads": 1483,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "jsi react-native sqlite",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.041,
+    "category": [
+      "sqlite"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sqlite",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-sqlite",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 90393,
+      "weekDownloads": 21961,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.007,
+    "category": [
+      "sqlite",
+      "storage"
+    ]
+  }
+]

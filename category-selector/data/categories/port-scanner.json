@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/gajjartejas/react-native-lan-port-scanner",
+    "examples": [
+      "https://github.com/gajjartejas/react-native-lan-port-scanner/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-lan-port-scanner",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gajjartejas/react-native-lan-port-scanner",
+        "clone": "https://github.com/gajjartejas/react-native-lan-port-scanner.git",
+        "homepage": "https://gajjartejas.me"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-07T10:32:21Z",
+        "createdAt": "2022-02-01T17:54:14Z",
+        "pushedAt": "2024-01-13T15:48:29Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 23,
+        "forks": 7
+      },
+      "name": "react-native-lan-port-scanner",
+      "fullName": "gajjartejas/react-native-lan-port-scanner",
+      "description": "A simple port scanner for react native.",
+      "topics": [
+        "lan-scan",
+        "lan-scanner",
+        "react-native",
+        "port-scanner",
+        "wifi-scanner"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.4.2",
+        "tagName": "v1.4.2",
+        "createdAt": "2023-12-16T16:53:35Z",
+        "publishedAt": "2023-12-16T16:54:14Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 433,
+      "weekDownloads": 247,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "lan-scan lan-scanner react-native port-scanner wifi-scanner",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.221,
+    "category": [
+      "lan-scan",
+      "lan-scanner",
+      "port-scanner",
+      "wifi-scanner"
+    ]
+  }
+]

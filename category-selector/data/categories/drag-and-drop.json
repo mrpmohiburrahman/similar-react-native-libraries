@@ -1,0 +1,63 @@
+[
+  {
+    "githubUrl": "https://github.com/matt-oakes/react-native-ios-drag-drop",
+    "ios": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-ios-drag-drop",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/matt-oakes/react-native-ios-drag-drop",
+        "clone": "https://github.com/matt-oakes/react-native-ios-drag-drop.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:33:39Z",
+        "createdAt": "2017-10-12T17:32:33Z",
+        "pushedAt": "2017-10-13T11:41:12Z",
+        "issues": 1,
+        "subscribers": 3,
+        "stars": 93,
+        "forks": 5
+      },
+      "name": "react-native-ios-drag-drop",
+      "fullName": "matt-oakes/react-native-ios-drag-drop",
+      "description": "Support for the iOS 11+ inter-app drag and drop",
+      "topics": [
+        "react-native",
+        "ios",
+        "drag-and-drop",
+        "react",
+        "component"
+      ],
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdxId": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "id": "MDc6TGljZW5zZTU="
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 30,
+      "weekDownloads": 8,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios drag-and-drop react component",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.667,
+    "category": [
+      "drag-and-drop"
+    ]
+  }
+]

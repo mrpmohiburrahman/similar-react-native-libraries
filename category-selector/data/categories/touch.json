@@ -1,0 +1,67 @@
+[
+  {
+    "githubUrl": "https://github.com/jgrancher/react-native-sketch",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-sketch",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jgrancher/react-native-sketch",
+        "clone": "https://github.com/jgrancher/react-native-sketch.git",
+        "homepage": "http://npm.im/react-native-sketch"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:34:15Z",
+        "createdAt": "2016-05-10T12:41:43Z",
+        "pushedAt": "2021-08-12T07:17:47Z",
+        "issues": 12,
+        "subscribers": 7,
+        "stars": 644,
+        "forks": 68
+      },
+      "name": "react-native-sketch",
+      "fullName": "jgrancher/react-native-sketch",
+      "description": "🎨 A React Native <Sketch /> component for touch-based drawing.",
+      "topics": [
+        "react-native",
+        "drawing",
+        "touch",
+        "ios",
+        "sketch",
+        "signature"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 56,
+      "weekDownloads": 10,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native drawing touch ios sketch signature",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.771,
+    "category": [
+      "sketch",
+      "touch",
+      "drawing"
+    ]
+  }
+]

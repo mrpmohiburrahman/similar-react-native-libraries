@@ -1,0 +1,67 @@
+[
+  {
+    "githubUrl": "https://github.com/ArnaudRinquin/react-native-radio-buttons",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/Bk8-1FILb"
+    ],
+    "unmaintained": true,
+    "npmPkg": "react-native-radio-buttons",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ArnaudRinquin/react-native-radio-buttons",
+        "clone": "https://github.com/ArnaudRinquin/react-native-radio-buttons.git",
+        "homepage": "https://www.npmjs.com/package/react-native-radio-buttons"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-05T06:14:27Z",
+        "createdAt": "2015-07-29T14:35:27Z",
+        "pushedAt": "2018-04-19T07:09:56Z",
+        "issues": 18,
+        "subscribers": 11,
+        "stars": 415,
+        "forks": 98
+      },
+      "name": "react-native-radio-buttons",
+      "fullName": "ArnaudRinquin/react-native-radio-buttons",
+      "description": "[DEPRECATED] A Radio-button like logic wrapper for React Native",
+      "topics": [
+        "react-native",
+        "radio-buttons"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4294,
+      "weekDownloads": 988,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native radio-buttons",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.27,
+    "category": [
+      "radio-buttons"
+    ]
+  }
+]

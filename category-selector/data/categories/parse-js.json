@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/parse-community/Parse-SDK-JS",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "parse",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/parse-community/Parse-SDK-JS",
+        "clone": "https://github.com/parse-community/Parse-SDK-JS.git",
+        "homepage": "https://parseplatform.org"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T22:19:09Z",
+        "createdAt": "2015-09-15T19:36:29Z",
+        "pushedAt": "2024-05-24T22:19:09Z",
+        "forks": 582,
+        "issues": 32,
+        "subscribers": 75,
+        "stars": 1310
+      },
+      "name": "Parse-SDK-JS",
+      "fullName": "parse-community/Parse-SDK-JS",
+      "description": "The JavaScript SDK for Parse Platform",
+      "topics": [
+        "cloud",
+        "mobile",
+        "api",
+        "javascript",
+        "parse-platform",
+        "parse-js",
+        "parse",
+        "javascript-sdk",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "5.2.0-alpha.1",
+        "tagName": "5.2.0-alpha.1",
+        "createdAt": "2024-05-17T18:11:46Z",
+        "publishedAt": "2024-05-17T18:12:14Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 467199,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 114506
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.005,
+    "topicSearchString": "cloud mobile api javascript parse-platform parse-js parse javascript-sdk hacktoberfest",
+    "matchScore": 1,
+    "category": [
+      "parse-js"
+    ]
+  }
+]

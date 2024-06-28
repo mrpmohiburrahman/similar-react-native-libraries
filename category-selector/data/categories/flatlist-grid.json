@@ -1,0 +1,83 @@
+[
+  {
+    "githubUrl": "https://github.com/gusgard/react-native-grid-list",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/@gusgard/react-native-grid-list"
+    ],
+    "npmPkg": "react-native-grid-list",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gusgard/react-native-grid-list",
+        "clone": "https://github.com/gusgard/react-native-grid-list.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-08T19:03:58Z",
+        "createdAt": "2017-11-18T21:55:57Z",
+        "pushedAt": "2021-11-08T18:10:40Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 104,
+        "forks": 8
+      },
+      "name": "react-native-grid-list",
+      "fullName": "gusgard/react-native-grid-list",
+      "description": "🌁 Grid list component implemented with FlatList",
+      "topics": [
+        "react-native",
+        "react",
+        "grid",
+        "grid-layout",
+        "grid-view",
+        "grid-component",
+        "grid-list",
+        "flatlist",
+        "flatlist-grid"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "1.1.0",
+        "tagName": "1.1.0",
+        "createdAt": "2019-10-01T11:04:05Z",
+        "publishedAt": "2019-10-01T15:05:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 366,
+      "weekDownloads": 91,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react grid grid-layout grid-view grid-component grid-list flatlist flatlist-grid",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0,
+    "category": [
+      "grid",
+      "grid-layout",
+      "grid-view",
+      "grid-component",
+      "grid-list",
+      "flatlist",
+      "flatlist-grid"
+    ]
+  }
+]

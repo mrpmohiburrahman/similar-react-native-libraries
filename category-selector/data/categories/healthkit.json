@@ -1,0 +1,298 @@
+[
+  {
+    "githubUrl": "https://github.com/doville/rn-fitness-tracker",
+    "npmPkg": "@kilohealth/rn-fitness-tracker",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kilohealth/rn-fitness-tracker",
+        "clone": "https://github.com/kilohealth/rn-fitness-tracker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T10:30:56Z",
+        "createdAt": "2019-08-28T13:42:12Z",
+        "pushedAt": "2024-05-22T21:52:24Z",
+        "issues": 7,
+        "subscribers": 4,
+        "stars": 97,
+        "forks": 18
+      },
+      "name": "rn-fitness-tracker",
+      "fullName": "kilohealth/rn-fitness-tracker",
+      "description": "React Native module to interact with Google Fit and Apple HealthKit.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "google-fit",
+        "healthkit",
+        "steps",
+        "activity",
+        "body",
+        "fitness",
+        "health",
+        "vitals",
+        "workout"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.1.0",
+        "tagName": "v3.1.0",
+        "createdAt": "2023-02-24T08:29:52Z",
+        "publishedAt": "2023-02-24T08:29:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1040,
+      "weekDownloads": 225,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android google-fit healthkit steps activity body fitness health vitals workout",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.034,
+    "category": [
+      "healthkit",
+      "fitness",
+      "google-fit"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/agencyenterprise/react-native-health",
+    "ios": true,
+    "npmPkg": "react-native-health",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/agencyenterprise/react-native-health",
+        "clone": "https://github.com/agencyenterprise/react-native-health.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:48:36Z",
+        "createdAt": "2020-09-21T19:09:21Z",
+        "pushedAt": "2024-05-08T11:48:53Z",
+        "issues": 112,
+        "subscribers": 29,
+        "stars": 774,
+        "forks": 221
+      },
+      "name": "react-native-health",
+      "fullName": "agencyenterprise/react-native-health",
+      "description": "A React Native package to interact with Apple HealthKit",
+      "topics": [
+        "healthkit",
+        "apple-healthkit",
+        "react-native",
+        "ios",
+        "health",
+        "fitness"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v1.18.0",
+        "createdAt": "2023-08-18T13:58:55Z",
+        "publishedAt": "2023-08-18T14:00:19Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 26428,
+      "weekDownloads": 5985,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "healthkit apple-healthkit react-native ios health fitness",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "healthkit",
+      "apple-healthkit",
+      "fitness"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Kingstinct/react-native-healthkit",
+    "examples": [
+      "https://github.com/Kingstinct/react-native-healthkit/tree/master/example",
+      "https://github.com/Kingstinct/react-native-healthkit/tree/master/example-expo"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-healthkit",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kingstinct/react-native-healthkit",
+        "clone": "https://github.com/kingstinct/react-native-healthkit.git",
+        "homepage": "https://kingstinct.com/react-native-healthkit/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T07:46:05Z",
+        "createdAt": "2020-06-26T22:40:28Z",
+        "pushedAt": "2024-04-17T18:09:04Z",
+        "issues": 12,
+        "subscribers": 7,
+        "stars": 181,
+        "forks": 41
+      },
+      "name": "react-native-healthkit",
+      "fullName": "kingstinct/react-native-healthkit",
+      "description": "HealthKit bindings for React Native with TypeScript",
+      "topics": [
+        "reactnative",
+        "healthkit",
+        "typescript",
+        "ios",
+        "react-hooks"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 7.3.2",
+        "tagName": "v7.3.2",
+        "createdAt": "2023-10-23T16:01:38Z",
+        "publishedAt": "2023-10-23T16:02:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 19,
+      "weekDownloads": 7,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "reactnative healthkit typescript ios react-hooks",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.292,
+    "category": [
+      "healthkit"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/terrillo/rn-apple-healthkit",
+    "ios": true,
+    "examples": [
+      "https://snack.expo.dev/S1gdfOb4Z?session_id=snack-session-rypa21JSW"
+    ],
+    "npmPkg": "rn-apple-healthkit",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lucaspbordignon/rn-apple-healthkit",
+        "clone": "https://github.com/lucaspbordignon/rn-apple-healthkit.git",
+        "homepage": "https://www.npmjs.com/package/react-native-health"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T17:17:24Z",
+        "createdAt": "2017-09-17T11:37:11Z",
+        "pushedAt": "2023-01-06T15:08:09Z",
+        "issues": 123,
+        "subscribers": 17,
+        "stars": 520,
+        "forks": 298
+      },
+      "name": "rn-apple-healthkit",
+      "fullName": "lucaspbordignon/rn-apple-healthkit",
+      "description": "A React Native package for interacting with Apple HealthKit",
+      "topics": [
+        "ios",
+        "react-native",
+        "react",
+        "healthkit"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.8v",
+        "tagName": "0.8v",
+        "createdAt": "2020-01-21T15:33:45Z",
+        "publishedAt": "2020-01-21T15:34:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1726,
+      "weekDownloads": 350,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ios react-native react healthkit",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.047,
+    "category": [
+      "healthkit"
+    ]
+  }
+]

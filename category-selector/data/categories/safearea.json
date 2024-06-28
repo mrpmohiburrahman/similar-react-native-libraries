@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/greenfrvr/react-native-window-guard",
+    "examples": [
+      "https://github.com/greenfrvr/react-native-window-guard/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-window-guard",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/greenfrvr/react-native-window-guard",
+        "clone": "https://github.com/greenfrvr/react-native-window-guard.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-12-26T14:29:54Z",
+        "createdAt": "2019-05-01T16:06:28Z",
+        "pushedAt": "2023-01-03T20:48:03Z",
+        "issues": 18,
+        "subscribers": 1,
+        "stars": 33,
+        "forks": 0
+      },
+      "name": "react-native-window-guard",
+      "fullName": "greenfrvr/react-native-window-guard",
+      "description": "SafeAreaView alternative for React Native which provides relevant window insets for both iOS and Android.",
+      "topics": [
+        "react-native",
+        "react-native-component",
+        "safearea",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v1.0.4",
+        "createdAt": "2020-01-17T15:12:38Z",
+        "publishedAt": "2020-01-17T17:03:42Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 342,
+      "weekDownloads": 81,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-component safearea ios android",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.012,
+    "category": [
+      "safearea"
+    ]
+  }
+]

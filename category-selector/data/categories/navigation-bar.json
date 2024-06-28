@@ -1,0 +1,96 @@
+[
+  {
+    "githubUrl": "https://github.com/kadiraydinli/react-native-system-navigation-bar",
+    "examples": [
+      "https://github.com/kadiraydinli/react-native-system-navigation-bar/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/kadiraydinli/react-native-system-navigation-bar/master/screenshots/hide.gif",
+      "https://raw.githubusercontent.com/kadiraydinli/react-native-system-navigation-bar/master/screenshots/lean-back.gif",
+      "https://raw.githubusercontent.com/kadiraydinli/react-native-system-navigation-bar/master/screenshots/immersive.gif",
+      "https://raw.githubusercontent.com/kadiraydinli/react-native-system-navigation-bar/master/screenshots/sticky-immersive.gif",
+      "https://raw.githubusercontent.com/kadiraydinli/react-native-system-navigation-bar/master/screenshots/low-profile.gif",
+      "https://raw.githubusercontent.com/kadiraydinli/react-native-system-navigation-bar/master/screenshots/navigation-color.gif",
+      "https://raw.githubusercontent.com/kadiraydinli/react-native-system-navigation-bar/master/screenshots/divider-color.gif",
+      "https://raw.githubusercontent.com/kadiraydinli/react-native-system-navigation-bar/master/screenshots/bar-mode.gif",
+      "https://raw.githubusercontent.com/kadiraydinli/react-native-system-navigation-bar/master/screenshots/fits-systems-windows.gif"
+    ],
+    "android": true,
+    "npmPkg": "react-native-system-navigation-bar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kadiraydinli/react-native-system-navigation-bar",
+        "clone": "https://github.com/kadiraydinli/react-native-system-navigation-bar.git",
+        "homepage": "https://www.npmjs.com/package/react-native-system-navigation-bar"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T05:01:44Z",
+        "createdAt": "2021-05-31T23:26:21Z",
+        "pushedAt": "2024-04-11T14:38:08Z",
+        "issues": 7,
+        "subscribers": 4,
+        "stars": 244,
+        "forks": 20
+      },
+      "name": "react-native-system-navigation-bar",
+      "fullName": "kadiraydinli/react-native-system-navigation-bar",
+      "description": "React Native lets you customize the navigation bar for Android.",
+      "topics": [
+        "react-native-navigation-bar",
+        "navigation-hide",
+        "navigation-show",
+        "lean-back",
+        "immersive",
+        "stiky-immersive",
+        "light-navigation-bar",
+        "full-screen",
+        "low-profile",
+        "navigation-color",
+        "navigation-divider-color",
+        "navigation-contrast-enforced",
+        "navigation-bar",
+        "android",
+        "react-native",
+        "fits-systems-windows"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 2.6.4",
+        "tagName": "v2.6.4",
+        "createdAt": "2024-02-01T18:11:51Z",
+        "publishedAt": "2024-02-01T18:15:20Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 28372,
+      "weekDownloads": 6902,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native-navigation-bar navigation-hide navigation-show lean-back immersive stiky-immersive light-navigation-bar full-screen low-profile navigation-color navigation-divider-color navigation-contrast-enforced navigation-bar android react-native fits-systems-windows",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.007,
+    "category": [
+      "react-native-navigation-bar",
+      "navigation-bar"
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "githubUrl": "https://github.com/ggunti/react-native-amazing-cropper",
+    "images": [
+      "https://i.imgur.com/c5lqfLr.png",
+      "https://i.imgur.com/5AJTFHZ.png",
+      "https://i.imgur.com/1GqvB6v.png",
+      "https://i.imgur.com/Xf3PqJH.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-amazing-cropper",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ggunti/react-native-amazing-cropper",
+        "clone": "https://github.com/ggunti/react-native-amazing-cropper.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T03:15:12Z",
+        "createdAt": "2018-10-25T11:13:16Z",
+        "pushedAt": "2023-02-28T03:52:44Z",
+        "issues": 25,
+        "subscribers": 3,
+        "stars": 136,
+        "forks": 80
+      },
+      "name": "react-native-amazing-cropper",
+      "fullName": "ggunti/react-native-amazing-cropper",
+      "description": "Image cropper for react native using Animated API",
+      "topics": [
+        "react-native",
+        "cropper",
+        "rotation",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 238,
+      "weekDownloads": 66,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native cropper rotation ios android",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.421,
+    "category": [
+      "cropper"
+    ]
+  }
+]

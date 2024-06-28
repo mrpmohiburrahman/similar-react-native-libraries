@@ -1,0 +1,94 @@
+[
+  {
+    "githubUrl": "https://github.com/mrousavy/react-native-google-nearby-messages",
+    "examples": [
+      "https://github.com/mrousavy/react-native-google-nearby-messages/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-google-nearby-messages",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mrousavy/react-native-google-nearby-messages",
+        "clone": "https://github.com/mrousavy/react-native-google-nearby-messages.git",
+        "homepage": "https://mrousavy.github.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T03:18:47Z",
+        "createdAt": "2020-06-02T15:29:57Z",
+        "pushedAt": "2023-03-04T21:51:34Z",
+        "issues": 33,
+        "subscribers": 3,
+        "stars": 201,
+        "forks": 32
+      },
+      "name": "react-native-google-nearby-messages",
+      "fullName": "mrousavy/react-native-google-nearby-messages",
+      "description": "📲 Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio. Broadcast and receive small payloads (like strings) using the easy-to-use React Native API!",
+      "topics": [
+        "react-native",
+        "android",
+        "ios",
+        "native-module",
+        "google",
+        "nearby",
+        "nearby-messages",
+        "api",
+        "library",
+        "typescript",
+        "javascript",
+        "node",
+        "google-nearby",
+        "swift",
+        "java",
+        "kotlin",
+        "bluetooth",
+        "ble",
+        "wifi",
+        "broadcast"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.0.13",
+        "tagName": "1.0.13",
+        "createdAt": "2020-06-26T09:59:19Z",
+        "publishedAt": "2020-06-26T11:09:21Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 124,
+      "weekDownloads": 4,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android ios native-module google nearby nearby-messages api library typescript javascript node google-nearby swift java kotlin bluetooth ble wifi broadcast",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.668,
+    "category": [
+      "broadcast",
+      "ble",
+      "google-nearby",
+      "nearby-messages",
+      "wifi",
+      "bluetooth"
+    ]
+  }
+]

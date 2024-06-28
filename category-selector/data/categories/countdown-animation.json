@@ -1,0 +1,86 @@
+[
+  {
+    "githubUrl": "https://github.com/vydimitrov/react-countdown-circle-timer/tree/master/packages/mobile",
+    "npmPkg": "react-native-countdown-circle-timer",
+    "examples": [
+      "https://snack.expo.dev/@vydimitrov/countdown-circle-timer?platform=ios"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/10707142/66097204-ca68c200-e59d-11e9-9b70-688409755aaa.gif",
+      "https://user-images.githubusercontent.com/10707142/65935516-a0869280-e419-11e9-9bb0-40c4d1ef2bbe.gif",
+      "https://user-images.githubusercontent.com/10707142/65963815-cfbdf380-e45b-11e9-809d-970174e88914.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/vydimitrov/react-countdown-circle-timer",
+        "clone": "https://github.com/vydimitrov/react-countdown-circle-timer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T10:33:29Z",
+        "createdAt": "2019-09-14T12:47:25Z",
+        "pushedAt": "2023-08-14T11:12:27Z",
+        "issues": 2,
+        "subscribers": 7,
+        "stars": 664,
+        "forks": 84
+      },
+      "name": "react-countdown-circle-timer",
+      "fullName": "vydimitrov/react-countdown-circle-timer",
+      "description": "Lightweight React/React Native countdown timer component with color and progress animation based on SVG",
+      "topics": [
+        "react",
+        "countdown-time",
+        "countdown-animation",
+        "react-native",
+        "ios",
+        "android",
+        "countdown",
+        "timer"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.2.1",
+        "tagName": "v3.2.1",
+        "createdAt": "2023-03-15T07:25:12Z",
+        "publishedAt": "2023-03-15T07:26:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 44328,
+      "weekDownloads": 9928,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react countdown-time countdown-animation react-native ios android countdown timer",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "countdown-time",
+      "countdown-animation",
+      "countdown",
+      "timer"
+    ]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "githubUrl": "https://github.com/edeckers/react-native-blob-courier",
+    "examples": [
+      "https://github.com/edeckers/react-native-blob-courier/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-blob-courier",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/edeckers/react-native-blob-courier",
+        "clone": "https://github.com/edeckers/react-native-blob-courier.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T14:40:59Z",
+        "createdAt": "2020-10-01T19:12:39Z",
+        "pushedAt": "2024-05-25T01:29:42Z",
+        "issues": 18,
+        "subscribers": 3,
+        "stars": 132,
+        "forks": 10
+      },
+      "name": "react-native-blob-courier",
+      "fullName": "edeckers/react-native-blob-courier",
+      "description": "Use this library to efficiently download and upload blobs in React Native.",
+      "topics": [
+        "react-native",
+        "blob",
+        "transfer",
+        "files",
+        "download",
+        "upload",
+        "courier",
+        "android",
+        "upload-blobs",
+        "ios",
+        "kotlin",
+        "swift",
+        "typescript",
+        "fetch",
+        "push",
+        "send",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mpl-2.0",
+        "name": "Mozilla Public License 2.0",
+        "spdxId": "MPL-2.0",
+        "url": "https://api.github.com/licenses/mpl-2.0",
+        "id": "MDc6TGljZW5zZTE0"
+      },
+      "lastRelease": {
+        "name": "v5.0.2",
+        "tagName": "v5.0.2",
+        "createdAt": "2024-04-12T11:57:05Z",
+        "publishedAt": "2024-04-12T11:57:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 248,
+      "weekDownloads": 60,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native blob transfer files download upload courier android upload-blobs ios kotlin swift typescript fetch push send hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.458,
+    "category": [
+      "blob",
+      "download",
+      "transfer",
+      "upload",
+      "upload-blobs"
+    ]
+  }
+]

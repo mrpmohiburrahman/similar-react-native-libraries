@@ -1,0 +1,83 @@
+[
+  {
+    "githubUrl": "https://github.com/jemise111/react-native-swipe-list-view",
+    "images": [
+      "https://media.giphy.com/media/WrmrvmwMnvvmzN3ZpX/giphy.gif"
+    ],
+    "examples": [
+      "https://snack.expo.dev/@jemise111/react-native-swipe-list-view"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-swipe-list-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jemise111/react-native-swipe-list-view",
+        "clone": "https://github.com/jemise111/react-native-swipe-list-view.git",
+        "homepage": "https://www.npmjs.com/package/react-native-swipe-list-view"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T12:59:48Z",
+        "createdAt": "2016-04-14T21:11:28Z",
+        "pushedAt": "2023-09-19T08:24:51Z",
+        "issues": 62,
+        "subscribers": 36,
+        "stars": 2763,
+        "forks": 529
+      },
+      "name": "react-native-swipe-list-view",
+      "fullName": "jemise111/react-native-swipe-list-view",
+      "description": "A React Native ListView component with rows that swipe open and closed",
+      "topics": [
+        "javascript",
+        "react",
+        "react-native",
+        "swipelistview",
+        "ios",
+        "android",
+        "react-native-component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.2.9",
+        "tagName": "v3.2.9",
+        "createdAt": "2021-06-18T19:10:05Z",
+        "publishedAt": "2021-06-18T19:10:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 174403,
+      "weekDownloads": 40487,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "javascript react react-native swipelistview ios android react-native-component",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.018,
+    "category": [
+      "swipelistview",
+      "react-native-component"
+    ]
+  }
+]

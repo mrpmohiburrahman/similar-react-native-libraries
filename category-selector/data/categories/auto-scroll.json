@@ -1,0 +1,68 @@
+[
+  {
+    "githubUrl": "https://github.com/minhtc/react-native-auto-scrolling",
+    "examples": [
+      "https://github.com/minhtc/react-native-auto-scrolling/tree/main/Example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/minhtc/react-native-auto-scrolling/main/screenshots/auto-scrolling.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-auto-scrolling",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/homielab/react-native-auto-scroll",
+        "clone": "https://github.com/homielab/react-native-auto-scroll.git",
+        "homepage": "https://www.npmjs.com/package/@homielab/react-native-auto-scroll"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T14:14:07Z",
+        "createdAt": "2018-09-27T20:57:44Z",
+        "pushedAt": "2023-09-13T13:28:51Z",
+        "issues": 9,
+        "subscribers": 3,
+        "stars": 217,
+        "forks": 24
+      },
+      "name": "react-native-auto-scroll",
+      "fullName": "homielab/react-native-auto-scroll",
+      "description": "A performance auto horizontal scrolling component for react-native ",
+      "topics": [
+        "react",
+        "react-native",
+        "marquee",
+        "auto-scrolling",
+        "auto-scroll"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 882,
+      "weekDownloads": 193,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native marquee auto-scrolling auto-scroll",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.031,
+    "category": [
+      "auto-scrolling",
+      "auto-scroll",
+      "marquee"
+    ]
+  }
+]

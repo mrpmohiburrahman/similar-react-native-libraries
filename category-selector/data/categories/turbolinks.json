@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/lazaronixon/react-native-turbolinks",
+    "examples": [
+      "https://github.com/lazaronixon/react-native-turbolinks/tree/master/Example"
+    ],
+    "images": [
+      "https://nixo-etc.s3-sa-east-1.amazonaws.com/intro-turbolinks.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-turbolinks",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lazaronixon/react-native-turbolinks",
+        "clone": "https://github.com/lazaronixon/react-native-turbolinks.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-12T01:26:52Z",
+        "createdAt": "2017-12-29T13:50:33Z",
+        "pushedAt": "2022-06-02T00:49:09Z",
+        "issues": 23,
+        "subscribers": 12,
+        "stars": 194,
+        "forks": 19
+      },
+      "name": "react-native-turbolinks",
+      "fullName": "lazaronixon/react-native-turbolinks",
+      "description": "React Native adapter for building hybrid apps with Turbolinks 5",
+      "topics": [
+        "turbolinks",
+        "react-native",
+        "pwa",
+        "rails",
+        "android",
+        "ios",
+        "react",
+        "webview",
+        "hybrid"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Version 2.2.9",
+        "tagName": "v2.2.9",
+        "createdAt": "2020-12-29T03:00:37Z",
+        "publishedAt": "2020-12-29T03:01:41Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 276,
+      "weekDownloads": 2,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "turbolinks react-native pwa rails android ios react webview hybrid",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.243,
+    "category": [
+      "turbolinks"
+    ]
+  }
+]

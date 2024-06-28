@@ -1,0 +1,84 @@
+[
+  {
+    "githubUrl": "https://github.com/codesinghanoop/react-native-d3multiline-chart",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-d3multiline-chart",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/codesinghanoop/react-native-d3multiline-chart",
+        "clone": "https://github.com/codesinghanoop/react-native-d3multiline-chart.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-10-09T09:26:32Z",
+        "createdAt": "2017-08-13T10:34:47Z",
+        "pushedAt": "2021-09-21T05:40:06Z",
+        "issues": 10,
+        "subscribers": 4,
+        "stars": 43,
+        "forks": 16
+      },
+      "name": "react-native-d3multiline-chart",
+      "fullName": "codesinghanoop/react-native-d3multiline-chart",
+      "description": "Animated Android and iOS multiline/line/scatterPoint chart based on d3.js 🤘😎🤘",
+      "topics": [
+        "android",
+        "ios",
+        "d3js",
+        "d3v4",
+        "charts",
+        "react-native-svg",
+        "multiline",
+        "line",
+        "scatterpoint",
+        "multiline-graph",
+        "line-graph",
+        "scatterpoint-graph",
+        "animation",
+        "graph",
+        "legend",
+        "chart",
+        "running-line-animation"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 174,
+      "weekDownloads": 60,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android ios d3js d3v4 charts react-native-svg multiline line scatterpoint multiline-graph line-graph scatterpoint-graph animation graph legend chart running-line-animation",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.352,
+    "category": [
+      "charts",
+      "multiline-graph",
+      "line-graph",
+      "scatterpoint-graph",
+      "chart",
+      "running-line-animation",
+      "d3js",
+      "d3v4"
+    ]
+  }
+]

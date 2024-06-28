@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/MarceloPrado/flash-calendar/tree/main/packages/flash-calendar",
+    "npmPkg": "@marceloterreiro/flash-calendar",
+    "examples": [
+      "https://github.com/MarceloPrado/flash-calendar/tree/main/apps/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/MarceloPrado/flash-calendar/main/apps/docs/static/img/shots.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/MarceloPrado/flash-calendar",
+        "clone": "https://github.com/MarceloPrado/flash-calendar.git",
+        "homepage": "https://marceloprado.github.io/flash-calendar/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T20:26:00Z",
+        "createdAt": "2024-02-09T11:27:51Z",
+        "pushedAt": "2024-04-18T16:58:08Z",
+        "issues": 6,
+        "subscribers": 2,
+        "stars": 676,
+        "forks": 15
+      },
+      "name": "flash-calendar",
+      "fullName": "MarceloPrado/flash-calendar",
+      "description": "The fastest React Native calendar 📆⚡",
+      "topics": [
+        "calendar",
+        "date",
+        "date-range-picker",
+        "list",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "@marceloterreiro/flash-calendar@0.0.9",
+        "tagName": "@marceloterreiro/flash-calendar@0.0.9",
+        "createdAt": "2024-04-18T16:58:07Z",
+        "publishedAt": "2024-04-18T16:58:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 9972,
+      "weekDownloads": 2638,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "calendar date date-range-picker list react-native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.015,
+    "category": [
+      "calendar",
+      "date",
+      "date-range-picker"
+    ]
+  }
+]

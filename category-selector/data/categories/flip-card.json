@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/lhandel/react-native-card-flip",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-card-flip",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lhandel/react-native-card-flip",
+        "clone": "https://github.com/lhandel/react-native-card-flip.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-19T20:44:14Z",
+        "createdAt": "2018-03-09T22:12:19Z",
+        "pushedAt": "2021-10-08T04:36:47Z",
+        "issues": 16,
+        "subscribers": 2,
+        "stars": 250,
+        "forks": 61
+      },
+      "name": "react-native-card-flip",
+      "fullName": "lhandel/react-native-card-flip",
+      "description": "Card flip animation for React Native",
+      "topics": [
+        "flip",
+        "cards",
+        "react-native",
+        "react-component",
+        "flip-card",
+        "flip-animation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7881,
+      "weekDownloads": 2066,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "flip cards react-native react-component flip-card flip-animation",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.012,
+    "category": [
+      "flip",
+      "cards",
+      "flip-card",
+      "flip-animation"
+    ]
+  }
+]

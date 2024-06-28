@@ -1,0 +1,72 @@
+[
+  {
+    "githubUrl": "https://github.com/oblador/react-native-esbuild",
+    "examples": [
+      "https://github.com/oblador/react-native-esbuild/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "npmPkg": "react-native-esbuild",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-esbuild",
+        "clone": "https://github.com/oblador/react-native-esbuild.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T13:46:10Z",
+        "createdAt": "2022-05-26T09:11:06Z",
+        "pushedAt": "2023-07-11T07:14:03Z",
+        "issues": 2,
+        "subscribers": 7,
+        "stars": 585,
+        "forks": 11
+      },
+      "name": "react-native-esbuild",
+      "fullName": "oblador/react-native-esbuild",
+      "description": "Fast bundler and dev server for react-native using esbuild",
+      "topics": [
+        "esbuild",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.6.0",
+        "tagName": "v0.6.0",
+        "createdAt": "2023-07-11T07:12:37Z",
+        "publishedAt": "2023-07-11T07:14:03Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 67,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "esbuild react-native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.644,
+    "category": [
+      "esbuild"
+    ]
+  }
+]

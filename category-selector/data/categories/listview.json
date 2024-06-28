@@ -1,0 +1,613 @@
+[
+  {
+    "githubUrl": "https://github.com/Flipkart/recyclerlistview",
+    "images": [
+      "https://img.youtube.com/vi/Tnv4HMmPgMc/0.jpg",
+      "https://raw.githubusercontent.com/Flipkart/recyclerlistview/master/docs/images/getWindowCorrection_demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/@naqvitalha/rlv-demo",
+      "https://snack.expo.dev/B1GYad52b",
+      "https://snack.expo.dev/@arunreddy10/19bb8e"
+    ],
+    "npmPkg": "recyclerlistview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Flipkart/recyclerlistview",
+        "clone": "https://github.com/Flipkart/recyclerlistview.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T15:27:54Z",
+        "createdAt": "2017-04-16T06:14:33Z",
+        "pushedAt": "2024-03-12T12:19:45Z",
+        "issues": 255,
+        "subscribers": 64,
+        "stars": 5143,
+        "forks": 416
+      },
+      "name": "recyclerlistview",
+      "fullName": "Flipkart/recyclerlistview",
+      "description": "High performance listview for React Native and web!",
+      "topics": [
+        "react-native",
+        "recyclerview",
+        "listview",
+        "flatlist-alternative",
+        "60fps",
+        "cross-platform",
+        "web",
+        "react-native-web",
+        "performance"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "Version 4.2.0",
+        "tagName": "4.2.0",
+        "createdAt": "2022-10-13T17:48:19Z",
+        "publishedAt": "2022-10-13T17:51:54Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1663148,
+      "weekDownloads": 364262,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native recyclerview listview flatlist-alternative 60fps cross-platform web react-native-web performance",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.031,
+    "category": [
+      "recyclerview",
+      "listview"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/sghiassy/react-native-sglistview",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-sglistview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sghiassy/react-native-sglistview",
+        "clone": "https://github.com/sghiassy/react-native-sglistview.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-30T07:43:37Z",
+        "createdAt": "2015-08-03T18:34:09Z",
+        "pushedAt": "2021-07-21T18:06:27Z",
+        "issues": 20,
+        "subscribers": 24,
+        "stars": 742,
+        "forks": 73
+      },
+      "name": "react-native-sglistview",
+      "fullName": "sghiassy/react-native-sglistview",
+      "description": "SGListView is a memory minded implementation of React Native's ListView",
+      "topics": [
+        "react",
+        "react-native",
+        "react-native-component",
+        "listview",
+        "sglistview",
+        "sglistview-performance",
+        "sg"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.1.2",
+        "tagName": "v0.1.2",
+        "createdAt": "2015-08-11T18:11:28Z",
+        "publishedAt": "2015-08-11T18:13:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 210,
+      "weekDownloads": 49,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native react-native-component listview sglistview sglistview-performance sg",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.714,
+    "category": [
+      "listview",
+      "react-native-component",
+      "sglistview",
+      "sglistview-performance",
+      "sg"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/saleel/react-native-super-grid",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-super-grid",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/saleel/react-native-super-grid",
+        "clone": "https://github.com/saleel/react-native-super-grid.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T09:05:02Z",
+        "createdAt": "2017-04-07T21:01:50Z",
+        "pushedAt": "2024-03-28T05:56:35Z",
+        "issues": 2,
+        "subscribers": 28,
+        "stars": 1377,
+        "forks": 153
+      },
+      "name": "react-native-super-grid",
+      "fullName": "saleel/react-native-super-grid",
+      "description": "Responsive Grid View for React Native",
+      "topics": [
+        "react-native",
+        "gridview",
+        "grid",
+        "listview",
+        "responsive",
+        "flatlist",
+        "responsive-grid"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 45789,
+      "weekDownloads": 10853,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native gridview grid listview responsive flatlist responsive-grid",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "gridview",
+      "grid",
+      "listview",
+      "responsive",
+      "responsive-grid"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/24ark/react-native-step-indicator",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-step-indicator",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/24ark/react-native-step-indicator",
+        "clone": "https://github.com/24ark/react-native-step-indicator.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T12:48:05Z",
+        "createdAt": "2017-01-20T20:59:40Z",
+        "pushedAt": "2023-02-17T22:43:26Z",
+        "issues": 85,
+        "subscribers": 10,
+        "stars": 1402,
+        "forks": 312
+      },
+      "name": "react-native-step-indicator",
+      "fullName": "24ark/react-native-step-indicator",
+      "description": "A simple react-native implementation of step indicator widget compatible with the ViewPager and ListView.",
+      "topics": [
+        "react-native",
+        "step",
+        "viewpager",
+        "listview",
+        "progress-view"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "Release 1.0.3",
+        "tagName": "v1.0.3",
+        "createdAt": "2020-06-16T18:30:33Z",
+        "publishedAt": "2020-06-16T18:30:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 64583,
+      "weekDownloads": 13802,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native step viewpager listview progress-view",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.036,
+    "category": [
+      "step",
+      "progress-view",
+      "listview"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gitim/react-native-sortable-list",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/Syd1a4hHW",
+      "https://snack.expo.dev/r1-cTNhH-"
+    ],
+    "npmPkg": "react-native-sortable-list",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gitim/react-native-sortable-list",
+        "clone": "https://github.com/gitim/react-native-sortable-list.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T11:39:58Z",
+        "createdAt": "2016-09-25T13:21:54Z",
+        "pushedAt": "2023-10-02T13:32:07Z",
+        "issues": 116,
+        "subscribers": 25,
+        "stars": 856,
+        "forks": 278
+      },
+      "name": "react-native-sortable-list",
+      "fullName": "gitim/react-native-sortable-list",
+      "description": "React Native Sortable List component",
+      "topics": [
+        "react-native",
+        "react",
+        "react-native-component",
+        "ios",
+        "android",
+        "listview",
+        "scrollview",
+        "scrollview-component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v0.0.23",
+        "createdAt": "2019-04-11T00:15:57Z",
+        "publishedAt": "2019-04-11T00:22:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 10606,
+      "weekDownloads": 2318,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react react-native-component ios android listview scrollview scrollview-component",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.031,
+    "category": [
+      "listview",
+      "scrollview",
+      "scrollview-component"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/cooperka/react-native-immutable-list-view",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-immutable-list-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/cooperka/react-native-immutable-list-view",
+        "clone": "https://github.com/cooperka/react-native-immutable-list-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-15T15:47:00Z",
+        "createdAt": "2016-10-08T14:49:51Z",
+        "pushedAt": "2020-12-11T08:36:21Z",
+        "issues": 9,
+        "subscribers": 6,
+        "stars": 205,
+        "forks": 34
+      },
+      "name": "react-native-immutable-list-view",
+      "fullName": "cooperka/react-native-immutable-list-view",
+      "description": ":scroll: Drop-in replacement for ListView, FlatList, and VirtualizedList.",
+      "topics": [
+        "react-native",
+        "listview",
+        "immutable",
+        "immutablejs",
+        "component",
+        "flatlist",
+        "virtualizedlist"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v2.0.0",
+        "createdAt": "2019-10-19T01:55:38Z",
+        "publishedAt": "2019-10-19T02:00:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 657,
+      "weekDownloads": 127,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native listview immutable immutablejs component flatlist virtualizedlist",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.056,
+    "category": [
+      "listview",
+      "flatlist",
+      "virtualizedlist"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/lodev09/react-native-cell-components",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-cell-components",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lodev09/react-native-cell-components",
+        "clone": "https://github.com/lodev09/react-native-cell-components.git",
+        "homepage": "https://www.npmjs.com/package/react-native-cell-components"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-11T18:04:42Z",
+        "createdAt": "2017-02-23T06:48:43Z",
+        "pushedAt": "2023-01-26T14:48:13Z",
+        "issues": 1,
+        "subscribers": 6,
+        "stars": 177,
+        "forks": 16
+      },
+      "name": "react-native-cell-components",
+      "fullName": "lodev09/react-native-cell-components",
+      "description": "Awesome react-native cell components! From a Cell to more complex & awesome components.",
+      "topics": [
+        "cell",
+        "components",
+        "react-native",
+        "ios",
+        "listview",
+        "tableview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "0.5",
+        "createdAt": "2019-05-23T07:48:17Z",
+        "publishedAt": "2019-05-23T07:49:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 137,
+      "weekDownloads": 4,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "cell components react-native ios listview tableview",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.669,
+    "category": [
+      "cell",
+      "listview",
+      "tableview"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/fjmorant/react-native-nested-listview",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-nested-listview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/fjmorant/react-native-nested-listview",
+        "clone": "https://github.com/fjmorant/react-native-nested-listview.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-28T11:44:19Z",
+        "createdAt": "2017-07-05T19:28:21Z",
+        "pushedAt": "2023-03-07T02:01:42Z",
+        "issues": 9,
+        "subscribers": 4,
+        "stars": 196,
+        "forks": 25
+      },
+      "name": "react-native-nested-listview",
+      "fullName": "fjmorant/react-native-nested-listview",
+      "description": "Display nested arrays of N levels with this React Native library.",
+      "topics": [
+        "react-native",
+        "listview",
+        "nested-structures",
+        "nested-objects",
+        "react",
+        "reactjs",
+        "react-component",
+        "tree",
+        "treeview",
+        "android",
+        "ios",
+        "typescript",
+        "expo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.14.2",
+        "tagName": "v0.14.2",
+        "createdAt": "2022-10-14T16:56:15Z",
+        "publishedAt": "2022-10-14T16:57:42Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1289,
+      "weekDownloads": 374,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native listview nested-structures nested-objects react reactjs react-component tree treeview android ios typescript expo",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.04,
+    "category": [
+      "listview"
+    ]
+  }
+]

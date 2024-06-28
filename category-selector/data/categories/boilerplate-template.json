@@ -1,0 +1,73 @@
+[
+  {
+    "githubUrl": "https://github.com/Mindinventory/react-native-boilerplate",
+    "npmPkg": "@mindinventory/react-native-boilerplate",
+    "images": [
+      "https://github.com/Mindinventory/react-native-boilerplate/blob/master/assets/Banner.png"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Mindinventory/react-native-boilerplate",
+        "clone": "https://github.com/Mindinventory/react-native-boilerplate.git",
+        "homepage": "https://www.mindinventory.com/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T12:16:22Z",
+        "createdAt": "2022-04-26T09:26:18Z",
+        "pushedAt": "2024-05-01T06:59:18Z",
+        "issues": 0,
+        "subscribers": 6,
+        "stars": 67,
+        "forks": 9
+      },
+      "name": "react-native-boilerplate",
+      "fullName": "Mindinventory/react-native-boilerplate",
+      "description": "The Boilerplate contains all the basic packages, common components and, prebuilt code architecture. It will save developer's project setup time.",
+      "topics": [
+        "boilerplate",
+        "react-native",
+        "typescript",
+        "mindinventory",
+        "boilerplate-template",
+        "starter-kit",
+        "template"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 662,
+      "weekDownloads": 48,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "boilerplate react-native typescript mindinventory boilerplate-template starter-kit template",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.177,
+    "category": [
+      "boilerplate",
+      "boilerplate-template",
+      "starter-kit",
+      "template"
+    ]
+  }
+]

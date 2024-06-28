@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/gmsgowtham/react-native-code-highlighter",
+    "examples": [
+      "https://codesandbox.io/s/react-native-code-highligher-knfsyx?file=/src/App.js",
+      "https://github.com/gmsgowtham/react-native-code-highlighter/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-code-highlighter",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gmsgowtham/react-native-code-highlighter",
+        "clone": "https://github.com/gmsgowtham/react-native-code-highlighter.git",
+        "homepage": "https://www.npmjs.com/package/react-native-code-highlighter"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-08T11:52:33Z",
+        "createdAt": "2023-05-28T13:49:50Z",
+        "pushedAt": "2024-05-24T13:43:59Z",
+        "issues": 19,
+        "subscribers": 2,
+        "stars": 39,
+        "forks": 2
+      },
+      "name": "react-native-code-highlighter",
+      "fullName": "gmsgowtham/react-native-code-highlighter",
+      "description": "Syntax highlighter for React Native powered by react-syntax-highlighter",
+      "topics": [
+        "code-highlight",
+        "react-native",
+        "syntax-highlighting",
+        "typescript",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.2.2",
+        "tagName": "v1.2.2",
+        "createdAt": "2023-10-26T17:28:59Z",
+        "publishedAt": "2023-10-26T17:30:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 917,
+      "weekDownloads": 428,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "code-highlight react-native syntax-highlighting typescript react",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.217,
+    "category": [
+      "code-highlight",
+      "syntax-highlighting"
+    ]
+  }
+]

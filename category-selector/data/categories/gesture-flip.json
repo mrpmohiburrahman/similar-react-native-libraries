@@ -1,0 +1,84 @@
+[
+  {
+    "githubUrl": "https://github.com/JungHsuan/react-native-gesture-flip-card",
+    "examples": [
+      "https://github.com/JungHsuan/react-native-gesture-flip-card/tree/master/examples"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/JungHsuan/react-native-gesture-flip-card/master/screenshots/example_1.gif",
+      "https://raw.githubusercontent.com/JungHsuan/react-native-gesture-flip-card/master/screenshots/example_2.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-gesture-flip-card",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/JungHsuan/react-native-gesture-flip-card",
+        "clone": "https://github.com/JungHsuan/react-native-gesture-flip-card.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T05:37:56Z",
+        "createdAt": "2019-12-03T17:50:37Z",
+        "pushedAt": "2023-03-07T16:20:22Z",
+        "issues": 25,
+        "subscribers": 2,
+        "stars": 152,
+        "forks": 7
+      },
+      "name": "react-native-gesture-flip-card",
+      "fullName": "JungHsuan/react-native-gesture-flip-card",
+      "description": "A card flipping animation component using gesture for react-native.",
+      "topics": [
+        "flip",
+        "card",
+        "gesture",
+        "react-native",
+        "gesture-flip",
+        "flip-animation",
+        "panresponder",
+        "card-flip"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.6",
+        "tagName": "v1.0.6",
+        "createdAt": "2022-03-16T08:06:34Z",
+        "publishedAt": "2022-07-07T09:35:11Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1583,
+      "weekDownloads": 246,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "flip card gesture react-native gesture-flip flip-animation panresponder card-flip",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.094,
+    "category": [
+      "flip",
+      "gesture-flip",
+      "flip-animation",
+      "card-flip"
+    ]
+  }
+]

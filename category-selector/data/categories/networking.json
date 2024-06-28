@@ -1,0 +1,308 @@
+[
+  {
+    "githubUrl": "https://github.com/tradle/react-native-udp",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-udp",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tradle/react-native-udp",
+        "clone": "https://github.com/tradle/react-native-udp.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-10T23:34:27Z",
+        "createdAt": "2015-05-09T21:55:48Z",
+        "pushedAt": "2023-03-05T10:56:18Z",
+        "issues": 17,
+        "subscribers": 19,
+        "stars": 337,
+        "forks": 150
+      },
+      "name": "react-native-udp",
+      "fullName": "tradle/react-native-udp",
+      "description": "node's dgram for react-native",
+      "topics": [
+        "udp",
+        "dgram",
+        "nodejs",
+        "react-native",
+        "networking"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.1.7",
+        "tagName": "v4.1.7",
+        "createdAt": "2023-01-26T08:04:49Z",
+        "publishedAt": "2023-01-26T08:04:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 72620,
+      "weekDownloads": 17191,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "udp dgram nodejs react-native networking",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "udp",
+      "dgram",
+      "networking"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Rapsssito/react-native-tcp-socket",
+    "examples": [
+      "https://github.com/Rapsssito/react-native-tcp-socket/tree/master/examples/tcpsockets"
+    ],
+    "ios": true,
+    "android": true,
+    "macos": true,
+    "npmPkg": "react-native-tcp-socket",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Rapsssito/react-native-tcp-socket",
+        "clone": "https://github.com/Rapsssito/react-native-tcp-socket.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T08:36:20Z",
+        "createdAt": "2019-10-05T10:22:34Z",
+        "pushedAt": "2024-05-24T14:28:01Z",
+        "issues": 18,
+        "subscribers": 5,
+        "stars": 296,
+        "forks": 78
+      },
+      "name": "react-native-tcp-socket",
+      "fullName": "Rapsssito/react-native-tcp-socket",
+      "description": "React Native TCP socket API for Android, iOS & macOS with SSL/TLS support.",
+      "topics": [
+        "react-native",
+        "net",
+        "network",
+        "tcp-socket",
+        "tcp",
+        "tcp-server",
+        "tcp-client",
+        "ios",
+        "android",
+        "react-native-library",
+        "ssl",
+        "tls",
+        "networking",
+        "socket"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v6.0.6",
+        "tagName": "v6.0.6",
+        "createdAt": "2023-02-08T10:23:56Z",
+        "publishedAt": "2023-02-08T10:23:59Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 31017,
+      "weekDownloads": 6950,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native net network tcp-socket tcp tcp-server tcp-client ios android react-native-library ssl tls networking socket",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "tcp-socket",
+      "tcp",
+      "tcp-server",
+      "tcp-client",
+      "networking",
+      "socket"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/pusherman/react-native-network-info",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-network-info",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/pusherman/react-native-network-info",
+        "clone": "https://github.com/pusherman/react-native-network-info.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:34:03Z",
+        "createdAt": "2015-07-12T19:07:39Z",
+        "pushedAt": "2021-03-22T16:30:40Z",
+        "issues": 30,
+        "subscribers": 9,
+        "stars": 347,
+        "forks": 103
+      },
+      "name": "react-native-network-info",
+      "fullName": "pusherman/react-native-network-info",
+      "description": "React Native library for getting information about the devices network",
+      "topics": [
+        "react-native",
+        "ios",
+        "android-library",
+        "ios-lib",
+        "android",
+        "networking",
+        "network"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.2.1 (Yellow Check)",
+        "tagName": "v5.2.1",
+        "createdAt": "2019-09-30T21:51:38Z",
+        "publishedAt": "2019-09-30T21:52:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 36888,
+      "weekDownloads": 8599,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android-library ios-lib android networking network",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.017,
+    "category": [
+      "network",
+      "networking"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-netinfo/react-native-netinfo",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "windows": true,
+    "macos": true,
+    "visionos": true,
+    "npmPkg": "@react-native-community/netinfo",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-netinfo/react-native-netinfo",
+        "clone": "https://github.com/react-native-netinfo/react-native-netinfo.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T08:43:35Z",
+        "createdAt": "2019-02-06T15:54:46Z",
+        "pushedAt": "2024-05-11T22:49:29Z",
+        "issues": 123,
+        "subscribers": 20,
+        "stars": 1907,
+        "forks": 390
+      },
+      "name": "react-native-netinfo",
+      "fullName": "react-native-netinfo/react-native-netinfo",
+      "description": "React Native Network Info API for Android & iOS",
+      "topics": [
+        "react-native",
+        "network",
+        "networking"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v11.3.2",
+        "tagName": "v11.3.2",
+        "createdAt": "2024-05-11T22:49:27Z",
+        "publishedAt": "2024-05-11T22:49:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2439813,
+      "weekDownloads": 540034,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native network networking",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "network",
+      "networking"
+    ]
+  }
+]

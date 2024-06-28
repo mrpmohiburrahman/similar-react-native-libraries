@@ -1,0 +1,69 @@
+[
+  {
+    "githubUrl": "https://github.com/Dean177/react-native-json-tree",
+    "examples": [
+      "https://github.com/Dean177/react-native-json-tree/tree/master/Example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-json-tree",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Dean177/react-native-json-tree",
+        "clone": "https://github.com/Dean177/react-native-json-tree.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-28T03:11:07Z",
+        "createdAt": "2016-08-13T14:05:37Z",
+        "pushedAt": "2021-05-14T15:36:35Z",
+        "issues": 0,
+        "subscribers": 5,
+        "stars": 113,
+        "forks": 29
+      },
+      "name": "react-native-json-tree",
+      "fullName": "Dean177/react-native-json-tree",
+      "description": "React Native JSON Viewer Component, based on react-json-tree",
+      "topics": [
+        "react",
+        "react-native",
+        "json-viewer",
+        "theme",
+        "iterables",
+        "json"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 39083,
+      "weekDownloads": 8176,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native json-viewer theme iterables json",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.041,
+    "category": [
+      "json-viewer",
+      "json"
+    ]
+  }
+]

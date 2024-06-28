@@ -1,0 +1,138 @@
+[
+  {
+    "githubUrl": "https://github.com/Instabug/instabug-reactnative",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "instabug-reactnative",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Instabug/Instabug-React-Native",
+        "clone": "https://github.com/Instabug/Instabug-React-Native.git",
+        "homepage": "https://instabug.com/platforms/react-native"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-18T23:44:40Z",
+        "createdAt": "2016-10-03T14:50:16Z",
+        "pushedAt": "2024-05-23T12:53:07Z",
+        "issues": 25,
+        "subscribers": 33,
+        "stars": 302,
+        "forks": 99
+      },
+      "name": "Instabug-React-Native",
+      "fullName": "Instabug/Instabug-React-Native",
+      "description": "In-app feedback and bug reporting tool for React Native",
+      "topics": [
+        "instabug",
+        "bug-reporting",
+        "bug-reporter",
+        "react-native",
+        "sdk"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release v13.0.5",
+        "tagName": "v13.0.5",
+        "createdAt": "2024-05-18T23:44:36Z",
+        "publishedAt": "2024-05-19T00:07:00Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 50642,
+      "weekDownloads": 10545,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "instabug bug-reporting bug-reporter react-native sdk",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.042,
+    "category": [
+      "instabug",
+      "bug-reporting",
+      "bug-reporter"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Buglife/react-native-buglife",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-buglife",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Buglife/react-native-buglife",
+        "clone": "https://github.com/Buglife/react-native-buglife.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-07-25T17:57:53Z",
+        "createdAt": "2016-07-27T06:35:25Z",
+        "pushedAt": "2019-04-18T00:00:10Z",
+        "issues": 7,
+        "subscribers": 3,
+        "stars": 12,
+        "forks": 12
+      },
+      "name": "react-native-buglife",
+      "fullName": "Buglife/react-native-buglife",
+      "description": "A React Native wrapper for Buglife",
+      "topics": [
+        "buglife",
+        "react-native",
+        "bug-reporting",
+        "bug-reporter"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 62,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "buglife react-native bug-reporting bug-reporter",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.744,
+    "category": [
+      "buglife",
+      "bug-reporting",
+      "bug-reporter"
+    ]
+  }
+]

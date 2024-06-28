@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/rh389/react-native-securerandom",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-securerandom",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/robhogan/react-native-securerandom",
+        "clone": "https://github.com/robhogan/react-native-securerandom.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T14:36:07Z",
+        "createdAt": "2017-10-11T16:00:02Z",
+        "pushedAt": "2023-07-01T08:16:13Z",
+        "issues": 5,
+        "subscribers": 3,
+        "stars": 59,
+        "forks": 31
+      },
+      "name": "react-native-securerandom",
+      "fullName": "robhogan/react-native-securerandom",
+      "description": "A crypto-secure random bytes generator for react native",
+      "topics": [
+        "secrandomcopybytes",
+        "securerandom",
+        "react-native",
+        "csprng",
+        "prng",
+        "cryptography",
+        "randomnumbergenerator"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.0.1",
+        "tagName": "1.0.1",
+        "createdAt": "2022-09-22T11:59:51Z",
+        "publishedAt": "2022-09-22T12:09:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 313158,
+      "weekDownloads": 77418,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "secrandomcopybytes securerandom react-native csprng prng cryptography randomnumbergenerator",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.003,
+    "category": [
+      "securerandom",
+      "randomnumbergenerator",
+      "cryptography",
+      "secrandomcopybytes"
+    ]
+  }
+]

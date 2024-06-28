@@ -1,0 +1,141 @@
+[
+  {
+    "githubUrl": "https://github.com/codemotionapps/react-native-dark-mode",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-dark-mode",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/codemotionapps/react-native-dark-mode",
+        "clone": "https://github.com/codemotionapps/react-native-dark-mode.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T06:14:00Z",
+        "createdAt": "2019-06-06T22:00:35Z",
+        "pushedAt": "2020-06-20T19:29:28Z",
+        "issues": 0,
+        "subscribers": 8,
+        "stars": 363,
+        "forks": 37
+      },
+      "name": "react-native-dark-mode",
+      "fullName": "codemotionapps/react-native-dark-mode",
+      "description": "Detect dark mode in React Native",
+      "topics": [
+        "react",
+        "react-native",
+        "android",
+        "ios",
+        "typescript",
+        "dark-mode"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.2.2",
+        "tagName": "0.2.2",
+        "createdAt": "2020-01-23T11:07:45Z",
+        "publishedAt": "2020-01-23T11:11:03Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5312,
+      "weekDownloads": 1030,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native android ios typescript dark-mode",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.306,
+    "category": [
+      "dark-mode"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/codemotionapps/react-native-dynamic",
+    "examples": [
+      "https://github.com/codemotionapps/react-native-dynamic/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/codemotionapps/react-native-dynamic/master/.vscode/showcase.ios.gif",
+      "https://raw.githubusercontent.com/codemotionapps/react-native-dynamic/master/.vscode/showcase.android.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-dynamic",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/codemotionapps/react-native-dynamic",
+        "clone": "https://github.com/codemotionapps/react-native-dynamic.git",
+        "homepage": "https://www.npmjs.com/package/react-native-dynamic"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-05T15:24:56Z",
+        "createdAt": "2020-06-20T08:03:51Z",
+        "pushedAt": "2023-01-26T21:46:33Z",
+        "issues": 24,
+        "subscribers": 9,
+        "stars": 231,
+        "forks": 17
+      },
+      "name": "react-native-dynamic",
+      "fullName": "codemotionapps/react-native-dynamic",
+      "description": "Helper APIs to work with dark mode in React Native",
+      "topics": [
+        "react-native",
+        "react",
+        "dark-mode",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 10690,
+      "weekDownloads": 2132,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react dark-mode typescript",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.051,
+    "category": [
+      "dark-mode"
+    ]
+  }
+]

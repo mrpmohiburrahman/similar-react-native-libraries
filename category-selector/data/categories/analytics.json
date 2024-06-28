@@ -1,0 +1,597 @@
+[
+  {
+    "githubUrl": "https://github.com/DataDog/dd-sdk-reactnative",
+    "npmPkg": "@datadog/mobile-react-native",
+    "nameOverride": "Datadog React Native Monitoring",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/DataDog/dd-sdk-reactnative",
+        "clone": "https://github.com/DataDog/dd-sdk-reactnative.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T08:42:39Z",
+        "createdAt": "2019-12-18T13:25:42Z",
+        "pushedAt": "2024-05-24T08:42:39Z",
+        "forks": 39,
+        "issues": 33,
+        "subscribers": 18,
+        "stars": 108
+      },
+      "name": "dd-sdk-reactnative",
+      "fullName": "DataDog/dd-sdk-reactnative",
+      "description": "Datadog SDK for ReactNative",
+      "topics": [
+        "datadog",
+        "react-native",
+        "ios",
+        "android",
+        "analytics",
+        "error-monitoring"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "2.3.3",
+        "tagName": "2.3.3",
+        "createdAt": "2024-05-13T13:06:05Z",
+        "publishedAt": "2024-05-13T13:21:57Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 303755,
+      "weekDownloads": 69452,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "topicSearchString": "datadog react-native ios android analytics error-monitoring",
+    "matchScore": 1,
+    "category": [
+      "analytics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/analytics",
+    "npmPkg": "@react-native-firebase/analytics",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T03:50:59Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:50:59Z",
+        "forks": 2105,
+        "issues": 41,
+        "subscribers": 165,
+        "stars": 11465
+      },
+      "name": "@react-native-firebase/analytics",
+      "fullName": "invertase/react-native-firebase",
+      "description": "React Native Firebase - The analytics module provides out of the box support with Google Analytics for Firebase. Integration with the Android & iOS allows for in-depth analytical insight reporting, such as device information, location, user actions and more.",
+      "topics": [
+        "react",
+        "react-native",
+        "firebase",
+        "analytics"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 1159913,
+      "weekDownloads": 265917,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "topicSearchString": "react react-native firebase analytics",
+    "matchScore": 111,
+    "category": [
+      "analytics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mixpanel/mixpanel-react-native",
+    "examples": [
+      "https://github.com/mixpanel/mixpanel-react-native/tree/master/Samples/ContextAPIMixpanel",
+      "https://github.com/mixpanel/mixpanel-react-native/tree/master/Samples/MixpanelDemo",
+      "https://github.com/mixpanel/mixpanel-react-native/tree/master/Samples/SimpleMixpanel"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mixpanel/mixpanel-react-native",
+        "clone": "https://github.com/mixpanel/mixpanel-react-native.git",
+        "homepage": "https://mixpanel.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T18:52:44Z",
+        "createdAt": "2020-02-06T08:11:13Z",
+        "pushedAt": "2024-05-20T18:52:44Z",
+        "forks": 38,
+        "issues": 11,
+        "subscribers": 37,
+        "stars": 95
+      },
+      "name": "mixpanel-react-native",
+      "fullName": "mixpanel/mixpanel-react-native",
+      "description": "Official React Native Tracking Library for Mixpanel Analytics",
+      "topics": [
+        "mixpanel",
+        "react",
+        "native",
+        "ios",
+        "android",
+        "analytics",
+        "tracking",
+        "sdk",
+        "react-native",
+        "analytics-tracking",
+        "mixpanel-sdk"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "Release v3.0.5",
+        "tagName": "v3.0.5",
+        "createdAt": "2024-05-14T16:36:02Z",
+        "publishedAt": "2024-05-14T16:37:09Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "mixpanel-react-native",
+    "npm": {
+      "downloads": 210483,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 46205
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.03,
+    "topicSearchString": "mixpanel react native ios android analytics tracking sdk react-native analytics-tracking mixpanel-sdk",
+    "matchScore": 11,
+    "category": [
+      "analytics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/adobe/react-native-acpmedia",
+    "npmPkg": "@adobe/react-native-acpmedia",
+    "examples": [
+      "https://github.com/adobe/react-native-acpmedia/tree/main/sample/ACPMediaSample",
+      "https://github.com/adobe/react-native-acpmedia/tree/main/sample/ReactNativeBasicPlayerSample"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/adobe/react-native-acpmedia",
+        "clone": "https://github.com/adobe/react-native-acpmedia.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-08-07T22:15:28Z",
+        "createdAt": "2019-10-24T14:30:54Z",
+        "pushedAt": "2023-08-07T22:15:28Z",
+        "forks": 6,
+        "issues": 0,
+        "subscribers": 18,
+        "stars": 5
+      },
+      "name": "react-native-acpmedia",
+      "fullName": "adobe/react-native-acpmedia",
+      "description": "A wrapper around the iOS and Android AEP Media Analytics SDK to allow for integration with React Native applications",
+      "topics": [
+        "react-native",
+        "adobe",
+        "adobe-experience-platform",
+        "media",
+        "ios",
+        "android",
+        "adobe-analytics"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "v3.0.1",
+        "tagName": "v3.0.1",
+        "createdAt": "2022-04-28T20:32:16Z",
+        "publishedAt": "2022-04-28T20:49:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 800,
+      "weekDownloads": 126,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.193,
+    "topicSearchString": "react-native adobe adobe-experience-platform media ios android adobe-analytics",
+    "matchScore": 11,
+    "category": [
+      "analytics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/lwansbrough/react-native-google-analytics",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rnc-archive/react-native-google-analytics",
+        "clone": "https://github.com/rnc-archive/react-native-google-analytics.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2020-05-14T21:52:33Z",
+        "createdAt": "2015-04-23T11:30:28Z",
+        "pushedAt": "2020-05-14T21:52:33Z",
+        "forks": 52,
+        "issues": 16,
+        "subscribers": 11,
+        "stars": 383
+      },
+      "name": "react-native-google-analytics",
+      "fullName": "rnc-archive/react-native-google-analytics",
+      "description": "Google Analytics for React Native! Compatible with react-native-ab",
+      "topics": [
+        "react",
+        "native",
+        "ab",
+        "test",
+        "testing",
+        "analytics",
+        "metrics",
+        "events",
+        "google",
+        "experiment",
+        "variant"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-google-analytics",
+    "npm": {
+      "downloads": 1628,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 450
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.224,
+    "topicSearchString": "react native ab test testing analytics metrics events google experiment variant",
+    "matchScore": 0.111,
+    "category": [
+      "analytics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-firebase-analytics",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2023-02-01T20:57:16Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2023-02-01T20:57:16Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29829
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "expo-firebase-analytics",
+    "npm": {
+      "downloads": 9347,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1164
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.375,
+    "topicSearchString": "",
+    "matchScore": 0.1,
+    "category": [
+      "analytics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-branch",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution",
+        "clone": "https://github.com/BranchMetrics/react-native-branch-deep-linking-attribution.git",
+        "homepage": "https://docs.branch.io/apps/react-native/"
+      },
+      "stats": {
+        "hasIssues": false,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T09:40:50Z",
+        "createdAt": "2016-04-10T23:56:20Z",
+        "pushedAt": "2024-05-22T20:30:45Z",
+        "issues": 105,
+        "subscribers": 74,
+        "stars": 513,
+        "forks": 202
+      },
+      "name": "react-native-branch-deep-linking-attribution",
+      "fullName": "BranchMetrics/react-native-branch-deep-linking-attribution",
+      "description": "The Branch React Native SDK for deep linking and attribution. Branch helps mobile apps grow with deep links / deeplinks that power paid acquisition and re-engagement campaigns, referral programs, content sharing, deep linked emails, smart banners, custom user onboarding, and more. ",
+      "topics": [
+        "ios",
+        "android",
+        "universal-links",
+        "app-links",
+        "analytics",
+        "react",
+        "react-native",
+        "deep-linking",
+        "branch",
+        "metrics"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 6.2.1",
+        "tagName": "v6.2.1",
+        "createdAt": "2024-04-04T00:46:51Z",
+        "publishedAt": "2024-04-04T00:48:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 303530,
+      "weekDownloads": 62521,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ios android universal-links app-links analytics react react-native deep-linking branch metrics",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.044,
+    "category": [
+      "branch",
+      "metrics",
+      "analytics"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/perf",
+    "npmPkg": "@react-native-firebase/perf",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git",
+        "homepage": "https://rnfirebase.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T20:28:42Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:51:00Z",
+        "issues": 46,
+        "subscribers": 165,
+        "stars": 11465,
+        "forks": 2176
+      },
+      "name": "react-native-firebase",
+      "fullName": "invertase/react-native-firebase",
+      "description": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+      "topics": [
+        "firebase",
+        "analytics",
+        "android",
+        "ios",
+        "database",
+        "push-notifications",
+        "react-native",
+        "fcm",
+        "react-native-app",
+        "react",
+        "auth",
+        "javascript",
+        "realtime-database",
+        "web-sdk",
+        "storage",
+        "transactions",
+        "remote-config",
+        "firestore",
+        "crashlytics",
+        "react-hooks"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "v6.4.0",
+        "tagName": "v6.4.0",
+        "createdAt": "2020-04-08T11:15:52Z",
+        "publishedAt": "2020-04-08T11:26:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 306639,
+      "weekDownloads": 68531,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "firebase analytics android ios database push-notifications react-native fcm react-native-app react auth javascript realtime-database web-sdk storage transactions remote-config firestore crashlytics react-hooks",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.027,
+    "category": [
+      "analytics"
+    ]
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/react-keycloak/react-native-keycloak",
+    "npmPkg": "@react-keycloak/native",
+    "examples": [
+      "https://github.com/react-keycloak/react-native-keycloak/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-keycloak/react-native-keycloak",
+        "clone": "https://github.com/react-keycloak/react-native-keycloak.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-18T04:05:53Z",
+        "createdAt": "2020-07-16T17:44:46Z",
+        "pushedAt": "2023-02-03T12:32:00Z",
+        "issues": 33,
+        "subscribers": 5,
+        "stars": 166,
+        "forks": 43
+      },
+      "name": "react-native-keycloak",
+      "fullName": "react-keycloak/react-native-keycloak",
+      "description": "React Native components for Keycloak",
+      "topics": [
+        "react",
+        "react-native",
+        "keycloak",
+        "keycloak-js",
+        "android",
+        "ios",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.6.4",
+        "tagName": "v0.6.4",
+        "createdAt": "2022-09-30T17:31:55Z",
+        "publishedAt": "2022-09-30T17:32:07Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4339,
+      "weekDownloads": 753,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native keycloak keycloak-js android ios hacktoberfest",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.076,
+    "category": [
+      "keycloak",
+      "keycloak-js"
+    ]
+  }
+]

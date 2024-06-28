@@ -1,0 +1,223 @@
+[
+  {
+    "githubUrl": "https://github.com/solinor/react-native-bluetooth-status",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-bluetooth-status",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/solinor/react-native-bluetooth-status",
+        "clone": "https://github.com/solinor/react-native-bluetooth-status.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-15T05:38:13Z",
+        "createdAt": "2017-04-20T09:56:08Z",
+        "pushedAt": "2023-01-05T05:17:08Z",
+        "issues": 45,
+        "subscribers": 7,
+        "stars": 101,
+        "forks": 60
+      },
+      "name": "react-native-bluetooth-status",
+      "fullName": "solinor/react-native-bluetooth-status",
+      "description": "React-Native library to query and manage bluetooth state of the device (iOS and Android)",
+      "topics": [
+        "react-native",
+        "bluetooth",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.5.1",
+        "tagName": "v1.5.1",
+        "createdAt": "2020-05-28T12:53:20Z",
+        "publishedAt": "2020-05-28T12:53:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 10248,
+      "weekDownloads": 2111,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native bluetooth ios android",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.044,
+    "category": [
+      "bluetooth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mrousavy/react-native-google-nearby-messages",
+    "examples": [
+      "https://github.com/mrousavy/react-native-google-nearby-messages/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-google-nearby-messages",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mrousavy/react-native-google-nearby-messages",
+        "clone": "https://github.com/mrousavy/react-native-google-nearby-messages.git",
+        "homepage": "https://mrousavy.github.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T03:18:47Z",
+        "createdAt": "2020-06-02T15:29:57Z",
+        "pushedAt": "2023-03-04T21:51:34Z",
+        "issues": 33,
+        "subscribers": 3,
+        "stars": 201,
+        "forks": 32
+      },
+      "name": "react-native-google-nearby-messages",
+      "fullName": "mrousavy/react-native-google-nearby-messages",
+      "description": "📲 Communicate with nearby devices using Bluetooth, BLE, WiFi and near-ultrasonic audio. Broadcast and receive small payloads (like strings) using the easy-to-use React Native API!",
+      "topics": [
+        "react-native",
+        "android",
+        "ios",
+        "native-module",
+        "google",
+        "nearby",
+        "nearby-messages",
+        "api",
+        "library",
+        "typescript",
+        "javascript",
+        "node",
+        "google-nearby",
+        "swift",
+        "java",
+        "kotlin",
+        "bluetooth",
+        "ble",
+        "wifi",
+        "broadcast"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.0.13",
+        "tagName": "1.0.13",
+        "createdAt": "2020-06-26T09:59:19Z",
+        "publishedAt": "2020-06-26T11:09:21Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 124,
+      "weekDownloads": 4,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android ios native-module google nearby nearby-messages api library typescript javascript node google-nearby swift java kotlin bluetooth ble wifi broadcast",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.668,
+    "category": [
+      "broadcast",
+      "ble",
+      "google-nearby",
+      "nearby-messages",
+      "wifi",
+      "bluetooth"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/kenjdavidson/react-native-bluetooth-classic",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-bluetooth-classic",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kenjdavidson/react-native-bluetooth-classic",
+        "clone": "https://github.com/kenjdavidson/react-native-bluetooth-classic.git",
+        "homepage": "https://kenjdavidson.github.io/react-native-bluetooth-classic"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T09:11:53Z",
+        "createdAt": "2019-06-22T03:15:16Z",
+        "pushedAt": "2024-03-29T12:44:46Z",
+        "issues": 16,
+        "subscribers": 8,
+        "stars": 233,
+        "forks": 92
+      },
+      "name": "react-native-bluetooth-classic",
+      "fullName": "kenjdavidson/react-native-bluetooth-classic",
+      "description": "⚛ Bluetooth classic Android(Bluetooth)/IOS(ExternalAccessory) module for serial communication",
+      "topics": [
+        "react-native",
+        "android",
+        "bluetooth",
+        "ios",
+        "external-accessory"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5784,
+      "weekDownloads": 1368,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android bluetooth ios external-accessory",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "bluetooth"
+    ]
+  }
+]

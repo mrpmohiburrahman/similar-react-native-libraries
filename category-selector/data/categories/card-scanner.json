@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/howljs/rn-card-scanner",
+    "examples": [
+      "https://github.com/howljs/rn-card-scanner/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/howljs/rn-card-scanner/main/example.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "rn-card-scanner",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/howljs/rn-card-scanner",
+        "clone": "https://github.com/howljs/rn-card-scanner.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T00:27:46Z",
+        "createdAt": "2022-05-31T21:26:17Z",
+        "pushedAt": "2024-03-13T05:09:01Z",
+        "issues": 5,
+        "subscribers": 1,
+        "stars": 81,
+        "forks": 12
+      },
+      "name": "rn-card-scanner",
+      "fullName": "howljs/rn-card-scanner",
+      "description": "This library provides payment card scanning functionality for your React Native app",
+      "topics": [
+        "card-scanner",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.1.2",
+        "tagName": "v1.1.2",
+        "createdAt": "2024-03-13T05:08:56Z",
+        "publishedAt": "2024-03-13T05:09:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7567,
+      "weekDownloads": 1441,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "card-scanner react-native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.059,
+    "category": [
+      "card-scanner"
+    ]
+  }
+]

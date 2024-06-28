@@ -1,0 +1,83 @@
+[
+  {
+    "githubUrl": "https://github.com/guhungry/react-native-photo-manipulator",
+    "examples": [
+      "https://github.com/guhungry/react-native-photo-manipulator/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/guhungry/react-native-photo-manipulator/master/docs/result-overlay.jpg",
+      "https://raw.githubusercontent.com/guhungry/react-native-photo-manipulator/master/docs/result-batch.jpg",
+      "https://raw.githubusercontent.com/guhungry/react-native-photo-manipulator/master/docs/result-crop-resize.jpg",
+      "https://raw.githubusercontent.com/guhungry/react-native-photo-manipulator/master/docs/result-crop.jpg",
+      "https://raw.githubusercontent.com/guhungry/react-native-photo-manipulator/master/docs/result-optimize.jpg",
+      "https://raw.githubusercontent.com/guhungry/react-native-photo-manipulator/master/docs/result-overlay.jpg",
+      "https://raw.githubusercontent.com/guhungry/react-native-photo-manipulator/master/docs/result-print-text.jpg"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/guhungry/react-native-photo-manipulator",
+        "clone": "https://github.com/guhungry/react-native-photo-manipulator.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T06:50:14Z",
+        "createdAt": "2019-03-21T15:31:55Z",
+        "pushedAt": "2024-04-16T06:50:14Z",
+        "forks": 36,
+        "issues": 5,
+        "subscribers": 5,
+        "stars": 303
+      },
+      "name": "react-native-photo-manipulator",
+      "fullName": "guhungry/react-native-photo-manipulator",
+      "description": "React Native Image Processing API to edit photo programmatically for Android and iOS. It features print text, overlay on another image (add watermark), resize, crop, flip and optimize image size then convert file format to jpeg or png",
+      "topics": [
+        "react-native",
+        "image-editor",
+        "image-processing",
+        "photo-editor",
+        "photo-manipulator",
+        "image-manipulation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.4.1",
+        "tagName": "v1.4.1",
+        "createdAt": "2024-04-16T06:50:34Z",
+        "publishedAt": "2024-04-16T07:07:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "npmPkg": "react-native-photo-manipulator",
+    "npm": {
+      "downloads": 7049,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1795
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.005,
+    "topicSearchString": "react-native image-editor image-processing photo-editor photo-manipulator image-manipulation",
+    "matchScore": 1,
+    "category": [
+      "image-editor"
+    ]
+  }
+]

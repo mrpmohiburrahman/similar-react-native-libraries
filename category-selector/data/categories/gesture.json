@@ -1,0 +1,221 @@
+[
+  {
+    "githubUrl": "https://github.com/oblador/react-native-pinchable",
+    "examples": [
+      "https://github.com/oblador/react-native-pinchable/tree/master/Example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/378279/50738295-9610d280-11d2-11e9-9dba-c0005fa9bfaf.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-pinchable",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-pinchable",
+        "clone": "https://github.com/oblador/react-native-pinchable.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-15T03:11:51Z",
+        "createdAt": "2019-01-06T14:44:11Z",
+        "pushedAt": "2023-12-12T15:32:41Z",
+        "issues": 18,
+        "subscribers": 1,
+        "stars": 219,
+        "forks": 22
+      },
+      "name": "react-native-pinchable",
+      "fullName": "oblador/react-native-pinchable",
+      "description": "Instagram like pinch to zoom for React Native",
+      "topics": [
+        "react-native",
+        "gesture",
+        "pinch-to-zoom"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11390,
+      "weekDownloads": 3195,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native gesture pinch-to-zoom",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.031,
+    "category": [
+      "gesture",
+      "pinch-to-zoom"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/software-mansion/react-native-gesture-handler",
+    "examples": [
+      "https://github.com/software-mansion/react-native-gesture-handler/tree/master/examples"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "visionos": true,
+    "goldstar": true,
+    "npmPkg": "react-native-gesture-handler",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/software-mansion/react-native-gesture-handler",
+        "clone": "https://github.com/software-mansion/react-native-gesture-handler.git",
+        "homepage": "https://docs.swmansion.com/react-native-gesture-handler/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T07:26:59Z",
+        "createdAt": "2016-10-27T08:31:38Z",
+        "pushedAt": "2024-05-24T11:15:59Z",
+        "issues": 86,
+        "subscribers": 62,
+        "stars": 5865,
+        "forks": 955
+      },
+      "name": "react-native-gesture-handler",
+      "fullName": "software-mansion/react-native-gesture-handler",
+      "description": "Declarative API exposing platform native touch and gesture system to React Native.",
+      "topics": [
+        "react-native",
+        "gesture",
+        "javascript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.16.2",
+        "tagName": "2.16.2",
+        "createdAt": "2024-05-07T11:29:06Z",
+        "publishedAt": "2024-05-07T11:54:12Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3714665,
+      "weekDownloads": 843794,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native gesture javascript",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recommended",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.023,
+    "category": [
+      "gesture"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mxmzb/react-native-gesture-detector",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/@mxmzb/react-native-gesture-detector"
+    ],
+    "npmPkg": "react-native-gesture-detector",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mxmzb/react-native-gesture-detector",
+        "clone": "https://github.com/mxmzb/react-native-gesture-detector.git",
+        "homepage": "https://maximzubarev.com/project/react-native-gesture-detector"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-08-04T17:28:19Z",
+        "createdAt": "2019-09-01T11:51:43Z",
+        "pushedAt": "2023-01-06T02:07:05Z",
+        "issues": 34,
+        "subscribers": 3,
+        "stars": 81,
+        "forks": 4
+      },
+      "name": "react-native-gesture-detector",
+      "fullName": "mxmzb/react-native-gesture-detector",
+      "description": "Create and detect custom, complex gestures in React Native. 🍭",
+      "topics": [
+        "react-native",
+        "gesture",
+        "custom-gestures",
+        "detection",
+        "react-native-component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.1.2",
+        "tagName": "v%s",
+        "createdAt": "2020-07-06T00:33:46Z",
+        "publishedAt": "2020-07-06T00:33:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 28,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native gesture custom-gestures detection react-native-component",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.593,
+    "category": [
+      "gesture",
+      "custom-gestures",
+      "detection"
+    ]
+  }
+]

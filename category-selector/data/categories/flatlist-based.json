@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/Eugnis/react-native-timeline-flatlist",
+    "examples": [
+      "https://snack.expo.io/@eugnis/eaae28",
+      "https://expo.dev/@eugnis/react-native-timeline-flatlist-examples",
+      "https://github.com/Eugnis/react-native-timeline-flatlist/tree/master/examples/Example"
+    ],
+    "images": [
+      "https://cloud.githubusercontent.com/assets/21040043/24750025/8c8d044e-1aef-11e7-8fd7-7d64431af7e4.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-timeline-flatlist",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Eugnis/react-native-timeline-flatlist",
+        "clone": "https://github.com/Eugnis/react-native-timeline-flatlist.git",
+        "homepage": "https://www.npmjs.com/package/react-native-timeline-flatlist"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T15:22:41Z",
+        "createdAt": "2018-08-04T22:23:15Z",
+        "pushedAt": "2023-11-09T20:24:53Z",
+        "issues": 49,
+        "subscribers": 5,
+        "stars": 462,
+        "forks": 68
+      },
+      "name": "react-native-timeline-flatlist",
+      "fullName": "Eugnis/react-native-timeline-flatlist",
+      "description": "FlatList based timeline component for React Native for iOS and Android",
+      "topics": [
+        "react-native",
+        "react-native-component",
+        "flatlist-based",
+        "flatlist",
+        "timeline",
+        "cross-platform",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 24185,
+      "weekDownloads": 5743,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-component flatlist-based flatlist timeline cross-platform android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "flatlist",
+      "flatlist-based"
+    ]
+  }
+]

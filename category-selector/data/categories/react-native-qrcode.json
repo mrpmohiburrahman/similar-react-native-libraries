@@ -1,0 +1,85 @@
+[
+  {
+    "githubUrl": "https://github.com/tokkozhin/react-native-qrcode-styled",
+    "examples": [
+      "https://github.com/tokkozhin/react-native-qrcode-styled/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/tokkozhin/react-native-qrcode-styled/main/example/assets/example.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-qrcode-styled",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tokkozhin/react-native-qrcode-styled",
+        "clone": "https://github.com/tokkozhin/react-native-qrcode-styled.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T09:11:33Z",
+        "createdAt": "2023-02-06T16:36:24Z",
+        "pushedAt": "2024-03-16T09:26:17Z",
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 117,
+        "forks": 4
+      },
+      "name": "react-native-qrcode-styled",
+      "fullName": "tokkozhin/react-native-qrcode-styled",
+      "description": "Fully customizable QR Codes generator for React Native",
+      "topics": [
+        "qrcode",
+        "react-native",
+        "svg",
+        "qr-generator",
+        "react-native-qrcode",
+        "qrcode-styled",
+        "rn-qr-generator"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.3.1",
+        "tagName": "v0.3.1",
+        "createdAt": "2024-03-16T09:26:14Z",
+        "publishedAt": "2024-03-16T09:26:40Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 10074,
+      "weekDownloads": 2479,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "qrcode react-native svg qr-generator react-native-qrcode qrcode-styled rn-qr-generator",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.004,
+    "category": [
+      "qr-generator",
+      "qrcode",
+      "react-native-qrcode",
+      "qrcode-styled",
+      "rn-qr-generator"
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "githubUrl": "https://github.com/alexbrazier/react-native-network-logger",
+    "examples": [
+      "https://github.com/alexbrazier/react-native-network-logger/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/alexbrazier/react-native-network-logger/master/.github/images/ios-list.png",
+      "https://raw.githubusercontent.com/alexbrazier/react-native-network-logger/master/.github/images/ios-details.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-network-logger",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/alexbrazier/react-native-network-logger",
+        "clone": "https://github.com/alexbrazier/react-native-network-logger.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T08:17:08Z",
+        "createdAt": "2020-06-18T23:27:45Z",
+        "pushedAt": "2024-04-13T15:35:39Z",
+        "issues": 12,
+        "subscribers": 10,
+        "stars": 488,
+        "forks": 41
+      },
+      "name": "react-native-network-logger",
+      "fullName": "alexbrazier/react-native-network-logger",
+      "description": "An HTTP network request monitor for React Native with in-app interface for iOS and Android with no native code",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "network",
+        "debugger",
+        "logging",
+        "network-monitoring",
+        "charles",
+        "network-debug",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.16.1",
+        "tagName": "v1.16.1",
+        "createdAt": "2024-04-13T15:35:37Z",
+        "publishedAt": "2024-04-13T15:35:40Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 78167,
+      "weekDownloads": 18488,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android network debugger logging network-monitoring charles network-debug hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "debugger",
+      "logging"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/onubo/react-native-logs",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "dev": true,
+    "npmPkg": "react-native-logs",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mowispace/react-native-logs",
+        "clone": "https://github.com/mowispace/react-native-logs.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:35:58Z",
+        "createdAt": "2019-06-30T18:19:46Z",
+        "pushedAt": "2024-04-18T19:05:10Z",
+        "issues": 9,
+        "subscribers": 5,
+        "stars": 416,
+        "forks": 29
+      },
+      "name": "react-native-logs",
+      "fullName": "mowispace/react-native-logs",
+      "description": "Performance-aware simple logger for React-Native and Expo with namespaces, custom levels and custom transports (colored console, file writing, etc.)",
+      "topics": [
+        "react-native",
+        "logs",
+        "debugging",
+        "ios",
+        "android",
+        "logger",
+        "logging",
+        "debug",
+        "file",
+        "custom",
+        "expo",
+        "color",
+        "logging-library",
+        "javascript",
+        "log"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v 5.1.0",
+        "tagName": "5.1.0",
+        "createdAt": "2024-01-26T15:49:18Z",
+        "publishedAt": "2024-01-26T19:41:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 115531,
+      "weekDownloads": 26588,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native logs debugging ios android logger logging debug file custom expo color logging-library javascript log",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.02,
+    "category": [
+      "logs",
+      "debugging",
+      "logger",
+      "logging",
+      "debug",
+      "logging-library",
+      "log"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/margelo/react-native-skottie/tree/main/package",
+    "npmPkg": "react-native-skottie",
+    "examples": [
+      "https://github.com/margelo/react-native-skottie/tree/main/package/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-skottie",
+        "clone": "https://github.com/margelo/react-native-skottie.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T14:55:58Z",
+        "createdAt": "2022-11-01T17:21:54Z",
+        "pushedAt": "2024-05-18T09:47:53Z",
+        "issues": 11,
+        "subscribers": 8,
+        "stars": 742,
+        "forks": 14
+      },
+      "name": "react-native-skottie",
+      "fullName": "margelo/react-native-skottie",
+      "description": "▶️ Efficient lottie animations using Skia's Skottie module",
+      "topics": [
+        "animations",
+        "bodymovin",
+        "lottie",
+        "react-native",
+        "skia",
+        "rive",
+        "skottie"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 2.1.4",
+        "tagName": "v2.1.4",
+        "createdAt": "2024-05-06T09:09:05Z",
+        "publishedAt": "2024-05-06T09:09:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1327,
+      "weekDownloads": 302,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "animations bodymovin lottie react-native skia rive skottie",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.022,
+    "category": [
+      "skia",
+      "skottie",
+      "lottie"
+    ]
+  }
+]

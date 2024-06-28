@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/wonday/react-native-orientation-locker",
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "npmPkg": "react-native-orientation-locker",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wonday/react-native-orientation-locker",
+        "clone": "https://github.com/wonday/react-native-orientation-locker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T23:08:48Z",
+        "createdAt": "2017-05-15T06:06:59Z",
+        "pushedAt": "2024-05-10T17:45:40Z",
+        "issues": 121,
+        "subscribers": 9,
+        "stars": 734,
+        "forks": 266
+      },
+      "name": "react-native-orientation-locker",
+      "fullName": "wonday/react-native-orientation-locker",
+      "description": "A react-native module that can listen on orientation changing of device, get current orientation, lock to preferred orientation. ",
+      "topics": [
+        "orientation",
+        "react-native",
+        "listener",
+        "locker",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.7.0",
+        "tagName": "v1.7.0",
+        "createdAt": "2024-04-20T15:14:06Z",
+        "publishedAt": "2024-04-20T15:15:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 362080,
+      "weekDownloads": 85267,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "orientation react-native listener locker android ios",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.015,
+    "category": [
+      "orientation"
+    ]
+  }
+]

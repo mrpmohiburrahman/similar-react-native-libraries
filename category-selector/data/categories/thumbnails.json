@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/souvik-ghosh/react-native-create-thumbnail",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-create-thumbnail",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/souvik-ghosh/react-native-create-thumbnail",
+        "clone": "https://github.com/souvik-ghosh/react-native-create-thumbnail.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T11:45:25Z",
+        "createdAt": "2019-12-08T14:43:48Z",
+        "pushedAt": "2024-05-16T21:52:39Z",
+        "issues": 6,
+        "subscribers": 6,
+        "stars": 238,
+        "forks": 104
+      },
+      "name": "react-native-create-thumbnail",
+      "fullName": "souvik-ghosh/react-native-create-thumbnail",
+      "description": "iOS/Android thumbnail generator with support for both local and remote videos",
+      "topics": [
+        "react-native",
+        "thumbnails",
+        "video",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.0",
+        "tagName": "v2.0.0",
+        "createdAt": "2023-12-28T22:08:07Z",
+        "publishedAt": "2023-12-28T22:12:07Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 85225,
+      "weekDownloads": 12294,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native thumbnails video android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.106,
+    "category": [
+      "thumbnails"
+    ]
+  }
+]

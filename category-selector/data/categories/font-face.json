@@ -1,0 +1,146 @@
+[
+  {
+    "githubUrl": "https://github.com/Kjens93/react-native-font-faces",
+    "examples": [
+      "https://github.com/Kjens93/react-native-font-faces/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-font-faces",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kylerjensen/react-native-font-faces",
+        "clone": "https://github.com/kylerjensen/react-native-font-faces.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-10-16T10:40:38Z",
+        "createdAt": "2020-07-10T05:30:06Z",
+        "pushedAt": "2023-04-17T12:32:42Z",
+        "issues": 2,
+        "subscribers": 3,
+        "stars": 15,
+        "forks": 5
+      },
+      "name": "react-native-font-faces",
+      "fullName": "kylerjensen/react-native-font-faces",
+      "description": "Easily emulate font-face behavior in react-native",
+      "topics": [
+        "react-native",
+        "fonts",
+        "font-weight",
+        "font-face",
+        "font-style",
+        "custom-fonts",
+        "expo",
+        "react-native-web"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.1.4",
+        "tagName": "v4.1.4",
+        "createdAt": "2023-04-17T12:31:53Z",
+        "publishedAt": "2023-04-17T12:32:48Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1144,
+      "weekDownloads": 257,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native fonts font-weight font-face font-style custom-fonts expo react-native-web",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.125,
+    "category": [
+      "fonts",
+      "font-weight",
+      "font-face",
+      "font-style",
+      "custom-fonts"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mthines/react-native-font-face",
+    "npmPkg": "@mthines/react-native-font-face",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mthines/react-native-font-face",
+        "clone": "https://github.com/mthines/react-native-font-face.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-11T17:57:12Z",
+        "createdAt": "2021-07-04T20:16:16Z",
+        "pushedAt": "2022-07-26T06:39:06Z",
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 6,
+        "forks": 0
+      },
+      "name": "react-native-font-face",
+      "fullName": "mthines/react-native-font-face",
+      "description": "Font Face (CSS style) for React Native made easy",
+      "topics": [
+        "react-native",
+        "font-face",
+        "font",
+        "typography",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 13,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native font-face font typography react",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.704,
+    "category": [
+      "font-face",
+      "font",
+      "typography"
+    ]
+  }
+]

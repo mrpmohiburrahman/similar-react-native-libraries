@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/lodev09/react-native-true-sheet",
+    "npmPkg": "@lodev09/react-native-true-sheet",
+    "images": [
+      "https://raw.githubusercontent.com/lodev09/react-native-true-sheet/main/docs/static/img/preview.gif"
+    ],
+    "examples": [
+      "https://github.com/lodev09/react-native-true-sheet/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lodev09/react-native-true-sheet",
+        "clone": "https://github.com/lodev09/react-native-true-sheet.git",
+        "homepage": "https://sheet.lodev09.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T00:01:54Z",
+        "createdAt": "2024-03-23T03:42:14Z",
+        "pushedAt": "2024-05-22T23:41:53Z",
+        "issues": 0,
+        "subscribers": 4,
+        "stars": 278,
+        "forks": 4
+      },
+      "name": "react-native-true-sheet",
+      "fullName": "lodev09/react-native-true-sheet",
+      "description": "The true native bottom sheet experience 💩",
+      "topics": [
+        "android",
+        "bottom-sheet",
+        "ios",
+        "modal-sheet",
+        "react-native",
+        "native-sheet"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.11.3",
+        "tagName": "v0.11.3",
+        "createdAt": "2024-05-22T23:41:48Z",
+        "publishedAt": "2024-05-22T23:41:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1773,
+      "weekDownloads": 591,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android bottom-sheet ios modal-sheet react-native native-sheet",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.083,
+    "category": [
+      "bottom-sheet",
+      "modal-sheet",
+      "native-sheet"
+    ]
+  }
+]

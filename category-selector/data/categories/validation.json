@@ -1,0 +1,246 @@
+[
+  {
+    "githubUrl": "https://github.com/react-hook-form/react-hook-form",
+    "examples": [
+      "https://snack.expo.dev/@bluebill1049/react-hook-form"
+    ],
+    "ios": true,
+    "web": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-hook-form",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-hook-form/react-hook-form",
+        "clone": "https://github.com/react-hook-form/react-hook-form.git",
+        "homepage": "https://react-hook-form.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:28:55Z",
+        "createdAt": "2019-03-05T23:47:10Z",
+        "pushedAt": "2024-05-25T10:13:24Z",
+        "issues": 38,
+        "subscribers": 169,
+        "stars": 39924,
+        "forks": 1995
+      },
+      "name": "react-hook-form",
+      "fullName": "react-hook-form/react-hook-form",
+      "description": "📋 React Hooks for form state management and validation (Web + React Native)",
+      "topics": [
+        "typescript",
+        "react-hooks",
+        "forms",
+        "validation",
+        "react-native",
+        "form-builder",
+        "dx",
+        "ux",
+        "reactjs"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v7.51.5",
+        "tagName": "v7.51.5",
+        "createdAt": "2024-05-21T11:32:46Z",
+        "publishedAt": "2024-05-21T11:35:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 21098897,
+      "weekDownloads": 5033558,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "typescript react-hooks forms validation react-native form-builder dx ux reactjs",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.011,
+    "category": [
+      "react-hooks",
+      "forms",
+      "validation",
+      "form-builder"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/MAKARD/react-native-formawesome",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-formawesome",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/MAKARD/react-native-formawesome",
+        "clone": "https://github.com/MAKARD/react-native-formawesome.git",
+        "homepage": "https://snack.expo.io/@makard/react-native-formawesome"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-07-11T13:11:50Z",
+        "createdAt": "2018-10-02T08:03:36Z",
+        "pushedAt": "2023-03-29T21:51:14Z",
+        "issues": 3,
+        "subscribers": 1,
+        "stars": 7,
+        "forks": 0
+      },
+      "name": "react-native-formawesome",
+      "fullName": "MAKARD/react-native-formawesome",
+      "description": "React-Native UI lib for validation forms",
+      "topics": [
+        "ui",
+        "native",
+        "react",
+        "react-native",
+        "validation",
+        "class-validator",
+        "form",
+        "react-formawesome-core"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release",
+        "tagName": "1.0.1",
+        "createdAt": "2019-06-13T13:58:40Z",
+        "publishedAt": "2019-06-13T13:59:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 59,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ui native react react-native validation class-validator form react-formawesome-core",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.736,
+    "category": [
+      "form",
+      "react-formawesome-core",
+      "validation"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/klazbaba/react-native-form-component",
+    "examples": [
+      "https://github.com/klazbaba/react-native-form-component/tree/master/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/34392299/135331258-525de545-1937-40dc-8225-122d9a102572.gif",
+      "https://user-images.githubusercontent.com/34392299/135331616-78e74fb6-2e89-4529-9bb3-e50b99213adc.jpeg"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "npmPkg": "react-native-form-component",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/klazbaba/react-native-form-component",
+        "clone": "https://github.com/klazbaba/react-native-form-component.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T07:46:06Z",
+        "createdAt": "2020-08-24T16:48:23Z",
+        "pushedAt": "2024-03-16T21:58:24Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 54,
+        "forks": 4
+      },
+      "name": "react-native-form-component",
+      "fullName": "klazbaba/react-native-form-component",
+      "description": "A customizable form component for react-native. It handles basic validation of input, and also alerts the user of failed validations.",
+      "topics": [
+        "form",
+        "validation",
+        "react-native",
+        "react-native-web",
+        "declarative",
+        "ios",
+        "android",
+        "web",
+        "modal",
+        "picker",
+        "otp",
+        "pin"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v2.6.14",
+        "createdAt": "2024-01-19T07:02:13Z",
+        "publishedAt": "2024-01-19T07:04:26Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 794,
+      "weekDownloads": 242,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "form validation react-native react-native-web declarative ios android web modal picker otp pin",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.055,
+    "category": [
+      "form",
+      "validation"
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/oblador/react-native-store-review",
+    "images": [
+      "https://cloud.githubusercontent.com/assets/378279/24377493/d22eb0b8-133f-11e7-9968-44d186a3801f.png"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-store-review",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-store-review",
+        "clone": "https://github.com/oblador/react-native-store-review.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T17:52:38Z",
+        "createdAt": "2017-03-27T21:06:02Z",
+        "pushedAt": "2023-10-26T12:48:13Z",
+        "issues": 2,
+        "subscribers": 5,
+        "stars": 735,
+        "forks": 53
+      },
+      "name": "react-native-store-review",
+      "fullName": "oblador/react-native-store-review",
+      "description": "Rate on App/Play Store directly in your React Native app",
+      "topics": [
+        "react-native",
+        "appstore",
+        "ios",
+        "rating",
+        "review",
+        "android",
+        "playstore"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.4.3",
+        "tagName": "v0.4.3",
+        "createdAt": "2023-10-26T12:47:39Z",
+        "publishedAt": "2023-10-26T12:48:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 60893,
+      "weekDownloads": 14561,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native appstore ios rating review android playstore",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.011,
+    "category": [
+      "review"
+    ]
+  }
+]

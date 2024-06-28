@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/MAKARD/react-native-formawesome",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-formawesome",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/MAKARD/react-native-formawesome",
+        "clone": "https://github.com/MAKARD/react-native-formawesome.git",
+        "homepage": "https://snack.expo.io/@makard/react-native-formawesome"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-07-11T13:11:50Z",
+        "createdAt": "2018-10-02T08:03:36Z",
+        "pushedAt": "2023-03-29T21:51:14Z",
+        "issues": 3,
+        "subscribers": 1,
+        "stars": 7,
+        "forks": 0
+      },
+      "name": "react-native-formawesome",
+      "fullName": "MAKARD/react-native-formawesome",
+      "description": "React-Native UI lib for validation forms",
+      "topics": [
+        "ui",
+        "native",
+        "react",
+        "react-native",
+        "validation",
+        "class-validator",
+        "form",
+        "react-formawesome-core"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release",
+        "tagName": "1.0.1",
+        "createdAt": "2019-06-13T13:58:40Z",
+        "publishedAt": "2019-06-13T13:59:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 59,
+      "weekDownloads": 3,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ui native react react-native validation class-validator form react-formawesome-core",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.736,
+    "category": [
+      "form",
+      "react-formawesome-core",
+      "validation"
+    ]
+  }
+]

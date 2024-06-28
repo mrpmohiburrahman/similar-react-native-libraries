@@ -1,0 +1,160 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-audio-toolkit/react-native-audio-toolkit",
+    "examples": [
+      "https://github.com/react-native-audio-toolkit/react-native-audio-toolkit/tree/master/ExampleApp"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "@react-native-community/audio-toolkit",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-audio-toolkit/react-native-audio-toolkit",
+        "clone": "https://github.com/react-native-audio-toolkit/react-native-audio-toolkit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T06:16:02Z",
+        "createdAt": "2016-06-27T07:13:04Z",
+        "pushedAt": "2024-02-07T19:23:44Z",
+        "issues": 151,
+        "subscribers": 21,
+        "stars": 1037,
+        "forks": 374
+      },
+      "name": "react-native-audio-toolkit",
+      "fullName": "react-native-audio-toolkit/react-native-audio-toolkit",
+      "description": "Cross-platform audio library for React Native",
+      "topics": [
+        "reactnative",
+        "audio-library",
+        "cross-platform"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.3",
+        "tagName": "v2.0.3",
+        "createdAt": "2020-03-23T05:01:01Z",
+        "publishedAt": "2020-03-23T05:03:44Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 13120,
+      "weekDownloads": 2832,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "reactnative audio-library cross-platform",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.034,
+    "category": [
+      "audio-library"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/doublesymmetry/react-native-track-player",
+    "examples": [
+      "https://github.com/doublesymmetry/react-native-track-player/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/ios-app.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/ios-lockscreen.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/android-app.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/android-lockscreen.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/android-notification.png"
+    ],
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "npmPkg": "react-native-track-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/doublesymmetry/react-native-track-player",
+        "clone": "https://github.com/doublesymmetry/react-native-track-player.git",
+        "homepage": "https://rntp.dev/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T13:24:44Z",
+        "createdAt": "2017-03-16T20:18:39Z",
+        "pushedAt": "2024-05-19T10:13:39Z",
+        "issues": 47,
+        "subscribers": 50,
+        "stars": 3150,
+        "forks": 969
+      },
+      "name": "react-native-track-player",
+      "fullName": "doublesymmetry/react-native-track-player",
+      "description": "A fully fledged audio module created for music apps. Provides audio playback, external media controls, background mode and more!",
+      "topics": [
+        "react-native",
+        "music-player",
+        "music-library",
+        "media-control",
+        "android",
+        "ios",
+        "windows",
+        "audio",
+        "audio-library",
+        "audio-player"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 87330,
+      "weekDownloads": 20851,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native music-player music-library media-control android ios windows audio audio-library audio-player",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.011,
+    "category": [
+      "music-player",
+      "music-library",
+      "media-control",
+      "audio",
+      "audio-library",
+      "audio-player"
+    ]
+  }
+]

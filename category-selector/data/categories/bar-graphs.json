@@ -1,0 +1,88 @@
+[
+  {
+    "githubUrl": "https://github.com/capitalone/react-native-pathjs-charts",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-pathjs-charts",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/capitalone/react-native-pathjs-charts",
+        "clone": "https://github.com/capitalone/react-native-pathjs-charts.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-20T17:13:05Z",
+        "createdAt": "2016-07-29T19:43:20Z",
+        "pushedAt": "2018-03-01T15:28:09Z",
+        "issues": 75,
+        "subscribers": 35,
+        "stars": 879,
+        "forks": 263
+      },
+      "name": "react-native-pathjs-charts",
+      "fullName": "capitalone/react-native-pathjs-charts",
+      "description": "Android and iOS charts based on react-native-svg and paths-js",
+      "topics": [
+        "charts",
+        "graphs",
+        "paths-js",
+        "react-native",
+        "ios",
+        "android",
+        "react-native-svg",
+        "cross-platform",
+        "radar-graphs",
+        "bar-graphs",
+        "pie-graphs",
+        "tree"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "0.0.34",
+        "tagName": "0.0.34",
+        "createdAt": "2018-02-19T01:37:41Z",
+        "publishedAt": "2018-02-19T01:42:23Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 394,
+      "weekDownloads": 58,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "charts graphs paths-js react-native ios android react-native-svg cross-platform radar-graphs bar-graphs pie-graphs tree",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": -0.352,
+    "category": [
+      "charts",
+      "graphs",
+      "paths-js",
+      "react-native-svg",
+      "radar-graphs",
+      "bar-graphs",
+      "pie-graphs",
+      "tree"
+    ]
+  }
+]

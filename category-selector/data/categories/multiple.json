@@ -1,0 +1,99 @@
+[
+  {
+    "githubUrl": "https://github.com/hossein-zare/react-native-dropdown-picker",
+    "examples": [
+      "https://snack.expo.dev/8mHmLfcZf"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/56504893/116790110-e0b36880-aac7-11eb-9ebd-196acee64f7a.png",
+      "https://user-images.githubusercontent.com/56504893/116789802-faec4700-aac5-11eb-837b-86f18cbfcf3d.png",
+      "https://user-images.githubusercontent.com/56504893/116789839-2c651280-aac6-11eb-99e0-b43b608ed8c7.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-dropdown-picker",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/hossein-zare/react-native-dropdown-picker",
+        "clone": "https://github.com/hossein-zare/react-native-dropdown-picker.git",
+        "homepage": "https://hossein-zare.github.io/react-native-dropdown-picker-website/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T10:46:45Z",
+        "createdAt": "2020-04-03T00:18:57Z",
+        "pushedAt": "2024-02-12T18:33:25Z",
+        "issues": 151,
+        "subscribers": 9,
+        "stars": 957,
+        "forks": 294
+      },
+      "name": "react-native-dropdown-picker",
+      "fullName": "hossein-zare/react-native-dropdown-picker",
+      "description": "A single / multiple, categorizable, customizable, localizable and searchable item picker (drop-down) component for react native which supports both Android & iOS.",
+      "topics": [
+        "picker",
+        "dropdown",
+        "menu",
+        "react-native",
+        "android",
+        "ios",
+        "javascript",
+        "select",
+        "multiple",
+        "single",
+        "searchable",
+        "placeholder",
+        "categorizable",
+        "category",
+        "multiple-pickers"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.4.6",
+        "tagName": "v5.4.6",
+        "createdAt": "2023-03-09T23:25:06Z",
+        "publishedAt": "2023-03-09T23:26:19Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 355295,
+      "weekDownloads": 77332,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "picker dropdown menu react-native android ios javascript select multiple single searchable placeholder categorizable category multiple-pickers",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.032,
+    "category": [
+      "picker",
+      "dropdown",
+      "menu",
+      "select",
+      "multiple",
+      "single",
+      "searchable",
+      "multiple-pickers"
+    ]
+  }
+]

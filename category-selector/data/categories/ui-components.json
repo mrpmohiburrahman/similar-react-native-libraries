@@ -1,0 +1,565 @@
+[
+  {
+    "githubUrl": "https://github.com/CareLuLu/react-native-web-jsonschema-form",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/CareLuLu/react-native-web-jsonschema-form",
+        "clone": "https://github.com/CareLuLu/react-native-web-jsonschema-form.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T18:57:24Z",
+        "createdAt": "2019-04-03T21:57:31Z",
+        "pushedAt": "2024-05-24T18:57:24Z",
+        "forks": 2,
+        "issues": 6,
+        "subscribers": 5,
+        "stars": 32
+      },
+      "name": "react-native-web-jsonschema-form",
+      "fullName": "CareLuLu/react-native-web-jsonschema-form",
+      "topics": [
+        "expo",
+        "react",
+        "react-native",
+        "react-native-web",
+        "react-component",
+        "ui-components",
+        "json-schema",
+        "react-form"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-web-jsonschema-form",
+    "npm": {
+      "downloads": 122,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 7
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.639,
+    "topicSearchString": "expo react react-native react-native-web react-component ui-components json-schema react-form",
+    "matchScore": 1,
+    "category": [
+      "ui-components"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wix/react-native-calendars",
+    "images": [
+      "https://raw.githubusercontent.com/wix/react-native-calendars/master/demo/calendar.gif",
+      "https://raw.githubusercontent.com/wix/react-native-calendars/master/demo/agenda.gif",
+      "https://raw.githubusercontent.com/wix/react-native-calendars/master/demo/multi-marking.png",
+      "https://raw.githubusercontent.com/wix/react-native-calendars/master/demo/calendar-list.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "goldstar": true,
+    "examples": [
+      "https://snack.expo.dev/HkoXUdhr-"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wix/react-native-calendars",
+        "clone": "https://github.com/wix/react-native-calendars.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-17T09:10:45Z",
+        "createdAt": "2016-11-11T12:17:27Z",
+        "pushedAt": "2024-04-17T09:10:45Z",
+        "forks": 2709,
+        "issues": 271,
+        "subscribers": 355,
+        "stars": 9248
+      },
+      "name": "react-native-calendars",
+      "fullName": "wix/react-native-calendars",
+      "description": "React Native Calendar Components 🗓️ 📆 ",
+      "topics": [
+        "react-native",
+        "android",
+        "ios",
+        "calendar",
+        "ui-components",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.1305.0",
+        "tagName": "1.1305.0",
+        "createdAt": "2024-05-15T11:19:00Z",
+        "publishedAt": "2024-05-15T11:21:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-calendars",
+    "npm": {
+      "downloads": 755977,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 170137
+    },
+    "score": 81,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recommended",
+      "Lots of open issues"
+    ],
+    "popularity": -0.025,
+    "topicSearchString": "react-native android ios calendar ui-components hacktoberfest",
+    "matchScore": 1,
+    "category": [
+      "ui-components"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Monte9/react-native-ratings",
+    "examples": [
+      "https://github.com/Monte9/react-native-ratings/tree/master/demo",
+      "https://expo.io/@monte9/react-native-ratings"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/Monte9/react-native-ratings/master/resources/tap_rating_1.png",
+      "https://raw.githubusercontent.com/Monte9/react-native-ratings/master/resources/tap_rating_2.png",
+      "https://raw.githubusercontent.com/Monte9/react-native-ratings/master/resources/swipe_rating_1.png",
+      "https://raw.githubusercontent.com/Monte9/react-native-ratings/master/resources/swipe_rating_2.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Monte9/react-native-ratings",
+        "clone": "https://github.com/Monte9/react-native-ratings.git",
+        "homepage": "https://expo.io/@monte9/react-native-ratings"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T02:12:34Z",
+        "createdAt": "2017-05-03T00:51:51Z",
+        "pushedAt": "2024-04-02T02:12:34Z",
+        "forks": 188,
+        "issues": 56,
+        "subscribers": 8,
+        "stars": 867
+      },
+      "name": "react-native-ratings",
+      "fullName": "Monte9/react-native-ratings",
+      "description": "Tap and Swipe Ratings component for React Native.",
+      "topics": [
+        "react-native",
+        "reactjs",
+        "reactnative",
+        "gestures",
+        "ios",
+        "stars",
+        "android",
+        "ratings",
+        "ui-components"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v8.1.0",
+        "tagName": "v8.1.0",
+        "createdAt": "2021-05-23T13:58:59Z",
+        "publishedAt": "2021-05-23T14:03:39Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-ratings",
+    "npm": {
+      "downloads": 786240,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 170578
+    },
+    "score": 81,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular"
+    ],
+    "popularity": -0.033,
+    "topicSearchString": "react-native reactjs reactnative gestures ios stars android ratings ui-components",
+    "matchScore": 1,
+    "category": [
+      "ui-components"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/thakurballary/react-native-btr",
+    "examples": [
+      "https://github.com/thakurballary/react-native-btr-demo"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ThakurBallary/react-native-btr",
+        "clone": "https://github.com/ThakurBallary/react-native-btr.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-12T05:49:17Z",
+        "createdAt": "2018-06-03T10:26:31Z",
+        "pushedAt": "2024-03-12T05:49:17Z",
+        "forks": 17,
+        "issues": 1,
+        "subscribers": 5,
+        "stars": 92
+      },
+      "name": "react-native-btr",
+      "fullName": "ThakurBallary/react-native-btr",
+      "description": "React Native UI Components :fire: :rocket: :star2:",
+      "topics": [
+        "android",
+        "ios",
+        "react-native-bottomsheet",
+        "react-native-checkbox",
+        "react-native-collapsible-card",
+        "react-native-color-picker",
+        "react-native-radio-buttons",
+        "react-native-snackbar",
+        "react-native-tags",
+        "react-native-ui-components",
+        "react-native-ui-elements",
+        "react-native-icon-picker"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-btr",
+    "npm": {
+      "downloads": 5982,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1188
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.051,
+    "topicSearchString": "android ios react-native-bottomsheet react-native-checkbox react-native-collapsible-card react-native-color-picker react-native-radio-buttons react-native-snackbar react-native-tags react-native-ui-components react-native-ui-elements react-native-icon-picker",
+    "matchScore": 1,
+    "category": [
+      "ui-components"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-elements/react-native-elements",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-elements/react-native-elements",
+        "clone": "https://github.com/react-native-elements/react-native-elements.git",
+        "homepage": "https://reactnativeelements.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-04T03:55:07Z",
+        "createdAt": "2016-09-08T14:21:41Z",
+        "pushedAt": "2024-02-04T03:55:07Z",
+        "forks": 4550,
+        "issues": 98,
+        "subscribers": 368,
+        "stars": 24674
+      },
+      "name": "react-native-elements",
+      "fullName": "react-native-elements/react-native-elements",
+      "description": "Cross-Platform React Native UI Toolkit",
+      "topics": [
+        "ui-components",
+        "react-native",
+        "ios",
+        "android",
+        "react",
+        "ui",
+        "mobile-app",
+        "hacktoberfest",
+        "cross-platform",
+        "hacktoberfest2023"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.0.0-rc.8",
+        "tagName": "v4.0.0-rc.8",
+        "createdAt": "2023-07-28T19:22:57Z",
+        "publishedAt": "2023-07-28T19:23:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-elements",
+    "npm": {
+      "downloads": 525853,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 111561
+    },
+    "score": 69,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": -0.038,
+    "topicSearchString": "ui-components react-native ios android react ui mobile-app hacktoberfest cross-platform hacktoberfest2023",
+    "matchScore": 1,
+    "category": [
+      "ui-components"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/GeekyAnts/NativeBase",
+    "npmPkg": "native-base",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "examples": [
+      "https://github.com/GeekyAnts/NativeBase/tree/master/example",
+      "https://github.com/GeekyAnts/NativeBase/tree/master/RNBareExample",
+      "https://github.com/nativebase/kitchen-sink",
+      "https://snack.expo.dev/@nishanbende/example",
+      "https://codesandbox.io/s/native-base-v3-template-mq6ox"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/GeekyAnts/NativeBase",
+        "clone": "https://github.com/GeekyAnts/NativeBase.git",
+        "homepage": "https://nativebase.io/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-08-04T14:06:36Z",
+        "createdAt": "2016-04-15T11:37:23Z",
+        "pushedAt": "2023-08-04T14:06:36Z",
+        "forks": 2307,
+        "issues": 267,
+        "subscribers": 269,
+        "stars": 20041
+      },
+      "name": "NativeBase",
+      "fullName": "GeekyAnts/NativeBase",
+      "description": "Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.",
+      "topics": [
+        "android",
+        "ios",
+        "react",
+        "native",
+        "react-native",
+        "native-modules",
+        "react-component",
+        "navbar",
+        "packager",
+        "nativebase",
+        "ui-components",
+        "native-platforms",
+        "nextjs",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.4.28",
+        "tagName": "v3.4.28",
+        "createdAt": "2023-03-06T08:05:15Z",
+        "publishedAt": "2023-03-06T09:32:54Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 253741,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 53574
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.039,
+    "topicSearchString": "android ios react native react-native native-modules react-component navbar packager nativebase ui-components native-platforms nextjs hacktoberfest",
+    "matchScore": 1,
+    "category": [
+      "ui-components"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jsartisan/react-native-magnus",
+    "examples": [
+      "https://github.com/jsartisan/react-native-magnus/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jsartisan/react-native-magnus",
+        "clone": "https://github.com/jsartisan/react-native-magnus.git",
+        "homepage": "https://magnus-ui.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-09-22T11:53:18Z",
+        "createdAt": "2019-11-22T05:52:01Z",
+        "pushedAt": "2022-09-22T11:53:18Z",
+        "forks": 75,
+        "issues": 26,
+        "subscribers": 12,
+        "stars": 1163
+      },
+      "name": "react-native-magnus",
+      "fullName": "jsartisan/react-native-magnus",
+      "description": "A Utility-First React Native UI Framework 🚀🧩",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "design-system",
+        "react",
+        "typescript",
+        "ui-components"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.63",
+        "tagName": "v1.0.63",
+        "createdAt": "2022-09-22T11:53:21Z",
+        "publishedAt": "2022-09-22T11:53:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-magnus",
+    "npm": {
+      "downloads": 4547,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 920
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.048,
+    "topicSearchString": "react-native ios android design-system react typescript ui-components",
+    "matchScore": 1,
+    "category": [
+      "ui-components"
+    ]
+  }
+]

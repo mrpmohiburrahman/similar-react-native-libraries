@@ -1,0 +1,210 @@
+[
+  {
+    "githubUrl": "https://github.com/mythisdev/rn-font-mapping",
+    "examples": [
+      "https://github.com/mythisdev/rn-font-mapping/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "rn-font-mapping",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mythisdev/rn-font-mapping",
+        "clone": "https://github.com/mythisdev/rn-font-mapping.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2020-05-21T03:35:31Z",
+        "createdAt": "2019-11-30T06:10:29Z",
+        "pushedAt": "2023-01-05T02:00:17Z",
+        "issues": 30,
+        "subscribers": 1,
+        "stars": 1,
+        "forks": 1
+      },
+      "name": "rn-font-mapping",
+      "fullName": "mythisdev/rn-font-mapping",
+      "description": "Mapping react native project's fontFamily with font weight and font style",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "font",
+        "rn"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 25,
+      "weekDownloads": 5,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android font rn",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.59,
+    "category": [
+      "font"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mthines/react-native-font-face",
+    "npmPkg": "@mthines/react-native-font-face",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mthines/react-native-font-face",
+        "clone": "https://github.com/mthines/react-native-font-face.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-11T17:57:12Z",
+        "createdAt": "2021-07-04T20:16:16Z",
+        "pushedAt": "2022-07-26T06:39:06Z",
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 6,
+        "forks": 0
+      },
+      "name": "react-native-font-face",
+      "fullName": "mthines/react-native-font-face",
+      "description": "Font Face (CSS style) for React Native made easy",
+      "topics": [
+        "react-native",
+        "font-face",
+        "font",
+        "typography",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 13,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native font-face font typography react",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.704,
+    "category": [
+      "font-face",
+      "font",
+      "typography"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-font",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-font",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2298104,
+      "weekDownloads": 532421,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.018,
+    "category": [
+      "font"
+    ]
+  }
+]

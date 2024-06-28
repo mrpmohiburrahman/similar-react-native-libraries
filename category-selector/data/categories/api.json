@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/infinitered/apisauce",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "apisauce",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/infinitered/apisauce",
+        "clone": "https://github.com/infinitered/apisauce.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T14:47:50Z",
+        "createdAt": "2016-04-10T00:44:42Z",
+        "pushedAt": "2024-01-12T20:22:24Z",
+        "issues": 40,
+        "subscribers": 35,
+        "stars": 2755,
+        "forks": 183
+      },
+      "name": "apisauce",
+      "fullName": "infinitered/apisauce",
+      "description": "Axios + standardized errors + request/response transforms.",
+      "topics": [
+        "axios",
+        "promise",
+        "api",
+        "react-native",
+        "reactjs"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.0.1",
+        "tagName": "v3.0.1",
+        "createdAt": "2023-06-17T01:07:43Z",
+        "publishedAt": "2023-06-17T01:07:51Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 418393,
+      "weekDownloads": 96073,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "axios promise api react-native reactjs",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.02,
+    "category": [
+      "api",
+      "axios"
+    ]
+  }
+]

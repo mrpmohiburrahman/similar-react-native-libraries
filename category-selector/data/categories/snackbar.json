@@ -1,0 +1,145 @@
+[
+  {
+    "githubUrl": "https://github.com/sidevesh/react-native-snackbar-component",
+    "examples": [
+      "https://github.com/sidevesh/react-native-snackbar-component/tree/master/example/react-native-snackbar-component-demo"
+    ],
+    "images": [
+      "https://media.giphy.com/media/zChTSWog7TNmM/giphy.gif",
+      "https://media.giphy.com/media/6oCCk98unakbC/giphy.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-snackbar-component",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sidevesh/react-native-snackbar-component",
+        "clone": "https://github.com/sidevesh/react-native-snackbar-component.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-22T09:24:06Z",
+        "createdAt": "2017-03-07T19:38:10Z",
+        "pushedAt": "2024-04-21T19:33:32Z",
+        "issues": 6,
+        "subscribers": 8,
+        "stars": 186,
+        "forks": 75
+      },
+      "name": "react-native-snackbar-component",
+      "fullName": "sidevesh/react-native-snackbar-component",
+      "description": "A snackbar component for Android and iOS",
+      "topics": [
+        "react-native",
+        "material-design",
+        "snackbar"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5308,
+      "weekDownloads": 1343,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native material-design snackbar",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.003,
+    "category": [
+      "snackbar"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/cooperka/react-native-snackbar",
+    "examples": [
+      "https://github.com/cooperka/react-native-snackbar/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/cooperka/react-native-snackbar/main/example/screenshots/snackbar.png"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-snackbar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/cooperka/react-native-snackbar",
+        "clone": "https://github.com/cooperka/react-native-snackbar.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T22:07:10Z",
+        "createdAt": "2016-04-06T15:06:29Z",
+        "pushedAt": "2024-05-15T05:58:59Z",
+        "issues": 29,
+        "subscribers": 13,
+        "stars": 813,
+        "forks": 147
+      },
+      "name": "react-native-snackbar",
+      "fullName": "cooperka/react-native-snackbar",
+      "description": ":candy: Material Design \"Snackbar\" component for Android and iOS.",
+      "topics": [
+        "android",
+        "material",
+        "snackbar",
+        "material-design",
+        "react-native",
+        "component"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v2.7.1",
+        "createdAt": "2023-05-10T13:59:11Z",
+        "publishedAt": "2023-05-10T14:01:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 52711,
+      "weekDownloads": 12344,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android material snackbar material-design react-native component",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.016,
+    "category": [
+      "snackbar"
+    ]
+  }
+]

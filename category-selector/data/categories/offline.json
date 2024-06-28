@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/rgommezz/react-native-offline",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "windows": true,
+    "examples": [
+      "https://expo.io/@rgommezz/react-native-offline-example"
+    ],
+    "npmPkg": "react-native-offline",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rgommezz/react-native-offline",
+        "clone": "https://github.com/rgommezz/react-native-offline.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T18:09:52Z",
+        "createdAt": "2017-03-27T18:21:49Z",
+        "pushedAt": "2023-03-04T11:06:55Z",
+        "issues": 15,
+        "subscribers": 24,
+        "stars": 2314,
+        "forks": 270
+      },
+      "name": "react-native-offline",
+      "fullName": "rgommezz/react-native-offline",
+      "description": "Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration ✈️",
+      "topics": [
+        "react",
+        "react-native",
+        "redux",
+        "offline",
+        "reactnative"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v6.0.1",
+        "tagName": "v6.0.1",
+        "createdAt": "2023-01-24T22:52:39Z",
+        "publishedAt": "2023-01-24T22:56:50Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 39589,
+      "weekDownloads": 9126,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native redux offline reactnative",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.019,
+    "category": [
+      "redux",
+      "offline"
+    ]
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "githubUrl": "https://github.com/hoangnm/react-native-week-view",
+    "examples": [
+      "https://github.com/hoangnm/react-native-week-view/tree/master/example"
+    ],
+    "images": [
+      "https://github.com/hoangnm/react-native-week-view/raw/master/images/gif.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-week-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/hoangnm/react-native-week-view",
+        "clone": "https://github.com/hoangnm/react-native-week-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T13:09:00Z",
+        "createdAt": "2017-12-10T08:25:06Z",
+        "pushedAt": "2024-05-16T20:04:11Z",
+        "issues": 30,
+        "subscribers": 5,
+        "stars": 272,
+        "forks": 96
+      },
+      "name": "react-native-week-view",
+      "fullName": "hoangnm/react-native-week-view",
+      "description": "Week View Component for react-native",
+      "topics": [
+        "react-native",
+        "component",
+        "weekview",
+        "calendar",
+        "calendar-view"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1485,
+      "weekDownloads": 485,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native component weekview calendar calendar-view",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.077,
+    "category": [
+      "weekview",
+      "calendar",
+      "calendar-view"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/acro5piano/react-native-big-calendar",
+    "examples": [
+      "https://github.com/acro5piano/react-native-big-calendar/tree/main/rndemo",
+      "https://react-native-big-calendar.vercel.app/"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/acro5piano/react-native-big-calendar/main/assets/screenshot-mobile.png",
+      "https://user-images.githubusercontent.com/10719495/117629046-b98a2480-b1b4-11eb-89df-02c373438e45.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "react-native-big-calendar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/acro5piano/react-native-big-calendar",
+        "clone": "https://github.com/acro5piano/react-native-big-calendar.git",
+        "homepage": "https://react-native-big-calendar.vercel.app"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T08:50:29Z",
+        "createdAt": "2019-12-04T05:49:58Z",
+        "pushedAt": "2024-05-16T21:47:04Z",
+        "issues": 70,
+        "subscribers": 9,
+        "stars": 400,
+        "forks": 133
+      },
+      "name": "react-native-big-calendar",
+      "fullName": "acro5piano/react-native-big-calendar",
+      "description": "gcal/outlook like calendar component for React Native",
+      "topics": [
+        "react",
+        "react-native",
+        "react-native-web",
+        "cross-platform",
+        "calendar",
+        "calendar-view",
+        "calendar-component"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.12.0",
+        "tagName": "v4.12.0",
+        "createdAt": "2024-05-06T09:01:25Z",
+        "publishedAt": "2024-05-06T09:02:42Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6124,
+      "weekDownloads": 1458,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native react-native-web cross-platform calendar calendar-view calendar-component",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.012,
+    "category": [
+      "calendar",
+      "calendar-view",
+      "calendar-component"
+    ]
+  }
+]

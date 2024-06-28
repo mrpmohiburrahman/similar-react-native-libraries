@@ -1,0 +1,84 @@
+[
+  {
+    "githubUrl": "https://github.com/raulpesilva/re-state",
+    "npmPkg": "@raulpesilva/re-state",
+    "examples": [
+      "https://github.com/raulpesilva/re-state/tree/master/examples"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "windows": true,
+    "macos": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/raulpesilva/re-state",
+        "clone": "https://github.com/raulpesilva/re-state.git",
+        "homepage": "restate.vercel.app"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-28T18:02:52Z",
+        "createdAt": "2021-03-01T14:48:52Z",
+        "pushedAt": "2023-04-03T16:49:48Z",
+        "issues": 0,
+        "subscribers": 4,
+        "stars": 20,
+        "forks": 1
+      },
+      "name": "re-state",
+      "fullName": "raulpesilva/re-state",
+      "description": null,
+      "topics": [
+        "re-state",
+        "restate",
+        "react",
+        "react-native",
+        "ios",
+        "android",
+        "expo",
+        "global",
+        "state",
+        "context"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.2.31",
+        "tagName": "v1.2.31",
+        "createdAt": "2022-09-03T22:07:45Z",
+        "publishedAt": "2022-09-03T22:16:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 807,
+      "weekDownloads": 289,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "re-state restate react react-native ios android expo global state context",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.009,
+    "category": [
+      "re-state",
+      "restate",
+      "state",
+      "context"
+    ]
+  }
+]

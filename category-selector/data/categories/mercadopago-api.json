@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/BlackBoxVision/react-native-mercadopago-px",
+    "npmPkg": "@blackbox-vision/react-native-mercadopago-px",
+    "examples": [
+      "https://github.com/BlackBoxVision/react-native-mercadopago-px/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/BlackBoxVision/react-native-mercadopago-px",
+        "clone": "https://github.com/BlackBoxVision/react-native-mercadopago-px.git",
+        "homepage": "https://react-native-mercadopago-px.blackbox-vision.tech"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T02:45:08Z",
+        "createdAt": "2020-05-21T01:43:28Z",
+        "pushedAt": "2023-03-04T22:34:48Z",
+        "issues": 33,
+        "subscribers": 6,
+        "stars": 104,
+        "forks": 25
+      },
+      "name": "react-native-mercadopago-px",
+      "fullName": "BlackBoxVision/react-native-mercadopago-px",
+      "description": "🚀 MercadoPago PX bridge for react-native",
+      "topics": [
+        "react-native",
+        "react",
+        "mercadopago",
+        "sdk",
+        "library",
+        "mercadopago-api",
+        "bridge",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.8.0",
+        "tagName": "v0.8.0",
+        "createdAt": "2022-09-08T13:14:03Z",
+        "publishedAt": "2022-09-08T13:14:09Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 39,
+      "weekDownloads": 4,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react mercadopago sdk library mercadopago-api bridge android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.578,
+    "category": [
+      "sdk",
+      "bridge",
+      "mercadopago-api"
+    ]
+  }
+]

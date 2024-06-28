@@ -1,0 +1,94 @@
+[
+  {
+    "githubUrl": "https://github.com/marcocesarato/react-native-input-spinner",
+    "images": [
+      "https://raw.githubusercontent.com/marcocesarato/react-native-input-spinner/master/images/example.png",
+      "https://raw.githubusercontent.com/marcocesarato/react-native-input-spinner/master/images/example_2.png",
+      "https://raw.githubusercontent.com/marcocesarato/react-native-input-spinner/master/images/skins.png",
+      "https://raw.githubusercontent.com/marcocesarato/react-native-input-spinner/master/images/customization.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-input-spinner",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/marcocesarato/react-native-input-spinner",
+        "clone": "https://github.com/marcocesarato/react-native-input-spinner.git",
+        "homepage": "https://marcocesarato.github.io/react-native-input-spinner/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T01:35:27Z",
+        "createdAt": "2019-06-06T19:30:24Z",
+        "pushedAt": "2024-03-21T02:57:06Z",
+        "issues": 21,
+        "subscribers": 2,
+        "stars": 397,
+        "forks": 33
+      },
+      "name": "react-native-input-spinner",
+      "fullName": "marcocesarato/react-native-input-spinner",
+      "description": "An extensible input number spinner component for react-native highly customizable. This component enhance a text input for entering numeric values, with increase and decrease buttons.",
+      "topics": [
+        "react-native",
+        "input",
+        "spinner",
+        "number",
+        "android",
+        "ios",
+        "int",
+        "float",
+        "decimal",
+        "selector",
+        "reactnative",
+        "react",
+        "component",
+        "stepper",
+        "step",
+        "numeric",
+        "expo"
+      ],
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdxId": "GPL-3.0",
+        "url": "https://api.github.com/licenses/gpl-3.0",
+        "id": "MDc6TGljZW5zZTk="
+      },
+      "lastRelease": {
+        "name": "Release 1.8.1",
+        "tagName": "v1.8.1",
+        "createdAt": "2023-04-25T15:22:48Z",
+        "publishedAt": "2023-04-25T15:29:05Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6784,
+      "weekDownloads": 1954,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native input spinner number android ios int float decimal selector reactnative react component stepper step numeric expo",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "GPL license",
+      "Recently updated"
+    ],
+    "popularity": 0.038,
+    "category": [
+      "input",
+      "stepper",
+      "step"
+    ]
+  }
+]

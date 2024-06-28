@@ -1,0 +1,59 @@
+[
+  {
+    "githubUrl": "https://github.com/shokimble/react-native-google-play-game-services",
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-google-play-game-services",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/shokimble/react-native-google-play-game-services",
+        "clone": "https://github.com/shokimble/react-native-google-play-game-services.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-02T03:01:05Z",
+        "createdAt": "2018-03-10T04:16:32Z",
+        "pushedAt": "2020-10-18T10:21:39Z",
+        "issues": 4,
+        "subscribers": 4,
+        "stars": 22,
+        "forks": 15
+      },
+      "name": "react-native-google-play-game-services",
+      "fullName": "shokimble/react-native-google-play-game-services",
+      "description": "Google Play Game Services Bindings for React Native on Android",
+      "topics": [
+        "react-native",
+        "android",
+        "google-play-games",
+        "google-play-service"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8,
+      "weekDownloads": 2,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android google-play-games google-play-service",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.8,
+    "category": [
+      "google-play-games",
+      "google-play-service"
+    ]
+  }
+]

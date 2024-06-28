@@ -1,0 +1,82 @@
+[
+  {
+    "githubUrl": "https://github.com/shahen94/react-native-video-processing",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-video-processing",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/shahen94/react-native-video-processing",
+        "clone": "https://github.com/shahen94/react-native-video-processing.git",
+        "homepage": "https://shahen94.github.io/react-native-video-processing/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T21:03:59Z",
+        "createdAt": "2016-11-13T14:10:21Z",
+        "pushedAt": "2024-04-15T12:44:07Z",
+        "issues": 131,
+        "subscribers": 28,
+        "stars": 1233,
+        "forks": 320
+      },
+      "name": "react-native-video-processing",
+      "fullName": "shahen94/react-native-video-processing",
+      "description": "Native Video editing/trimming/compressing  :movie_camera: library for React-Native",
+      "topics": [
+        "react",
+        "react-native",
+        "video",
+        "javascript",
+        "processing",
+        "xcode",
+        "ios-video-editor",
+        "android-video-editor",
+        "ios",
+        "android",
+        "swift",
+        "java"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.13.0",
+        "tagName": "v1.13.0",
+        "createdAt": "2017-11-01T09:00:15Z",
+        "publishedAt": "2017-11-01T09:14:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1337,
+      "weekDownloads": 227,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native video javascript processing xcode ios-video-editor android-video-editor ios android swift java",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.08,
+    "category": [
+      "video",
+      "ios-video-editor",
+      "android-video-editor"
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "githubUrl": "https://github.com/oblador/react-native-pinchable",
+    "examples": [
+      "https://github.com/oblador/react-native-pinchable/tree/master/Example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/378279/50738295-9610d280-11d2-11e9-9dba-c0005fa9bfaf.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-pinchable",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-pinchable",
+        "clone": "https://github.com/oblador/react-native-pinchable.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-15T03:11:51Z",
+        "createdAt": "2019-01-06T14:44:11Z",
+        "pushedAt": "2023-12-12T15:32:41Z",
+        "issues": 18,
+        "subscribers": 1,
+        "stars": 219,
+        "forks": 22
+      },
+      "name": "react-native-pinchable",
+      "fullName": "oblador/react-native-pinchable",
+      "description": "Instagram like pinch to zoom for React Native",
+      "topics": [
+        "react-native",
+        "gesture",
+        "pinch-to-zoom"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11390,
+      "weekDownloads": 3195,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native gesture pinch-to-zoom",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.031,
+    "category": [
+      "gesture",
+      "pinch-to-zoom"
+    ]
+  }
+]

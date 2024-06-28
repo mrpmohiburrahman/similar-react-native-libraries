@@ -1,0 +1,355 @@
+{
+  "libraries": [
+    {
+      "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-gl",
+      "ios": true,
+      "android": true,
+      "web": true,
+      "expoGo": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/expo/expo",
+          "clone": "https://github.com/expo/expo.git",
+          "homepage": "https://docs.expo.dev/versions/latest/sdk/gl-view/"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2024-05-20T13:11:38Z",
+          "createdAt": "2016-08-15T17:14:25Z",
+          "pushedAt": "2024-05-20T13:11:38Z",
+          "forks": 4663,
+          "issues": 405,
+          "subscribers": 288,
+          "stars": 29826
+        },
+        "name": "expo-gl",
+        "fullName": "expo/expo",
+        "description": "Provides GLView that acts as OpenGL ES render target and gives GL context object implementing WebGL 2.0 specification.",
+        "topics": [
+          "react-native",
+          "expo",
+          "gl",
+          "glview",
+          "webgl"
+        ],
+        "license": {
+          "name": "MIT License",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz",
+          "key": "mit",
+          "spdxId": "MIT"
+        },
+        "hasTypes": true,
+        "newArchitecture": false
+      },
+      "images": [],
+      "npmPkg": "expo-gl",
+      "npm": {
+        "downloads": 33489,
+        "start": "2024-04-24",
+        "end": "2024-05-23",
+        "period": "month",
+        "weekDownloads": 6952
+      },
+      "score": 75,
+      "matchingScoreModifiers": [
+        "Very popular",
+        "Popular",
+        "Lots of open issues",
+        "Recently updated"
+      ],
+      "popularity": -0.042,
+      "topicSearchString": "react-native expo gl glview webgl",
+      "matchScore": 11
+    },
+    {
+      "githubUrl": "https://github.com/gre/gl-react",
+      "ios": true,
+      "android": true,
+      "expoGo": true,
+      "web": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/gre/gl-react",
+          "clone": "https://github.com/gre/gl-react.git",
+          "homepage": "https://gl-react-cookbook.surge.sh"
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2023-03-25T10:19:45Z",
+          "createdAt": "2015-08-17T15:49:51Z",
+          "pushedAt": "2023-03-25T10:19:45Z",
+          "forks": 159,
+          "issues": 47,
+          "subscribers": 47,
+          "stars": 2904
+        },
+        "name": "gl-react",
+        "fullName": "gre/gl-react",
+        "description": "gl-react – React library to write and compose WebGL shaders",
+        "topics": [
+          "react",
+          "webgl",
+          "universal",
+          "react-native",
+          "glsl"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "lastRelease": {
+          "name": "",
+          "tagName": "v5.2.0",
+          "createdAt": "2022-05-28T19:48:19Z",
+          "publishedAt": "2022-05-28T19:48:54Z",
+          "isPrerelease": false
+        },
+        "hasTypes": false,
+        "newArchitecture": false
+      },
+      "images": [],
+      "npmPkg": "gl-react",
+      "npm": {
+        "downloads": 7656,
+        "start": "2024-04-24",
+        "end": "2024-05-23",
+        "period": "month",
+        "weekDownloads": 1452
+      },
+      "score": 44,
+      "matchingScoreModifiers": [
+        "Popular",
+        "Not updated recently"
+      ],
+      "popularity": -0.06,
+      "topicSearchString": "react webgl universal react-native glsl",
+      "matchScore": 11
+    },
+    {
+      "githubUrl": "https://github.com/expo/expo-2d-context",
+      "ios": true,
+      "android": true,
+      "expoGo": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/expo/expo-2d-context",
+          "clone": "https://github.com/expo/expo-2d-context.git",
+          "homepage": ""
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": false,
+          "updatedAt": "2023-11-17T10:38:08Z",
+          "createdAt": "2018-10-11T23:45:17Z",
+          "pushedAt": "2023-11-17T10:38:08Z",
+          "forks": 8,
+          "issues": 17,
+          "subscribers": 14,
+          "stars": 105
+        },
+        "name": "expo-2d-context",
+        "fullName": "expo/expo-2d-context",
+        "description": "A pure-js implementation of the W3C's Canvas-2D Context API that can be run on either Expo Graphics or WebGL",
+        "topics": [],
+        "license": {
+          "name": "MIT License",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz",
+          "key": "mit",
+          "spdxId": "MIT"
+        },
+        "hasTypes": true,
+        "newArchitecture": false
+      },
+      "images": [],
+      "npmPkg": "expo-2d-context",
+      "npm": {
+        "downloads": 53069,
+        "start": "2024-04-24",
+        "end": "2024-05-23",
+        "period": "month",
+        "weekDownloads": 9034
+      },
+      "score": 38,
+      "matchingScoreModifiers": [
+        "Not updated recently"
+      ],
+      "popularity": -0.08,
+      "topicSearchString": "",
+      "matchScore": 10
+    },
+    {
+      "githubUrl": "https://github.com/flyskywhy/react-native-gcanvas",
+      "npmPkg": "@flyskywhy/react-native-gcanvas",
+      "ios": true,
+      "android": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/flyskywhy/react-native-gcanvas",
+          "clone": "https://github.com/flyskywhy/react-native-gcanvas.git",
+          "homepage": ""
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": true,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2023-12-22T00:06:10Z",
+          "createdAt": "2020-12-06T10:35:53Z",
+          "pushedAt": "2023-12-22T00:06:10Z",
+          "forks": 21,
+          "issues": 4,
+          "subscribers": 6,
+          "stars": 196
+        },
+        "name": "react-native-gcanvas",
+        "fullName": "flyskywhy/react-native-gcanvas",
+        "description": "react native canvas based on gpu opengl glsl GCanvas -- A lightweight cross-platform graphics rendering engine. (超轻量的跨平台图形引擎)",
+        "topics": [
+          "2d",
+          "3d",
+          "android",
+          "babylon",
+          "babylon.js",
+          "babylonjs",
+          "canvas",
+          "dogz",
+          "font",
+          "gcanvas",
+          "glsl",
+          "gpu",
+          "ios",
+          "multiple-touches",
+          "native",
+          "offscreen-canvas",
+          "particles-bg",
+          "pixel-animation-editor",
+          "pixel-art-animation-editor",
+          "pixel-art-editor",
+          "pixel-gif-editor",
+          "pixel-editor",
+          "pixi",
+          "proton",
+          "react-native",
+          "shader",
+          "opengl",
+          "webgl",
+          "zdog"
+        ],
+        "license": {
+          "key": "apache-2.0",
+          "name": "Apache License 2.0",
+          "spdxId": "Apache-2.0",
+          "url": "http://choosealicense.com/licenses/apache-2.0/",
+          "id": "MDc6TGljZW5zZTI="
+        },
+        "hasTypes": false,
+        "newArchitecture": false
+      },
+      "images": [],
+      "npm": {
+        "downloads": 3015,
+        "weekDownloads": 1141,
+        "start": "2024-04-24",
+        "end": "2024-05-23",
+        "period": "month"
+      },
+      "score": 50,
+      "matchingScoreModifiers": [],
+      "popularity": 0.129,
+      "topicSearchString": "2d 3d android babylon babylon.js babylonjs canvas dogz font gcanvas glsl gpu ios multiple-touches native offscreen-canvas particles-bg pixel-animation-editor pixel-art-animation-editor pixel-art-editor pixel-gif-editor pixel-editor pixi proton react-native shader opengl webgl zdog",
+      "matchScore": 1
+    },
+    {
+      "githubUrl": "https://github.com/expo/expo-pixi",
+      "ios": true,
+      "android": true,
+      "web": true,
+      "expoGo": true,
+      "github": {
+        "urls": {
+          "repo": "https://github.com/expo/expo-pixi",
+          "clone": "https://github.com/expo/expo-pixi.git",
+          "homepage": null
+        },
+        "stats": {
+          "hasIssues": true,
+          "hasWiki": true,
+          "hasPages": false,
+          "hasDownloads": true,
+          "hasTopics": true,
+          "updatedAt": "2022-05-16T16:19:09Z",
+          "createdAt": "2017-12-13T22:39:37Z",
+          "pushedAt": "2022-05-16T16:19:09Z",
+          "forks": 110,
+          "issues": 75,
+          "subscribers": 12,
+          "stars": 304
+        },
+        "name": "expo-pixi",
+        "fullName": "expo/expo-pixi",
+        "description": "Tools for using pixi.js in Expo",
+        "topics": [
+          "react",
+          "native",
+          "expo",
+          "exponent",
+          "game",
+          "gl",
+          "graphics",
+          "opengl",
+          "2d",
+          "pixi",
+          "pixi.js",
+          "sprite",
+          "webgl",
+          "cross-platform",
+          "signature"
+        ],
+        "license": {
+          "key": "mit",
+          "name": "MIT License",
+          "spdxId": "MIT",
+          "url": "http://choosealicense.com/licenses/mit/",
+          "id": "MDc6TGljZW5zZTEz"
+        },
+        "hasTypes": false,
+        "newArchitecture": false
+      },
+      "images": [],
+      "npmPkg": "expo-pixi",
+      "npm": {
+        "downloads": 713,
+        "start": "2024-04-24",
+        "end": "2024-05-23",
+        "period": "month",
+        "weekDownloads": 104
+      },
+      "score": 25,
+      "matchingScoreModifiers": [
+        "Lots of open issues",
+        "Not updated recently"
+      ],
+      "popularity": -0.104,
+      "topicSearchString": "react native expo exponent game gl graphics opengl 2d pixi pixi.js sprite webgl cross-platform signature",
+      "matchScore": 1
+    }
+  ],
+  "total": 5
+}

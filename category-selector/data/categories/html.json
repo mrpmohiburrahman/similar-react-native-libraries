@@ -1,0 +1,152 @@
+[
+  {
+    "githubUrl": "https://github.com/archriss/react-native-render-html",
+    "images": [
+      "https://i.giphy.com/26tkmjBLvThP0TSak.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-render-html",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/meliorence/react-native-render-html",
+        "clone": "https://github.com/meliorence/react-native-render-html.git",
+        "homepage": "https://meliorence.github.io/react-native-render-html/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T12:12:40Z",
+        "createdAt": "2016-11-29T10:50:53Z",
+        "pushedAt": "2024-05-14T16:37:44Z",
+        "issues": 53,
+        "subscribers": 32,
+        "stars": 3403,
+        "forks": 569
+      },
+      "name": "react-native-render-html",
+      "fullName": "meliorence/react-native-render-html",
+      "description": "iOS/Android pure javascript react-native component that renders your HTML into 100% native views",
+      "topics": [
+        "react-native",
+        "render",
+        "html",
+        "styling",
+        "css",
+        "customizable",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "bsd-2-clause",
+        "name": "BSD 2-Clause \"Simplified\" License",
+        "spdxId": "BSD-2-Clause",
+        "url": "https://api.github.com/licenses/bsd-2-clause",
+        "id": "MDc6TGljZW5zZTQ="
+      },
+      "lastRelease": {
+        "name": "Release 6.4.0",
+        "tagName": "v6.4.0",
+        "createdAt": "2022-12-23T10:48:18Z",
+        "publishedAt": "2022-12-23T10:48:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 801192,
+      "weekDownloads": 180139,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native render html styling css customizable ios android",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.025,
+    "category": [
+      "html"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jsdf/react-native-htmlview",
+    "images": [
+      "https://i.imgur.com/FYOgBYc.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-htmlview",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jsdf/react-native-htmlview",
+        "clone": "https://github.com/jsdf/react-native-htmlview.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T11:52:28Z",
+        "createdAt": "2015-04-01T03:20:10Z",
+        "pushedAt": "2023-11-28T16:59:48Z",
+        "issues": 143,
+        "subscribers": 46,
+        "stars": 2686,
+        "forks": 467
+      },
+      "name": "react-native-htmlview",
+      "fullName": "jsdf/react-native-htmlview",
+      "description": "A React Native component which renders HTML content as native views",
+      "topics": [
+        "react",
+        "react-native",
+        "html",
+        "html-parser",
+        "html-renderer",
+        "react-component"
+      ],
+      "license": {
+        "key": "isc",
+        "name": "ISC License",
+        "spdxId": "ISC",
+        "url": "https://api.github.com/licenses/isc",
+        "id": "MDc6TGljZW5zZTEw"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 130743,
+      "weekDownloads": 28894,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native html html-parser html-renderer react-component",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "html",
+      "html-parser",
+      "html-renderer"
+    ]
+  }
+]

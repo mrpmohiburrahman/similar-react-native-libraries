@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/khalisafkari/react-native-sdkx",
+    "examples": [
+      "https://github.com/khalisafkari/react-native-sdkx/tree/main/example"
+    ],
+    "images": [
+      "https://i.ibb.co/mD121Jt/Untitled-presentation.png",
+      "https://i.ibb.co/104bgFX/Screenshot-1603528544.png",
+      "https://i.ibb.co/SmsfW9Q/Screenshot-1603528555.png"
+    ],
+    "android": true,
+    "npmPkg": "react-native-sdkx",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/khalisafkari/react-native-sdkx",
+        "clone": "https://github.com/khalisafkari/react-native-sdkx.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-10-13T03:12:46Z",
+        "createdAt": "2020-10-23T05:15:58Z",
+        "pushedAt": "2023-03-05T14:39:17Z",
+        "issues": 11,
+        "subscribers": 2,
+        "stars": 6,
+        "forks": 0
+      },
+      "name": "react-native-sdkx",
+      "fullName": "khalisafkari/react-native-sdkx",
+      "description": "GreedyGame is an end-to-end implementation, mediation and optimization platform for Ads, support Admob, FacebookAds, Mopub,",
+      "topics": [
+        "greedygame",
+        "admob",
+        "monetization",
+        "react-native",
+        "android",
+        "facebook",
+        "mopub-ads"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.8",
+        "tagName": "v0.1.8",
+        "createdAt": "2020-11-02T02:35:01Z",
+        "publishedAt": "2020-11-02T02:38:17Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "greedygame admob monetization react-native android facebook mopub-ads",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.683,
+    "category": [
+      "greedygame",
+      "admob"
+    ]
+  }
+]

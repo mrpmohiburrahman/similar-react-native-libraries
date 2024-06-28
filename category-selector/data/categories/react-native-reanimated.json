@@ -1,0 +1,68 @@
+[
+  {
+    "githubUrl": "https://github.com/alikazemkhanloo/react-native-reanimated-slider",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-reanimated-slider",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/alikazemkhanloo/react-native-reanimated-slider",
+        "clone": "https://github.com/alikazemkhanloo/react-native-reanimated-slider.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-29T12:29:53Z",
+        "createdAt": "2019-08-11T08:45:01Z",
+        "pushedAt": "2023-07-11T01:06:05Z",
+        "issues": 8,
+        "subscribers": 3,
+        "stars": 80,
+        "forks": 16
+      },
+      "name": "react-native-reanimated-slider",
+      "fullName": "alikazemkhanloo/react-native-reanimated-slider",
+      "description": "a reanimated slider for video players",
+      "topics": [
+        "react-native",
+        "ios",
+        "react",
+        "android",
+        "react-native-reanimated",
+        "slider-component"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "Release v2.0.0",
+        "tagName": "v2.0.0",
+        "createdAt": "2021-10-28T20:55:10Z",
+        "publishedAt": "2021-10-28T21:04:04Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 201,
+      "weekDownloads": 37,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios react android react-native-reanimated slider-component",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.515,
+    "category": [
+      "react-native-reanimated",
+      "slider-component"
+    ]
+  }
+]

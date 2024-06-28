@@ -1,0 +1,171 @@
+[
+  {
+    "githubUrl": "https://github.com/react-hook-form/react-hook-form",
+    "examples": [
+      "https://snack.expo.dev/@bluebill1049/react-hook-form"
+    ],
+    "ios": true,
+    "web": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-hook-form",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-hook-form/react-hook-form",
+        "clone": "https://github.com/react-hook-form/react-hook-form.git",
+        "homepage": "https://react-hook-form.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:28:55Z",
+        "createdAt": "2019-03-05T23:47:10Z",
+        "pushedAt": "2024-05-25T10:13:24Z",
+        "issues": 38,
+        "subscribers": 169,
+        "stars": 39924,
+        "forks": 1995
+      },
+      "name": "react-hook-form",
+      "fullName": "react-hook-form/react-hook-form",
+      "description": "📋 React Hooks for form state management and validation (Web + React Native)",
+      "topics": [
+        "typescript",
+        "react-hooks",
+        "forms",
+        "validation",
+        "react-native",
+        "form-builder",
+        "dx",
+        "ux",
+        "reactjs"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v7.51.5",
+        "tagName": "v7.51.5",
+        "createdAt": "2024-05-21T11:32:46Z",
+        "publishedAt": "2024-05-21T11:35:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 21098897,
+      "weekDownloads": 5033558,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "typescript react-hooks forms validation react-native form-builder dx ux reactjs",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.011,
+    "category": [
+      "react-hooks",
+      "forms",
+      "validation",
+      "form-builder"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/bietkul/react-reactive-form",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-reactive-form",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bietkul/react-reactive-form",
+        "clone": "https://github.com/bietkul/react-reactive-form.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-20T13:18:08Z",
+        "createdAt": "2017-11-17T06:55:59Z",
+        "pushedAt": "2023-10-18T02:42:45Z",
+        "issues": 18,
+        "subscribers": 13,
+        "stars": 308,
+        "forks": 34
+      },
+      "name": "react-reactive-form",
+      "fullName": "bietkul/react-reactive-form",
+      "description": "Angular like reactive forms in React.",
+      "topics": [
+        "forms",
+        "reactive-forms",
+        "async-validation",
+        "react",
+        "react-native",
+        "form-builder",
+        "form-validation",
+        "subscription",
+        "observable",
+        "observer",
+        "asynchronous",
+        "react-forms",
+        "form-generator",
+        "form-controls",
+        "form-fields"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "New Specs & Bug Fixes",
+        "tagName": "1.0.28",
+        "createdAt": "2018-08-19T20:42:51Z",
+        "publishedAt": "2018-08-19T20:51:29Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2974,
+      "weekDownloads": 751,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "forms reactive-forms async-validation react react-native form-builder form-validation subscription observable observer asynchronous react-forms form-generator form-controls form-fields",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.003,
+    "category": [
+      "forms",
+      "reactive-forms",
+      "form-builder",
+      "form-validation",
+      "react-forms",
+      "form-generator",
+      "form-controls",
+      "form-fields"
+    ]
+  }
+]

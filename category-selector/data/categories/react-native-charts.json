@@ -1,0 +1,89 @@
+[
+  {
+    "githubUrl": "https://github.com/JesperLekland/react-native-svg-charts",
+    "images": [
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/area-chart.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/area-stack.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/bar-chart.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/bar-stack-horizontal.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/pie-chart.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/progress-circle.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/y-axis.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-svg-charts",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/JesperLekland/react-native-svg-charts",
+        "clone": "https://github.com/JesperLekland/react-native-svg-charts.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T19:50:46Z",
+        "createdAt": "2017-10-30T09:28:29Z",
+        "pushedAt": "2024-04-18T08:49:48Z",
+        "issues": 213,
+        "subscribers": 15,
+        "stars": 2320,
+        "forks": 385
+      },
+      "name": "react-native-svg-charts",
+      "fullName": "JesperLekland/react-native-svg-charts",
+      "description": "📈 One library to rule all charts for React Native 📊",
+      "topics": [
+        "react-native",
+        "react-native-charts",
+        "react-native-d3",
+        "d3",
+        "charts",
+        "svg",
+        "react-native-svg"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.3.0",
+        "tagName": "v5.3.0",
+        "createdAt": "2019-07-06T17:26:24Z",
+        "publishedAt": "2019-07-06T17:27:57Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 163385,
+      "weekDownloads": 36103,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-charts react-native-d3 d3 charts svg react-native-svg",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "d3",
+      "charts",
+      "react-native-d3",
+      "react-native-charts"
+    ]
+  }
+]

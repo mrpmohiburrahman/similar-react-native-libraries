@@ -1,0 +1,165 @@
+[
+  {
+    "githubUrl": "https://github.com/margelo/react-native-release-profiler",
+    "examples": [
+      "https://github.com/margelo/react-native-release-profiler/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "npmPkg": "react-native-release-profiler",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-release-profiler",
+        "clone": "https://github.com/margelo/react-native-release-profiler.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T19:28:12Z",
+        "createdAt": "2023-11-30T18:00:11Z",
+        "pushedAt": "2024-01-17T11:01:36Z",
+        "issues": 2,
+        "subscribers": 7,
+        "stars": 182,
+        "forks": 0
+      },
+      "name": "react-native-release-profiler",
+      "fullName": "margelo/react-native-release-profiler",
+      "description": "A fast and simple library to passively profile JS/Hermes performance in production and release builds.",
+      "topics": [
+        "debug",
+        "debugger",
+        "hermes",
+        "jsi",
+        "perf",
+        "performance",
+        "production",
+        "profiler",
+        "profiling",
+        "release",
+        "sample",
+        "trace"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.6",
+        "tagName": "v0.1.6",
+        "createdAt": "2024-01-17T11:01:33Z",
+        "publishedAt": "2024-01-17T11:01:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11344,
+      "weekDownloads": 1254,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "debug debugger hermes jsi perf performance production profiler profiling release sample trace",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.139,
+    "category": [
+      "performance",
+      "profiler",
+      "profiling",
+      "release",
+      "trace",
+      "debug",
+      "debugger",
+      "hermes",
+      "perf"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/zacharyfmarion/react-native-heap-profiler",
+    "examples": [
+      "https://github.com/zacharyfmarion/react-native-heap-profiler/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "npmPkg": "react-native-heap-profiler",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zacharyfmarion/react-native-heap-profiler",
+        "clone": "https://github.com/zacharyfmarion/react-native-heap-profiler.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-29T21:02:40Z",
+        "createdAt": "2024-01-25T09:04:53Z",
+        "pushedAt": "2024-01-27T20:38:42Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 6,
+        "forks": 0
+      },
+      "name": "react-native-heap-profiler",
+      "fullName": "zacharyfmarion/react-native-heap-profiler",
+      "description": "🔍 Heap profiling for hermes",
+      "topics": [
+        "debugging",
+        "heap",
+        "jsi",
+        "memory",
+        "observability",
+        "profiling",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.2",
+        "tagName": "v0.2.2",
+        "createdAt": "2024-01-27T20:38:40Z",
+        "publishedAt": "2024-01-27T20:39:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 17,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "debugging heap jsi memory observability profiling react-native",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.726,
+    "category": [
+      "debugging",
+      "heap",
+      "profiling"
+    ]
+  }
+]

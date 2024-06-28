@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/vonovak/react-native-theme-control",
+    "npmPkg": "@vonovak/react-native-theme-control",
+    "examples": [
+      "https://github.com/vonovak/react-native-theme-control/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/vonovak-org/react-native-theme-control",
+        "clone": "https://github.com/vonovak-org/react-native-theme-control.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-30T13:01:44Z",
+        "createdAt": "2022-06-21T18:48:40Z",
+        "pushedAt": "2024-01-15T16:58:02Z",
+        "issues": 2,
+        "subscribers": 3,
+        "stars": 128,
+        "forks": 0
+      },
+      "name": "react-native-theme-control",
+      "fullName": "vonovak-org/react-native-theme-control",
+      "description": "Natively control react native application theme at runtime and persist it for the next app start.",
+      "topics": [
+        "react-native",
+        "theme",
+        "dark",
+        "dark-mode",
+        "apearance",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.1.0",
+        "tagName": "v5.1.0",
+        "createdAt": "2023-12-22T23:58:20Z",
+        "publishedAt": "2023-12-22T23:58:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1299,
+      "weekDownloads": 354,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native theme dark dark-mode apearance hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.023,
+    "category": [
+      "theme",
+      "apearance"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/kalontech/ReactNativeWheelPicker",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-wheel-picker-android",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Cero-Studio/ReactNativeWheelPicker",
+        "clone": "https://github.com/Cero-Studio/ReactNativeWheelPicker.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2020-10-02T11:53:43Z",
+        "createdAt": "2016-12-14T08:45:38Z",
+        "pushedAt": "2020-10-02T11:53:43Z",
+        "forks": 187,
+        "issues": 40,
+        "subscribers": 9,
+        "stars": 377
+      },
+      "name": "ReactNativeWheelPicker",
+      "fullName": "Cero-Studio/ReactNativeWheelPicker",
+      "description": "Simple Wheel Picker for Android to use with react-native",
+      "topics": [
+        "react-component",
+        "react-native",
+        "android",
+        "picker",
+        "wheel-picker",
+        "date-picker",
+        "date-wheel-picker"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 37738,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 8388
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.028,
+    "topicSearchString": "react-component react-native android picker wheel-picker date-picker date-wheel-picker",
+    "matchScore": 1,
+    "category": [
+      "date-picker"
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "githubUrl": "https://github.com/vitalets/react-native-extended-stylesheet",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-extended-stylesheet",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/vitalets/react-native-extended-stylesheet",
+        "clone": "https://github.com/vitalets/react-native-extended-stylesheet.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T16:22:29Z",
+        "createdAt": "2016-02-02T18:02:10Z",
+        "pushedAt": "2023-02-27T16:44:18Z",
+        "issues": 20,
+        "subscribers": 38,
+        "stars": 2915,
+        "forks": 138
+      },
+      "name": "react-native-extended-stylesheet",
+      "fullName": "vitalets/react-native-extended-stylesheet",
+      "description": "Extended StyleSheets for React Native",
+      "topics": [
+        "react",
+        "react-native",
+        "stylesheets",
+        "theme",
+        "theming",
+        "style",
+        "styling"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 51550,
+      "weekDownloads": 13389,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native stylesheets theme theming style styling",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": 0.01,
+    "category": [
+      "stylesheets",
+      "theme",
+      "theming",
+      "style",
+      "styling"
+    ]
+  }
+]

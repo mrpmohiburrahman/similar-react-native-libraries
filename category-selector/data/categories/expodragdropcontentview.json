@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/AlirezaHadjar/expo-drag-drop-content-view/tree/main/packages/expo-drag-drop-content-view",
+    "examples": [
+      "https://github.com/AlirezaHadjar/expo-drag-drop-content-view/tree/main/apps/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/AlirezaHadjar/expo-drag-drop-content-view/main/apps/docs/static/img/ios.gif",
+      "https://raw.githubusercontent.com/AlirezaHadjar/expo-drag-drop-content-view/main/apps/docs/static/img/android.gif",
+      "https://raw.githubusercontent.com/AlirezaHadjar/expo-drag-drop-content-view/main/apps/docs/static/img/web.gif",
+      "https://raw.githubusercontent.com/AlirezaHadjar/expo-drag-drop-content-view/main/apps/docs/static/img/ipados.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/AlirezaHadjar/expo-drag-drop-content-view",
+        "clone": "https://github.com/AlirezaHadjar/expo-drag-drop-content-view.git",
+        "homepage": "https://github.com/AlirezaHadjar/expo-drag-drop-content-view#readme"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T08:43:24Z",
+        "createdAt": "2023-08-23T16:18:21Z",
+        "pushedAt": "2024-05-24T08:43:24Z",
+        "forks": 2,
+        "issues": 1,
+        "subscribers": 3,
+        "stars": 180
+      },
+      "name": "expo-drag-drop-content-view",
+      "fullName": "AlirezaHadjar/expo-drag-drop-content-view",
+      "description": "A Superset of View which listens for dragged contents",
+      "topics": [
+        "react-native",
+        "expo",
+        "expo-drag-drop-content-view",
+        "expodragdropcontentview"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "expo-drag-drop-content-view",
+    "npm": {
+      "downloads": 297,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 80
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.02,
+    "topicSearchString": "react-native expo expo-drag-drop-content-view expodragdropcontentview",
+    "matchScore": 1,
+    "category": [
+      "expodragdropcontentview"
+    ]
+  }
+]

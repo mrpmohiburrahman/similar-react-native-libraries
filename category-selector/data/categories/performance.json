@@ -1,0 +1,295 @@
+[
+  {
+    "githubUrl": "https://github.com/oblador/react-native-performance/tree/master/packages/react-native-performance",
+    "examples": [
+      "https://github.com/oblador/react-native-performance/tree/master/examples/vanilla"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/378279/105892056-9f677480-6011-11eb-895a-f3f8653449c8.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-performance",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-performance",
+        "clone": "https://github.com/oblador/react-native-performance.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T20:50:11Z",
+        "createdAt": "2019-11-30T17:19:06Z",
+        "pushedAt": "2024-03-08T21:36:31Z",
+        "issues": 9,
+        "subscribers": 9,
+        "stars": 897,
+        "forks": 38
+      },
+      "name": "react-native-performance",
+      "fullName": "oblador/react-native-performance",
+      "description": "📐 Monitor and measure React Native performance",
+      "topics": [
+        "flipper",
+        "metrics",
+        "performance",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "5.1.2",
+        "tagName": "v5.1.2",
+        "createdAt": "2024-03-08T21:36:30Z",
+        "publishedAt": "2024-03-08T21:37:22Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 237250,
+      "weekDownloads": 39852,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "flipper metrics performance react-native",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.082,
+    "category": [
+      "performance"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/DataDog/react-native-performance-limiter",
+    "examples": [
+      "https://github.com/DataDog/react-native-performance-limiter/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-performance-limiter",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/DataDog/react-native-performance-limiter",
+        "clone": "https://github.com/DataDog/react-native-performance-limiter.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-07T14:52:57Z",
+        "createdAt": "2022-12-09T14:45:28Z",
+        "pushedAt": "2023-07-12T16:50:35Z",
+        "issues": 3,
+        "subscribers": 6,
+        "stars": 18,
+        "forks": 3
+      },
+      "name": "react-native-performance-limiter",
+      "fullName": "DataDog/react-native-performance-limiter",
+      "description": "A package for deliberately limiting the performance of React Native applications",
+      "topics": [
+        "performance",
+        "react-native"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "0.2.0",
+        "tagName": "0.2.0",
+        "createdAt": "2023-07-03T11:06:32Z",
+        "publishedAt": "2023-07-03T11:27:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7989,
+      "weekDownloads": 1845,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "performance react-native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.119,
+    "category": [
+      "performance"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/margelo/react-native-release-profiler",
+    "examples": [
+      "https://github.com/margelo/react-native-release-profiler/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "dev": true,
+    "npmPkg": "react-native-release-profiler",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-release-profiler",
+        "clone": "https://github.com/margelo/react-native-release-profiler.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T19:28:12Z",
+        "createdAt": "2023-11-30T18:00:11Z",
+        "pushedAt": "2024-01-17T11:01:36Z",
+        "issues": 2,
+        "subscribers": 7,
+        "stars": 182,
+        "forks": 0
+      },
+      "name": "react-native-release-profiler",
+      "fullName": "margelo/react-native-release-profiler",
+      "description": "A fast and simple library to passively profile JS/Hermes performance in production and release builds.",
+      "topics": [
+        "debug",
+        "debugger",
+        "hermes",
+        "jsi",
+        "perf",
+        "performance",
+        "production",
+        "profiler",
+        "profiling",
+        "release",
+        "sample",
+        "trace"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.6",
+        "tagName": "v0.1.6",
+        "createdAt": "2024-01-17T11:01:33Z",
+        "publishedAt": "2024-01-17T11:01:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11344,
+      "weekDownloads": 1254,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "debug debugger hermes jsi perf performance production profiler profiling release sample trace",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.139,
+    "category": [
+      "performance",
+      "profiler",
+      "profiling",
+      "release",
+      "trace",
+      "debug",
+      "debugger",
+      "hermes",
+      "perf"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jondot/react-native-slowlog",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-slowlog",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jondot/react-native-slowlog",
+        "clone": "https://github.com/jondot/react-native-slowlog.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-11-12T18:26:38Z",
+        "createdAt": "2016-05-01T07:43:16Z",
+        "pushedAt": "2017-02-08T09:40:43Z",
+        "issues": 3,
+        "subscribers": 5,
+        "stars": 377,
+        "forks": 16
+      },
+      "name": "react-native-slowlog",
+      "fullName": "jondot/react-native-slowlog",
+      "description": "A high-performance timer based profiler for React Native that helps you track big performance problems.",
+      "topics": [
+        "performance",
+        "react-native",
+        "debugging",
+        "infrastructure",
+        "tools"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2669,
+      "weekDownloads": 784,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "performance react-native debugging infrastructure tools",
+    "score": 25,
+    "matchingScoreModifiers": [
+      "No license",
+      "Not updated recently"
+    ],
+    "popularity": 0.044,
+    "category": [
+      "performance",
+      "debugging"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "githubUrl": "https://github.com/bamlab/react-native-batch-push",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-batch-push",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/bamlab/react-native-batch-push",
+        "clone": "https://github.com/bamlab/react-native-batch-push.git",
+        "homepage": "https://bamlab.github.io/react-native-batch-push"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-02T18:59:01Z",
+        "createdAt": "2017-09-17T19:41:51Z",
+        "pushedAt": "2022-07-28T09:44:54Z",
+        "issues": 0,
+        "subscribers": 21,
+        "stars": 41,
+        "forks": 23
+      },
+      "name": "react-native-batch-push",
+      "fullName": "bamlab/react-native-batch-push",
+      "description": "⛔️ DEPRECATED : React Native integration of Batch.com push notifications SDK",
+      "topics": [
+        "react-native",
+        "react-native-library",
+        "batch",
+        "push-notifications",
+        "archived",
+        "deprecated",
+        "obsolete"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v7.0.3",
+        "tagName": "v7.0.3",
+        "createdAt": "2022-01-25T17:07:17Z",
+        "publishedAt": "2022-01-25T17:08:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-library batch push-notifications archived deprecated obsolete",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.583,
+    "category": [
+      "push-notifications",
+      "batch"
+    ]
+  }
+]

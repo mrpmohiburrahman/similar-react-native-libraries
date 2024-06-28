@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/zacharyfmarion/react-native-fast-trie",
+    "examples": [
+      "https://github.com/zacharyfmarion/react-native-fast-trie/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-fast-trie",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zacharyfmarion/react-native-fast-trie",
+        "clone": "https://github.com/zacharyfmarion/react-native-fast-trie.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T17:07:46Z",
+        "createdAt": "2024-01-23T03:53:30Z",
+        "pushedAt": "2024-01-26T01:39:18Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 36,
+        "forks": 0
+      },
+      "name": "react-native-fast-trie",
+      "fullName": "zacharyfmarion/react-native-fast-trie",
+      "description": "Fast trie implementation written in C++ using jsi",
+      "topics": [
+        "fast",
+        "jsi",
+        "react-native",
+        "search",
+        "trie"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.1",
+        "tagName": "v0.2.1",
+        "createdAt": "2024-01-23T21:12:20Z",
+        "publishedAt": "2024-01-23T21:12:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 9,
+      "weekDownloads": 2,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "fast jsi react-native search trie",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.45,
+    "category": [
+      "trie",
+      "search"
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/Chooin/react-native-lifecycle",
+    "examples": [
+      "https://github.com/Chooin/react-native-lifecycle-example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-lifecycle",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/chooin/react-native-lifecycle",
+        "clone": "https://github.com/chooin/react-native-lifecycle.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-29T03:43:27Z",
+        "createdAt": "2020-08-14T01:43:08Z",
+        "pushedAt": "2023-12-07T03:33:18Z",
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 25,
+        "forks": 3
+      },
+      "name": "react-native-lifecycle",
+      "fullName": "chooin/react-native-lifecycle",
+      "description": "React Native Lifecycle",
+      "topics": [
+        "react-native",
+        "react-native-hooks",
+        "react-native-lifecycle"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.1.2",
+        "tagName": "2.1.2",
+        "createdAt": "2023-10-09T16:58:11Z",
+        "publishedAt": "2023-10-12T08:12:10Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 54,
+      "weekDownloads": 10,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-hooks react-native-lifecycle",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.506,
+    "category": [
+      "react-native-lifecycle"
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "githubUrl": "https://github.com/Kichiyaki/react-native-barcode-generator",
+    "npmPkg": "@kichiyaki/react-native-barcode-generator",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Kichiyaki/react-native-barcode-generator",
+        "clone": "https://github.com/Kichiyaki/react-native-barcode-generator.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-27T19:16:02Z",
+        "createdAt": "2021-01-14T19:21:28Z",
+        "pushedAt": "2023-09-18T16:18:52Z",
+        "issues": 21,
+        "subscribers": 4,
+        "stars": 26,
+        "forks": 13
+      },
+      "name": "react-native-barcode-generator",
+      "fullName": "Kichiyaki/react-native-barcode-generator",
+      "description": "A React-Native component for generating barcodes.",
+      "topics": [
+        "generating-barcodes",
+        "barcode",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 43612,
+      "weekDownloads": 10789,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "generating-barcodes barcode react-native",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.003,
+    "category": [
+      "generating-barcodes",
+      "barcode"
+    ]
+  }
+]

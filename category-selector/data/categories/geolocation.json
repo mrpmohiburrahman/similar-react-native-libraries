@@ -1,0 +1,148 @@
+[
+  {
+    "githubUrl": "https://github.com/michalchudziak/react-native-geolocation",
+    "ios": true,
+    "android": true,
+    "npmPkg": "@react-native-community/geolocation",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/michalchudziak/react-native-geolocation",
+        "clone": "https://github.com/michalchudziak/react-native-geolocation.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T14:46:56Z",
+        "createdAt": "2019-03-29T16:41:44Z",
+        "pushedAt": "2024-04-09T08:19:49Z",
+        "issues": 136,
+        "subscribers": 20,
+        "stars": 1249,
+        "forks": 214
+      },
+      "name": "react-native-geolocation",
+      "fullName": "michalchudziak/react-native-geolocation",
+      "description": "Geolocation APIs for React Native",
+      "topics": [
+        "react",
+        "react-native",
+        "geolocation",
+        "location",
+        "library"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.2.1",
+        "tagName": "v3.2.1",
+        "createdAt": "2024-03-28T19:31:25Z",
+        "publishedAt": "2024-03-28T19:40:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 473425,
+      "weekDownloads": 100814,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native geolocation location library",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.037,
+    "category": [
+      "geolocation",
+      "location"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Agontuk/react-native-geolocation-service",
+    "examples": [
+      "https://github.com/Agontuk/react-native-geolocation-service/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-geolocation-service",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Agontuk/react-native-geolocation-service",
+        "clone": "https://github.com/Agontuk/react-native-geolocation-service.git",
+        "homepage": "https://www.npmjs.com/package/react-native-geolocation-service"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T12:42:14Z",
+        "createdAt": "2018-01-11T06:42:18Z",
+        "pushedAt": "2024-05-08T11:00:18Z",
+        "issues": 119,
+        "subscribers": 20,
+        "stars": 1595,
+        "forks": 287
+      },
+      "name": "react-native-geolocation-service",
+      "fullName": "Agontuk/react-native-geolocation-service",
+      "description": "React native geolocation service for iOS and android",
+      "topics": [
+        "react",
+        "native",
+        "react-native",
+        "fused",
+        "location",
+        "geolocation",
+        "fusedlocationproviderclient",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 576104,
+      "weekDownloads": 131954,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react native react-native fused location geolocation fusedlocationproviderclient android ios",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "location",
+      "geolocation"
+    ]
+  }
+]

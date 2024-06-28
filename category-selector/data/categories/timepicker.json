@@ -1,0 +1,324 @@
+[
+  {
+    "githubUrl": "https://github.com/henninghall/react-native-date-picker",
+    "examples": [
+      "https://github.com/henninghall/react-native-date-picker/tree/master/examples/detox"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/henninghall/react-native-date-picker/master/docs/react-native-date-picker.gif",
+      "https://raw.githubusercontent.com/henninghall/react-native-date-picker/master/docs/react-native-date-picker-android-native.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/henninghall/react-native-date-picker",
+        "clone": "https://github.com/henninghall/react-native-date-picker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T21:38:41Z",
+        "createdAt": "2018-04-08T18:31:00Z",
+        "pushedAt": "2024-05-24T21:38:41Z",
+        "forks": 301,
+        "issues": 21,
+        "subscribers": 7,
+        "stars": 2102
+      },
+      "name": "react-native-date-picker",
+      "fullName": "henninghall/react-native-date-picker",
+      "description": "React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written with native code to achieve the best possible look, feel and performance.",
+      "topics": [
+        "datepicker",
+        "date-picker",
+        "react-native",
+        "react-native-date-picker",
+        "react-native-datepicker",
+        "react-native-datetimepicker",
+        "react-native-date-time-picker",
+        "datepicker-component",
+        "time-picker",
+        "date-time-picker",
+        "timepicker",
+        "react-native-time-picker",
+        "datetime"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "5.0.3",
+        "tagName": "5.0.3",
+        "createdAt": "2024-05-24T21:32:27Z",
+        "publishedAt": "2024-05-24T21:35:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "npmPkg": "react-native-date-picker",
+    "npm": {
+      "downloads": 681295,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 156584
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.02,
+    "topicSearchString": "datepicker date-picker react-native react-native-date-picker react-native-datepicker react-native-datetimepicker react-native-date-time-picker datepicker-component time-picker date-time-picker timepicker react-native-time-picker datetime",
+    "matchScore": 1,
+    "category": [
+      "timepicker"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xgfe/react-native-datepicker",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xgfe/react-native-datepicker",
+        "clone": "https://github.com/xgfe/react-native-datepicker.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2018-04-22T11:26:47Z",
+        "createdAt": "2016-04-21T11:34:10Z",
+        "pushedAt": "2018-04-22T11:26:47Z",
+        "forks": 618,
+        "issues": 240,
+        "subscribers": 29,
+        "stars": 2121
+      },
+      "name": "react-native-datepicker",
+      "fullName": "xgfe/react-native-datepicker",
+      "description": "react native datePicker component for both Android and IOS, useing DatePikcerAndroid, TimePickerAndroid and DatePickerIOS",
+      "topics": [
+        "react-native",
+        "datepicker"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v1.7.0",
+        "createdAt": "2018-04-08T18:00:58Z",
+        "publishedAt": "2018-04-08T18:01:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-datepicker",
+    "npm": {
+      "downloads": 164622,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 37477
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.022,
+    "topicSearchString": "react-native datepicker",
+    "matchScore": 10,
+    "category": [
+      "timepicker"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/thodubois/react-native-woodpicker",
+    "examples": [
+      "https://snack.expo.dev/@fromwood/react-native-woodpicker-example",
+      "https://github.com/thodubois/react-native-woodpicker/tree/master/ExampleApp"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/thodubois/react-native-woodpicker/master/assets/exampleApp-android.gif",
+      "https://raw.githubusercontent.com/thodubois/react-native-woodpicker/master/assets/exampleApp.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "windows": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/thodubois/react-native-woodpicker",
+        "clone": "https://github.com/thodubois/react-native-woodpicker.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-10-08T16:09:14Z",
+        "createdAt": "2018-09-20T08:42:59Z",
+        "pushedAt": "2023-10-08T16:09:14Z",
+        "forks": 21,
+        "issues": 4,
+        "subscribers": 4,
+        "stars": 155
+      },
+      "name": "react-native-woodpicker",
+      "fullName": "thodubois/react-native-woodpicker",
+      "description": "Customisable picker and datePicker react-native components for Android and iOS.",
+      "topics": [
+        "react-native",
+        "picker",
+        "datetimepicker",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.3.17",
+        "tagName": "v0.3.17",
+        "createdAt": "2021-12-20T08:40:46Z",
+        "publishedAt": "2021-12-20T08:42:19Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-woodpicker",
+    "npm": {
+      "downloads": 7452,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1606
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.034,
+    "topicSearchString": "react-native picker datetimepicker react",
+    "matchScore": 1,
+    "category": [
+      "timepicker"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/web-ridge/react-native-paper-dates",
+    "examples": [
+      "https://github.com/web-ridge/react-native-paper-dates/tree/master/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/6492229/98866767-bd3f2780-246d-11eb-890e-3491b47c95c5.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/web-ridge/react-native-paper-dates",
+        "clone": "https://github.com/web-ridge/react-native-paper-dates.git",
+        "homepage": "https://www.reactnativepaperdates.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T12:15:05Z",
+        "createdAt": "2020-08-07T14:49:02Z",
+        "pushedAt": "2024-05-22T12:15:05Z",
+        "forks": 153,
+        "issues": 24,
+        "subscribers": 5,
+        "stars": 629
+      },
+      "name": "react-native-paper-dates",
+      "fullName": "web-ridge/react-native-paper-dates",
+      "description": "Smooth and fast cross platform Material Design date and time picker for React Native Paper",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "material",
+        "react-native-web",
+        "react-native-paper",
+        "material-design",
+        "datepicker",
+        "timepicker",
+        "react",
+        "picker"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.22.10",
+        "tagName": "v0.22.10",
+        "createdAt": "2024-05-22T12:15:25Z",
+        "publishedAt": "2024-05-22T12:15:26Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-paper-dates",
+    "npm": {
+      "downloads": 84273,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 17348
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.044,
+    "topicSearchString": "react-native ios android material react-native-web react-native-paper material-design datepicker timepicker react picker",
+    "matchScore": 1,
+    "category": [
+      "timepicker"
+    ]
+  }
+]

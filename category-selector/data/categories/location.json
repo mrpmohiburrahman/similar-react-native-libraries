@@ -1,0 +1,453 @@
+[
+  {
+    "githubUrl": "https://github.com/michalchudziak/react-native-geolocation",
+    "ios": true,
+    "android": true,
+    "npmPkg": "@react-native-community/geolocation",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/michalchudziak/react-native-geolocation",
+        "clone": "https://github.com/michalchudziak/react-native-geolocation.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T14:46:56Z",
+        "createdAt": "2019-03-29T16:41:44Z",
+        "pushedAt": "2024-04-09T08:19:49Z",
+        "issues": 136,
+        "subscribers": 20,
+        "stars": 1249,
+        "forks": 214
+      },
+      "name": "react-native-geolocation",
+      "fullName": "michalchudziak/react-native-geolocation",
+      "description": "Geolocation APIs for React Native",
+      "topics": [
+        "react",
+        "react-native",
+        "geolocation",
+        "location",
+        "library"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.2.1",
+        "tagName": "v3.2.1",
+        "createdAt": "2024-03-28T19:31:25Z",
+        "publishedAt": "2024-03-28T19:40:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 473425,
+      "weekDownloads": 100814,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native geolocation location library",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.037,
+    "category": [
+      "geolocation",
+      "location"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/MustansirZia/react-native-fused-location",
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-fused-location",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/MustansirZia/react-native-fused-location",
+        "clone": "https://github.com/MustansirZia/react-native-fused-location.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-11-09T19:31:26Z",
+        "createdAt": "2017-06-11T09:01:40Z",
+        "pushedAt": "2022-02-12T20:08:14Z",
+        "issues": 17,
+        "subscribers": 10,
+        "stars": 128,
+        "forks": 35
+      },
+      "name": "react-native-fused-location",
+      "fullName": "MustansirZia/react-native-fused-location",
+      "description": "Finest location for react-native on Android using the new Fused API. ",
+      "topics": [
+        "react-native",
+        "react",
+        "android",
+        "location",
+        "gps",
+        "javascript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.1.2",
+        "tagName": "1.1.2",
+        "createdAt": "2022-01-02T15:44:38Z",
+        "publishedAt": "2022-01-02T15:57:04Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 472,
+      "weekDownloads": 138,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react android location gps javascript",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.208,
+    "category": [
+      "location",
+      "gps"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Agontuk/react-native-geolocation-service",
+    "examples": [
+      "https://github.com/Agontuk/react-native-geolocation-service/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-geolocation-service",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Agontuk/react-native-geolocation-service",
+        "clone": "https://github.com/Agontuk/react-native-geolocation-service.git",
+        "homepage": "https://www.npmjs.com/package/react-native-geolocation-service"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T12:42:14Z",
+        "createdAt": "2018-01-11T06:42:18Z",
+        "pushedAt": "2024-05-08T11:00:18Z",
+        "issues": 119,
+        "subscribers": 20,
+        "stars": 1595,
+        "forks": 287
+      },
+      "name": "react-native-geolocation-service",
+      "fullName": "Agontuk/react-native-geolocation-service",
+      "description": "React native geolocation service for iOS and android",
+      "topics": [
+        "react",
+        "native",
+        "react-native",
+        "fused",
+        "location",
+        "geolocation",
+        "fusedlocationproviderclient",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 576104,
+      "weekDownloads": 131954,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react native react-native fused location geolocation fusedlocationproviderclient android ios",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "location",
+      "geolocation"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/YsnKsy/react-native-location-enabler",
+    "examples": [
+      "https://github.com/YsnKsy/react-native-location-enabler/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/YsnKsy/react-native-location-enabler/master/example/head.png",
+      "https://raw.githubusercontent.com/YsnKsy/react-native-location-enabler/master/example/step-1.png",
+      "https://raw.githubusercontent.com/YsnKsy/react-native-location-enabler/master/example/step-2.png",
+      "https://raw.githubusercontent.com/YsnKsy/react-native-location-enabler/master/example/step-3.png"
+    ],
+    "android": true,
+    "npmPkg": "react-native-location-enabler",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/YsnKsy/react-native-location-enabler",
+        "clone": "https://github.com/YsnKsy/react-native-location-enabler.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-28T11:40:00Z",
+        "createdAt": "2020-07-22T01:16:48Z",
+        "pushedAt": "2023-05-14T08:59:43Z",
+        "issues": 24,
+        "subscribers": 2,
+        "stars": 157,
+        "forks": 25
+      },
+      "name": "react-native-location-enabler",
+      "fullName": "YsnKsy/react-native-location-enabler",
+      "description": "This package makes it easy for an React Native App to ensure that the Android device's system settings are properly configured for the app's location needs. If your app needs to request location, the device needs to enable the appropriate system settings, such as GPS or Wi-Fi scanning. Rather than directly enabling services such as the device's GPS, your app specifies the required level of accuracy/power consumption, and the device automatically makes the appropriate changes to system settings.",
+      "topics": [
+        "react-native",
+        "android",
+        "location",
+        "settings",
+        "gps",
+        "wifi",
+        "bluetooth",
+        "ble",
+        "accuracy",
+        "android-device"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.1.1",
+        "tagName": "v4.1.1",
+        "createdAt": "2022-04-14T02:11:59Z",
+        "publishedAt": "2022-04-14T02:12:10Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4970,
+      "weekDownloads": 921,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native android location settings gps wifi bluetooth ble accuracy android-device",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.065,
+    "category": [
+      "location",
+      "gps"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/douglasjunior/react-native-get-location",
+    "examples": [
+      "https://github.com/douglasjunior/react-native-get-location/tree/master/Sample"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-get-location",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/douglasjunior/react-native-get-location",
+        "clone": "https://github.com/douglasjunior/react-native-get-location.git",
+        "homepage": "https://www.npmjs.com/package/react-native-get-location"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-10T17:32:45Z",
+        "createdAt": "2019-01-30T14:19:55Z",
+        "pushedAt": "2023-12-14T11:07:59Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 183,
+        "forks": 41
+      },
+      "name": "react-native-get-location",
+      "fullName": "douglasjunior/react-native-get-location",
+      "description": "⚛ Simple to use React Native library to get native device location for Android and iOS.",
+      "topics": [
+        "android",
+        "ios",
+        "react-native",
+        "hacktoberfest",
+        "location",
+        "gps"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "4.0.1",
+        "tagName": "4.0.1",
+        "createdAt": "2023-12-14T11:05:36Z",
+        "publishedAt": "2023-12-14T11:07:59Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 43254,
+      "weekDownloads": 7419,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android ios react-native hacktoberfest location gps",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.078,
+    "category": [
+      "location",
+      "gps"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-location",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-location",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 448969,
+      "weekDownloads": 99385,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "location"
+    ]
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/zoontek/react-native-bootsplash",
+    "images": [
+      "https://raw.githubusercontent.com/zoontek/react-native-bootsplash/HEAD/docs/ios_demo.gif",
+      "https://raw.githubusercontent.com/zoontek/react-native-bootsplash/HEAD/docs/android_demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-bootsplash",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zoontek/react-native-bootsplash",
+        "clone": "https://github.com/zoontek/react-native-bootsplash.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T07:39:32Z",
+        "createdAt": "2019-07-02T10:45:52Z",
+        "pushedAt": "2024-05-17T07:58:18Z",
+        "issues": 5,
+        "subscribers": 18,
+        "stars": 3499,
+        "forks": 243
+      },
+      "name": "react-native-bootsplash",
+      "fullName": "zoontek/react-native-bootsplash",
+      "description": "🚀 Show a splash screen during app startup. Hide it when you are ready.",
+      "topics": [
+        "react",
+        "react-native",
+        "bootsplash",
+        "splashscreen",
+        "splash-screen"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "5.5.3",
+        "tagName": "5.5.3",
+        "createdAt": "2024-04-16T08:26:36Z",
+        "publishedAt": "2024-04-16T08:30:57Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 466606,
+      "weekDownloads": 104015,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native bootsplash splashscreen splash-screen",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.027,
+    "category": [
+      "bootsplash",
+      "splashscreen",
+      "splash-screen"
+    ]
+  }
+]

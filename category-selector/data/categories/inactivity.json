@@ -1,0 +1,64 @@
+[
+  {
+    "githubUrl": "https://github.com/jkomyno/react-native-user-inactivity",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-user-inactivity",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jkomyno/react-native-user-inactivity",
+        "clone": "https://github.com/jkomyno/react-native-user-inactivity.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T05:46:14Z",
+        "createdAt": "2017-07-14T14:40:12Z",
+        "pushedAt": "2023-10-10T09:51:00Z",
+        "issues": 18,
+        "subscribers": 8,
+        "stars": 192,
+        "forks": 51
+      },
+      "name": "react-native-user-inactivity",
+      "fullName": "jkomyno/react-native-user-inactivity",
+      "description": "Simple component that alerts when the user is inactive (i.e. when the App surface hasn't been touched for X ms)",
+      "topics": [
+        "react-native",
+        "inactivity",
+        "react-native-component",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 34439,
+      "weekDownloads": 7883,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native inactivity react-native-component hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "inactivity"
+    ]
+  }
+]

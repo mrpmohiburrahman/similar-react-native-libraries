@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/tanguyantoine/react-native-music-control",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-music-control",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tanguyantoine/react-native-music-control",
+        "clone": "https://github.com/tanguyantoine/react-native-music-control.git",
+        "homepage": "https://www.npmjs.com/package/react-native-music-control"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-11T06:15:03Z",
+        "createdAt": "2016-05-10T09:11:36Z",
+        "pushedAt": "2022-10-06T07:06:51Z",
+        "issues": 33,
+        "subscribers": 16,
+        "stars": 694,
+        "forks": 258
+      },
+      "name": "react-native-music-control",
+      "fullName": "tanguyantoine/react-native-music-control",
+      "description": "Display and manage media controls on lock screen and notification center for iOS and Android.",
+      "topics": [
+        "react-native",
+        "now-playing",
+        "android",
+        "lockscreen",
+        "react",
+        "sound",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v.1.4.0",
+        "createdAt": "2021-05-21T06:21:19Z",
+        "publishedAt": "2021-05-21T06:51:37Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 10593,
+      "weekDownloads": 2696,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native now-playing android lockscreen react sound ios",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": 0.005,
+    "category": [
+      "sound"
+    ]
+  }
+]

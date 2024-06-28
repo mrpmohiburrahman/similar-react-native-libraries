@@ -1,0 +1,139 @@
+[
+  {
+    "githubUrl": "https://github.com/rnc-archive/react-native-platform-touchable",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-platform-touchable",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rnc-archive/react-native-platform-touchable",
+        "clone": "https://github.com/rnc-archive/react-native-platform-touchable.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-19T20:38:15Z",
+        "createdAt": "2017-07-01T20:16:47Z",
+        "pushedAt": "2020-05-14T22:04:58Z",
+        "issues": 8,
+        "subscribers": 8,
+        "stars": 441,
+        "forks": 30
+      },
+      "name": "react-native-platform-touchable",
+      "fullName": "rnc-archive/react-native-platform-touchable",
+      "description": "A wrapper around the various Touchable* components built into React Native core with platform defaults",
+      "topics": [
+        "react-native",
+        "component",
+        "button"
+      ],
+      "license": {
+        "key": "bsd-3-clause",
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "spdxId": "BSD-3-Clause",
+        "url": "https://api.github.com/licenses/bsd-3-clause",
+        "id": "MDc6TGljZW5zZTU="
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15635,
+      "weekDownloads": 3093,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native component button",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.302,
+    "category": [
+      "component"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/djchie/react-native-star-rating",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-star-rating",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/djchie/react-native-star-rating",
+        "clone": "https://github.com/djchie/react-native-star-rating.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T19:54:33Z",
+        "createdAt": "2015-11-20T03:19:17Z",
+        "pushedAt": "2023-05-15T09:33:34Z",
+        "issues": 57,
+        "subscribers": 12,
+        "stars": 832,
+        "forks": 200
+      },
+      "name": "react-native-star-rating",
+      "fullName": "djchie/react-native-star-rating",
+      "description": "A React Native component for generating and displaying interactive star ratings",
+      "topics": [
+        "star-rating",
+        "star-rating-component",
+        "react-native",
+        "react-native-component",
+        "custom-star",
+        "star-icon",
+        "react-native-star-rating",
+        "star",
+        "rating",
+        "ratings",
+        "component"
+      ],
+      "license": null,
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 96569,
+      "weekDownloads": 21129,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "star-rating star-rating-component react-native react-native-component custom-star star-icon react-native-star-rating star rating ratings component",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.281,
+    "category": [
+      "star-rating",
+      "star-rating-component",
+      "react-native-component",
+      "react-native-star-rating",
+      "star",
+      "rating",
+      "ratings",
+      "component",
+      "custom-star",
+      "star-icon"
+    ]
+  }
+]

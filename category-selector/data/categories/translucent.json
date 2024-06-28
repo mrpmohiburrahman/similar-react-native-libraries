@@ -1,0 +1,63 @@
+[
+  {
+    "githubUrl": "https://github.com/listenzz/react-native-modal-translucent",
+    "android": true,
+    "npmPkg": "react-native-modal-translucent",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/listenzz/react-native-modal-translucent",
+        "clone": "https://github.com/listenzz/react-native-modal-translucent.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T09:35:27Z",
+        "createdAt": "2018-04-22T19:00:05Z",
+        "pushedAt": "2019-11-23T03:04:43Z",
+        "issues": 7,
+        "subscribers": 5,
+        "stars": 203,
+        "forks": 30
+      },
+      "name": "react-native-modal-translucent",
+      "fullName": "listenzz/react-native-modal-translucent",
+      "description": "Remove the StatusBar background for Modal on Android",
+      "topics": [
+        "react-native",
+        "modal",
+        "translucent"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1315,
+      "weekDownloads": 343,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native modal translucent",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.011,
+    "category": [
+      "modal",
+      "translucent"
+    ]
+  }
+]

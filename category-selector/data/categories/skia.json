@@ -1,0 +1,225 @@
+[
+  {
+    "githubUrl": "https://github.com/Shopify/react-native-skia",
+    "npmPkg": "@shopify/react-native-skia",
+    "examples": [
+      "https://github.com/Shopify/react-native-skia/tree/main/example"
+    ],
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Shopify/react-native-skia",
+        "clone": "https://github.com/Shopify/react-native-skia.git",
+        "homepage": "https://shopify.github.io/react-native-skia"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:56:10Z",
+        "createdAt": "2021-11-08T13:19:09Z",
+        "pushedAt": "2024-05-22T14:24:59Z",
+        "issues": 60,
+        "subscribers": 257,
+        "stars": 6494,
+        "forks": 414
+      },
+      "name": "react-native-skia",
+      "fullName": "Shopify/react-native-skia",
+      "description": "High-performance React Native Graphics using Skia",
+      "topics": [
+        "react",
+        "react-native",
+        "skia"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.3.0",
+        "tagName": "v1.3.0",
+        "createdAt": "2024-05-22T14:13:23Z",
+        "publishedAt": "2024-05-22T14:17:40Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 272568,
+      "weekDownloads": 55617,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native skia",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.046,
+    "category": [
+      "skia"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/enzomanuelmangano/react-native-skia-gesture",
+    "examples": [
+      "https://github.com/enzomanuelmangano/react-native-skia-gesture/tree/main/example"
+    ],
+    "images": [
+      "https://github.com/enzomanuelmangano/react-native-skia-gesture/raw/main/.assets/example.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-skia-gesture",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/enzomanuelmangano/react-native-skia-gesture",
+        "clone": "https://github.com/enzomanuelmangano/react-native-skia-gesture.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-27T16:51:22Z",
+        "createdAt": "2022-12-05T22:50:37Z",
+        "pushedAt": "2024-04-18T15:47:18Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 102,
+        "forks": 3
+      },
+      "name": "react-native-skia-gesture",
+      "fullName": "enzomanuelmangano/react-native-skia-gesture",
+      "description": "A detection system for React Native Skia components",
+      "topics": [
+        "gestures",
+        "react-native",
+        "skia"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.3.1",
+        "tagName": "v0.3.1",
+        "createdAt": "2024-03-06T20:37:28Z",
+        "publishedAt": "2024-03-06T20:37:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 364,
+      "weekDownloads": 55,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "gestures react-native skia",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.099,
+    "category": [
+      "gestures",
+      "skia"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/margelo/react-native-skottie/tree/main/package",
+    "npmPkg": "react-native-skottie",
+    "examples": [
+      "https://github.com/margelo/react-native-skottie/tree/main/package/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-skottie",
+        "clone": "https://github.com/margelo/react-native-skottie.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T14:55:58Z",
+        "createdAt": "2022-11-01T17:21:54Z",
+        "pushedAt": "2024-05-18T09:47:53Z",
+        "issues": 11,
+        "subscribers": 8,
+        "stars": 742,
+        "forks": 14
+      },
+      "name": "react-native-skottie",
+      "fullName": "margelo/react-native-skottie",
+      "description": "▶️ Efficient lottie animations using Skia's Skottie module",
+      "topics": [
+        "animations",
+        "bodymovin",
+        "lottie",
+        "react-native",
+        "skia",
+        "rive",
+        "skottie"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 2.1.4",
+        "tagName": "v2.1.4",
+        "createdAt": "2024-05-06T09:09:05Z",
+        "publishedAt": "2024-05-06T09:09:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1327,
+      "weekDownloads": 302,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "animations bodymovin lottie react-native skia rive skottie",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.022,
+    "category": [
+      "skia",
+      "skottie",
+      "lottie"
+    ]
+  }
+]

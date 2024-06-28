@@ -1,0 +1,360 @@
+[
+  {
+    "githubUrl": "https://github.com/shahnawaz/react-native-barcode-mask",
+    "examples": [
+      "https://github.com/shahnawaz/react-native-barcode-mask#examples",
+      "https://gist.github.com/shahnawaz/d24ae843fc3a6056bef9c752d9b35e03"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-barcode-mask",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/shahnawaz/react-native-barcode-mask",
+        "clone": "https://github.com/shahnawaz/react-native-barcode-mask.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-19T15:58:35Z",
+        "createdAt": "2019-02-26T18:53:46Z",
+        "pushedAt": "2024-03-24T08:40:01Z",
+        "issues": 26,
+        "subscribers": 3,
+        "stars": 310,
+        "forks": 66
+      },
+      "name": "react-native-barcode-mask",
+      "fullName": "shahnawaz/react-native-barcode-mask",
+      "description": "A barcode and QR scan layout for react-native applications with customizable styling",
+      "topics": [
+        "barcode",
+        "barcode-scanner",
+        "react-native",
+        "barcode-mask",
+        "style",
+        "react-native-barcode-mask",
+        "border",
+        "edges"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.2.4",
+        "tagName": "v1.2.4",
+        "createdAt": "2020-06-22T13:36:40Z",
+        "publishedAt": "2020-06-22T13:38:21Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 23576,
+      "weekDownloads": 5730,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "barcode barcode-scanner react-native barcode-mask style react-native-barcode-mask border edges",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.007,
+    "category": [
+      "barcode-mask",
+      "barcode-scanner",
+      "barcode"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wonsikin/react-native-barcode-builder",
+    "images": [
+      "https://github.com/wonsikin/react-native-barcode-builder/raw/master/images/example.png"
+    ],
+    "examples": [
+      "https://github.com/wonsikin/react-native-barcode-builder/tree/master/Example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-barcode-builder",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wonsikin/react-native-barcode-builder",
+        "clone": "https://github.com/wonsikin/react-native-barcode-builder.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T20:20:33Z",
+        "createdAt": "2016-12-12T14:56:39Z",
+        "pushedAt": "2021-09-10T05:43:27Z",
+        "issues": 27,
+        "subscribers": 6,
+        "stars": 173,
+        "forks": 116
+      },
+      "name": "react-native-barcode-builder",
+      "fullName": "wonsikin/react-native-barcode-builder",
+      "description": "Component for generating barcode in react native app",
+      "topics": [
+        "react-native",
+        "barcode"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "v1.0.5",
+        "tagName": "v1.0.5",
+        "createdAt": "2018-03-17T15:34:18Z",
+        "publishedAt": "2018-03-17T15:36:09Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 40692,
+      "weekDownloads": 6782,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native barcode",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.083,
+    "category": [
+      "barcode"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/VittoriDavide/react-native-barcode-creator",
+    "examples": [
+      "https://github.com/VittoriDavide/react-native-barcode-creator/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-barcode-creator",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/VittoriDavide/react-native-barcode-creator",
+        "clone": "https://github.com/VittoriDavide/react-native-barcode-creator.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T08:58:58Z",
+        "createdAt": "2021-08-18T06:27:32Z",
+        "pushedAt": "2024-03-08T17:19:15Z",
+        "issues": 1,
+        "subscribers": 2,
+        "stars": 19,
+        "forks": 8
+      },
+      "name": "react-native-barcode-creator",
+      "fullName": "VittoriDavide/react-native-barcode-creator",
+      "description": "React Native Barcode Creator creates different type of barcodes including EAN13, CODE128, PDF417, UPCA, QR and AZTEC. ",
+      "topics": [
+        "react-native",
+        "barcode",
+        "barcode-generator",
+        "qrcode-generator",
+        "native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "React Native 0.73",
+        "tagName": "0.1.6",
+        "createdAt": "2024-02-25T16:02:48Z",
+        "publishedAt": "2024-02-27T09:31:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11003,
+      "weekDownloads": 2697,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native barcode barcode-generator qrcode-generator native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.105,
+    "category": [
+      "barcode",
+      "barcode-generator",
+      "qrcode-generator"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Kichiyaki/react-native-barcode-generator",
+    "npmPkg": "@kichiyaki/react-native-barcode-generator",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Kichiyaki/react-native-barcode-generator",
+        "clone": "https://github.com/Kichiyaki/react-native-barcode-generator.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-27T19:16:02Z",
+        "createdAt": "2021-01-14T19:21:28Z",
+        "pushedAt": "2023-09-18T16:18:52Z",
+        "issues": 21,
+        "subscribers": 4,
+        "stars": 26,
+        "forks": 13
+      },
+      "name": "react-native-barcode-generator",
+      "fullName": "Kichiyaki/react-native-barcode-generator",
+      "description": "A React-Native component for generating barcodes.",
+      "topics": [
+        "generating-barcodes",
+        "barcode",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 43612,
+      "weekDownloads": 10789,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "generating-barcodes barcode react-native",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.003,
+    "category": [
+      "generating-barcodes",
+      "barcode"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/pushpender-singh-ap/react-native-scanner",
+    "npmPkg": "@pushpendersingh/react-native-scanner",
+    "examples": [
+      "https://github.com/pushpender-singh-ap/react-native-scanner/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/pushpender-singh-ap/react-native-scanner",
+        "clone": "https://github.com/pushpender-singh-ap/react-native-scanner.git",
+        "homepage": "https://www.npmjs.com/package/@pushpendersingh/react-native-scanner"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T08:36:13Z",
+        "createdAt": "2023-03-04T13:46:43Z",
+        "pushedAt": "2024-05-18T09:40:55Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 40,
+        "forks": 6
+      },
+      "name": "react-native-scanner",
+      "fullName": "pushpender-singh-ap/react-native-scanner",
+      "description": "A QR code & Barcode Scanner for React Native Projects. It supports React Native's new Fabric Native architecture and was created in Kotlin and Objective-C.",
+      "topics": [
+        "react-native",
+        "barcode",
+        "barcode-scanner",
+        "qrcode",
+        "qrcode-scanner"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.2.0",
+        "tagName": "1.2.0",
+        "createdAt": "2024-05-18T09:26:33Z",
+        "publishedAt": "2024-05-18T09:40:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 510,
+      "weekDownloads": 227,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native barcode barcode-scanner qrcode qrcode-scanner",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.196,
+    "category": [
+      "barcode",
+      "barcode-scanner",
+      "qrcode",
+      "qrcode-scanner"
+    ]
+  }
+]

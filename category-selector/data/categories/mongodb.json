@@ -1,0 +1,156 @@
+[
+  {
+    "githubUrl": "https://github.com/realm/realm-js/tree/main/packages/realm",
+    "examples": [
+      "https://github.com/realm/realm-js/tree/main/examples/rn-todo-list",
+      "https://github.com/realm/realm-js/tree/main/examples/rn-multiple-realms",
+      "https://github.com/realm/realm-js/tree/main/examples/rn-connection-and-error",
+      "https://www.mongodb.com/docs/atlas/app-services/tutorial/react-native/"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/realm/realm-js",
+        "clone": "https://github.com/realm/realm-js.git",
+        "homepage": "https://www.mongodb.com/docs/realm/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T12:54:11Z",
+        "createdAt": "2015-08-13T15:51:36Z",
+        "pushedAt": "2024-05-24T12:54:11Z",
+        "forks": 547,
+        "issues": 541,
+        "subscribers": 108,
+        "stars": 5621
+      },
+      "name": "realm",
+      "fullName": "realm/realm-js",
+      "description": "Realm by MongoDB is an offline-first mobile database: an alternative to SQLite and key-value stores",
+      "topics": [
+        "database",
+        "db",
+        "storage",
+        "react",
+        "react-native",
+        "persistence",
+        "local-storage",
+        "localstorage",
+        "sqlite",
+        "async-storage",
+        "asyncstorage",
+        "rocksdb",
+        "leveldb",
+        "realm",
+        "mongodb",
+        "offline-first",
+        "offlinefirst",
+        "localfirst",
+        "local-first"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "realm",
+    "npm": {
+      "downloads": 170823,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 38559
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "topicSearchString": "database db storage react react-native persistence local-storage localstorage sqlite async-storage asyncstorage rocksdb leveldb realm mongodb offline-first offlinefirst localfirst local-first",
+    "matchScore": 11,
+    "category": [
+      "mongodb"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mongodb/stitch-js-sdk",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "mongodb-stitch-react-native-sdk",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mongodb/stitch-js-sdk",
+        "clone": "https://github.com/mongodb/stitch-js-sdk.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2022-07-26T21:09:09Z",
+        "createdAt": "2017-04-03T17:19:27Z",
+        "pushedAt": "2022-07-26T21:09:09Z",
+        "forks": 62,
+        "issues": 39,
+        "subscribers": 31,
+        "stars": 113
+      },
+      "name": "stitch-js-sdk",
+      "fullName": "mongodb/stitch-js-sdk",
+      "description": "MongoDB Stitch JavaScript SDK",
+      "topics": [],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "Release 4.9.0",
+        "tagName": "v4.9.0",
+        "createdAt": "2020-01-31T15:23:00Z",
+        "publishedAt": "2020-01-31T15:50:26Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 83,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.631,
+    "topicSearchString": "",
+    "matchScore": 110,
+    "category": [
+      "mongodb"
+    ]
+  }
+]

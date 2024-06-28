@@ -1,0 +1,84 @@
+[
+  {
+    "githubUrl": "https://github.com/LonelyCpp/react-native-youtube-iframe",
+    "images": [
+      "https://raw.githubusercontent.com/LonelyCpp/react-native-youtube-iframe/master/website/static/img/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-youtube-iframe",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/LonelyCpp/react-native-youtube-iframe",
+        "clone": "https://github.com/LonelyCpp/react-native-youtube-iframe.git",
+        "homepage": "https://lonelycpp.github.io/react-native-youtube-iframe/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T15:59:50Z",
+        "createdAt": "2019-12-14T12:05:10Z",
+        "pushedAt": "2023-10-17T02:03:09Z",
+        "issues": 87,
+        "subscribers": 7,
+        "stars": 576,
+        "forks": 145
+      },
+      "name": "react-native-youtube-iframe",
+      "fullName": "LonelyCpp/react-native-youtube-iframe",
+      "description": "A wrapper of the Youtube-iframe API built for react native.",
+      "topics": [
+        "youtube",
+        "react-native",
+        "iframe",
+        "youtube-api",
+        "youtube-player",
+        "youtube-video",
+        "android",
+        "ios",
+        "expo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.3.0",
+        "tagName": "v2.3.0",
+        "createdAt": "2023-07-01T17:37:42Z",
+        "publishedAt": "2023-07-01T17:42:57Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 210131,
+      "weekDownloads": 45299,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "youtube react-native iframe youtube-api youtube-player youtube-video android ios expo",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.034,
+    "category": [
+      "iframe",
+      "youtube-player",
+      "youtube-video",
+      "youtube-api"
+    ]
+  }
+]

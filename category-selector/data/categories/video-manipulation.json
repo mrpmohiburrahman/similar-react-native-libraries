@@ -1,0 +1,91 @@
+[
+  {
+    "githubUrl": "https://github.com/imgly/vesdk-react-native",
+    "ios": true,
+    "android": true,
+    "examples": [
+      "https://github.com/imgly/vesdk-react-native-demo"
+    ],
+    "npmPkg": "react-native-videoeditorsdk",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/imgly/vesdk-react-native",
+        "clone": "https://github.com/imgly/vesdk-react-native.git",
+        "homepage": "https://www.videoeditorsdk.com"
+      },
+      "stats": {
+        "hasIssues": false,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T05:23:06Z",
+        "createdAt": "2019-10-29T08:56:40Z",
+        "pushedAt": "2024-04-03T09:58:50Z",
+        "issues": 0,
+        "subscribers": 11,
+        "stars": 138,
+        "forks": 28
+      },
+      "name": "vesdk-react-native",
+      "fullName": "imgly/vesdk-react-native",
+      "description": "React Native module for VideoEditor SDK",
+      "topics": [
+        "react-native",
+        "videoeditor-sdk",
+        "sdk",
+        "video",
+        "video-editing",
+        "video-manipulation",
+        "ios",
+        "android",
+        "crop",
+        "filter",
+        "stickers",
+        "overlays",
+        "frames",
+        "transform",
+        "text",
+        "brush",
+        "adjustment",
+        "video-edit-sdk"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "3.2.0",
+        "tagName": "3.2.0",
+        "createdAt": "2024-04-03T07:52:38Z",
+        "publishedAt": "2024-04-03T10:29:55Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 6960,
+      "weekDownloads": 1472,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native videoeditor-sdk sdk video video-editing video-manipulation ios android crop filter stickers overlays frames transform text brush adjustment video-edit-sdk",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.039,
+    "category": [
+      "videoeditor-sdk",
+      "video",
+      "video-editing",
+      "video-manipulation",
+      "video-edit-sdk"
+    ]
+  }
+]

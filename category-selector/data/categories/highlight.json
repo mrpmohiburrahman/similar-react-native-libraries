@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/farhoudshapouran/react-native-highlighter",
+    "examples": [
+      "https://github.com/farhoudshapouran/react-native-highlighter/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/7857656/227882432-2d18c750-5c96-4838-8dfd-62bd44cfa18f.jpg"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-highlighter",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/farhoudshapouran/react-native-highlighter",
+        "clone": "https://github.com/farhoudshapouran/react-native-highlighter.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-27T16:26:28Z",
+        "createdAt": "2023-03-26T19:19:36Z",
+        "pushedAt": "2024-04-09T20:58:37Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 21,
+        "forks": 1
+      },
+      "name": "react-native-highlighter",
+      "fullName": "farhoudshapouran/react-native-highlighter",
+      "description": "A library for highlighting specific contents and enabling interaction with them.",
+      "topics": [
+        "android",
+        "highlight",
+        "ios",
+        "keywords",
+        "react-native",
+        "react-native-web"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.7",
+        "tagName": "v1.0.7",
+        "createdAt": "2024-04-09T20:51:12Z",
+        "publishedAt": "2024-04-09T20:53:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 59,
+      "weekDownloads": 12,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android highlight ios keywords react-native react-native-web",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.584,
+    "category": [
+      "highlight"
+    ]
+  }
+]

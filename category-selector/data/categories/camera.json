@@ -1,0 +1,1025 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-cameraroll/react-native-cameraroll",
+    "ios": true,
+    "android": true,
+    "npmPkg": "@react-native-community/cameraroll",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-cameraroll/react-native-cameraroll",
+        "clone": "https://github.com/react-native-cameraroll/react-native-cameraroll.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T09:46:39Z",
+        "createdAt": "2019-02-07T10:52:08Z",
+        "pushedAt": "2024-05-23T09:46:39Z",
+        "forks": 361,
+        "issues": 11,
+        "subscribers": 14,
+        "stars": 886
+      },
+      "name": "react-native-cameraroll",
+      "fullName": "react-native-cameraroll/react-native-cameraroll",
+      "description": "CameraRoll is a react-native native module that provides access to the local camera roll or photo library.",
+      "topics": [
+        "react-native",
+        "cameraroll",
+        "camera",
+        "photo-gallery"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v7.8.0",
+        "tagName": "v7.8.0",
+        "createdAt": "2024-05-23T09:46:39Z",
+        "publishedAt": "2024-05-23T09:46:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npm": {
+      "downloads": 105436,
+      "weekDownloads": 21462,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.046,
+    "topicSearchString": "react-native cameraroll camera photo-gallery",
+    "matchScore": 111,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/teslamotors/react-native-camera-kit",
+    "images": [
+      "https://raw.githubusercontent.com/teslamotors/react-native-camera-kit/master/images/screenshot.jpg"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/teslamotors/react-native-camera-kit",
+        "clone": "https://github.com/teslamotors/react-native-camera-kit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T23:49:09Z",
+        "createdAt": "2016-04-13T11:56:29Z",
+        "pushedAt": "2024-05-16T23:49:09Z",
+        "forks": 554,
+        "issues": 93,
+        "subscribers": 209,
+        "stars": 2387
+      },
+      "name": "react-native-camera-kit",
+      "fullName": "teslamotors/react-native-camera-kit",
+      "description": "A high performance, easy to use, rock solid camera library for React Native apps.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "camera"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v14.0.0-beta14",
+        "tagName": "v14.0.0-beta14",
+        "createdAt": "2024-05-15T02:18:43Z",
+        "publishedAt": "2024-05-15T02:23:49Z",
+        "isPrerelease": true
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-camera-kit",
+    "npm": {
+      "downloads": 65647,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 14267
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.033,
+    "topicSearchString": "react-native ios android camera",
+    "matchScore": 111,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/tony-xlh/vision-camera-cropper",
+    "examples": [
+      "https://github.com/tony-xlh/vision-camera-cropper/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tony-xlh/vision-camera-cropper",
+        "clone": "https://github.com/tony-xlh/vision-camera-cropper.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-25T02:19:32Z",
+        "createdAt": "2024-02-21T02:05:44Z",
+        "pushedAt": "2024-04-25T02:19:32Z",
+        "forks": 2,
+        "issues": 2,
+        "subscribers": 4,
+        "stars": 8
+      },
+      "name": "vision-camera-cropper",
+      "fullName": "tony-xlh/vision-camera-cropper",
+      "description": "A vision camera frame processor plugin for cropping",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "cropper",
+        "image-processing",
+        "vision-camera"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.0.0",
+        "tagName": "1.0.0",
+        "createdAt": "2024-04-25T02:19:32Z",
+        "publishedAt": "2024-04-25T02:38:45Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "vision-camera-cropper",
+    "npm": {
+      "downloads": 532,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 200
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.026,
+    "topicSearchString": "react-native ios android cropper image-processing vision-camera",
+    "matchScore": 111,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jeanpan/react-native-camera-roll-picker",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jeanpan/react-native-camera-roll-picker",
+        "clone": "https://github.com/jeanpan/react-native-camera-roll-picker.git",
+        "homepage": "https://www.npmjs.com/package/react-native-camera-roll-picker"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-03-08T00:47:54Z",
+        "createdAt": "2016-04-28T21:20:37Z",
+        "pushedAt": "2023-03-08T00:47:54Z",
+        "forks": 162,
+        "issues": 44,
+        "subscribers": 9,
+        "stars": 422
+      },
+      "name": "react-native-camera-roll-picker",
+      "fullName": "jeanpan/react-native-camera-roll-picker",
+      "description": "📷  A React Native component providing images selection from camera roll",
+      "topics": [
+        "cameraroll",
+        "ios",
+        "picker",
+        "react-component",
+        "react-native",
+        "react-native-component",
+        "camera-roll"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v1.2.3",
+        "createdAt": "2017-10-15T04:03:10Z",
+        "publishedAt": "2017-10-15T04:07:22Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-camera-roll-picker",
+    "npm": {
+      "downloads": 4046,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 820
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.047,
+    "topicSearchString": "cameraroll ios picker react-component react-native react-native-component camera-roll",
+    "matchScore": 111,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/aarongrider/vision-camera-ocr",
+    "examples": [
+      "https://github.com/aarongrider/vision-camera-ocr/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/aarongrider/vision-camera-ocr/main/docs/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/aarongrider/vision-camera-ocr",
+        "clone": "https://github.com/aarongrider/vision-camera-ocr.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-02-21T22:35:42Z",
+        "createdAt": "2022-02-18T03:04:41Z",
+        "pushedAt": "2022-02-21T22:35:42Z",
+        "forks": 54,
+        "issues": 27,
+        "subscribers": 4,
+        "stars": 231
+      },
+      "name": "vision-camera-ocr",
+      "fullName": "aarongrider/vision-camera-ocr",
+      "description": "VisionCamera Frame Processor Plugin to detect text in real time using MLKit Text Detector (OCR)",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "mobile",
+        "camera"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "vision-camera-ocr",
+    "npm": {
+      "downloads": 2552,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 405
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.091,
+    "topicSearchString": "react-native ios android mobile camera",
+    "matchScore": 111,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mrousavy/react-native-vision-camera",
+    "examples": [
+      "https://github.com/mrousavy/react-native-vision-camera/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/mrousavy/react-native-vision-camera/main/docs/static/img/example.png",
+      "https://raw.githubusercontent.com/mrousavy/react-native-vision-camera/main/docs/static/img/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mrousavy/react-native-vision-camera",
+        "clone": "https://github.com/mrousavy/react-native-vision-camera.git",
+        "homepage": "https://react-native-vision-camera.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2024-05-21T18:44:25Z",
+        "createdAt": "2021-02-19T14:59:44Z",
+        "pushedAt": "2024-05-21T18:44:25Z",
+        "forks": 957,
+        "issues": 60,
+        "subscribers": 46,
+        "stars": 6668
+      },
+      "name": "react-native-vision-camera",
+      "fullName": "mrousavy/react-native-vision-camera",
+      "description": "📸 A powerful, high-performance React Native Camera library.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 4.0.5",
+        "tagName": "v4.0.5",
+        "createdAt": "2024-05-21T16:01:42Z",
+        "publishedAt": "2024-05-21T16:01:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false
+    },
+    "npmPkg": "react-native-vision-camera",
+    "npm": {
+      "downloads": 385462,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 90955
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.014,
+    "topicSearchString": "",
+    "matchScore": 110,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/tony-xlh/vision-camera-dynamsoft-document-normalizer",
+    "examples": [
+      "https://github.com/tony-xlh/vision-camera-dynamsoft-document-normalizer/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tony-xlh/vision-camera-dynamsoft-document-normalizer",
+        "clone": "https://github.com/tony-xlh/vision-camera-dynamsoft-document-normalizer.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-09T02:02:29Z",
+        "createdAt": "2022-10-31T08:02:32Z",
+        "pushedAt": "2024-05-09T02:02:29Z",
+        "forks": 2,
+        "issues": 0,
+        "subscribers": 4,
+        "stars": 37
+      },
+      "name": "vision-camera-dynamsoft-document-normalizer",
+      "fullName": "tony-xlh/vision-camera-dynamsoft-document-normalizer",
+      "description": "A React Native Vision Camera frame processor plugin for Dynamsoft Document Normalizer",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "document-scanning",
+        "document-scanner",
+        "document-scan",
+        "document-detection",
+        "perspective-transformation",
+        "crop",
+        "automatic"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "3.1.0",
+        "tagName": "3.1.0",
+        "createdAt": "2024-05-09T02:02:29Z",
+        "publishedAt": "2024-05-09T02:05:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "vision-camera-dynamsoft-document-normalizer",
+    "npm": {
+      "downloads": 622,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 98
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.092,
+    "topicSearchString": "react-native ios android document-scanning document-scanner document-scan document-detection perspective-transformation crop automatic",
+    "matchScore": 110,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xulihang/vision-camera-dynamsoft-label-recognizer",
+    "examples": [
+      "https://github.com/xulihang/vision-camera-dynamsoft-label-recognizer/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tony-xlh/vision-camera-dynamsoft-label-recognizer",
+        "clone": "https://github.com/tony-xlh/vision-camera-dynamsoft-label-recognizer.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-25T07:33:25Z",
+        "createdAt": "2022-07-27T06:51:52Z",
+        "pushedAt": "2024-04-25T07:33:25Z",
+        "forks": 4,
+        "issues": 2,
+        "subscribers": 2,
+        "stars": 26
+      },
+      "name": "vision-camera-dynamsoft-label-recognizer",
+      "fullName": "tony-xlh/vision-camera-dynamsoft-label-recognizer",
+      "description": "React Native Vision Camera Frame Processor Plugin of Dynamsoft Label Recognizer",
+      "topics": [
+        "react-native",
+        "mrz",
+        "machine-readable-zone",
+        "ocr",
+        "optical-character-recognition",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.0.0",
+        "tagName": "2.0.0",
+        "createdAt": "2024-04-25T07:33:25Z",
+        "publishedAt": "2024-04-25T07:34:26Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "vision-camera-dynamsoft-label-recognizer",
+    "npm": {
+      "downloads": 253,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 97
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.134,
+    "topicSearchString": "react-native mrz machine-readable-zone ocr optical-character-recognition ios android",
+    "matchScore": 110,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xulihang/vision-camera-dynamsoft-barcode-reader",
+    "examples": [
+      "https://github.com/xulihang/vision-camera-dynamsoft-barcode-reader/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tony-xlh/vision-camera-dynamsoft-barcode-reader",
+        "clone": "https://github.com/tony-xlh/vision-camera-dynamsoft-barcode-reader.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-25T05:23:54Z",
+        "createdAt": "2022-01-25T07:17:41Z",
+        "pushedAt": "2024-04-25T05:23:54Z",
+        "forks": 14,
+        "issues": 0,
+        "subscribers": 6,
+        "stars": 66
+      },
+      "name": "vision-camera-dynamsoft-barcode-reader",
+      "fullName": "tony-xlh/vision-camera-dynamsoft-barcode-reader",
+      "description": "React Native Vision Camera Frame Processor Plugin of Dynamsoft Barcode Reader",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "pdf417",
+        "barcode",
+        "qr-code",
+        "ean13",
+        "data-matrix"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.0.0",
+        "tagName": "2.0.0",
+        "createdAt": "2024-04-25T05:33:32Z",
+        "publishedAt": "2024-04-25T05:49:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "vision-camera-dynamsoft-barcode-reader",
+    "npm": {
+      "downloads": 275,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 90
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.08,
+    "topicSearchString": "react-native ios android pdf417 barcode qr-code ean13 data-matrix",
+    "matchScore": 110,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rodgomesc/vision-camera-qrcode-scanner",
+    "examples": [
+      "https://github.com/rodgomesc/vision-camera-qrcode-scanner/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rodgomesc/vision-camera-code-scanner",
+        "clone": "https://github.com/rodgomesc/vision-camera-code-scanner.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-10-23T19:37:53Z",
+        "createdAt": "2021-08-16T15:05:05Z",
+        "pushedAt": "2023-10-23T19:37:53Z",
+        "forks": 144,
+        "issues": 86,
+        "subscribers": 12,
+        "stars": 333
+      },
+      "name": "vision-camera-code-scanner",
+      "fullName": "rodgomesc/vision-camera-code-scanner",
+      "description": "VisionCamera Frame Processor Plugin to read barcodes  using MLKit Vision QrCode Scanning",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.0",
+        "tagName": "v0.2.0",
+        "createdAt": "2022-04-01T12:21:11Z",
+        "publishedAt": "2022-04-01T12:37:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "vision-camera-qrcode-scanner",
+    "npm": {
+      "downloads": 21,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 6
+    },
+    "score": 25,
+    "matchingScoreModifiers": [
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.402,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rodgomesc/vision-camera-code-scanner",
+    "examples": [
+      "https://github.com/rodgomesc/vision-camera-code-scanner/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rodgomesc/vision-camera-code-scanner",
+        "clone": "https://github.com/rodgomesc/vision-camera-code-scanner.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-10-23T19:37:53Z",
+        "createdAt": "2021-08-16T15:05:05Z",
+        "pushedAt": "2023-10-23T19:37:53Z",
+        "forks": 144,
+        "issues": 86,
+        "subscribers": 12,
+        "stars": 333
+      },
+      "name": "vision-camera-code-scanner",
+      "fullName": "rodgomesc/vision-camera-code-scanner",
+      "description": "VisionCamera Frame Processor Plugin to read barcodes  using MLKit Vision QrCode Scanning",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.0",
+        "tagName": "v0.2.0",
+        "createdAt": "2022-04-01T12:21:11Z",
+        "publishedAt": "2022-04-01T12:37:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "vision-camera-code-scanner",
+    "npm": {
+      "downloads": 32851,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 6706
+    },
+    "score": 25,
+    "matchingScoreModifiers": [
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.046,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rodgomesc/vision-camera-face-detector",
+    "examples": [
+      "https://github.com/rodgomesc/vision-camera-face-detector/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rodgomesc/vision-camera-face-detector",
+        "clone": "https://github.com/rodgomesc/vision-camera-face-detector.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-02-10T04:13:30Z",
+        "createdAt": "2021-08-17T13:07:21Z",
+        "pushedAt": "2022-02-10T04:13:30Z",
+        "forks": 50,
+        "issues": 30,
+        "subscribers": 8,
+        "stars": 87
+      },
+      "name": "vision-camera-face-detector",
+      "fullName": "rodgomesc/vision-camera-face-detector",
+      "description": "VisionCamera Frame Processor Plugin to detect faces using MLKit Vision Face Detector",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.8",
+        "tagName": "v0.1.8",
+        "createdAt": "2021-10-15T12:12:49Z",
+        "publishedAt": "2021-10-15T12:15:17Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "vision-camera-face-detector",
+    "npm": {
+      "downloads": 1715,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 503
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0.044,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/RobertSasak/react-native-openalpr",
+    "examples": [
+      "https://github.com/RobertSasak/react-native-openalpr/tree/master/example"
+    ],
+    "images": [
+      "https://cdn-images-1.medium.com/1*u1nTJMFc34aDLTPCIr0-cQ.gif",
+      "https://user-images.githubusercontent.com/10334791/27850595-62dc852e-615e-11e7-875c-57a017dbb28c.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/RobertSasak/react-native-openalpr",
+        "clone": "https://github.com/RobertSasak/react-native-openalpr.git",
+        "homepage": "https://medium.freecodecamp.com/license-plate-recognition-in-react-native-b4f790d3a160#.jngb9oclt"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-08-09T04:08:28Z",
+        "createdAt": "2017-02-07T17:33:26Z",
+        "pushedAt": "2022-08-09T04:08:28Z",
+        "forks": 165,
+        "issues": 7,
+        "subscribers": 22,
+        "stars": 491
+      },
+      "name": "react-native-openalpr",
+      "fullName": "RobertSasak/react-native-openalpr",
+      "description": "An open-source React Native automatic license plate recognition package for OpenALPR",
+      "topics": [
+        "react-native",
+        "openalpr",
+        "camera",
+        "camera-component",
+        "opencv"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.2.0",
+        "tagName": "v2.2.0",
+        "createdAt": "2021-05-04T10:11:57Z",
+        "publishedAt": "2021-05-04T10:17:16Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-openalpr",
+    "npm": {
+      "downloads": 435,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 104
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.009,
+    "topicSearchString": "react-native openalpr camera camera-component opencv",
+    "matchScore": 1,
+    "category": [
+      "camera"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-camera/react-native-camera",
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-camera/react-native-camera",
+        "clone": "https://github.com/react-native-camera/react-native-camera.git",
+        "homepage": "https://react-native-camera.github.io/react-native-camera/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2022-01-03T15:22:50Z",
+        "createdAt": "2015-04-01T00:54:40Z",
+        "pushedAt": "2022-01-03T15:22:50Z",
+        "forks": 3272,
+        "issues": 73,
+        "subscribers": 172,
+        "stars": 9632
+      },
+      "name": "react-native-camera",
+      "fullName": "react-native-camera/react-native-camera",
+      "description": "A Camera component for React Native. Also supports barcode scanning!",
+      "license": null,
+      "lastRelease": {
+        "name": "v4.2.1",
+        "tagName": "v4.2.1",
+        "createdAt": "2021-09-21T19:39:52Z",
+        "publishedAt": "2021-09-21T19:40:03Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "react-native-camera",
+    "npm": {
+      "downloads": 358136,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 78973
+    },
+    "score": 69,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.279,
+    "topicSearchString": "",
+    "matchScore": 0.11,
+    "category": [
+      "camera"
+    ]
+  }
+]

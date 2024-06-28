@@ -1,0 +1,92 @@
+[
+  {
+    "githubUrl": "https://github.com/VincentCATILLON/react-native-confetti-cannon",
+    "examples": [
+      "https://github.com/VincentCATILLON/react-native-confetti-cannon/tree/master/example",
+      "https://vincentcatillon.github.io/react-native-confetti-cannon"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/VincentCATILLON/react-native-confetti-cannon/master/.github/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "react-native-confetti-cannon",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/VincentCATILLON/react-native-confetti-cannon",
+        "clone": "https://github.com/VincentCATILLON/react-native-confetti-cannon.git",
+        "homepage": "https://vincentcatillon.github.io/react-native-confetti-cannon"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T07:09:18Z",
+        "createdAt": "2019-02-01T15:52:36Z",
+        "pushedAt": "2023-08-10T05:39:58Z",
+        "issues": 25,
+        "subscribers": 7,
+        "stars": 454,
+        "forks": 62
+      },
+      "name": "react-native-confetti-cannon",
+      "fullName": "VincentCATILLON/react-native-confetti-cannon",
+      "description": "React Native confetti explosion and fall like iOS does.",
+      "topics": [
+        "react",
+        "react-native",
+        "react-native-web",
+        "confetti",
+        "cannon",
+        "explosion",
+        "fall",
+        "animation",
+        "animated",
+        "particles",
+        "ios",
+        "android",
+        "web",
+        "lightweight",
+        "pure-js",
+        "flow",
+        "flowtype",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.5.2",
+        "tagName": "1.5.2",
+        "createdAt": "2021-03-03T11:57:42Z",
+        "publishedAt": "2021-03-03T11:59:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 79041,
+      "weekDownloads": 18358,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native react-native-web confetti cannon explosion fall animation animated particles ios android web lightweight pure-js flow flowtype typescript",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.018,
+    "category": [
+      "confetti"
+    ]
+  }
+]

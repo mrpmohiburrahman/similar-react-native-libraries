@@ -1,0 +1,450 @@
+[
+  {
+    "githubUrl": "https://github.com/mrousavy/react-native-notification-badge",
+    "examples": [
+      "https://github.com/mrousavy/react-native-notification-badge/tree/master/example"
+    ],
+    "ios": true,
+    "npmPkg": "react-native-notification-badge",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mrousavy/react-native-notification-badge",
+        "clone": "https://github.com/mrousavy/react-native-notification-badge.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-08T20:14:14Z",
+        "createdAt": "2020-07-25T12:12:09Z",
+        "pushedAt": "2021-10-05T22:40:20Z",
+        "issues": 3,
+        "subscribers": 5,
+        "stars": 49,
+        "forks": 6
+      },
+      "name": "react-native-notification-badge",
+      "fullName": "mrousavy/react-native-notification-badge",
+      "description": "🔴 A notification badge count manager for React Native",
+      "topics": [
+        "react-native",
+        "native-module",
+        "notification",
+        "badge",
+        "notifications",
+        "manager",
+        "library",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8185,
+      "weekDownloads": 1983,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native native-module notification badge notifications manager library react",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.008,
+    "category": [
+      "badge",
+      "notifications",
+      "notification"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/notifee",
+    "npmPkg": "@notifee/react-native",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/notifee",
+        "clone": "https://github.com/invertase/notifee.git",
+        "homepage": "https://notifee.app"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T21:24:51Z",
+        "createdAt": "2017-06-02T09:44:41Z",
+        "pushedAt": "2024-04-29T11:34:22Z",
+        "issues": 40,
+        "subscribers": 17,
+        "stars": 1727,
+        "forks": 196
+      },
+      "name": "notifee",
+      "fullName": "invertase/notifee",
+      "description": "⚛️ A feature rich notifications library for React Native.",
+      "topics": [
+        "android",
+        "hactoberfest",
+        "ios",
+        "notifications",
+        "react-native"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "@notifee/react-native@7.8.2",
+        "tagName": "@notifee/react-native@7.8.2",
+        "createdAt": "2023-12-13T18:35:35Z",
+        "publishedAt": "2023-12-13T18:37:07Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 458558,
+      "weekDownloads": 105970,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android hactoberfest ios notifications react-native",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.019,
+    "category": [
+      "notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/TheWidlarzGroup/react-native-notificated",
+    "examples": [
+      "https://github.com/TheWidlarzGroup/react-native-notificated/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-notificated",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/TheWidlarzGroup/react-native-notificated",
+        "clone": "https://github.com/TheWidlarzGroup/react-native-notificated.git",
+        "homepage": "https://thewidlarzgroup.github.io/react-native-notificated/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T17:14:18Z",
+        "createdAt": "2021-12-02T18:02:34Z",
+        "pushedAt": "2024-05-22T13:40:30Z",
+        "issues": 4,
+        "subscribers": 4,
+        "stars": 340,
+        "forks": 17
+      },
+      "name": "react-native-notificated",
+      "fullName": "TheWidlarzGroup/react-native-notificated",
+      "description": "⚡️React Native toast notifications",
+      "topics": [
+        "notifications",
+        "react-native",
+        "toast",
+        "notification"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.5",
+        "tagName": "v0.1.5",
+        "createdAt": "2024-04-10T07:22:35Z",
+        "publishedAt": "2024-04-10T07:22:51Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1638,
+      "weekDownloads": 301,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "notifications react-native toast notification",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.066,
+    "category": [
+      "toast",
+      "notification",
+      "notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/geektimecoil/react-native-onesignal",
+    "ios": true,
+    "android": true,
+    "goldstar": true,
+    "npmPkg": "react-native-onesignal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/OneSignal/react-native-onesignal",
+        "clone": "https://github.com/OneSignal/react-native-onesignal.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T13:07:11Z",
+        "createdAt": "2016-02-19T11:03:31Z",
+        "pushedAt": "2024-05-24T21:22:24Z",
+        "issues": 90,
+        "subscribers": 51,
+        "stars": 1556,
+        "forks": 368
+      },
+      "name": "react-native-onesignal",
+      "fullName": "OneSignal/react-native-onesignal",
+      "description": "React Native Library for OneSignal Push Notifications Service",
+      "topics": [
+        "react-native",
+        "onesignal",
+        "react-native-onesignal",
+        "push-notifications",
+        "android",
+        "ios",
+        "push",
+        "mobile",
+        "onesignal-instructions",
+        "onesignal-notifications",
+        "notifications"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "Release 5.2.0",
+        "tagName": "5.2.0",
+        "createdAt": "2024-05-16T22:13:41Z",
+        "publishedAt": "2024-05-16T22:35:50Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 176537,
+      "weekDownloads": 43719,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native onesignal react-native-onesignal push-notifications android ios push mobile onesignal-instructions onesignal-notifications notifications",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recommended",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.002,
+    "category": [
+      "onesignal",
+      "react-native-onesignal",
+      "push-notifications",
+      "onesignal-notifications",
+      "notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/evollu/react-native-fcm",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-fcm",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/evollu/react-native-fcm",
+        "clone": "https://github.com/evollu/react-native-fcm.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T18:58:51Z",
+        "createdAt": "2016-05-29T03:53:22Z",
+        "pushedAt": "2022-12-06T20:27:57Z",
+        "issues": 307,
+        "subscribers": 37,
+        "stars": 1728,
+        "forks": 681
+      },
+      "name": "react-native-fcm",
+      "fullName": "evollu/react-native-fcm",
+      "description": "react native module for firebase cloud messaging and local notification",
+      "topics": [
+        "notifications",
+        "fcm",
+        "android",
+        "firebase",
+        "ios",
+        "local-notifications"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v16.2.4",
+        "createdAt": "2018-11-04T01:34:42Z",
+        "publishedAt": "2018-11-04T01:42:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 390,
+      "weekDownloads": 71,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "notifications fcm android firebase ios local-notifications",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.317,
+    "category": [
+      "firebase",
+      "fcm",
+      "notifications",
+      "local-notifications"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-notifications",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-notifications",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 575678,
+      "weekDownloads": 134894,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.016,
+    "category": [
+      "notifications"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/tachyons-css/react-native-style-tachyons",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-style-tachyons",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tachyons-css/react-native-style-tachyons",
+        "clone": "https://github.com/tachyons-css/react-native-style-tachyons.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T10:19:09Z",
+        "createdAt": "2016-05-21T17:27:47Z",
+        "pushedAt": "2024-05-20T10:19:08Z",
+        "issues": 0,
+        "subscribers": 12,
+        "stars": 680,
+        "forks": 50
+      },
+      "name": "react-native-style-tachyons",
+      "fullName": "tachyons-css/react-native-style-tachyons",
+      "description": "Better styling for React Native",
+      "topics": [
+        "react-native",
+        "stylesheet",
+        "responsive",
+        "typography",
+        "android",
+        "ios",
+        "react",
+        "css-modules",
+        "css"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5668,
+      "weekDownloads": 1366,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native stylesheet responsive typography android ios react css-modules css",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.009,
+    "category": [
+      "stylesheet"
+    ]
+  }
+]

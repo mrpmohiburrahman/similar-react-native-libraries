@@ -1,0 +1,85 @@
+[
+  {
+    "githubUrl": "https://github.com/WrathChaos/react-native-bouncy-checkbox",
+    "images": [
+      "https://raw.githubusercontent.com/WrathChaos/react-native-bouncy-checkbox/master/assets/Screenshots/react-native-bouncy-checkbox.png",
+      "https://raw.githubusercontent.com/WrathChaos/react-native-bouncy-checkbox/master/assets/Screenshots/react-native-bouncy-checkbox.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-bouncy-checkbox",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/WrathChaos/react-native-bouncy-checkbox",
+        "clone": "https://github.com/WrathChaos/react-native-bouncy-checkbox.git",
+        "homepage": "https://freakycoder.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T13:00:20Z",
+        "createdAt": "2019-10-12T18:40:48Z",
+        "pushedAt": "2024-05-24T03:57:07Z",
+        "issues": 5,
+        "subscribers": 8,
+        "stars": 690,
+        "forks": 56
+      },
+      "name": "react-native-bouncy-checkbox",
+      "fullName": "WrathChaos/react-native-bouncy-checkbox",
+      "description": "Fully customizable animated bouncy checkbox for React Native",
+      "topics": [
+        "react",
+        "reactjs",
+        "react-native",
+        "ios",
+        "android",
+        "mobile",
+        "mobile-app",
+        "customizable-ui",
+        "javascript",
+        "checkbox",
+        "bounce",
+        "bouncy-checkbox",
+        "freakycoder"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "4.0.1",
+        "tagName": "4.0.1",
+        "createdAt": "2024-05-17T07:20:44Z",
+        "publishedAt": "2024-05-17T07:23:21Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 62562,
+      "weekDownloads": 15058,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react reactjs react-native ios android mobile mobile-app customizable-ui javascript checkbox bounce bouncy-checkbox freakycoder",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.009,
+    "category": [
+      "bouncy-checkbox",
+      "bounce",
+      "checkbox"
+    ]
+  }
+]

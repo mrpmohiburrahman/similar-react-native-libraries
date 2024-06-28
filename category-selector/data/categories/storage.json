@@ -1,0 +1,1155 @@
+[
+  {
+    "githubUrl": "https://github.com/ammarahm-ed/react-native-mmkv-storage",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ammarahm-ed/react-native-mmkv-storage",
+        "clone": "https://github.com/ammarahm-ed/react-native-mmkv-storage.git",
+        "homepage": "https://rnmmkv.now.sh"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-12-02T04:03:15Z",
+        "createdAt": "2020-03-10T15:23:29Z",
+        "pushedAt": "2023-12-02T04:03:15Z",
+        "forks": 101,
+        "issues": 31,
+        "subscribers": 15,
+        "stars": 1518
+      },
+      "name": "react-native-mmkv-storage",
+      "fullName": "ammarahm-ed/react-native-mmkv-storage",
+      "description": "An ultra fast (0.0002s read/write), small & encrypted mobile key-value storage framework for React Native written in C++ using JSI",
+      "topics": [
+        "react-native",
+        "fast-storage",
+        "react",
+        "native",
+        "asyncstorage",
+        "async-storage",
+        "mmkv-database",
+        "mmkv-storage",
+        "encrypted-storage",
+        "encryption",
+        "mmkv",
+        "android",
+        "ios",
+        "key-value-storage",
+        "database",
+        "fast",
+        "storage",
+        "persist-storage",
+        "secure-storage",
+        "redux-persist-storage",
+        "react-native-mmkv-storage",
+        "java",
+        "objective-c"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.9.0",
+        "tagName": "v0.9.0",
+        "createdAt": "2023-03-10T15:02:30Z",
+        "publishedAt": "2023-03-10T15:06:12Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-mmkv-storage",
+    "npm": {
+      "downloads": 56496,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 13810
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.006,
+    "topicSearchString": "react-native fast-storage react native asyncstorage async-storage mmkv-database mmkv-storage encrypted-storage encryption mmkv android ios key-value-storage database fast storage persist-storage secure-storage redux-persist-storage react-native-mmkv-storage java objective-c",
+    "matchScore": 111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/emeraldsanto/react-native-encrypted-storage",
+    "examples": [
+      "https://github.com/emeraldsanto/react-native-encrypted-storage/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/emeraldsanto/react-native-encrypted-storage",
+        "clone": "https://github.com/emeraldsanto/react-native-encrypted-storage.git",
+        "homepage": "https://www.npmjs.com/package/react-native-encrypted-storage"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-11-03T22:34:33Z",
+        "createdAt": "2020-02-10T17:10:56Z",
+        "pushedAt": "2022-11-03T22:34:33Z",
+        "forks": 60,
+        "issues": 28,
+        "subscribers": 9,
+        "stars": 567
+      },
+      "name": "react-native-encrypted-storage",
+      "fullName": "emeraldsanto/react-native-encrypted-storage",
+      "description": "React Native wrapper around EncryptedSharedPreferences and Keychain to provide a secure alternative to Async Storage.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "async-storage",
+        "keychain",
+        "sharedpreferences",
+        "encryption",
+        "security",
+        "kotlin",
+        "swift"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "4.0.3",
+        "tagName": "4.0.3",
+        "createdAt": "2022-11-03T22:39:32Z",
+        "publishedAt": "2022-11-03T22:39:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-encrypted-storage",
+    "npm": {
+      "downloads": 168060,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 40802
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "react-native ios android async-storage keychain sharedpreferences encryption security kotlin swift",
+    "matchScore": 111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-async-storage/async-storage",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "windows": true,
+    "macos": true,
+    "visionos": true,
+    "npmPkg": "@react-native-async-storage/async-storage",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-async-storage/async-storage",
+        "clone": "https://github.com/react-native-async-storage/async-storage.git",
+        "homepage": "https://react-native-async-storage.github.io/async-storage/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2024-05-02T12:47:36Z",
+        "createdAt": "2019-02-06T15:51:20Z",
+        "pushedAt": "2024-05-02T12:47:36Z",
+        "forks": 436,
+        "issues": 20,
+        "subscribers": 30,
+        "stars": 4570
+      },
+      "name": "async-storage",
+      "fullName": "react-native-async-storage/async-storage",
+      "description": "An asynchronous, persistent, key-value storage system for React Native.",
+      "topics": [],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.23.1",
+        "tagName": "v1.23.1",
+        "createdAt": "2024-03-20T11:43:18Z",
+        "publishedAt": "2024-03-20T11:44:01Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 3840606,
+      "weekDownloads": 861870,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "topicSearchString": "",
+    "matchScore": 110,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/talut/rn-secure-storage",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/talut/rn-secure-storage",
+        "clone": "https://github.com/talut/rn-secure-storage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-29T13:16:01Z",
+        "createdAt": "2018-09-14T14:48:56Z",
+        "pushedAt": "2024-01-29T13:16:01Z",
+        "forks": 55,
+        "issues": 6,
+        "subscribers": 7,
+        "stars": 194
+      },
+      "name": "rn-secure-storage",
+      "fullName": "talut/rn-secure-storage",
+      "description": "Secure Storage for React Native (Android & iOS)",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "keychain-service",
+        "keystore-service",
+        "device-security",
+        "keystore",
+        "keychain",
+        "secure-preferences",
+        "token",
+        "react-token",
+        "multiple-values",
+        "multiple-keys"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v3.0.1",
+        "tagName": "3.0.1",
+        "createdAt": "2024-01-29T13:16:01Z",
+        "publishedAt": "2024-01-29T13:21:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "rn-secure-storage",
+    "npm": {
+      "downloads": 16706,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 4000
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.011,
+    "topicSearchString": "react-native ios android keychain-service keystore-service device-security keystore keychain secure-preferences token react-token multiple-values multiple-keys",
+    "matchScore": 110,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/apperside/cross-local-storage",
+    "examples": [
+      "https://github.com/apperside/cross-local-storage/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/apperside/cross-local-storage",
+        "clone": "https://github.com/apperside/cross-local-storage.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-09-24T08:20:40Z",
+        "createdAt": "2022-05-20T10:22:33Z",
+        "pushedAt": "2022-09-24T08:20:40Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 7
+      },
+      "name": "cross-local-storage",
+      "fullName": "apperside/cross-local-storage",
+      "description": "A small, typescript first, well tested, cross platform wrapper around react-native-async-storage/async-storage which works out of the on both the browser and react native",
+      "topics": [
+        "react",
+        "library",
+        "storybook",
+        "components"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "cross-local-storage",
+    "npm": {
+      "downloads": 230,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 66
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.511,
+    "topicSearchString": "react library storybook components",
+    "matchScore": 110,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/andpor/react-native-sqlite-storage",
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/andpor/react-native-sqlite-storage",
+        "clone": "https://github.com/andpor/react-native-sqlite-storage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-10-01T14:16:35Z",
+        "createdAt": "2015-10-30T08:42:28Z",
+        "pushedAt": "2021-10-01T14:16:35Z",
+        "forks": 443,
+        "issues": 159,
+        "subscribers": 53,
+        "stars": 2718
+      },
+      "name": "react-native-sqlite-storage",
+      "fullName": "andpor/react-native-sqlite-storage",
+      "description": "Full featured SQLite3 Native Plugin for React Native (Android and iOS)",
+      "topics": [
+        "react-native-sqlite-storage",
+        "react-native-sqlite",
+        "react-component",
+        "reactnative",
+        "react-native",
+        "sqlite",
+        "sqlite3",
+        "ios",
+        "android",
+        "promise",
+        "cordova-sqlite-storage"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Maintenance release",
+        "tagName": "6.0.1",
+        "createdAt": "2021-10-01T14:16:35Z",
+        "publishedAt": "2021-10-01T14:18:02Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-sqlite-storage",
+    "npm": {
+      "downloads": 73734,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 18675
+    },
+    "score": 31,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": 0.003,
+    "topicSearchString": "react-native-sqlite-storage react-native-sqlite react-component reactnative react-native sqlite sqlite3 ios android promise cordova-sqlite-storage",
+    "matchScore": 101,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jasonmerino/react-native-simple-store",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jasonmerino/react-native-simple-store",
+        "clone": "https://github.com/jasonmerino/react-native-simple-store.git",
+        "homepage": "https://www.npmjs.com/package/react-native-simple-store"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2020-03-23T22:51:26Z",
+        "createdAt": "2015-08-19T04:12:07Z",
+        "pushedAt": "2020-03-23T22:51:26Z",
+        "forks": 81,
+        "issues": 2,
+        "subscribers": 12,
+        "stars": 876
+      },
+      "name": "react-native-simple-store",
+      "fullName": "jasonmerino/react-native-simple-store",
+      "description": "A minimalistic wrapper around React Native's AsyncStorage.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "asyncstorage",
+        "data-store",
+        "key-value-store"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-simple-store",
+    "npm": {
+      "downloads": 2485,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 486
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.054,
+    "topicSearchString": "react-native ios android asyncstorage data-store key-value-store",
+    "matchScore": 11,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/mrousavy/react-native-mmkv",
+    "examples": [
+      "https://github.com/mrousavy/react-native-mmkv/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mrousavy/react-native-mmkv",
+        "clone": "https://github.com/mrousavy/react-native-mmkv.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "updatedAt": "2024-05-21T15:26:17Z",
+        "createdAt": "2021-02-24T07:33:00Z",
+        "pushedAt": "2024-05-21T15:26:17Z",
+        "forks": 227,
+        "issues": 38,
+        "subscribers": 31,
+        "stars": 5321
+      },
+      "name": "react-native-mmkv",
+      "fullName": "mrousavy/react-native-mmkv",
+      "description": "⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.0.0-beta.5",
+        "tagName": "v3.0.0-beta.5",
+        "createdAt": "2024-04-30T16:43:51Z",
+        "publishedAt": "2024-04-30T16:43:52Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "react-native-mmkv",
+    "npm": {
+      "downloads": 614838,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 134570
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.031,
+    "topicSearchString": "",
+    "matchScore": 10,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/timfpark/react-native-cache",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/timfpark/react-native-cache",
+        "clone": "https://github.com/timfpark/react-native-cache.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2022-12-30T19:55:30Z",
+        "createdAt": "2015-11-20T21:14:41Z",
+        "pushedAt": "2022-12-30T19:55:30Z",
+        "forks": 27,
+        "issues": 11,
+        "subscribers": 7,
+        "stars": 190
+      },
+      "name": "react-native-cache",
+      "fullName": "timfpark/react-native-cache",
+      "description": "React Native LRU cache build on top of AsyncStorage",
+      "topics": [],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-cache",
+    "npm": {
+      "downloads": 10068,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2100
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.041,
+    "topicSearchString": "",
+    "matchScore": 10,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/peterpme/react-native-asyncstorage",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/peterpme/react-native-asyncstorage",
+        "clone": "https://github.com/peterpme/react-native-asyncstorage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2017-08-27T18:24:48Z",
+        "createdAt": "2017-08-26T22:52:25Z",
+        "pushedAt": "2017-08-27T18:24:48Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 31
+      },
+      "name": "react-native-asyncstorage",
+      "fullName": "peterpme/react-native-asyncstorage",
+      "description": "📬 📫 🗄 Declarative AsyncStorage component for React Native",
+      "topics": [
+        "react",
+        "react-native",
+        "asyncstorage",
+        "declarative"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-asyncstorage",
+    "npm": {
+      "downloads": 10,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.7,
+    "topicSearchString": "react react-native asyncstorage declarative",
+    "matchScore": 0.111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/sunnylqm/react-native-storage",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/sunnylqm/react-native-storage",
+        "clone": "https://github.com/sunnylqm/react-native-storage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-03T12:49:50Z",
+        "createdAt": "2015-07-27T12:49:29Z",
+        "pushedAt": "2024-03-03T12:49:50Z",
+        "forks": 269,
+        "issues": 23,
+        "subscribers": 44,
+        "stars": 3003
+      },
+      "name": "react-native-storage",
+      "fullName": "sunnylqm/react-native-storage",
+      "description": "local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.",
+      "topics": [
+        "react-native",
+        "localstorage",
+        "asyncstorage",
+        "reactjs",
+        "sync"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-storage",
+    "npm": {
+      "downloads": 26413,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 6425
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "react-native localstorage asyncstorage reactjs sync",
+    "matchScore": 111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/artxty/typed-async-storage",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/artxty/typed-async-storage",
+        "clone": "https://github.com/artxty/typed-async-storage.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-24T00:39:35Z",
+        "createdAt": "2020-08-25T00:45:29Z",
+        "pushedAt": "2023-09-24T00:39:35Z",
+        "forks": 11,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 8
+      },
+      "name": "typed-async-storage",
+      "fullName": "artxty/typed-async-storage",
+      "description": "Validate your AsyncStorage using PropTypes!",
+      "topics": [
+        "react",
+        "react-native",
+        "asyncstorage",
+        "storage",
+        "asyncstorage-wrapper",
+        "proptype-validators"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Extended API",
+        "tagName": "v3.1.0",
+        "createdAt": "2020-09-25T18:46:06Z",
+        "publishedAt": "2020-09-25T18:49:52Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "typed-async-storage",
+    "npm": {
+      "downloads": 148,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 59
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.401,
+    "topicSearchString": "react react-native asyncstorage storage asyncstorage-wrapper proptype-validators",
+    "matchScore": 111,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/KjellConnelly/react-native-shared-group-preferences",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/KjellConnelly/react-native-shared-group-preferences",
+        "clone": "https://github.com/KjellConnelly/react-native-shared-group-preferences.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-18T15:52:52Z",
+        "createdAt": "2018-03-09T18:40:25Z",
+        "pushedAt": "2023-09-18T15:52:52Z",
+        "forks": 46,
+        "issues": 9,
+        "subscribers": 5,
+        "stars": 120
+      },
+      "name": "react-native-shared-group-preferences",
+      "fullName": "KjellConnelly/react-native-shared-group-preferences",
+      "description": "#### To Know - Doesn't work for Expo since this uses native code. - iOS & Android ONLY - Uses Xcode's Shared Preferences App Groups (iOS) and Public External Storage for Android. - Once you install via npm, you will need to do some configuration in Xcode for your javascript to access a shared group container. Android will need Permissions. - I tried to model this after React Native's AsyncStorage. Main thing is that you no longer need to do JSON.stringify and JSON.parse when you set/get. Not sure why they make you do that to begin with... but you can set/get an JSONable item using this module. - All methods return a promise. So make sure to make your functions async. - iOS's data is securely sandboxed within your app group. I couldn't find something as easy to access, or that wouldn't be deleted if you delete an app, so the Android version saves a json file to the android device's external storage. This is good because if the app is deleted, another app can still access the data. But this is bad because any other app can delete/edit/access this file. For this reason, at least for Android, do not store data in it that is sensitive. If you're saving user preferences, fine. But do not save something like credit card numbers or anything like that in here. That would be irresponsible. The file is saved to the user's storage in the following format: ```$storage/$appGroupIdentifier/data.json```. So make sure your appGroupIdentifier is a valid folder name. Reverse dns works fine.",
+      "topics": [
+        "react-native"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-shared-group-preferences",
+    "npm": {
+      "downloads": 67034,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 15154
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.024,
+    "topicSearchString": "react-native",
+    "matchScore": 10,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rt2zz/redux-persist",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rt2zz/redux-persist",
+        "clone": "https://github.com/rt2zz/redux-persist.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-10-24T01:11:37Z",
+        "createdAt": "2015-07-23T04:43:58Z",
+        "pushedAt": "2021-10-24T01:11:37Z",
+        "forks": 837,
+        "issues": 516,
+        "subscribers": 85,
+        "stars": 12878
+      },
+      "name": "redux-persist",
+      "fullName": "rt2zz/redux-persist",
+      "description": "persist and rehydrate a redux store",
+      "topics": [
+        "persistor",
+        "storage",
+        "redux",
+        "redux-middleware"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v6.0.0",
+        "createdAt": "2019-09-02T00:39:12Z",
+        "publishedAt": "2019-09-02T00:41:59Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "redux-persist",
+    "npm": {
+      "downloads": 4275585,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 993867
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.018,
+    "topicSearchString": "persistor storage redux redux-middleware",
+    "matchScore": 1,
+    "category": [
+      "storage"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-secure-store",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-secure-store",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 617777,
+      "weekDownloads": 140395,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.023,
+    "category": [
+      "secure-store",
+      "storage",
+      "secure"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-sqlite",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-sqlite",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 90393,
+      "weekDownloads": 21961,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.007,
+    "category": [
+      "sqlite",
+      "storage"
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "githubUrl": "https://github.com/lodev09/react-native-cell-components",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-cell-components",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lodev09/react-native-cell-components",
+        "clone": "https://github.com/lodev09/react-native-cell-components.git",
+        "homepage": "https://www.npmjs.com/package/react-native-cell-components"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-11T18:04:42Z",
+        "createdAt": "2017-02-23T06:48:43Z",
+        "pushedAt": "2023-01-26T14:48:13Z",
+        "issues": 1,
+        "subscribers": 6,
+        "stars": 177,
+        "forks": 16
+      },
+      "name": "react-native-cell-components",
+      "fullName": "lodev09/react-native-cell-components",
+      "description": "Awesome react-native cell components! From a Cell to more complex & awesome components.",
+      "topics": [
+        "cell",
+        "components",
+        "react-native",
+        "ios",
+        "listview",
+        "tableview"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "0.5",
+        "createdAt": "2019-05-23T07:48:17Z",
+        "publishedAt": "2019-05-23T07:49:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 137,
+      "weekDownloads": 4,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "cell components react-native ios listview tableview",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.669,
+    "category": [
+      "cell",
+      "listview",
+      "tableview"
+    ]
+  }
+]

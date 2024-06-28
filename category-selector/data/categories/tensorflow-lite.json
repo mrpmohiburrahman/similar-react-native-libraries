@@ -1,0 +1,89 @@
+[
+  {
+    "githubUrl": "https://github.com/mrousavy/react-native-fast-tflite",
+    "examples": [
+      "https://github.com/mrousavy/react-native-fast-tflite/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-fast-tflite",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mrousavy/react-native-fast-tflite",
+        "clone": "https://github.com/mrousavy/react-native-fast-tflite.git",
+        "homepage": "https://mrousavy.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T09:33:34Z",
+        "createdAt": "2023-07-04T08:37:10Z",
+        "pushedAt": "2024-05-20T14:27:50Z",
+        "issues": 15,
+        "subscribers": 7,
+        "stars": 560,
+        "forks": 19
+      },
+      "name": "react-native-fast-tflite",
+      "fullName": "mrousavy/react-native-fast-tflite",
+      "description": "🔥 High-performance TensorFlow Lite library for React Native with GPU acceleration",
+      "topics": [
+        "ai",
+        "arraybuffer",
+        "camera",
+        "detection",
+        "facial-recognition",
+        "fast",
+        "ml",
+        "native",
+        "object-detection",
+        "react",
+        "react-native",
+        "tensorflow",
+        "tensorflow-lite",
+        "tflite",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.2.0",
+        "tagName": "v1.2.0",
+        "createdAt": "2024-02-13T19:09:29Z",
+        "publishedAt": "2024-02-13T19:09:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1728,
+      "weekDownloads": 468,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ai arraybuffer camera detection facial-recognition fast ml native object-detection react react-native tensorflow tensorflow-lite tflite hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.021,
+    "category": [
+      "facial-recognition",
+      "ml",
+      "tensorflow",
+      "tensorflow-lite",
+      "tflite",
+      "detection"
+    ]
+  }
+]

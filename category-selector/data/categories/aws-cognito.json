@@ -1,0 +1,83 @@
+[
+  {
+    "githubUrl": "https://github.com/aws-amplify/amplify-js",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "aws-amplify",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/aws-amplify/amplify-js",
+        "clone": "https://github.com/aws-amplify/amplify-js.git",
+        "homepage": "https://docs.amplify.aws/lib/q/platform/js"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T22:00:36Z",
+        "createdAt": "2017-10-02T22:17:14Z",
+        "pushedAt": "2024-05-24T22:00:36Z",
+        "forks": 2058,
+        "issues": 547,
+        "subscribers": 212,
+        "stars": 9361
+      },
+      "name": "amplify-js",
+      "fullName": "aws-amplify/amplify-js",
+      "description": "A declarative JavaScript library for application development using cloud services.",
+      "topics": [
+        "react",
+        "cloud-service",
+        "metrics",
+        "javascript",
+        "react-native",
+        "aws",
+        "aws-apigateway",
+        "aws-cognito",
+        "pinpoint",
+        "aws-mobile"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "2024-05-23 Amplify JS release - aws-amplify@6.3.4",
+        "tagName": "aws-amplify@6.3.4",
+        "createdAt": "2024-05-23T22:39:26Z",
+        "publishedAt": "2024-05-23T23:18:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 2594654,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 625016
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.009,
+    "topicSearchString": "react cloud-service metrics javascript react-native aws aws-apigateway aws-cognito pinpoint aws-mobile",
+    "matchScore": 1,
+    "category": [
+      "aws-cognito"
+    ]
+  }
+]

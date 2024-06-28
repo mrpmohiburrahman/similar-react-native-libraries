@@ -1,0 +1,694 @@
+[
+  {
+    "githubUrl": "https://github.com/ahmedrowaihi/react-native-i18n-storage",
+    "npmPkg": "@ahmedrowaihi/react-native-i18n-storage",
+    "examples": [
+      "https://github.com/ahmedrowaihi/react-native-i18n-storage/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ahmedrowaihi/react-native-i18n-storage",
+        "clone": "https://github.com/ahmedrowaihi/react-native-i18n-storage.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-11-13T19:44:21Z",
+        "createdAt": "2023-04-20T17:02:02Z",
+        "pushedAt": "2023-11-13T19:44:21Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 17
+      },
+      "name": "react-native-i18n-storage",
+      "fullName": "ahmedrowaihi/react-native-i18n-storage",
+      "description": "React Native I18n Storage is a simple library to manage your app's I18nManager settings and language by keeping them in sync with local storage from the initial native app launch!.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.5",
+        "tagName": "v2.0.5",
+        "createdAt": "2023-05-07T10:51:32Z",
+        "publishedAt": "2023-05-07T10:52:43Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 2,
+      "weekDownloads": 0,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -1,
+    "topicSearchString": "react-native ios android",
+    "matchScore": 110,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/lingui/js-lingui",
+    "npmPkg": "@lingui/react",
+    "examples": [
+      "https://github.com/lingui/js-lingui/tree/main/examples/react-native"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lingui/js-lingui",
+        "clone": "https://github.com/lingui/js-lingui.git",
+        "homepage": "https://lingui.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T12:56:09Z",
+        "createdAt": "2017-01-17T17:26:46Z",
+        "pushedAt": "2024-05-23T12:56:09Z",
+        "forks": 359,
+        "issues": 23,
+        "subscribers": 30,
+        "stars": 4247
+      },
+      "name": "js-lingui",
+      "fullName": "lingui/js-lingui",
+      "description": "🌍 📖 A readable, automated, and optimized (3 kb) internationalization for JavaScript",
+      "topics": [
+        "translation",
+        "internationalization",
+        "javascript",
+        "i18n",
+        "localization",
+        "icu",
+        "react",
+        "react-components",
+        "messageformat",
+        "intl"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.11.0",
+        "tagName": "v4.11.0",
+        "createdAt": "2024-05-17T07:49:36Z",
+        "publishedAt": "2024-05-17T07:49:37Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 534147,
+      "weekDownloads": 132635,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.002,
+    "topicSearchString": "translation internationalization javascript i18n localization icu react react-components messageformat intl",
+    "matchScore": 1,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/i18next/react-i18next",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/i18next/react-i18next",
+        "clone": "https://github.com/i18next/react-i18next.git",
+        "homepage": "https://react.i18next.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T16:21:19Z",
+        "createdAt": "2015-12-12T12:52:11Z",
+        "pushedAt": "2024-05-22T16:21:19Z",
+        "forks": 1015,
+        "issues": 11,
+        "subscribers": 47,
+        "stars": 8993
+      },
+      "name": "react-i18next",
+      "fullName": "i18next/react-i18next",
+      "description": "Internationalization for react done right. Using the i18next i18n ecosystem.",
+      "topics": [
+        "i18next",
+        "internationalization",
+        "i18n",
+        "translation",
+        "localization",
+        "l10n",
+        "globalization",
+        "react",
+        "reactjs",
+        "react-native",
+        "ssr"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-i18next",
+    "npm": {
+      "downloads": 14439220,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3383462
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.016,
+    "topicSearchString": "i18next internationalization i18n translation localization l10n globalization react reactjs react-native ssr",
+    "matchScore": 111,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/joshswan/react-native-globalize",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/joshswan/react-native-globalize",
+        "clone": "https://github.com/joshswan/react-native-globalize.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-02-25T17:50:19Z",
+        "createdAt": "2015-09-25T01:43:32Z",
+        "pushedAt": "2022-02-25T17:50:19Z",
+        "forks": 65,
+        "issues": 2,
+        "subscribers": 6,
+        "stars": 255
+      },
+      "name": "react-native-globalize",
+      "fullName": "joshswan/react-native-globalize",
+      "description": "Internationalization (i18n) for React Native",
+      "topics": [
+        "react-native",
+        "internationalization",
+        "globalization",
+        "localization",
+        "i18n",
+        "l10n",
+        "currency",
+        "datetime",
+        "language"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "4.5.1",
+        "tagName": "v4.5.1",
+        "createdAt": "2021-01-03T19:34:17Z",
+        "publishedAt": "2021-01-03T19:34:23Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-globalize",
+    "npm": {
+      "downloads": 2166,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 530
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.005,
+    "topicSearchString": "react-native internationalization globalization localization i18n l10n currency datetime language",
+    "matchScore": 11,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/zoontek/react-native-localize",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "windows": true,
+    "macos": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zoontek/react-native-localize",
+        "clone": "https://github.com/zoontek/react-native-localize.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T07:58:24Z",
+        "createdAt": "2017-08-01T16:38:22Z",
+        "pushedAt": "2024-05-17T07:58:24Z",
+        "forks": 202,
+        "issues": 4,
+        "subscribers": 17,
+        "stars": 2217
+      },
+      "name": "react-native-localize",
+      "fullName": "zoontek/react-native-localize",
+      "description": "🌍 A toolbox for your React Native app localization",
+      "topics": [
+        "react-native-localize",
+        "react-native",
+        "react-native-macos",
+        "localize",
+        "localization",
+        "l20n",
+        "globalization",
+        "internationalization",
+        "i18n",
+        "language-detection",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "3.1.0",
+        "tagName": "3.1.0",
+        "createdAt": "2024-04-05T08:26:55Z",
+        "publishedAt": "2024-04-05T08:32:45Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npmPkg": "react-native-localize",
+    "npm": {
+      "downloads": 1196764,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 259064
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.034,
+    "topicSearchString": "react-native-localize react-native react-native-macos localize localization l20n globalization internationalization i18n language-detection ios android",
+    "matchScore": 1,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/zeljkoX/react-native-pseudo-localization",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/zeljkoX/react-native-pseudo-localization",
+        "clone": "https://github.com/zeljkoX/react-native-pseudo-localization.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2018-08-21T09:57:35Z",
+        "createdAt": "2018-08-19T21:28:06Z",
+        "pushedAt": "2018-08-21T09:57:35Z",
+        "forks": 1,
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 6
+      },
+      "name": "react-native-pseudo-localization",
+      "fullName": "zeljkoX/react-native-pseudo-localization",
+      "description": "React Native Pseudo Localization is small package that enables pseudolocalization",
+      "topics": [
+        "chaos-engineering",
+        "i18n",
+        "internationalization",
+        "l10n",
+        "language",
+        "localization",
+        "pseudo-localization",
+        "psuedo-localize",
+        "psuedo",
+        "react-native-pseudo-localization",
+        "translation",
+        "i10n",
+        "react-native",
+        "pseudo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-pseudo-localization",
+    "npm": {
+      "downloads": 18,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.717,
+    "topicSearchString": "chaos-engineering i18n internationalization l10n language localization pseudo-localization psuedo-localize psuedo react-native-pseudo-localization translation i10n react-native pseudo",
+    "matchScore": 1,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/AlexanderZaytsev/react-native-i18n",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/AlexanderZaytsev/react-native-i18n",
+        "clone": "https://github.com/AlexanderZaytsev/react-native-i18n.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-03-18T20:47:21Z",
+        "createdAt": "2015-06-14T10:48:33Z",
+        "pushedAt": "2021-03-18T20:47:21Z",
+        "forks": 431,
+        "issues": 58,
+        "subscribers": 30,
+        "stars": 2174
+      },
+      "name": "react-native-i18n",
+      "fullName": "AlexanderZaytsev/react-native-i18n",
+      "description": "React Native + i18n.js",
+      "topics": [
+        "react-native",
+        "react-component",
+        "ios",
+        "i18n"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.14",
+        "tagName": "v2.0.14",
+        "createdAt": "2018-07-12T15:38:23Z",
+        "publishedAt": "2018-07-12T15:39:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-i18n",
+    "npm": {
+      "downloads": 53735,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 12251
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.022,
+    "topicSearchString": "react-native react-component ios i18n",
+    "matchScore": 111,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jakex7/react-native-localization-settings",
+    "examples": [
+      "https://github.com/jakex7/react-native-localization-settings/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jakex7/react-native-localization-settings",
+        "clone": "https://github.com/jakex7/react-native-localization-settings.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-08-01T06:15:19Z",
+        "createdAt": "2023-04-08T15:54:14Z",
+        "pushedAt": "2023-08-01T06:15:19Z",
+        "forks": 4,
+        "issues": 4,
+        "subscribers": 1,
+        "stars": 55
+      },
+      "name": "react-native-localization-settings",
+      "fullName": "jakex7/react-native-localization-settings",
+      "description": "React Native module to expose per-app language preferences API on iOS and Android.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "i18n",
+        "i18next",
+        "i18n-react",
+        "l10n",
+        "language",
+        "per-app",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.0.2",
+        "tagName": "v1.0.2",
+        "createdAt": "2023-08-01T06:15:23Z",
+        "publishedAt": "2023-08-01T06:15:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": true
+    },
+    "images": [],
+    "npmPkg": "react-native-localization-settings",
+    "npm": {
+      "downloads": 5593,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1464
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0.012,
+    "topicSearchString": "react-native ios android i18n i18next i18n-react l10n language per-app hacktoberfest",
+    "matchScore": 1,
+    "category": [
+      "i18n"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-localization",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-localization",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 533479,
+      "weekDownloads": 122529,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.02,
+    "category": [
+      "localization",
+      "i18n"
+    ]
+  }
+]

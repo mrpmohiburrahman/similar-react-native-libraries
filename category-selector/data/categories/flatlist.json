@@ -1,0 +1,633 @@
+[
+  {
+    "githubUrl": "https://github.com/GetStream/react-native-bidirectional-infinite-scroll",
+    "examples": [
+      "https://github.com/GetStream/react-native-bidirectional-infinite-scroll/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-bidirectional-infinite-scroll",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/GetStream/react-native-bidirectional-infinite-scroll",
+        "clone": "https://github.com/GetStream/react-native-bidirectional-infinite-scroll.git",
+        "homepage": "https://getstream.github.io/react-native-bidirectional-infinite-scroll/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-07T05:45:31Z",
+        "createdAt": "2021-02-21T20:18:15Z",
+        "pushedAt": "2022-03-31T09:07:23Z",
+        "issues": 33,
+        "subscribers": 21,
+        "stars": 234,
+        "forks": 27
+      },
+      "name": "react-native-bidirectional-infinite-scroll",
+      "fullName": "GetStream/react-native-bidirectional-infinite-scroll",
+      "description": "📜 React Native - Bidirectional Infinite Smooth Scroll",
+      "topics": [
+        "react-native",
+        "infinite-scroll",
+        "flatlist"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.3.3",
+        "tagName": "v0.3.3",
+        "createdAt": "2021-04-04T11:51:26Z",
+        "publishedAt": "2021-04-04T11:53:05Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7511,
+      "weekDownloads": 2049,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native infinite-scroll flatlist",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.023,
+    "category": [
+      "infinite-scroll",
+      "flatlist"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/marcocesarato/react-native-big-list",
+    "examples": [
+      "https://github.com/marcocesarato/react-native-big-list/tree/master/example",
+      "https://marcocesarato.github.io/react-native-big-list/"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/marcocesarato/react-native-big-list/master/assets/screenshots/performance.gif",
+      "https://raw.githubusercontent.com/marcocesarato/react-native-big-list/master/assets/screenshots/example-section-list.jpg"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-big-list",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/marcocesarato/react-native-big-list",
+        "clone": "https://github.com/marcocesarato/react-native-big-list.git",
+        "homepage": "https://marcocesarato.github.io/react-native-big-list-docs/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T16:05:12Z",
+        "createdAt": "2021-06-05T20:03:07Z",
+        "pushedAt": "2023-06-22T02:57:57Z",
+        "issues": 49,
+        "subscribers": 3,
+        "stars": 521,
+        "forks": 41
+      },
+      "name": "react-native-big-list",
+      "fullName": "marcocesarato/react-native-big-list",
+      "description": "This is a high performance list view for React Native with support for complex layouts using a similar FlatList usage to make easy the replacement. This list implementation for big list rendering on React Native works with a recycler focused on performance and memory usage and so it permits processing thousands items on the list.",
+      "topics": [
+        "list",
+        "fast",
+        "big",
+        "large",
+        "massive",
+        "react-native",
+        "react",
+        "web",
+        "expo",
+        "android",
+        "ios",
+        "data",
+        "flatlist",
+        "react-native-big-list",
+        "sticky-headers",
+        "javascript",
+        "js",
+        "performance",
+        "memory"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "Release 1.6.1",
+        "tagName": "v1.6.1",
+        "createdAt": "2023-03-26T17:29:21Z",
+        "publishedAt": "2023-03-26T17:35:23Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11748,
+      "weekDownloads": 2751,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "list fast big large massive react-native react web expo android ios data flatlist react-native-big-list sticky-headers javascript js performance memory",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.016,
+    "category": [
+      "flatlist",
+      "react-native-big-list"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Eugnis/react-native-timeline-flatlist",
+    "examples": [
+      "https://snack.expo.io/@eugnis/eaae28",
+      "https://expo.dev/@eugnis/react-native-timeline-flatlist-examples",
+      "https://github.com/Eugnis/react-native-timeline-flatlist/tree/master/examples/Example"
+    ],
+    "images": [
+      "https://cloud.githubusercontent.com/assets/21040043/24750025/8c8d044e-1aef-11e7-8fd7-7d64431af7e4.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-timeline-flatlist",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Eugnis/react-native-timeline-flatlist",
+        "clone": "https://github.com/Eugnis/react-native-timeline-flatlist.git",
+        "homepage": "https://www.npmjs.com/package/react-native-timeline-flatlist"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T15:22:41Z",
+        "createdAt": "2018-08-04T22:23:15Z",
+        "pushedAt": "2023-11-09T20:24:53Z",
+        "issues": 49,
+        "subscribers": 5,
+        "stars": 462,
+        "forks": 68
+      },
+      "name": "react-native-timeline-flatlist",
+      "fullName": "Eugnis/react-native-timeline-flatlist",
+      "description": "FlatList based timeline component for React Native for iOS and Android",
+      "topics": [
+        "react-native",
+        "react-native-component",
+        "flatlist-based",
+        "flatlist",
+        "timeline",
+        "cross-platform",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 24185,
+      "weekDownloads": 5743,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-component flatlist-based flatlist timeline cross-platform android ios",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.013,
+    "category": [
+      "flatlist",
+      "flatlist-based"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ArunGovil/react-native-flatboard",
+    "images": [
+      "https://raw.githubusercontent.com/ArunGovil/react-native-flatboard/main/src/assets/cover.webp"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-flatboard",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ArunGovil/react-native-flatboard",
+        "clone": "https://github.com/ArunGovil/react-native-flatboard.git",
+        "homepage": "https://www.npmjs.com/package/react-native-flatboard"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-17T15:00:57Z",
+        "createdAt": "2022-11-14T16:54:29Z",
+        "pushedAt": "2023-04-09T12:57:04Z",
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 21,
+        "forks": 0
+      },
+      "name": "react-native-flatboard",
+      "fullName": "ArunGovil/react-native-flatboard",
+      "description": "Flatlist based lightweight onboarding screen for React Native",
+      "topics": [
+        "flatlist",
+        "onboarding",
+        "react-native",
+        "swipable",
+        "indicator"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "Stable v.1.0.6",
+        "tagName": "v.1.0.6",
+        "createdAt": "2023-01-15T07:27:50Z",
+        "publishedAt": "2023-01-15T08:04:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 108,
+      "weekDownloads": 29,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "flatlist onboarding react-native swipable indicator",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.531,
+    "category": [
+      "flatlist",
+      "onboarding",
+      "swipable"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/dozsolti/react-native-use-list",
+    "examples": [
+      "https://github.com/dozsolti/react-native-use-list/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-use-list",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dozsolti/react-native-use-list",
+        "clone": "https://github.com/dozsolti/react-native-use-list.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-14T05:54:10Z",
+        "createdAt": "2023-04-17T08:03:45Z",
+        "pushedAt": "2023-04-28T11:39:31Z",
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 35,
+        "forks": 3
+      },
+      "name": "react-native-use-list",
+      "fullName": "dozsolti/react-native-use-list",
+      "description": "React Native library of easy solutions for common List use cases.",
+      "topics": [
+        "flatlist",
+        "sectionlist",
+        "virtualizedlist"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 93,
+      "weekDownloads": 35,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "flatlist sectionlist virtualizedlist",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.321,
+    "category": [
+      "flatlist",
+      "sectionlist",
+      "virtualizedlist"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/cooperka/react-native-immutable-list-view",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-immutable-list-view",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/cooperka/react-native-immutable-list-view",
+        "clone": "https://github.com/cooperka/react-native-immutable-list-view.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-15T15:47:00Z",
+        "createdAt": "2016-10-08T14:49:51Z",
+        "pushedAt": "2020-12-11T08:36:21Z",
+        "issues": 9,
+        "subscribers": 6,
+        "stars": 205,
+        "forks": 34
+      },
+      "name": "react-native-immutable-list-view",
+      "fullName": "cooperka/react-native-immutable-list-view",
+      "description": ":scroll: Drop-in replacement for ListView, FlatList, and VirtualizedList.",
+      "topics": [
+        "react-native",
+        "listview",
+        "immutable",
+        "immutablejs",
+        "component",
+        "flatlist",
+        "virtualizedlist"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v2.0.0",
+        "createdAt": "2019-10-19T01:55:38Z",
+        "publishedAt": "2019-10-19T02:00:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 657,
+      "weekDownloads": 127,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native listview immutable immutablejs component flatlist virtualizedlist",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.056,
+    "category": [
+      "listview",
+      "flatlist",
+      "virtualizedlist"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gusgard/react-native-swiper-flatlist",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "examples": [
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-show-next-screen",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-simple-with-renderitems-and-data",
+      "https://snack.expo.dev/@gusgard/react-native-swiper-flatlist-simple-with-children"
+    ],
+    "npmPkg": "react-native-swiper-flatlist",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gusgard/react-native-swiper-flatlist",
+        "clone": "https://github.com/gusgard/react-native-swiper-flatlist.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T09:59:51Z",
+        "createdAt": "2017-11-19T21:58:25Z",
+        "pushedAt": "2024-05-08T12:42:05Z",
+        "issues": 6,
+        "subscribers": 11,
+        "stars": 498,
+        "forks": 93
+      },
+      "name": "react-native-swiper-flatlist",
+      "fullName": "gusgard/react-native-swiper-flatlist",
+      "description": "👆 Swiper component implemented with FlatList using Hooks & Typescript + strict automation tests with Detox",
+      "topics": [
+        "react-native",
+        "react",
+        "swiper",
+        "swiper-flatlist",
+        "swipeview",
+        "swipe",
+        "react-native-swiper",
+        "hooks",
+        "flatlist",
+        "expo",
+        "typescript",
+        "react-native-swiper-flatlist",
+        "scrollview",
+        "slider",
+        "carousel",
+        "scroll",
+        "detox",
+        "bitrise",
+        "e2e-tests",
+        "images"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "3.2.4",
+        "tagName": "3.2.4",
+        "createdAt": "2024-04-23T03:21:41Z",
+        "publishedAt": "2024-04-23T03:25:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 64174,
+      "weekDownloads": 14525,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react swiper swiper-flatlist swipeview swipe react-native-swiper hooks flatlist expo typescript react-native-swiper-flatlist scrollview slider carousel scroll detox bitrise e2e-tests images",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "swiper",
+      "swiper-flatlist",
+      "swipeview",
+      "swipe",
+      "react-native-swiper",
+      "flatlist",
+      "react-native-swiper-flatlist",
+      "scrollview",
+      "slider",
+      "carousel",
+      "scroll"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gusgard/react-native-grid-list",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/@gusgard/react-native-grid-list"
+    ],
+    "npmPkg": "react-native-grid-list",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gusgard/react-native-grid-list",
+        "clone": "https://github.com/gusgard/react-native-grid-list.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-02-08T19:03:58Z",
+        "createdAt": "2017-11-18T21:55:57Z",
+        "pushedAt": "2021-11-08T18:10:40Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 104,
+        "forks": 8
+      },
+      "name": "react-native-grid-list",
+      "fullName": "gusgard/react-native-grid-list",
+      "description": "🌁 Grid list component implemented with FlatList",
+      "topics": [
+        "react-native",
+        "react",
+        "grid",
+        "grid-layout",
+        "grid-view",
+        "grid-component",
+        "grid-list",
+        "flatlist",
+        "flatlist-grid"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "1.1.0",
+        "tagName": "1.1.0",
+        "createdAt": "2019-10-01T11:04:05Z",
+        "publishedAt": "2019-10-01T15:05:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 366,
+      "weekDownloads": 91,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react grid grid-layout grid-view grid-component grid-list flatlist flatlist-grid",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0,
+    "category": [
+      "grid",
+      "grid-layout",
+      "grid-view",
+      "grid-component",
+      "grid-list",
+      "flatlist",
+      "flatlist-grid"
+    ]
+  }
+]

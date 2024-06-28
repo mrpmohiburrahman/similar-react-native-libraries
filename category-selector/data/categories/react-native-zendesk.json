@@ -1,0 +1,73 @@
+[
+  {
+    "githubUrl": "https://github.com/RosterBuster/rn-zendesk",
+    "ios": true,
+    "android": true,
+    "npmPkg": "rn-zendesk",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/RosterBuster/rn-zendesk",
+        "clone": "https://github.com/RosterBuster/rn-zendesk.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-09-26T13:45:10Z",
+        "createdAt": "2020-01-15T09:22:37Z",
+        "pushedAt": "2022-12-19T06:23:47Z",
+        "issues": 9,
+        "subscribers": 9,
+        "stars": 17,
+        "forks": 2
+      },
+      "name": "rn-zendesk",
+      "fullName": "RosterBuster/rn-zendesk",
+      "description": "React Native component for Zendesk",
+      "topics": [
+        "react-native",
+        "react-native-zendesk",
+        "react-native-help-center",
+        "zendesk-help",
+        "rn-zendesk"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "3.0.0 - Zendesk SDK Update",
+        "tagName": "3.0.0",
+        "createdAt": "2022-12-19T06:22:06Z",
+        "publishedAt": "2022-12-19T06:23:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 365,
+      "weekDownloads": 115,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-zendesk react-native-help-center zendesk-help rn-zendesk",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.034,
+    "category": [
+      "react-native-zendesk",
+      "zendesk-help",
+      "rn-zendesk"
+    ]
+  }
+]

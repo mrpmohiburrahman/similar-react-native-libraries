@@ -1,0 +1,172 @@
+[
+  {
+    "githubUrl": "https://github.com/chaimPaneth/react-native-jw-media-player",
+    "examples": [
+      "https://github.com/chaimPaneth/react-native-jw-media-player/tree/master/Example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/chaimPaneth/react-native-jw-media-player/master/images/1.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-jw-media-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/chaimPaneth/react-native-jw-media-player",
+        "clone": "https://github.com/chaimPaneth/react-native-jw-media-player.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-12T07:16:16Z",
+        "createdAt": "2019-08-04T16:45:05Z",
+        "pushedAt": "2024-05-12T07:16:13Z",
+        "issues": 99,
+        "subscribers": 9,
+        "stars": 188,
+        "forks": 91
+      },
+      "name": "react-native-jw-media-player",
+      "fullName": "chaimPaneth/react-native-jw-media-player",
+      "description": "React-Native Android/iOS bridge for JWPlayer SDK (https://www.jwplayer.com/)",
+      "topics": [
+        "react",
+        "react-native",
+        "jwplayer",
+        "media",
+        "player",
+        "mediaplayer",
+        "media-player",
+        "jw",
+        "android",
+        "ios",
+        "audio",
+        "video",
+        "sdk"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.2.46",
+        "tagName": "0.2.46",
+        "createdAt": "2024-04-18T17:20:50Z",
+        "publishedAt": "2024-04-18T16:21:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4406,
+      "weekDownloads": 1288,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native jwplayer media player mediaplayer media-player jw android ios audio video sdk",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0.042,
+    "category": [
+      "jwplayer",
+      "media",
+      "player",
+      "mediaplayer",
+      "media-player",
+      "jw",
+      "video",
+      "sdk"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ihmpavel/expo-video-player",
+    "examples": [
+      "https://github.com/ihmpavel/expo-video-player/tree/master/example-app"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-video-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ihmpavel/expo-video-player",
+        "clone": "https://github.com/ihmpavel/expo-video-player.git",
+        "homepage": "https://npm.im/expo-video-player"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-01T00:56:08Z",
+        "createdAt": "2018-12-20T23:36:22Z",
+        "pushedAt": "2024-04-19T14:49:46Z",
+        "issues": 37,
+        "subscribers": 5,
+        "stars": 196,
+        "forks": 111
+      },
+      "name": "expo-video-player",
+      "fullName": "ihmpavel/expo-video-player",
+      "description": "Customizable Video Player controls for Expo",
+      "topics": [
+        "expo",
+        "video",
+        "player",
+        "videoplayer",
+        "react-native",
+        "typescript",
+        "expo-video-player"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Version 2.2.0",
+        "tagName": "v2.2.0",
+        "createdAt": "2022-09-29T19:32:17Z",
+        "publishedAt": "2022-09-29T19:35:41Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 9123,
+      "weekDownloads": 2071,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "expo video player videoplayer react-native typescript expo-video-player",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.023,
+    "category": [
+      "video",
+      "player",
+      "videoplayer",
+      "expo-video-player"
+    ]
+  }
+]

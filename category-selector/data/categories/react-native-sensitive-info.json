@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/mCodex/react-native-sensitive-info",
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "npmPkg": "react-native-sensitive-info",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mCodex/react-native-sensitive-info",
+        "clone": "https://github.com/mCodex/react-native-sensitive-info.git",
+        "homepage": "https://mcodex.dev/react-native-sensitive-info/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T12:08:26Z",
+        "createdAt": "2016-05-10T17:13:13Z",
+        "pushedAt": "2024-05-21T10:05:09Z",
+        "issues": 41,
+        "subscribers": 6,
+        "stars": 969,
+        "forks": 211
+      },
+      "name": "react-native-sensitive-info",
+      "fullName": "mCodex/react-native-sensitive-info",
+      "description": "Save sensitive data into Android's Shared Preferences with keystore encryption/iOS's Keychain for React Native",
+      "topics": [
+        "react-native-sensitive-info",
+        "android",
+        "ios-keychain",
+        "ios",
+        "android-shared-preferences",
+        "react-native",
+        "keystore",
+        "shared-preferences",
+        "fingerprint",
+        "windows"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": " 6.0.0-alpha.9",
+        "tagName": "v6.0.0-alpha9",
+        "createdAt": "2020-12-17T20:04:57Z",
+        "publishedAt": "2020-12-17T20:08:57Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 89043,
+      "weekDownloads": 19704,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native-sensitive-info android ios-keychain ios android-shared-preferences react-native keystore shared-preferences fingerprint windows",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "react-native-sensitive-info",
+      "android-shared-preferences",
+      "shared-preferences",
+      "keystore"
+    ]
+  }
+]

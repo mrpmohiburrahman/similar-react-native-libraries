@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/mateoguzmana/react-native-zendesk-unified",
+    "examples": [
+      "https://github.com/mateoguzmana/react-native-zendesk-unified/tree/main/example",
+      "https://github.com/mateoguzmana/ZendeskDemo"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-zendesk-unified",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mateoguzmana/react-native-zendesk-unified",
+        "clone": "https://github.com/mateoguzmana/react-native-zendesk-unified.git",
+        "homepage": "https://mateoguzmana.github.io/react-native-zendesk-unified/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-12T08:27:14Z",
+        "createdAt": "2023-12-10T10:15:58Z",
+        "pushedAt": "2023-12-16T23:58:23Z",
+        "issues": 1,
+        "subscribers": 1,
+        "stars": 2,
+        "forks": 0
+      },
+      "name": "react-native-zendesk-unified",
+      "fullName": "mateoguzmana/react-native-zendesk-unified",
+      "description": "React Native wrapper for the iOS and Android Zendesk SDKs (Chat, Support & Answer Bot)",
+      "topics": [
+        "expo",
+        "library",
+        "native-module",
+        "react",
+        "react-native",
+        "support",
+        "unified",
+        "zendesk"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.0.1-alpha.1",
+        "tagName": "v0.0.1-alpha.1",
+        "createdAt": "2023-12-16T10:37:21Z",
+        "publishedAt": "2023-12-16T10:38:17Z",
+        "isPrerelease": true
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 89,
+      "weekDownloads": 65,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "expo library native-module react react-native support unified zendesk",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.067,
+    "category": [
+      "zendesk"
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "githubUrl": "https://github.com/fasky-software/react-native-widgetkit",
+    "examples": [
+      "https://github.com/fasky-software/react-native-widgetkit/tree/main/example"
+    ],
+    "ios": true,
+    "npmPkg": "react-native-widgetkit",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/fasky-software/react-native-widgetkit",
+        "clone": "https://github.com/fasky-software/react-native-widgetkit.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T16:50:33Z",
+        "createdAt": "2020-10-22T22:02:20Z",
+        "pushedAt": "2021-06-24T14:21:21Z",
+        "issues": 3,
+        "subscribers": 6,
+        "stars": 156,
+        "forks": 7
+      },
+      "name": "react-native-widgetkit",
+      "fullName": "fasky-software/react-native-widgetkit",
+      "description": "React-Native library for the WidgetKit framework. Integrate a Widget into your App 🍏📱",
+      "topics": [
+        "react-native",
+        "widgetkit",
+        "ios14"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 85307,
+      "weekDownloads": 13214,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native widgetkit ios14",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.095,
+    "category": [
+      "widgetkit"
+    ]
+  }
+]

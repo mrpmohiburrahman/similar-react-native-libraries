@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/corymsmith/react-native-fabric",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-fabric",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/corymsmith/react-native-fabric",
+        "clone": "https://github.com/corymsmith/react-native-fabric.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-15T20:39:48Z",
+        "createdAt": "2016-01-20T17:55:40Z",
+        "pushedAt": "2022-12-07T14:16:09Z",
+        "issues": 67,
+        "subscribers": 21,
+        "stars": 1308,
+        "forks": 237
+      },
+      "name": "react-native-fabric",
+      "fullName": "corymsmith/react-native-fabric",
+      "description": "A React Native library for Fabric, Crashlytics and Answers",
+      "topics": [
+        "fabric",
+        "crashlytics",
+        "react-native",
+        "answers"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Updating framework search paths for Cocoapods",
+        "tagName": "0.4.1",
+        "createdAt": "2017-01-16T17:30:23Z",
+        "publishedAt": "2017-01-16T17:32:08Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1111,
+      "weekDownloads": 182,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "fabric crashlytics react-native answers",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.336,
+    "category": [
+      "fabric"
+    ]
+  }
+]

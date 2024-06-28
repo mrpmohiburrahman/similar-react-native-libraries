@@ -1,0 +1,84 @@
+[
+  {
+    "githubUrl": "https://github.com/c19354837/react-native-system-setting",
+    "examples": [
+      "https://github.com/c19354837/react-native-system-setting/tree/master/examples/SystemSettingExample"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/c19354837/react-native-system-setting/master/screenshot/android.jpg",
+      "https://raw.githubusercontent.com/c19354837/react-native-system-setting/master/screenshot/ios.png"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-system-setting",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/c19354837/react-native-system-setting",
+        "clone": "https://github.com/c19354837/react-native-system-setting.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T14:53:31Z",
+        "createdAt": "2017-05-30T02:50:48Z",
+        "pushedAt": "2023-06-27T03:13:18Z",
+        "issues": 68,
+        "subscribers": 11,
+        "stars": 431,
+        "forks": 158
+      },
+      "name": "react-native-system-setting",
+      "fullName": "c19354837/react-native-system-setting",
+      "description": "A library to access system setting, and change it easily. eg: volume, brightness, wifi",
+      "topics": [
+        "react-native",
+        "volume",
+        "brightness",
+        "wifi",
+        "system",
+        "setting",
+        "bluetooth",
+        "location",
+        "airplane"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "V1.7.6",
+        "tagName": "V1.7.6",
+        "createdAt": "2020-10-11T08:08:28Z",
+        "publishedAt": "2020-10-11T08:12:48Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 254472,
+      "weekDownloads": 52949,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native volume brightness wifi system setting bluetooth location airplane",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.042,
+    "category": [
+      "setting",
+      "system"
+    ]
+  }
+]

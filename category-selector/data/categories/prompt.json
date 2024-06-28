@@ -1,0 +1,64 @@
+[
+  {
+    "githubUrl": "https://github.com/shimohq/react-native-prompt-android",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-prompt-android",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/shimohq/react-native-prompt-android",
+        "clone": "https://github.com/shimohq/react-native-prompt-android.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-17T16:45:18Z",
+        "createdAt": "2016-10-12T04:04:45Z",
+        "pushedAt": "2021-01-19T03:06:13Z",
+        "issues": 32,
+        "subscribers": 9,
+        "stars": 129,
+        "forks": 75
+      },
+      "name": "react-native-prompt-android",
+      "fullName": "shimohq/react-native-prompt-android",
+      "description": "A polyfill library for Alert.prompt on Android platform, working both on Android and iOS platform.",
+      "topics": [
+        "react-native",
+        "prompt",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 25317,
+      "weekDownloads": 5884,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native prompt android",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.018,
+    "category": [
+      "prompt"
+    ]
+  }
+]

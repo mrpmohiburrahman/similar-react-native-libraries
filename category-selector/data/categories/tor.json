@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/Sifir-io/react-native-tor",
+    "examples": [
+      "https://github.com/Sifir-io/react-native-tor/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-tor",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Sifir-io/react-native-tor",
+        "clone": "https://github.com/Sifir-io/react-native-tor.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-27T17:32:35Z",
+        "createdAt": "2020-11-17T14:43:01Z",
+        "pushedAt": "2022-02-12T18:33:30Z",
+        "issues": 20,
+        "subscribers": 12,
+        "stars": 94,
+        "forks": 15
+      },
+      "name": "react-native-tor",
+      "fullName": "Sifir-io/react-native-tor",
+      "description": "Tor Daemon and Socks5 client for React Native iOS and Android projects! ",
+      "topics": [
+        "tor",
+        "android",
+        "ios",
+        "react-native",
+        "socks5"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "RN67",
+        "tagName": "0.1.8",
+        "createdAt": "2022-02-09T21:16:06Z",
+        "publishedAt": "2022-02-09T21:21:01Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1060,
+      "weekDownloads": 193,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "tor android ios react-native socks5",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.068,
+    "category": [
+      "tor",
+      "socks5"
+    ]
+  }
+]

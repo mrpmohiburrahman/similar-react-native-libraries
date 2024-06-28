@@ -1,0 +1,141 @@
+[
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-ads-admob",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2022-07-12T00:16:42Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2022-07-12T00:16:42Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29829
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "expo-ads-admob",
+    "npm": {
+      "downloads": 1713,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 433
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.247,
+    "topicSearchString": "",
+    "matchScore": 0.1,
+    "category": [
+      "admob"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/khalisafkari/react-native-sdkx",
+    "examples": [
+      "https://github.com/khalisafkari/react-native-sdkx/tree/main/example"
+    ],
+    "images": [
+      "https://i.ibb.co/mD121Jt/Untitled-presentation.png",
+      "https://i.ibb.co/104bgFX/Screenshot-1603528544.png",
+      "https://i.ibb.co/SmsfW9Q/Screenshot-1603528555.png"
+    ],
+    "android": true,
+    "npmPkg": "react-native-sdkx",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/khalisafkari/react-native-sdkx",
+        "clone": "https://github.com/khalisafkari/react-native-sdkx.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-10-13T03:12:46Z",
+        "createdAt": "2020-10-23T05:15:58Z",
+        "pushedAt": "2023-03-05T14:39:17Z",
+        "issues": 11,
+        "subscribers": 2,
+        "stars": 6,
+        "forks": 0
+      },
+      "name": "react-native-sdkx",
+      "fullName": "khalisafkari/react-native-sdkx",
+      "description": "GreedyGame is an end-to-end implementation, mediation and optimization platform for Ads, support Admob, FacebookAds, Mopub,",
+      "topics": [
+        "greedygame",
+        "admob",
+        "monetization",
+        "react-native",
+        "android",
+        "facebook",
+        "mopub-ads"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.8",
+        "tagName": "v0.1.8",
+        "createdAt": "2020-11-02T02:35:01Z",
+        "publishedAt": "2020-11-02T02:38:17Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "greedygame admob monetization react-native android facebook mopub-ads",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.683,
+    "category": [
+      "greedygame",
+      "admob"
+    ]
+  }
+]

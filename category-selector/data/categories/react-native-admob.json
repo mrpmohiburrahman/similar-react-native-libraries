@@ -1,0 +1,86 @@
+[
+  {
+    "githubUrl": "https://github.com/ammarahm-ed/react-native-admob-native-ads",
+    "examples": [
+      "https://github.com/ammarahm-ed/react-native-admob-native-ads/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ammarahm-ed/react-native-admob-native-ads",
+        "clone": "https://github.com/ammarahm-ed/react-native-admob-native-ads.git",
+        "homepage": "https://ammarahm-ed.github.io/react-native-admob-native-ads/docs/introduction/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-24T04:54:02Z",
+        "createdAt": "2020-03-17T05:29:33Z",
+        "pushedAt": "2024-04-24T04:54:02Z",
+        "forks": 117,
+        "issues": 47,
+        "subscribers": 3,
+        "stars": 380
+      },
+      "name": "react-native-admob-native-ads",
+      "fullName": "ammarahm-ed/react-native-admob-native-ads",
+      "description": "A simple and robust library for creating & displaying Admob Native Advanced Ads in your React Native App using Native Views.",
+      "topics": [
+        "android",
+        "ios",
+        "react-native",
+        "admob",
+        "native-ads",
+        "admob-native-ads",
+        "admob-ads",
+        "react-native-admob",
+        "google-admob",
+        "react",
+        "native",
+        "advanced",
+        "ads",
+        "native-advanced-ads",
+        "admob-native-advanced-ads",
+        "objective-c",
+        "java"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.6.6",
+        "tagName": "v0.6.6",
+        "createdAt": "2023-07-05T03:44:44Z",
+        "publishedAt": "2023-07-05T03:47:00Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-admob-native-ads",
+    "npm": {
+      "downloads": 3402,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 899
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.014,
+    "topicSearchString": "android ios react-native admob native-ads admob-native-ads admob-ads react-native-admob google-admob react native advanced ads native-advanced-ads admob-native-advanced-ads objective-c java",
+    "matchScore": 101,
+    "category": [
+      "react-native-admob"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/agoldis/react-native-mlkit-ocr",
+    "examples": [
+      "https://github.com/agoldis/react-native-mlkit-ocr/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/1637928/115913726-d2a97c00-a425-11eb-9c6a-6d19b974ee81.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-mlkit-ocr",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/agoldis/react-native-mlkit-ocr",
+        "clone": "https://github.com/agoldis/react-native-mlkit-ocr.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-14T14:22:09Z",
+        "createdAt": "2020-12-05T10:04:27Z",
+        "pushedAt": "2023-11-20T19:35:48Z",
+        "issues": 17,
+        "subscribers": 7,
+        "stars": 160,
+        "forks": 34
+      },
+      "name": "react-native-mlkit-ocr",
+      "fullName": "agoldis/react-native-mlkit-ocr",
+      "description": "Google on-device MLKit Text Recognition for React Native",
+      "topics": [
+        "mlkit",
+        "react-native",
+        "text-recognition",
+        "ocr"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.3.0",
+        "tagName": "v0.3.0",
+        "createdAt": "2023-04-13T03:57:53Z",
+        "publishedAt": "2023-04-13T03:57:59Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5462,
+      "weekDownloads": 1319,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mlkit react-native text-recognition ocr",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.008,
+    "category": [
+      "mlkit",
+      "text-recognition",
+      "ocr"
+    ]
+  }
+]

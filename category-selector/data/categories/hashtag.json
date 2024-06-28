@@ -1,0 +1,151 @@
+[
+  {
+    "githubUrl": "https://github.com/andresribeiro/react-native-hyperlinks",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-hyperlinks",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/andresribeiro/react-native-hyperlinks",
+        "clone": "https://github.com/andresribeiro/react-native-hyperlinks.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-12-26T16:15:40Z",
+        "createdAt": "2022-12-30T14:37:47Z",
+        "pushedAt": "2023-12-27T17:53:00Z",
+        "issues": 2,
+        "subscribers": 2,
+        "stars": 24,
+        "forks": 1
+      },
+      "name": "react-native-hyperlinks",
+      "fullName": "andresribeiro/react-native-hyperlinks",
+      "description": "A simple and customizable library to display hyperlinks in React Native",
+      "topics": [
+        "fuzzy-links",
+        "hashtag",
+        "hyperlink",
+        "hyperlinks",
+        "hypertext",
+        "link",
+        "mention",
+        "react-native",
+        "url"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.3",
+        "tagName": "1.0.3",
+        "createdAt": "2023-01-05T13:33:02Z",
+        "publishedAt": "2023-01-05T13:40:22Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 87,
+      "weekDownloads": 25,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "fuzzy-links hashtag hyperlink hyperlinks hypertext link mention react-native url",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.504,
+    "category": [
+      "hyperlink",
+      "hyperlinks",
+      "hypertext",
+      "url",
+      "fuzzy-links",
+      "hashtag",
+      "mention",
+      "link"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/harshq/react-native-mentions",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-mentions",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/harshq/react-native-mentions",
+        "clone": "https://github.com/harshq/react-native-mentions.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T10:08:48Z",
+        "createdAt": "2017-01-09T03:32:10Z",
+        "pushedAt": "2022-02-22T20:53:12Z",
+        "issues": 25,
+        "subscribers": 10,
+        "stars": 308,
+        "forks": 81
+      },
+      "name": "react-native-mentions",
+      "fullName": "harshq/react-native-mentions",
+      "description": "Mentions textbox for React Native. Works on both ios and android. :whale: ",
+      "topics": [
+        "react-native-component",
+        "textinput",
+        "mentions",
+        "ios",
+        "android",
+        "autocomplete",
+        "react-native",
+        "hashtag"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1142,
+      "weekDownloads": 236,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native-component textinput mentions ios android autocomplete react-native hashtag",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.043,
+    "category": [
+      "mentions",
+      "autocomplete",
+      "hashtag"
+    ]
+  }
+]

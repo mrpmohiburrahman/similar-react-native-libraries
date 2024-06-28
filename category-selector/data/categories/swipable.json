@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/ArunGovil/react-native-flatboard",
+    "images": [
+      "https://raw.githubusercontent.com/ArunGovil/react-native-flatboard/main/src/assets/cover.webp"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-flatboard",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ArunGovil/react-native-flatboard",
+        "clone": "https://github.com/ArunGovil/react-native-flatboard.git",
+        "homepage": "https://www.npmjs.com/package/react-native-flatboard"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-17T15:00:57Z",
+        "createdAt": "2022-11-14T16:54:29Z",
+        "pushedAt": "2023-04-09T12:57:04Z",
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 21,
+        "forks": 0
+      },
+      "name": "react-native-flatboard",
+      "fullName": "ArunGovil/react-native-flatboard",
+      "description": "Flatlist based lightweight onboarding screen for React Native",
+      "topics": [
+        "flatlist",
+        "onboarding",
+        "react-native",
+        "swipable",
+        "indicator"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "Stable v.1.0.6",
+        "tagName": "v.1.0.6",
+        "createdAt": "2023-01-15T07:27:50Z",
+        "publishedAt": "2023-01-15T08:04:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 108,
+      "weekDownloads": 29,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "flatlist onboarding react-native swipable indicator",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.531,
+    "category": [
+      "flatlist",
+      "onboarding",
+      "swipable"
+    ]
+  }
+]

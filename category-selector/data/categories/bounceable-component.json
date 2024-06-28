@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/kanzitelli/rn-bounceable",
+    "examples": [
+      "https://expo.dev/@kanzitelli/rn-bounceable-example",
+      "https://github.com/kanzitelli/rn-bounceable/tree/main/expo-example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "rn-bounceable",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kanzitelli/rn-bounceable",
+        "clone": "https://github.com/kanzitelli/rn-bounceable.git",
+        "homepage": "https://rn-bounceable.batyr.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-16T14:26:34Z",
+        "createdAt": "2021-09-27T23:03:47Z",
+        "pushedAt": "2022-08-29T13:44:42Z",
+        "issues": 1,
+        "subscribers": 4,
+        "stars": 40,
+        "forks": 3
+      },
+      "name": "rn-bounceable",
+      "fullName": "kanzitelli/rn-bounceable",
+      "description": "🏀 Native bounceable effect for any React Native component. Built with Reanimated 2. Compatible with Expo (Web).",
+      "topics": [
+        "react",
+        "react-native",
+        "expo",
+        "bounceable",
+        "bounceable-component",
+        "rn-bounceable",
+        "react-native-web"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.2.0",
+        "tagName": "v1.2.0",
+        "createdAt": "2022-08-29T13:44:40Z",
+        "publishedAt": "2022-08-29T13:44:44Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1955,
+      "weekDownloads": 737,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native expo bounceable bounceable-component rn-bounceable react-native-web",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.127,
+    "category": [
+      "bounceable",
+      "bounceable-component",
+      "rn-bounceable"
+    ]
+  }
+]

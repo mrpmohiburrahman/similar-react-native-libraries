@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/dominicstop/react-native-ios-modal",
+    "examples": [
+      "https://github.com/dominicstop/react-native-ios-modal/tree/master/example"
+    ],
+    "images": [
+      "https://github.com/dominicstop/react-native-ios-modal/raw/master/assets/ModalExample-06-07-2.gif",
+      "https://github.com/dominicstop/react-native-ios-modal/raw/master/assets/ModalExample-02-03.gif",
+      "https://github.com/dominicstop/react-native-ios-modal/raw/master/assets/ModalExample-00-01.gif",
+      "https://github.com/dominicstop/react-native-ios-modal/raw/master/assets/ModalExample-04-05.gif"
+    ],
+    "ios": true,
+    "npmPkg": "react-native-ios-modal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dominicstop/react-native-ios-modal",
+        "clone": "https://github.com/dominicstop/react-native-ios-modal.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-23T18:21:43Z",
+        "createdAt": "2020-10-15T05:06:11Z",
+        "pushedAt": "2023-10-05T22:47:00Z",
+        "issues": 9,
+        "subscribers": 3,
+        "stars": 124,
+        "forks": 3
+      },
+      "name": "react-native-ios-modal",
+      "fullName": "dominicstop/react-native-ios-modal",
+      "description": "A react-native component for displaying a modal on iOS by natively wrapping a react-native view inside a UIViewController and presenting it.",
+      "topics": [
+        "react-native",
+        "modal",
+        "ios-swift",
+        "native-module",
+        "native-ui-component",
+        "react-native-component",
+        "react-native-modal"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 2.0.0-3",
+        "tagName": "v2.0.0-3",
+        "createdAt": "2023-05-13T00:28:00Z",
+        "publishedAt": "2023-05-13T00:28:08Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7067,
+      "weekDownloads": 2383,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native modal ios-swift native-module native-ui-component react-native-component react-native-modal",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.087,
+    "category": [
+      "modal",
+      "react-native-modal"
+    ]
+  }
+]

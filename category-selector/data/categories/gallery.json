@@ -1,0 +1,612 @@
+[
+  {
+    "githubUrl": "https://github.com/dev-yakuza/react-native-image-modal",
+    "examples": [
+      "https://github.com/dev-yakuza/react-native-image-modal/tree/develop/Example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/dev-yakuza/react-native-image-modal/develop/demo/open-and-close-image-modal.gif",
+      "https://raw.githubusercontent.com/dev-yakuza/react-native-image-modal/develop/demo/pinch-zoom-and-move.gif",
+      "https://raw.githubusercontent.com/dev-yakuza/react-native-image-modal/develop/demo/double-tap-zoom.gif",
+      "https://raw.githubusercontent.com/dev-yakuza/react-native-image-modal/develop/demo/custom-button.png"
+    ],
+    "android": true,
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/dev-yakuza/react-native-image-modal",
+        "clone": "https://github.com/dev-yakuza/react-native-image-modal.git",
+        "homepage": "https://dev-yakuza.github.io/en/react-native/react-native-image-modal/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T12:19:15Z",
+        "createdAt": "2020-01-17T08:33:07Z",
+        "pushedAt": "2024-05-24T12:19:15Z",
+        "forks": 39,
+        "issues": 16,
+        "subscribers": 7,
+        "stars": 438
+      },
+      "name": "react-native-image-modal",
+      "fullName": "dev-yakuza/react-native-image-modal",
+      "description": "the simple image modal for React Native",
+      "topics": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "ios",
+        "android",
+        "ui",
+        "image-box",
+        "image",
+        "gallery",
+        "react-native-ui",
+        "image-modal"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-image-modal",
+    "npm": {
+      "downloads": 8514,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1801
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.038,
+    "topicSearchString": "react-native react-component react-native-component react ios android ui image-box image gallery react-native-ui image-modal",
+    "matchScore": 1,
+    "category": [
+      "gallery"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/jobtoday/react-native-image-viewing",
+    "examples": [
+      "https://expo.dev/@antonkalinin/react-native-image-viewing",
+      "https://github.com/jobtoday/react-native-image-viewing/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/jobtoday/react-native-image-viewing/master/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/jobtoday/react-native-image-viewing",
+        "clone": "https://github.com/jobtoday/react-native-image-viewing.git",
+        "homepage": "https://exp.host/@antonkalinin/react-native-image-viewing"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-04-18T19:44:46Z",
+        "createdAt": "2019-11-07T20:44:32Z",
+        "pushedAt": "2022-04-18T19:44:46Z",
+        "forks": 243,
+        "issues": 78,
+        "subscribers": 20,
+        "stars": 857
+      },
+      "name": "react-native-image-viewing",
+      "fullName": "jobtoday/react-native-image-viewing",
+      "description": "Tiny, purely TS, modal component for viewing images 🏙 ",
+      "topics": [
+        "react",
+        "react-native",
+        "image",
+        "gallery",
+        "image-gallery",
+        "image-viewer",
+        "pinch-to-zoom"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.2.2",
+        "tagName": "v0.2.2",
+        "createdAt": "2022-04-18T19:37:45Z",
+        "publishedAt": "2022-04-18T19:41:10Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-image-viewing",
+    "npm": {
+      "downloads": 96243,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 21969
+    },
+    "score": 31,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.022,
+    "topicSearchString": "react react-native image gallery image-gallery image-viewer pinch-to-zoom",
+    "matchScore": 1,
+    "category": [
+      "gallery"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Flair-Dev/react-native-awesome-gallery",
+    "examples": [
+      "https://github.com/Flair-Dev/react-native-awesome-gallery/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/Flair-Dev/react-native-awesome-gallery/main/example-0.0.3.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/pavelbabenko/react-native-awesome-gallery",
+        "clone": "https://github.com/pavelbabenko/react-native-awesome-gallery.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-12T12:21:32Z",
+        "createdAt": "2021-03-04T12:14:53Z",
+        "pushedAt": "2024-04-12T12:21:32Z",
+        "forks": 41,
+        "issues": 12,
+        "subscribers": 6,
+        "stars": 400
+      },
+      "name": "react-native-awesome-gallery",
+      "fullName": "pavelbabenko/react-native-awesome-gallery",
+      "description": "Performant, native-like, and well-customizable gallery for React Native.",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "reanimated2",
+        "image-viewer",
+        "pinch-to-zoom",
+        "react",
+        "image-gallery",
+        "lightbox",
+        "expo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.3.9",
+        "tagName": "v0.3.9",
+        "createdAt": "2024-04-12T12:21:32Z",
+        "publishedAt": "2024-04-12T12:24:34Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-awesome-gallery",
+    "npm": {
+      "downloads": 23618,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 5349
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.023,
+    "topicSearchString": "react-native ios android reanimated2 image-viewer pinch-to-zoom react image-gallery lightbox expo",
+    "matchScore": 111,
+    "category": [
+      "gallery"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/terrysahaidak/react-native-gallery-toolkit",
+    "examples": [
+      "https://github.com/terrysahaidak/react-native-gallery-toolkit/tree/master/Example"
+    ],
+    "images": [
+      "https://github.com/terrysahaidak/react-native-gallery-toolkit/raw/master/gifs/promo.gif",
+      "https://github.com/terrysahaidak/react-native-gallery-toolkit/raw/master/gifs/promo_2.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/terrysahaidak/react-native-gallery-toolkit",
+        "clone": "https://github.com/terrysahaidak/react-native-gallery-toolkit.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-10-21T13:39:05Z",
+        "createdAt": "2020-05-28T19:11:34Z",
+        "pushedAt": "2021-10-21T13:39:05Z",
+        "forks": 35,
+        "issues": 7,
+        "subscribers": 10,
+        "stars": 664
+      },
+      "name": "react-native-gallery-toolkit",
+      "fullName": "terrysahaidak/react-native-gallery-toolkit",
+      "description": "Reanimated 2 powered gallery implementation",
+      "topics": [
+        "gallery",
+        "android",
+        "ios",
+        "react-native",
+        "reanimated",
+        "reanimated2",
+        "imageviewer",
+        "react",
+        "animations",
+        "pinch-to-zoom"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.0.0-alpha.1",
+        "tagName": "v1.0.0-alpha.1",
+        "createdAt": "2020-10-05T08:56:24Z",
+        "publishedAt": "2020-10-05T09:04:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-gallery-toolkit",
+    "npm": {
+      "downloads": 22,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.586,
+    "topicSearchString": "gallery android ios react-native reanimated reanimated2 imageviewer react animations pinch-to-zoom",
+    "matchScore": 111,
+    "category": [
+      "gallery"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/halilb/react-native-photo-browser",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "examples": [
+      "https://snack.expo.dev/ryzXJOhH-"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/halilb/react-native-photo-browser",
+        "clone": "https://github.com/halilb/react-native-photo-browser.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2021-05-17T19:03:55Z",
+        "createdAt": "2016-04-22T10:40:57Z",
+        "pushedAt": "2021-05-17T19:03:55Z",
+        "forks": 169,
+        "issues": 20,
+        "subscribers": 27,
+        "stars": 723
+      },
+      "name": "react-native-photo-browser",
+      "fullName": "halilb/react-native-photo-browser",
+      "description": "Local and remote media gallery with captions, selections and grid view support for react native.",
+      "topics": [
+        "react",
+        "react-component",
+        "react-native",
+        "photo-browser",
+        "image-gallery",
+        "media-gallery",
+        "ios",
+        "android",
+        "photos"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Replacing ViewPager with FlatList",
+        "tagName": "v0.6.0",
+        "createdAt": "2020-01-14T12:02:17Z",
+        "publishedAt": "2020-01-14T12:03:56Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-photo-browser",
+    "npm": {
+      "downloads": 214,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 32
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.548,
+    "topicSearchString": "react react-component react-native photo-browser image-gallery media-gallery ios android photos",
+    "matchScore": 11,
+    "category": [
+      "gallery"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/alwx/react-native-photo-view",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/alwx/react-native-photo-view",
+        "clone": "https://github.com/alwx/react-native-photo-view.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-01-03T10:55:24Z",
+        "createdAt": "2016-06-17T20:57:51Z",
+        "pushedAt": "2022-01-03T10:55:24Z",
+        "forks": 333,
+        "issues": 106,
+        "subscribers": 13,
+        "stars": 813
+      },
+      "name": "react-native-photo-view",
+      "fullName": "alwx/react-native-photo-view",
+      "description": "Pinch-to-zoom view for React Native (both iOS and Android)",
+      "topics": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "gallery",
+        "lightbox",
+        "pinch",
+        "pinch-to-zoom",
+        "mobile"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-photo-view",
+    "npm": {
+      "downloads": 1118,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 192
+    },
+    "score": 31,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": -0.078,
+    "topicSearchString": "react-native react-component ios android gallery lightbox pinch pinch-to-zoom mobile",
+    "matchScore": 1,
+    "category": [
+      "gallery"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ldn0x7dc/react-native-gallery",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ldn0x7dc/react-native-gallery",
+        "clone": "https://github.com/ldn0x7dc/react-native-gallery.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2016-07-22T02:59:09Z",
+        "createdAt": "2016-06-28T04:28:25Z",
+        "pushedAt": "2016-07-22T02:59:09Z",
+        "forks": 92,
+        "issues": 35,
+        "subscribers": 7,
+        "stars": 331
+      },
+      "name": "react-native-gallery",
+      "fullName": "ldn0x7dc/react-native-gallery",
+      "description": "A pure JavaScript image gallery component for react-native apps with common gestures like pan, pinch and doubleTap, supporting both iOS and Android.",
+      "topics": [],
+      "license": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-gallery",
+    "npm": {
+      "downloads": 56,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 12
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.736,
+    "topicSearchString": "",
+    "matchScore": 0.11,
+    "category": [
+      "gallery"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/oblador/react-native-lightbox",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "examples": [
+      "https://snack.expo.dev/rkzzeFUIW"
+    ],
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-lightbox",
+        "clone": "https://github.com/oblador/react-native-lightbox.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-12-15T11:53:26Z",
+        "createdAt": "2015-08-04T00:33:28Z",
+        "pushedAt": "2019-12-15T11:53:26Z",
+        "forks": 436,
+        "issues": 54,
+        "subscribers": 34,
+        "stars": 2807
+      },
+      "name": "react-native-lightbox",
+      "fullName": "oblador/react-native-lightbox",
+      "description": "Images etc in Full Screen Lightbox Popovers for React Native",
+      "topics": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "lightbox",
+        "gallery",
+        "image"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.8.1",
+        "tagName": "v0.8.1",
+        "createdAt": "2019-12-15T11:54:20Z",
+        "publishedAt": "2019-12-15T11:55:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-lightbox",
+    "npm": {
+      "downloads": 126297,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 28369
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.275,
+    "topicSearchString": "react-native react-component react-native-component react mobile ios android ui lightbox gallery image",
+    "matchScore": 0.001,
+    "category": [
+      "gallery"
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "githubUrl": "https://github.com/MuhammedKpln/react-native-chatty",
+    "examples": [
+      "https://snack.expo.dev/@muhammedkpln/react-native-chatty-example",
+      "https://github.com/MuhammedKpln/react-native-chatty/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-chatty",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/MuhammedKpln/react-native-chatty",
+        "clone": "https://github.com/MuhammedKpln/react-native-chatty.git",
+        "homepage": "https://muhammedkpln.github.io/react-native-chatty/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T05:30:22Z",
+        "createdAt": "2022-02-18T21:24:16Z",
+        "pushedAt": "2023-11-10T03:49:07Z",
+        "issues": 3,
+        "subscribers": 2,
+        "stars": 123,
+        "forks": 5
+      },
+      "name": "react-native-chatty",
+      "fullName": "MuhammedKpln/react-native-chatty",
+      "description": "💬 Full-featured high performance chat UI for React Native",
+      "topics": [
+        "react-native",
+        "javascript",
+        "react",
+        "ios",
+        "web",
+        "android",
+        "chat",
+        "chat-ui",
+        "expo"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.4.3",
+        "tagName": "v0.4.3",
+        "createdAt": "2022-04-20T17:39:28Z",
+        "publishedAt": "2022-04-20T17:39:59Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 61,
+      "weekDownloads": 7,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native javascript react ios web android chat chat-ui expo",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.581,
+    "category": [
+      "chat",
+      "chat-ui"
+    ]
+  }
+]

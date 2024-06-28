@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/callstack/react-native-windows-hello",
+    "images": [
+      "https://raw.githubusercontent.com/callstack/react-native-windows-hello/main/.github/Resources/RNW-Hello-FullExample.gif"
+    ],
+    "windows": true,
+    "npmPkg": "react-native-windows-hello",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/BartoszKlonowski/react-native-windows-hello",
+        "clone": "https://github.com/BartoszKlonowski/react-native-windows-hello.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-09T18:24:00Z",
+        "createdAt": "2021-07-14T10:42:03Z",
+        "pushedAt": "2024-05-09T18:23:55Z",
+        "issues": 8,
+        "subscribers": 13,
+        "stars": 11,
+        "forks": 3
+      },
+      "name": "react-native-windows-hello",
+      "fullName": "BartoszKlonowski/react-native-windows-hello",
+      "description": "RNW library providing developer with all Windows Hello features",
+      "topics": [
+        "react-native-windows",
+        "windows-hello"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.1.0: dependencies: react-native & react-native-windows updated",
+        "tagName": "v1.1.0",
+        "createdAt": "2022-02-21T18:16:01Z",
+        "publishedAt": "2022-02-21T18:18:05Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 76,
+      "weekDownloads": 9,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native-windows windows-hello",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.682,
+    "category": [
+      "react-native-windows",
+      "windows-hello"
+    ]
+  }
+]

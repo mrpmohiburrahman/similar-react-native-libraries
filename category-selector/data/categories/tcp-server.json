@@ -1,0 +1,89 @@
+[
+  {
+    "githubUrl": "https://github.com/Rapsssito/react-native-tcp-socket",
+    "examples": [
+      "https://github.com/Rapsssito/react-native-tcp-socket/tree/master/examples/tcpsockets"
+    ],
+    "ios": true,
+    "android": true,
+    "macos": true,
+    "npmPkg": "react-native-tcp-socket",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Rapsssito/react-native-tcp-socket",
+        "clone": "https://github.com/Rapsssito/react-native-tcp-socket.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T08:36:20Z",
+        "createdAt": "2019-10-05T10:22:34Z",
+        "pushedAt": "2024-05-24T14:28:01Z",
+        "issues": 18,
+        "subscribers": 5,
+        "stars": 296,
+        "forks": 78
+      },
+      "name": "react-native-tcp-socket",
+      "fullName": "Rapsssito/react-native-tcp-socket",
+      "description": "React Native TCP socket API for Android, iOS & macOS with SSL/TLS support.",
+      "topics": [
+        "react-native",
+        "net",
+        "network",
+        "tcp-socket",
+        "tcp",
+        "tcp-server",
+        "tcp-client",
+        "ios",
+        "android",
+        "react-native-library",
+        "ssl",
+        "tls",
+        "networking",
+        "socket"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v6.0.6",
+        "tagName": "v6.0.6",
+        "createdAt": "2023-02-08T10:23:56Z",
+        "publishedAt": "2023-02-08T10:23:59Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 31017,
+      "weekDownloads": 6950,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native net network tcp-socket tcp tcp-server tcp-client ios android react-native-library ssl tls networking socket",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "tcp-socket",
+      "tcp",
+      "tcp-server",
+      "tcp-client",
+      "networking",
+      "socket"
+    ]
+  }
+]

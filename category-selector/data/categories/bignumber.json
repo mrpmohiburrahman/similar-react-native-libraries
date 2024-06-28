@@ -1,0 +1,86 @@
+[
+  {
+    "githubUrl": "https://github.com/margelo/react-native-bignumber",
+    "examples": [
+      "https://github.com/margelo/react-native-bignumber/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-bignumber",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-bignumber",
+        "clone": "https://github.com/margelo/react-native-bignumber.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-10T14:22:46Z",
+        "createdAt": "2022-03-03T08:52:46Z",
+        "pushedAt": "2024-04-29T10:12:49Z",
+        "issues": 12,
+        "subscribers": 5,
+        "stars": 331,
+        "forks": 11
+      },
+      "name": "react-native-bignumber",
+      "fullName": "margelo/react-native-bignumber",
+      "description": "🔢 The fastest Big Number library for React Native",
+      "topics": [
+        "bignumber",
+        "big",
+        "number",
+        "jsi",
+        "library",
+        "react",
+        "native",
+        "react-native",
+        "crypto",
+        "wallet",
+        "app",
+        "cryptography",
+        "math"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.2.3",
+        "tagName": "v0.2.3",
+        "createdAt": "2024-04-29T10:12:48Z",
+        "publishedAt": "2024-04-29T10:12:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2882,
+      "weekDownloads": 619,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "bignumber big number jsi library react native react-native crypto wallet app cryptography math",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.035,
+    "category": [
+      "bignumber",
+      "big",
+      "crypto",
+      "cryptography"
+    ]
+  }
+]

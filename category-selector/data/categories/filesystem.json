@@ -1,0 +1,141 @@
+[
+  {
+    "githubUrl": "https://github.com/alpha0010/react-native-file-access",
+    "examples": [
+      "https://github.com/alpha0010/react-native-file-access/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-file-access",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/alpha0010/react-native-file-access",
+        "clone": "https://github.com/alpha0010/react-native-file-access.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-07T02:44:17Z",
+        "createdAt": "2020-12-17T04:14:40Z",
+        "pushedAt": "2024-04-16T02:44:25Z",
+        "issues": 15,
+        "subscribers": 6,
+        "stars": 282,
+        "forks": 18
+      },
+      "name": "react-native-file-access",
+      "fullName": "alpha0010/react-native-file-access",
+      "description": "Filesystem access for React Native",
+      "topics": [
+        "react-native",
+        "filesystem"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.1.0",
+        "tagName": "v3.1.0",
+        "createdAt": "2024-04-16T02:44:23Z",
+        "publishedAt": "2024-04-16T02:44:27Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 36763,
+      "weekDownloads": 8891,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native filesystem",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.008,
+    "category": [
+      "filesystem"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/itinance/react-native-fs",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-fs",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/itinance/react-native-fs",
+        "clone": "https://github.com/itinance/react-native-fs.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T13:56:08Z",
+        "createdAt": "2015-05-08T17:04:15Z",
+        "pushedAt": "2024-03-18T00:17:22Z",
+        "issues": 614,
+        "subscribers": 43,
+        "stars": 4896,
+        "forks": 958
+      },
+      "name": "react-native-fs",
+      "fullName": "itinance/react-native-fs",
+      "description": "Native filesystem access for react-native",
+      "topics": [
+        "react-native",
+        "filesystem",
+        "download"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.20",
+        "tagName": "v2.20.0",
+        "createdAt": "2022-05-04T16:25:30Z",
+        "publishedAt": "2022-05-04T16:25:45Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1224017,
+      "weekDownloads": 274192,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native filesystem download",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "filesystem"
+    ]
+  }
+]

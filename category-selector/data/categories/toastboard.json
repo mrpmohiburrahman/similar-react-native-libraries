@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/MAKARD/react-native-toastboard",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-toastboard",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/MAKARD/react-native-toastboard",
+        "clone": "https://github.com/MAKARD/react-native-toastboard.git",
+        "homepage": "https://snack.expo.io/@makard/react-native-toastboard"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-18T22:08:49Z",
+        "createdAt": "2018-12-15T15:28:17Z",
+        "pushedAt": "2024-03-04T09:15:30Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 53,
+        "forks": 2
+      },
+      "name": "react-native-toastboard",
+      "fullName": "MAKARD/react-native-toastboard",
+      "description": "Toast feedback messages for React Native",
+      "topics": [
+        "toast",
+        "toaster",
+        "react",
+        "react-native",
+        "notifications",
+        "toastboard"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "2.0.1",
+        "tagName": "2.0.1",
+        "createdAt": "2023-05-06T20:32:27Z",
+        "publishedAt": "2023-05-06T20:33:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 170,
+      "weekDownloads": 41,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "toast toaster react react-native notifications toastboard",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.456,
+    "category": [
+      "toast",
+      "toaster",
+      "toastboard"
+    ]
+  }
+]

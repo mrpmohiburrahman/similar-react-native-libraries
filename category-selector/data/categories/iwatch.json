@@ -1,0 +1,67 @@
+[
+  {
+    "githubUrl": "https://github.com/mtford90/react-native-watch-connectivity",
+    "images": [
+      "https://raw.githubusercontent.com/mtford90/react-native-watch-connectivity/06001bb1d15bcdb9607c35d75c7c7ab463c71e86/assets/screenshot.png"
+    ],
+    "ios": true,
+    "npmPkg": "react-native-watch-connectivity",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mtford90/react-native-watch-connectivity",
+        "clone": "https://github.com/mtford90/react-native-watch-connectivity.git",
+        "homepage": "http://mtford.co.uk/react-native-watch-connectivity/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T16:31:06Z",
+        "createdAt": "2016-05-01T10:49:19Z",
+        "pushedAt": "2024-04-30T12:59:10Z",
+        "issues": 24,
+        "subscribers": 15,
+        "stars": 682,
+        "forks": 90
+      },
+      "name": "react-native-watch-connectivity",
+      "fullName": "mtford90/react-native-watch-connectivity",
+      "description": "Enable communication between apple watch app and react native",
+      "topics": [
+        "iwatch",
+        "watch",
+        "react",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 18907,
+      "weekDownloads": 4728,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "iwatch watch react react-native",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0,
+    "category": [
+      "watch",
+      "iwatch"
+    ]
+  }
+]

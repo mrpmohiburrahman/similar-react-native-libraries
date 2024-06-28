@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/douglasjunior/react-native-pdf-renderer",
+    "examples": [
+      "https://github.com/douglasjunior/react-native-pdf-renderer/tree/main/Sample"
+    ],
+    "images": [
+      "https://github.com/douglasjunior/react-native-pdf-renderer/raw/main/screenshots/android.gif",
+      "https://github.com/douglasjunior/react-native-pdf-renderer/raw/main/screenshots/ios.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-pdf-renderer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/douglasjunior/react-native-pdf-renderer",
+        "clone": "https://github.com/douglasjunior/react-native-pdf-renderer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-25T09:57:08Z",
+        "createdAt": "2023-03-09T11:19:24Z",
+        "pushedAt": "2023-11-27T15:06:26Z",
+        "issues": 2,
+        "subscribers": 3,
+        "stars": 107,
+        "forks": 2
+      },
+      "name": "react-native-pdf-renderer",
+      "fullName": "douglasjunior/react-native-pdf-renderer",
+      "description": "⚛ A zoomable, blazing fast, zero dependencies, pure native, typed PDF Renderer for Android and iOS.",
+      "topics": [
+        "android",
+        "ios",
+        "pdf",
+        "pdfkit",
+        "pdfrenderer",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.2.0",
+        "tagName": "1.2.0",
+        "createdAt": "2023-09-29T17:25:09Z",
+        "publishedAt": "2023-09-29T17:28:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3178,
+      "weekDownloads": 669,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android ios pdf pdfkit pdfrenderer react-native",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.039,
+    "category": [
+      "pdf",
+      "pdfkit",
+      "pdfrenderer"
+    ]
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "githubUrl": "https://github.com/dooboolab/react-native-audio-recorder-player",
+    "examples": [
+      "https://github.com/dooboolab/react-native-audio-recorder-player/tree/master/Example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-audio-recorder-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/hyochan/react-native-audio-recorder-player",
+        "clone": "https://github.com/hyochan/react-native-audio-recorder-player.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T15:53:02Z",
+        "createdAt": "2018-04-11T08:37:46Z",
+        "pushedAt": "2024-04-19T12:12:11Z",
+        "issues": 134,
+        "subscribers": 7,
+        "stars": 669,
+        "forks": 198
+      },
+      "name": "react-native-audio-recorder-player",
+      "fullName": "hyochan/react-native-audio-recorder-player",
+      "description": "react-native native module for audio recorder and player.",
+      "topics": [
+        "react-native",
+        "audio-player",
+        "audio-recorder",
+        "typescript",
+        "java",
+        "objective-c",
+        "swift",
+        "kotlin"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "3.6.7",
+        "tagName": "3.6.7",
+        "createdAt": "2024-03-26T15:09:23Z",
+        "publishedAt": "2024-03-26T15:09:54Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 85211,
+      "weekDownloads": 13932,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native audio-player audio-recorder typescript java objective-c swift kotlin",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.086,
+    "category": [
+      "audio-player",
+      "audio-recorder"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/doublesymmetry/react-native-track-player",
+    "examples": [
+      "https://github.com/doublesymmetry/react-native-track-player/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/ios-app.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/ios-lockscreen.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/android-app.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/android-lockscreen.png",
+      "https://raw.githubusercontent.com/doublesymmetry/react-native-track-player/dev/example/screenshots/android-notification.png"
+    ],
+    "ios": true,
+    "android": true,
+    "windows": true,
+    "npmPkg": "react-native-track-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/doublesymmetry/react-native-track-player",
+        "clone": "https://github.com/doublesymmetry/react-native-track-player.git",
+        "homepage": "https://rntp.dev/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T13:24:44Z",
+        "createdAt": "2017-03-16T20:18:39Z",
+        "pushedAt": "2024-05-19T10:13:39Z",
+        "issues": 47,
+        "subscribers": 50,
+        "stars": 3150,
+        "forks": 969
+      },
+      "name": "react-native-track-player",
+      "fullName": "doublesymmetry/react-native-track-player",
+      "description": "A fully fledged audio module created for music apps. Provides audio playback, external media controls, background mode and more!",
+      "topics": [
+        "react-native",
+        "music-player",
+        "music-library",
+        "media-control",
+        "android",
+        "ios",
+        "windows",
+        "audio",
+        "audio-library",
+        "audio-player"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 87330,
+      "weekDownloads": 20851,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native music-player music-library media-control android ios windows audio audio-library audio-player",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.011,
+    "category": [
+      "music-player",
+      "music-library",
+      "media-control",
+      "audio",
+      "audio-library",
+      "audio-player"
+    ]
+  }
+]

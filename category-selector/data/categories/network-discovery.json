@@ -1,0 +1,80 @@
+[
+  {
+    "githubUrl": "https://github.com/RichardRNStudio/react-native-find-local-devices",
+    "images": [
+      "https://raw.githubusercontent.com/RichardRNStudio/react-native-find-local-devices/main/docs/android-example.gif"
+    ],
+    "examples": [
+      "https://github.com/RichardRNStudio/react-native-find-local-devices/blob/main/example"
+    ],
+    "android": true,
+    "npmPkg": "react-native-find-local-devices",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/RichardRNStudio/react-native-find-local-devices",
+        "clone": "https://github.com/RichardRNStudio/react-native-find-local-devices.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-07T18:21:34Z",
+        "createdAt": "2020-10-27T18:24:20Z",
+        "pushedAt": "2024-05-02T22:05:41Z",
+        "issues": 7,
+        "subscribers": 2,
+        "stars": 27,
+        "forks": 4
+      },
+      "name": "react-native-find-local-devices",
+      "fullName": "RichardRNStudio/react-native-find-local-devices",
+      "description": "This package loads all of the local devices for react native",
+      "topics": [
+        "react-native",
+        "websocket-connection",
+        "network-discovery",
+        "android",
+        "local-network",
+        "portscanning"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.9",
+        "tagName": "v2.0.9",
+        "createdAt": "2024-04-14T08:18:07Z",
+        "publishedAt": "2024-04-14T08:23:14Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 81,
+      "weekDownloads": 19,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native websocket-connection network-discovery android local-network portscanning",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.462,
+    "category": [
+      "portscanning",
+      "network-discovery",
+      "websocket-connection",
+      "local-network"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "githubUrl": "https://github.com/realtime-framework/RCTRealtimeMessagingIOS",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-realtimemessaging-ios",
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/realtime-framework/RCTRealtimeMessagingIOS",
+        "clone": "https://github.com/realtime-framework/RCTRealtimeMessagingIOS.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-19T04:11:11Z",
+        "createdAt": "2015-09-21T11:57:48Z",
+        "pushedAt": "2017-06-07T16:58:22Z",
+        "issues": 2,
+        "subscribers": 5,
+        "stars": 31,
+        "forks": 9
+      },
+      "name": "RCTRealtimeMessagingIOS",
+      "fullName": "realtime-framework/RCTRealtimeMessagingIOS",
+      "description": "Realtime Cloud Messaging React Native SDK for iOS",
+      "topics": [
+        "react-native",
+        "ios",
+        "push-notifications",
+        "realtime-messaging"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Version 1.0.18",
+        "tagName": "1.0.18",
+        "createdAt": "2017-06-07T16:58:06Z",
+        "publishedAt": "2017-06-07T16:58:22Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 20,
+      "weekDownloads": 1,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios push-notifications realtime-messaging",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.9,
+    "category": [
+      "realtime-messaging"
+    ]
+  }
+]

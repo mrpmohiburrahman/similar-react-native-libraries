@@ -1,0 +1,183 @@
+[
+  {
+    "githubUrl": "https://github.com/aws-amplify/amplify-js/tree/master/packages/datastore",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "@aws-amplify/datastore",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/aws-amplify/amplify-js",
+        "clone": "https://github.com/aws-amplify/amplify-js.git",
+        "homepage": "https://aws-amplify.github.io/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": false,
+        "updatedAt": "2024-05-23T22:39:26Z",
+        "createdAt": "2017-10-02T22:17:14Z",
+        "pushedAt": "2024-05-23T22:39:26Z",
+        "forks": 2058,
+        "issues": 547,
+        "subscribers": 212,
+        "stars": 9361
+      },
+      "name": "@aws-amplify/datastore",
+      "fullName": "aws-amplify/amplify-js",
+      "description": "AppSyncLocal support for aws-amplify",
+      "topics": [],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 2519647,
+      "weekDownloads": 599469,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.012,
+    "topicSearchString": "",
+    "matchScore": 110,
+    "category": [
+      "aws"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/aws-amplify/amplify-js/tree/master/packages/aws-amplify-react-native",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/aws-amplify/amplify-js",
+        "clone": "https://github.com/aws-amplify/amplify-js.git",
+        "homepage": "https://docs.amplify.aws/lib/q/platform/js"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2023-07-18T22:15:51Z",
+        "createdAt": "2017-10-02T22:17:14Z",
+        "pushedAt": "2023-07-18T22:15:51Z",
+        "forks": 2058,
+        "issues": 547,
+        "subscribers": 212,
+        "stars": 9361
+      },
+      "name": "amplify-js",
+      "fullName": "aws-amplify/amplify-js",
+      "description": "A declarative JavaScript library for application development using cloud services.",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npmPkg": "aws-amplify-react-native",
+    "npm": {
+      "downloads": 86068,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 27412
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": 0.068,
+    "topicSearchString": "",
+    "matchScore": 100,
+    "category": [
+      "aws"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/aws-amplify/amplify-js/tree/master/packages/pushnotification",
+    "ios": true,
+    "android": true,
+    "npmPkg": "@aws-amplify/pushnotification",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/aws-amplify/amplify-js",
+        "clone": "https://github.com/aws-amplify/amplify-js.git",
+        "homepage": "https://docs.amplify.aws/lib/q/platform/js"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "updatedAt": "2023-07-18T22:15:51Z",
+        "createdAt": "2017-10-02T22:17:14Z",
+        "pushedAt": "2023-07-18T22:15:51Z",
+        "forks": 2058,
+        "issues": 547,
+        "subscribers": 212,
+        "stars": 9361
+      },
+      "name": "amplify-js",
+      "fullName": "aws-amplify/amplify-js",
+      "description": "A declarative JavaScript library for application development using cloud services.",
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "hasTypes": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 47190,
+      "weekDownloads": 14590,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Not updated recently"
+    ],
+    "popularity": 0.059,
+    "topicSearchString": "",
+    "matchScore": 100,
+    "category": [
+      "aws"
+    ]
+  }
+]

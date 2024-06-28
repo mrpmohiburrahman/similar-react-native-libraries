@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/matinzd/react-native-health-connect",
+    "nameOverride": "React Native Health Connect",
+    "examples": [
+      "https://github.com/matinzd/react-native-health-connect/tree/main/example"
+    ],
+    "android": true,
+    "npmPkg": "react-native-health-connect",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/matinzd/react-native-health-connect",
+        "clone": "https://github.com/matinzd/react-native-health-connect.git",
+        "homepage": "http://matinzd.github.io/react-native-health-connect"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T21:16:26Z",
+        "createdAt": "2023-01-07T02:59:05Z",
+        "pushedAt": "2024-05-16T21:16:23Z",
+        "issues": 18,
+        "subscribers": 7,
+        "stars": 156,
+        "forks": 27
+      },
+      "name": "react-native-health-connect",
+      "fullName": "matinzd/react-native-health-connect",
+      "description": "React native library for health connect (Android only)",
+      "topics": [
+        "health-connect",
+        "react-native",
+        "fitness",
+        "health-sdk"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.0.3",
+        "tagName": "v2.0.3",
+        "createdAt": "2024-05-16T21:16:20Z",
+        "publishedAt": "2024-05-16T21:16:30Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8111,
+      "weekDownloads": 2103,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "health-connect react-native fitness health-sdk",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.009,
+    "category": [
+      "health-connect",
+      "fitness",
+      "health-sdk"
+    ]
+  }
+]

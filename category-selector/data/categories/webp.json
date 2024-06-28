@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/Aleksefo/react-native-webp-format",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-webp-format",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Aleksefo/react-native-webp-format",
+        "clone": "https://github.com/Aleksefo/react-native-webp-format.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-26T03:06:55Z",
+        "createdAt": "2019-12-30T20:11:17Z",
+        "pushedAt": "2024-05-16T20:33:37Z",
+        "issues": 4,
+        "subscribers": 3,
+        "stars": 165,
+        "forks": 5
+      },
+      "name": "react-native-webp-format",
+      "fullName": "Aleksefo/react-native-webp-format",
+      "description": "WebP image integration for React Native apps.",
+      "topics": [
+        "webp",
+        "react-native",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.2.0",
+        "tagName": "1.2.0",
+        "createdAt": "2023-04-04T16:19:26Z",
+        "publishedAt": "2023-04-04T16:25:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 27451,
+      "weekDownloads": 6285,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "webp react-native ios android",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "webp"
+    ]
+  }
+]

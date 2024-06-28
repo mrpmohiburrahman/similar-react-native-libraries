@@ -1,0 +1,162 @@
+[
+  {
+    "githubUrl": "https://github.com/imgly/pesdk-react-native",
+    "ios": true,
+    "android": true,
+    "examples": [
+      "https://github.com/imgly/pesdk-react-native-demo"
+    ],
+    "npmPkg": "react-native-photoeditorsdk",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/imgly/pesdk-react-native",
+        "clone": "https://github.com/imgly/pesdk-react-native.git",
+        "homepage": "https://www.photoeditorsdk.com"
+      },
+      "stats": {
+        "hasIssues": false,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-03T07:52:38Z",
+        "createdAt": "2019-10-29T08:55:26Z",
+        "pushedAt": "2024-04-03T07:52:38Z",
+        "forks": 25,
+        "issues": 0,
+        "subscribers": 11,
+        "stars": 120
+      },
+      "name": "pesdk-react-native",
+      "fullName": "imgly/pesdk-react-native",
+      "description": "React Native module for PhotoEditor SDK",
+      "topics": [
+        "react-native",
+        "image",
+        "image-editor",
+        "imageeditor",
+        "photo",
+        "photo-editor",
+        "photoeditor",
+        "photoeditorsdk",
+        "photoeditor-sdk",
+        "sdk",
+        "ios",
+        "android",
+        "photo-editing",
+        "image-editing",
+        "image-manipulation"
+      ],
+      "license": {
+        "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+        "url": "http://choosealicense.com/licenses/bsd-3-clause/",
+        "id": "MDc6TGljZW5zZTU=",
+        "key": "bsd-3-clause",
+        "spdxId": "BSD-3-Clause"
+      },
+      "lastRelease": {
+        "name": "3.2.0",
+        "tagName": "3.2.0",
+        "createdAt": "2024-04-03T07:52:38Z",
+        "publishedAt": "2024-04-03T10:29:54Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 6029,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1373
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.022,
+    "topicSearchString": "react-native image image-editor imageeditor photo photo-editor photoeditor photoeditorsdk photoeditor-sdk sdk ios android photo-editing image-editing image-manipulation",
+    "matchScore": 1,
+    "category": [
+      "imageeditor"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/baronha/react-native-photo-editor",
+    "npmPkg": "@baronha/react-native-photo-editor",
+    "examples": [
+      "https://github.com/baronha/react-native-photo-editor/tree/main/example"
+    ],
+    "images": [
+      "https://github.com/baronha/react-native-photo-editor/raw/master/resources/banner1.jpg"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/baronha/react-native-photo-editor",
+        "clone": "https://github.com/baronha/react-native-photo-editor.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-15T09:15:35Z",
+        "createdAt": "2021-07-30T16:41:44Z",
+        "pushedAt": "2024-05-15T09:15:35Z",
+        "forks": 117,
+        "issues": 39,
+        "subscribers": 6,
+        "stars": 382
+      },
+      "name": "react-native-photo-editor",
+      "fullName": "baronha/react-native-photo-editor",
+      "description": "🌄 Photo editor using native modules for iOS and Android. Inherit from 2 available libraries, ZLImageEditor (iOS) and PhotoEditor (Android)",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "photo",
+        "photoeditor",
+        "imageeditor",
+        "photoedit"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.1.2 🥳",
+        "tagName": "v1.1.2",
+        "createdAt": "2021-11-02T19:07:20Z",
+        "publishedAt": "2021-11-02T19:10:22Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 3594,
+      "weekDownloads": 775,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.034,
+    "topicSearchString": "react-native ios android photo photoeditor imageeditor photoedit",
+    "matchScore": 11,
+    "category": [
+      "imageeditor"
+    ]
+  }
+]

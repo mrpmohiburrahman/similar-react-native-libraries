@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/binaryminds/react-native-sse",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-sse",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/binaryminds/react-native-sse",
+        "clone": "https://github.com/binaryminds/react-native-sse.git",
+        "homepage": "https://www.npmjs.com/package/react-native-sse"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T07:53:38Z",
+        "createdAt": "2021-04-23T13:06:35Z",
+        "pushedAt": "2024-05-23T16:56:47Z",
+        "issues": 10,
+        "subscribers": 9,
+        "stars": 159,
+        "forks": 25
+      },
+      "name": "react-native-sse",
+      "fullName": "binaryminds/react-native-sse",
+      "description": "Event Source implementation for React Native. Server-Sent Events (SSE) for iOS and Android 🚀",
+      "topics": [
+        "eventsource",
+        "sse",
+        "typescript",
+        "android",
+        "ios",
+        "react-native",
+        "event-source"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.2.1",
+        "tagName": "v1.2.1",
+        "createdAt": "2024-03-05T10:27:26Z",
+        "publishedAt": "2024-03-05T10:36:11Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 126394,
+      "weekDownloads": 16760,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "eventsource sse typescript android ios react-native event-source",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.117,
+    "category": [
+      "eventsource",
+      "sse",
+      "event-source"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/oblador/react-native-collapsible",
+    "examples": [
+      "https://github.com/oblador/react-native-collapsible/tree/master/Example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-collapsible",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/oblador/react-native-collapsible",
+        "clone": "https://github.com/oblador/react-native-collapsible.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T19:05:58Z",
+        "createdAt": "2015-06-07T13:36:23Z",
+        "pushedAt": "2023-05-30T09:35:13Z",
+        "issues": 116,
+        "subscribers": 30,
+        "stars": 2417,
+        "forks": 453
+      },
+      "name": "react-native-collapsible",
+      "fullName": "oblador/react-native-collapsible",
+      "description": "Animated collapsible component for React Native, good for accordions, toggles etc",
+      "topics": [
+        "react-native",
+        "accordion",
+        "collapsible",
+        "animation"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.6.1",
+        "tagName": "v1.6.1",
+        "createdAt": "2023-03-30T09:47:17Z",
+        "publishedAt": "2023-03-30T09:48:21Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 443924,
+      "weekDownloads": 100196,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native accordion collapsible animation",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "accordion",
+      "collapsible"
+    ]
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "githubUrl": "https://github.com/geektimecoil/react-native-onesignal",
+    "ios": true,
+    "android": true,
+    "goldstar": true,
+    "npmPkg": "react-native-onesignal",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/OneSignal/react-native-onesignal",
+        "clone": "https://github.com/OneSignal/react-native-onesignal.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T13:07:11Z",
+        "createdAt": "2016-02-19T11:03:31Z",
+        "pushedAt": "2024-05-24T21:22:24Z",
+        "issues": 90,
+        "subscribers": 51,
+        "stars": 1556,
+        "forks": 368
+      },
+      "name": "react-native-onesignal",
+      "fullName": "OneSignal/react-native-onesignal",
+      "description": "React Native Library for OneSignal Push Notifications Service",
+      "topics": [
+        "react-native",
+        "onesignal",
+        "react-native-onesignal",
+        "push-notifications",
+        "android",
+        "ios",
+        "push",
+        "mobile",
+        "onesignal-instructions",
+        "onesignal-notifications",
+        "notifications"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "Release 5.2.0",
+        "tagName": "5.2.0",
+        "createdAt": "2024-05-16T22:13:41Z",
+        "publishedAt": "2024-05-16T22:35:50Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 176537,
+      "weekDownloads": 43719,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native onesignal react-native-onesignal push-notifications android ios push mobile onesignal-instructions onesignal-notifications notifications",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recommended",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.002,
+    "category": [
+      "onesignal",
+      "react-native-onesignal",
+      "push-notifications",
+      "onesignal-notifications",
+      "notifications"
+    ]
+  }
+]

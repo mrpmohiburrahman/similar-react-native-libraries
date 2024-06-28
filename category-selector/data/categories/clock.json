@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/mateoguzmana/react-native-clocks",
+    "examples": [
+      "https://github.com/mateoguzmana/react-native-clocks/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "npmPkg": "react-native-clocks",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mateoguzmana/react-native-clocks",
+        "clone": "https://github.com/mateoguzmana/react-native-clocks.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-22T12:16:52Z",
+        "createdAt": "2022-09-16T21:58:43Z",
+        "pushedAt": "2023-09-30T11:34:22Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 30,
+        "forks": 6
+      },
+      "name": "react-native-clocks",
+      "fullName": "mateoguzmana/react-native-clocks",
+      "description": "🕑 React Native customisable clocks built with @shopify/react-native-skia.",
+      "topics": [
+        "android",
+        "clock",
+        "ios",
+        "react",
+        "react-native",
+        "react-native-web",
+        "skia",
+        "time",
+        "javascript",
+        "typescript",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.1",
+        "tagName": "v0.1.1",
+        "createdAt": "2023-09-30T11:34:19Z",
+        "publishedAt": "2023-09-30T11:34:26Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 26,
+      "weekDownloads": 4,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android clock ios react react-native react-native-web skia time javascript typescript hacktoberfest",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.527,
+    "category": [
+      "clock",
+      "time"
+    ]
+  }
+]

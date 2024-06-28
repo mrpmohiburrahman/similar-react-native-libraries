@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/davodesign84/react-native-mixpanel",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-mixpanel",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/davide-scalzo/react-native-mixpanel",
+        "clone": "https://github.com/davide-scalzo/react-native-mixpanel.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-18T11:44:52Z",
+        "createdAt": "2015-11-11T00:10:10Z",
+        "pushedAt": "2021-11-18T18:53:20Z",
+        "issues": 74,
+        "subscribers": 14,
+        "stars": 454,
+        "forks": 195
+      },
+      "name": "react-native-mixpanel",
+      "fullName": "davide-scalzo/react-native-mixpanel",
+      "description": "A React Native wrapper for Mixpanel tracking",
+      "topics": [
+        "react-native",
+        "mixpanel-sdk",
+        "android",
+        "ios-app",
+        "xcode",
+        "notifications",
+        "mixpanel-ios-sdk",
+        "java",
+        "mobile-app"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 11469,
+      "weekDownloads": 2668,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native mixpanel-sdk android ios-app xcode notifications mixpanel-ios-sdk java mobile-app",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Popular"
+    ],
+    "popularity": -0.267,
+    "category": [
+      "mixpanel-sdk",
+      "mixpanel-ios-sdk"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "githubUrl": "https://github.com/WalletConnect/web3modal-react-native",
+    "examples": [
+      "https://github.com/WalletConnect/react-native-examples/tree/main/dapps/W3MWagmi",
+      "https://github.com/WalletConnect/web3modal-react-native/tree/main/apps/gallery",
+      "https://github.com/WalletConnect/web3modal-react-native/tree/main/apps/native-cli",
+      "https://github.com/WalletConnect/web3modal-react-native/tree/main/apps/native"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "web3modal-react-native",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/WalletConnect/web3modal-react-native",
+        "clone": "https://github.com/WalletConnect/web3modal-react-native.git",
+        "homepage": "https://web3modal.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T14:08:07Z",
+        "createdAt": "2023-03-28T14:54:13Z",
+        "pushedAt": "2024-05-24T19:34:15Z",
+        "issues": 6,
+        "subscribers": 9,
+        "stars": 38,
+        "forks": 14
+      },
+      "name": "web3modal-react-native",
+      "fullName": "WalletConnect/web3modal-react-native",
+      "description": "Web3Modal React-Native SDK",
+      "topics": [
+        "dapps",
+        "react-native",
+        "sdk",
+        "walletconnect"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "v1.3.0",
+        "tagName": "v1.3.0",
+        "createdAt": "2024-03-25T18:47:08Z",
+        "publishedAt": "2024-03-25T19:27:12Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "period": "month"
+    },
+    "topicSearchString": "dapps react-native sdk walletconnect",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -1,
+    "category": [
+      "dapps"
+    ]
+  }
+]

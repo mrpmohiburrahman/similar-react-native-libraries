@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/callstack/react-native-fbads",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-fbads",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/callstack/react-native-fbads",
+        "clone": "https://github.com/callstack/react-native-fbads.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-07T11:37:27Z",
+        "createdAt": "2016-09-24T12:46:21Z",
+        "pushedAt": "2023-01-27T03:01:24Z",
+        "issues": 60,
+        "subscribers": 25,
+        "stars": 433,
+        "forks": 141
+      },
+      "name": "react-native-fbads",
+      "fullName": "callstack/react-native-fbads",
+      "description": "Facebook Audience SDK integration for React Native",
+      "topics": [
+        "react-native",
+        "native-ads",
+        "facebook-sdk",
+        "javascript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v7.0.5",
+        "createdAt": "2021-04-09T11:00:04Z",
+        "publishedAt": "2021-04-09T13:14:51Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1693,
+      "weekDownloads": 260,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native native-ads facebook-sdk javascript",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.096,
+    "category": [
+      "facebook-sdk"
+    ]
+  }
+]

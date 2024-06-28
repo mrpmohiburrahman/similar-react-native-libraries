@@ -1,0 +1,87 @@
+[
+  {
+    "githubUrl": "https://github.com/ysfzrn/react-native-gif-player",
+    "examples": [
+      "https://github.com/ysfzrn/react-native-gif-player/tree/main/example"
+    ],
+    "images": [
+      "https://github.com/ysfzrn/react-native-gif-player/blob/main/assets/recordiOS.gif",
+      "https://github.com/ysfzrn/react-native-gif-player/blob/main/assets/recordAndroid.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-gif-player",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ysfzrn/react-native-gif-player",
+        "clone": "https://github.com/ysfzrn/react-native-gif-player.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-21T23:05:41Z",
+        "createdAt": "2024-03-29T19:09:50Z",
+        "pushedAt": "2024-04-02T19:52:08Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 14,
+        "forks": 0
+      },
+      "name": "react-native-gif-player",
+      "fullName": "ysfzrn/react-native-gif-player",
+      "description": "React Native Gif View Component",
+      "topics": [
+        "animated-gif",
+        "gif",
+        "gifplayer",
+        "react-native",
+        "webp",
+        "giphy",
+        "loop",
+        "tenor",
+        "gif-stop",
+        "react-native-gif",
+        "gifs"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.0",
+        "tagName": "1.0.0",
+        "createdAt": "2024-03-29T19:37:46Z",
+        "publishedAt": "2024-03-29T19:43:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 42,
+      "weekDownloads": 10,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "animated-gif gif gifplayer react-native webp giphy loop tenor gif-stop react-native-gif gifs",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.55,
+    "category": [
+      "gif",
+      "gifplayer",
+      "giphy",
+      "gif-stop",
+      "react-native-gif",
+      "gifs"
+    ]
+  }
+]

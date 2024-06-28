@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/enesozturk/react-native-hold-menu",
+    "examples": [
+      "https://github.com/enesozturk/react-native-hold-menu/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/enesozturk/react-native-hold-menu/main/preview.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-hold-menu",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/enesozturk/react-native-hold-menu",
+        "clone": "https://github.com/enesozturk/react-native-hold-menu.git",
+        "homepage": "https://enesozturk.github.io/react-native-hold-menu/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T12:41:32Z",
+        "createdAt": "2020-11-01T11:42:37Z",
+        "pushedAt": "2024-01-08T15:36:46Z",
+        "issues": 29,
+        "subscribers": 13,
+        "stars": 1352,
+        "forks": 88
+      },
+      "name": "react-native-hold-menu",
+      "fullName": "enesozturk/react-native-hold-menu",
+      "description": "📱 A performant, easy to use hold to open context menu for React Native powered by Reanimated 🚀",
+      "topics": [
+        "react-native",
+        "hold-to-open",
+        "context-menu",
+        "reanimated"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.1.6",
+        "tagName": "v0.1.6",
+        "createdAt": "2023-04-05T08:56:58Z",
+        "publishedAt": "2023-04-05T08:58:33Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 678,
+      "weekDownloads": 108,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native hold-to-open context-menu reanimated",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.09,
+    "category": [
+      "hold-to-open",
+      "context-menu"
+    ]
+  }
+]

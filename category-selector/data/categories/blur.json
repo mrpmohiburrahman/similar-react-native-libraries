@@ -1,0 +1,95 @@
+[
+  {
+    "githubUrl": "https://github.com/SrBrahma/react-native-shadow-2",
+    "examples": [
+      "https://snack.expo.dev/@srbrahma/react-native-shadow-2-sandbox",
+      "https://github.com/SrBrahma/react-native-shadow-2/tree/main/sandbox"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/SrBrahma/react-native-shadow-2/main/resources/README/react-native-shadow-2-ex-1.png",
+      "https://raw.githubusercontent.com/SrBrahma/react-native-shadow-2/main/resources/README/react-native-shadow-2-ex-2.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "npmPkg": "react-native-shadow-2",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/SrBrahma/react-native-shadow-2",
+        "clone": "https://github.com/SrBrahma/react-native-shadow-2.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T12:02:34Z",
+        "createdAt": "2021-02-14T20:43:38Z",
+        "pushedAt": "2023-05-25T17:43:04Z",
+        "issues": 3,
+        "subscribers": 4,
+        "stars": 613,
+        "forks": 51
+      },
+      "name": "react-native-shadow-2",
+      "fullName": "SrBrahma/react-native-shadow-2",
+      "description": "Cross-platform shadow for React Native. Supports Android, iOS, Web, and Expo",
+      "topics": [
+        "shadow",
+        "typescript",
+        "android",
+        "borders",
+        "radiuses",
+        "ios",
+        "react-native",
+        "cross-platform",
+        "new",
+        "improved",
+        "expo",
+        "mobile",
+        "web",
+        "blur",
+        "javascript",
+        "js",
+        "ts",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v7.0.7",
+        "tagName": "v7.0.7",
+        "createdAt": "2023-04-14T16:18:38Z",
+        "publishedAt": "2023-04-14T16:19:46Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 119026,
+      "weekDownloads": 26538,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "shadow typescript android borders radiuses ios react-native cross-platform new improved expo mobile web blur javascript js ts react",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.027,
+    "category": [
+      "shadow",
+      "blur"
+    ]
+  }
+]

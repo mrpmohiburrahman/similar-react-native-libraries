@@ -1,0 +1,143 @@
+[
+  {
+    "githubUrl": "https://github.com/tipsi/tipsi-stripe",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tipsi/tipsi-stripe",
+        "clone": "https://github.com/tipsi/tipsi-stripe.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-04-13T16:08:20Z",
+        "createdAt": "2016-10-27T09:03:49Z",
+        "pushedAt": "2023-04-13T16:08:20Z",
+        "forks": 492,
+        "issues": 2,
+        "subscribers": 26,
+        "stars": 1133
+      },
+      "name": "tipsi-stripe",
+      "fullName": "tipsi/tipsi-stripe",
+      "description": "React Native Stripe binding for iOS/Android platforms",
+      "topics": [
+        "react",
+        "react-native",
+        "stripe",
+        "ios",
+        "android",
+        "apple-pay"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Google Pay",
+        "tagName": "5.0.0",
+        "createdAt": "2018-03-21T15:47:24Z",
+        "publishedAt": "2018-03-21T16:44:16Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "tipsi-stripe",
+    "npm": {
+      "downloads": 15215,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 2502
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.086,
+    "topicSearchString": "react react-native stripe ios android apple-pay",
+    "matchScore": 111,
+    "category": [
+      "stripe"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/lrettig/react-native-stripe",
+    "ios": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lrettig/react-native-stripe",
+        "clone": "https://github.com/lrettig/react-native-stripe.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2017-05-01T12:33:40Z",
+        "createdAt": "2016-01-14T23:28:31Z",
+        "pushedAt": "2017-05-01T12:33:40Z",
+        "forks": 26,
+        "issues": 5,
+        "subscribers": 8,
+        "stars": 130
+      },
+      "name": "react-native-stripe",
+      "fullName": "lrettig/react-native-stripe",
+      "description": "A React Native wrapper for the Stripe native SDK (currently iOS only)",
+      "topics": [
+        "android",
+        "ios",
+        "login",
+        "native",
+        "react",
+        "react-component",
+        "react-native",
+        "sdk",
+        "stripe"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-stripe",
+    "npm": {
+      "downloads": 1214,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 229
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.311,
+    "topicSearchString": "android ios login native react react-component react-native sdk stripe",
+    "matchScore": 0.111,
+    "category": [
+      "stripe"
+    ]
+  }
+]

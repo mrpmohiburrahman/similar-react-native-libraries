@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/tokkozhin/react-native-neomorph-shadows",
+    "images": [
+      "https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/shadows.gif",
+      "https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/neomorph.gif",
+      "https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/neomorphblur.gif",
+      "https://raw.githubusercontent.com/tokkozhin/react-native-neomorph-shadows/master/assets/more.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-neomorph-shadows",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/tokkozhin/react-native-neomorph-shadows",
+        "clone": "https://github.com/tokkozhin/react-native-neomorph-shadows.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-07T10:06:23Z",
+        "createdAt": "2020-02-06T10:44:39Z",
+        "pushedAt": "2023-02-26T18:20:35Z",
+        "issues": 27,
+        "subscribers": 15,
+        "stars": 785,
+        "forks": 90
+      },
+      "name": "react-native-neomorph-shadows",
+      "fullName": "tokkozhin/react-native-neomorph-shadows",
+      "description": "Shadows and neumorphism/neomorphism for iOS & Android (like iOS).",
+      "topics": [
+        "shadowbox",
+        "inner-shadow",
+        "shadow-svg",
+        "shadow",
+        "neomorphism",
+        "neumorphism"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5508,
+      "weekDownloads": 1488,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "shadowbox inner-shadow shadow-svg shadow neomorphism neumorphism",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.02,
+    "category": [
+      "neomorphism",
+      "neumorphism",
+      "shadow",
+      "inner-shadow",
+      "shadowbox",
+      "shadow-svg"
+    ]
+  }
+]

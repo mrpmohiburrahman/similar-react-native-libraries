@@ -1,0 +1,72 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-progress-view/progress-bar-android",
+    "images": [
+      "https://user-images.githubusercontent.com/25158423/57262658-0d4c5b00-703b-11e9-9e0d-bdf7cb8f942a.gif"
+    ],
+    "android": true,
+    "npmPkg": "@react-native-community/progress-bar-android",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-progress-view/progress-bar-android",
+        "clone": "https://github.com/react-native-progress-view/progress-bar-android.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T06:48:03Z",
+        "createdAt": "2019-02-07T10:46:36Z",
+        "pushedAt": "2023-11-22T11:08:46Z",
+        "issues": 27,
+        "subscribers": 3,
+        "stars": 92,
+        "forks": 32
+      },
+      "name": "progress-bar-android",
+      "fullName": "react-native-progress-view/progress-bar-android",
+      "description": "ProgressBar Component for react-native Android",
+      "topics": [
+        "react-native",
+        "progressbar",
+        "android",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.0.5",
+        "tagName": "v1.0.5",
+        "createdAt": "2022-11-07T02:17:51Z",
+        "publishedAt": "2022-11-07T02:18:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 80056,
+      "weekDownloads": 19155,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native progressbar android hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.011,
+    "category": [
+      "progressbar"
+    ]
+  }
+]

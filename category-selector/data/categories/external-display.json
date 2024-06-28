@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/mybigday/react-native-external-display",
+    "images": [
+      "https://user-images.githubusercontent.com/3001525/75336253-c3807a00-58c5-11ea-9872-371b654c05fa.png"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-external-display",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mybigday/react-native-external-display",
+        "clone": "https://github.com/mybigday/react-native-external-display.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T09:40:27Z",
+        "createdAt": "2020-02-26T08:49:06Z",
+        "pushedAt": "2024-05-13T18:30:51Z",
+        "issues": 15,
+        "subscribers": 5,
+        "stars": 193,
+        "forks": 17
+      },
+      "name": "react-native-external-display",
+      "fullName": "mybigday/react-native-external-display",
+      "description": "React Native view renderer in External Display",
+      "topics": [
+        "react",
+        "react-native",
+        "external-display",
+        "native-module",
+        "native-ui-component",
+        "ios",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2374,
+      "weekDownloads": 700,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react react-native external-display native-module native-ui-component ios android",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.045,
+    "category": [
+      "external-display"
+    ]
+  }
+]

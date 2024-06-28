@@ -1,0 +1,155 @@
+[
+  {
+    "githubUrl": "https://github.com/candlefinance/haptics",
+    "npmPkg": "@candlefinance/haptics",
+    "examples": [
+      "https://github.com/candlefinance/haptics/tree/main/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/candlefinance/haptics",
+        "clone": "https://github.com/candlefinance/haptics.git",
+        "homepage": "https://candle.fi"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T03:49:57Z",
+        "createdAt": "2023-09-28T15:07:42Z",
+        "pushedAt": "2024-04-29T23:21:49Z",
+        "issues": 0,
+        "subscribers": 3,
+        "stars": 69,
+        "forks": 0
+      },
+      "name": "haptics",
+      "fullName": "candlefinance/haptics",
+      "description": "Haptics for React Native with support for custom patterns and ahap files.",
+      "topics": [
+        "haptics",
+        "ios",
+        "react-native",
+        "ahap",
+        "corehaptics",
+        "uifeedbackgenerator",
+        "uikit"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.3.3",
+        "tagName": "v0.3.3",
+        "createdAt": "2024-04-20T18:30:45Z",
+        "publishedAt": "2024-04-20T18:30:47Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 173,
+      "weekDownloads": 34,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "haptics ios react-native ahap corehaptics uifeedbackgenerator uikit",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.502,
+    "category": [
+      "haptics",
+      "ahap"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-haptics",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "expo-haptics",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 354605,
+      "weekDownloads": 79335,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "haptics"
+    ]
+  }
+]

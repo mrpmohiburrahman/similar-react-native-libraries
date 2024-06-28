@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/mateosilguero/consistencss",
+    "examples": [
+      "https://github.com/mateosilguero/consistencss/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/mateosilguero/consistencss/master/website/static/img/logo.png"
+    ],
+    "android": true,
+    "ios": true,
+    "npmPkg": "consistencss",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mateosilguero/consistencss",
+        "clone": "https://github.com/mateosilguero/consistencss.git",
+        "homepage": "https://consistencss.now.sh/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-05T19:29:29Z",
+        "createdAt": "2020-04-24T03:30:33Z",
+        "pushedAt": "2023-03-04T14:14:47Z",
+        "issues": 32,
+        "subscribers": 3,
+        "stars": 49,
+        "forks": 3
+      },
+      "name": "consistencss",
+      "fullName": "mateosilguero/consistencss",
+      "description": "An \"atomic css\" style toolkit for React Native",
+      "topics": [
+        "react-native",
+        "atomic-css",
+        "css",
+        "styles",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.7.0",
+        "tagName": "v1.7.0",
+        "createdAt": "2021-05-01T16:56:54Z",
+        "publishedAt": "2021-05-01T16:59:38Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 122,
+      "weekDownloads": 40,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native atomic-css css styles typescript",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.368,
+    "category": [
+      "atomic-css"
+    ]
+  }
+]

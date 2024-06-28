@@ -1,0 +1,79 @@
+[
+  {
+    "githubUrl": "https://github.com/powersync-ja/powersync-react-native-sdk/tree/main/packages/powersync-sdk-react-native",
+    "npmPkg": "@journeyapps/powersync-sdk-react-native",
+    "examples": [
+      "https://github.com/powersync-ja/powersync-supabase-react-native-todolist-demo/tree/main"
+    ],
+    "ios": true,
+    "expoGo": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/powersync-ja/powersync-js",
+        "clone": "https://github.com/powersync-ja/powersync-js.git",
+        "homepage": "https://www.powersync.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T16:27:19Z",
+        "createdAt": "2023-10-03T15:17:51Z",
+        "pushedAt": "2024-05-23T14:35:32Z",
+        "issues": 3,
+        "subscribers": 9,
+        "stars": 123,
+        "forks": 4
+      },
+      "name": "powersync-js",
+      "fullName": "powersync-ja/powersync-js",
+      "description": "SDK that enables local-first and real-time reactive apps with embedded SQLite for JavaScript clients, including React Native and Web",
+      "topics": [
+        "local-first",
+        "local-storage",
+        "offline",
+        "offline-first",
+        "sql",
+        "sqlite",
+        "sync",
+        "powersync",
+        "state-management"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "@powersync/web@0.8.0",
+        "tagName": "@powersync/web@0.8.0",
+        "createdAt": "2024-05-23T12:23:03Z",
+        "publishedAt": "2024-05-23T12:23:19Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 255,
+      "weekDownloads": 46,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "local-first local-storage offline offline-first sql sqlite sync powersync state-management",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.067,
+    "category": [
+      "powersync"
+    ]
+  }
+]

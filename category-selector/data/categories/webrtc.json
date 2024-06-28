@@ -1,0 +1,71 @@
+[
+  {
+    "githubUrl": "https://github.com/react-native-webrtc/react-native-webrtc",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-webrtc",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-webrtc/react-native-webrtc",
+        "clone": "https://github.com/react-native-webrtc/react-native-webrtc.git",
+        "homepage": "https://react-native-webrtc.discourse.group"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T05:41:49Z",
+        "createdAt": "2015-09-27T10:57:30Z",
+        "pushedAt": "2024-05-16T12:56:21Z",
+        "issues": 36,
+        "subscribers": 120,
+        "stars": 4512,
+        "forks": 1218
+      },
+      "name": "react-native-webrtc",
+      "fullName": "react-native-webrtc/react-native-webrtc",
+      "description": "The WebRTC module for React Native",
+      "topics": [
+        "webrtc",
+        "react",
+        "react-native"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "118.0.7",
+        "tagName": "118.0.7",
+        "createdAt": "2024-04-18T11:32:21Z",
+        "publishedAt": "2024-04-18T11:33:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 71795,
+      "weekDownloads": 17739,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "webrtc react react-native",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.003,
+    "category": [
+      "webrtc"
+    ]
+  }
+]

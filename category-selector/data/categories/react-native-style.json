@@ -1,0 +1,76 @@
+[
+  {
+    "githubUrl": "https://github.com/retyui/react-native-stylex",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "examples": [
+      "https://github.com/retyui/react-native-stylex/tree/master/example/AppStyleX"
+    ],
+    "npmPkg": "react-native-stylex",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/retyui/react-native-stylex",
+        "clone": "https://github.com/retyui/react-native-stylex.git",
+        "homepage": "https://snack.expo.io/@retyui/react-native-stylex"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-21T18:55:36Z",
+        "createdAt": "2020-01-10T19:52:19Z",
+        "pushedAt": "2024-02-25T22:15:35Z",
+        "issues": 0,
+        "subscribers": 6,
+        "stars": 100,
+        "forks": 3
+      },
+      "name": "react-native-stylex",
+      "fullName": "retyui/react-native-stylex",
+      "description": "Better styling for react-native",
+      "topics": [
+        "react-native",
+        "react-native-theme",
+        "react-native-style",
+        "react-native-media-queries"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "4.2.0",
+        "tagName": "4.2.0",
+        "createdAt": "2023-01-07T21:01:53Z",
+        "publishedAt": "2023-01-07T21:08:17Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 345,
+      "weekDownloads": 80,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-theme react-native-style react-native-media-queries",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.017,
+    "category": [
+      "react-native-style",
+      "react-native-media-queries"
+    ]
+  }
+]

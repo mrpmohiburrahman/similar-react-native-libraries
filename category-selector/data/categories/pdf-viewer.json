@@ -1,0 +1,223 @@
+[
+  {
+    "githubUrl": "https://github.com/alpha0010/react-native-pdf-viewer",
+    "npmPkg": "react-native-pdf-light",
+    "examples": [
+      "https://github.com/alpha0010/react-native-pdf-viewer/tree/master/example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/alpha0010/react-native-pdf-viewer",
+        "clone": "https://github.com/alpha0010/react-native-pdf-viewer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-25T02:17:20Z",
+        "createdAt": "2020-09-17T22:44:48Z",
+        "pushedAt": "2023-02-15T17:13:15Z",
+        "issues": 2,
+        "subscribers": 2,
+        "stars": 68,
+        "forks": 11
+      },
+      "name": "react-native-pdf-viewer",
+      "fullName": "alpha0010/react-native-pdf-viewer",
+      "description": "Minimalist PDF viewer for React Native",
+      "topics": [
+        "pdf-viewer",
+        "react-native",
+        "pdf"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 2.4.0",
+        "tagName": "v2.4.0",
+        "createdAt": "2023-02-15T17:13:13Z",
+        "publishedAt": "2023-02-15T17:13:16Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 4023,
+      "weekDownloads": 868,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "pdf-viewer react-native pdf",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.034,
+    "category": [
+      "pdf-viewer",
+      "pdf"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rumax/react-native-PDFView",
+    "npmPkg": "react-native-view-pdf",
+    "examples": [
+      "https://github.com/rumax/react-native-PDFView/tree/master/demo"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/rumax/react-native-PDFView/master/demo/res/ios_pdf.gif",
+      "https://raw.githubusercontent.com/rumax/react-native-PDFView/master/demo/res/android_pdf.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rumax/react-native-PDFView",
+        "clone": "https://github.com/rumax/react-native-PDFView.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-06T15:01:52Z",
+        "createdAt": "2018-03-07T21:42:22Z",
+        "pushedAt": "2024-05-13T21:13:33Z",
+        "issues": 15,
+        "subscribers": 7,
+        "stars": 295,
+        "forks": 88
+      },
+      "name": "react-native-PDFView",
+      "fullName": "rumax/react-native-PDFView",
+      "description": "📚 PDF viewer for React Native",
+      "topics": [
+        "react-native",
+        "react-component",
+        "pdf",
+        "pdf-viewer",
+        "javascript",
+        "android",
+        "ios",
+        "hacktoberfest2020",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 56494,
+      "weekDownloads": 12939,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-component pdf pdf-viewer javascript android ios hacktoberfest2020 hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "pdf",
+      "pdf-viewer"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/xcarpentier/rn-pdf-reader-js",
+    "images": [
+      "https://thumbs.gfycat.com/DeadPoisedBrownbutterfly-max-14mb.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "rn-pdf-reader-js",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/xcarpentier/rn-pdf-reader-js",
+        "clone": "https://github.com/xcarpentier/rn-pdf-reader-js.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-16T19:31:25Z",
+        "createdAt": "2018-03-27T08:56:51Z",
+        "pushedAt": "2024-05-08T21:57:58Z",
+        "issues": 26,
+        "subscribers": 6,
+        "stars": 377,
+        "forks": 161
+      },
+      "name": "rn-pdf-reader-js",
+      "fullName": "xcarpentier/rn-pdf-reader-js",
+      "description": "📄 PDF reader in JavaScript only for Expo - Android & iOS capable",
+      "topics": [
+        "expo",
+        "pdf-viewer",
+        "pdfjs",
+        "react-native",
+        "pdf-reader",
+        "react-pdf"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v4.1.1",
+        "tagName": "v4.1.1",
+        "createdAt": "2020-07-14T14:38:26Z",
+        "publishedAt": "2020-07-14T14:56:48Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 15660,
+      "weekDownloads": 3494,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "expo pdf-viewer pdfjs react-native pdf-reader react-pdf",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.027,
+    "category": [
+      "pdf-viewer",
+      "pdfjs",
+      "pdf-reader",
+      "react-pdf"
+    ]
+  }
+]

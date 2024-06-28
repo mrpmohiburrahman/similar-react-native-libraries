@@ -1,0 +1,75 @@
+[
+  {
+    "githubUrl": "https://github.com/agencyenterprise/react-native-health",
+    "ios": true,
+    "npmPkg": "react-native-health",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/agencyenterprise/react-native-health",
+        "clone": "https://github.com/agencyenterprise/react-native-health.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:48:36Z",
+        "createdAt": "2020-09-21T19:09:21Z",
+        "pushedAt": "2024-05-08T11:48:53Z",
+        "issues": 112,
+        "subscribers": 29,
+        "stars": 774,
+        "forks": 221
+      },
+      "name": "react-native-health",
+      "fullName": "agencyenterprise/react-native-health",
+      "description": "A React Native package to interact with Apple HealthKit",
+      "topics": [
+        "healthkit",
+        "apple-healthkit",
+        "react-native",
+        "ios",
+        "health",
+        "fitness"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v1.18.0",
+        "createdAt": "2023-08-18T13:58:55Z",
+        "publishedAt": "2023-08-18T14:00:19Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 26428,
+      "weekDownloads": 5985,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "healthkit apple-healthkit react-native ios health fitness",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.024,
+    "category": [
+      "healthkit",
+      "apple-healthkit",
+      "fitness"
+    ]
+  }
+]

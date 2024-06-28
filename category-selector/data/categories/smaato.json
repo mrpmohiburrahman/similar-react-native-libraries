@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/khalisafkari/react-native-smaato-ad",
+    "android": true,
+    "npmPkg": "react-native-smaato-ad",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/khalisafkari/react-native-smaato-ad",
+        "clone": "https://github.com/khalisafkari/react-native-smaato-ad.git",
+        "homepage": "https://developers.smaato.com/publishers/nextgen-sdk-android-integration/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-10-13T03:06:45Z",
+        "createdAt": "2019-12-13T18:21:51Z",
+        "pushedAt": "2020-10-29T09:16:25Z",
+        "issues": 0,
+        "subscribers": 2,
+        "stars": 7,
+        "forks": 2
+      },
+      "name": "react-native-smaato-ad",
+      "fullName": "khalisafkari/react-native-smaato-ad",
+      "description": "Smaato Ads for React Native",
+      "topics": [
+        "smaato",
+        "react-native",
+        "react-native-ads",
+        "react-native-admob",
+        "monetization"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 21.5.7",
+        "tagName": "v21.5.7",
+        "createdAt": "2020-10-29T09:13:16Z",
+        "publishedAt": "2020-10-29T09:16:28Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 419,
+      "weekDownloads": 111,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "smaato react-native react-native-ads react-native-admob monetization",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.083,
+    "category": [
+      "smaato"
+    ]
+  }
+]

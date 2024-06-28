@@ -1,0 +1,85 @@
+[
+  {
+    "githubUrl": "https://github.com/margelo/react-native-quick-crypto",
+    "examples": [
+      "https://github.com/margelo/react-native-quick-crypto/example"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-quick-crypto",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-quick-crypto",
+        "clone": "https://github.com/margelo/react-native-quick-crypto.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T00:01:58Z",
+        "createdAt": "2022-02-17T08:49:24Z",
+        "pushedAt": "2024-05-25T07:30:19Z",
+        "issues": 45,
+        "subscribers": 13,
+        "stars": 620,
+        "forks": 79
+      },
+      "name": "react-native-quick-crypto",
+      "fullName": "margelo/react-native-quick-crypto",
+      "description": "⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI",
+      "topics": [
+        "react-native",
+        "react",
+        "native",
+        "cpp",
+        "jsi",
+        "crypto",
+        "cryptography",
+        "encryption",
+        "decryption",
+        "maths",
+        "web3",
+        "ethers"
+      ],
+      "license": {
+        "key": "other",
+        "name": "Other",
+        "spdxId": "NOASSERTION",
+        "url": null,
+        "id": "MDc6TGljZW5zZTA="
+      },
+      "lastRelease": {
+        "name": "Release 0.7.0-rc.8",
+        "tagName": "v0.7.0-rc.8",
+        "createdAt": "2024-05-23T18:26:29Z",
+        "publishedAt": "2024-05-23T18:27:05Z",
+        "isPrerelease": true
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 42930,
+      "weekDownloads": 9565,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react native cpp jsi crypto cryptography encryption decryption maths web3 ethers",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.027,
+    "category": [
+      "crypto",
+      "cryptography",
+      "encryption",
+      "decryption",
+      "maths"
+    ]
+  }
+]

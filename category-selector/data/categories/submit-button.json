@@ -1,0 +1,66 @@
+[
+  {
+    "githubUrl": "https://github.com/ronak301/react-native-submit-button",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-submit-button",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ronak301/react-native-submit-button",
+        "clone": "https://github.com/ronak301/react-native-submit-button.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-10T15:00:37Z",
+        "createdAt": "2017-01-08T16:31:26Z",
+        "pushedAt": "2017-11-21T17:59:24Z",
+        "issues": 1,
+        "subscribers": 9,
+        "stars": 122,
+        "forks": 17
+      },
+      "name": "react-native-submit-button",
+      "fullName": "ronak301/react-native-submit-button",
+      "description": "Animated Submit button. Works on both android and ios.",
+      "topics": [
+        "android",
+        "ios",
+        "react-native",
+        "button",
+        "submit-button",
+        "animated"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 54,
+      "weekDownloads": 5,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android ios react-native button submit-button animated",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.848,
+    "category": [
+      "button",
+      "submit-button"
+    ]
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/hoaphantn7604/react-native-curved-bottom-bar",
+    "examples": [
+      "https://github.com/hoaphantn7604/react-native-curved-bottom-bar/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/hoaphantn7604/file-upload/master/document/navigationbar/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-curved-bottom-bar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/hoaphantn7604/react-native-curved-bottom-bar",
+        "clone": "https://github.com/hoaphantn7604/react-native-curved-bottom-bar.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T08:43:10Z",
+        "createdAt": "2021-06-22T09:37:35Z",
+        "pushedAt": "2024-03-25T15:33:41Z",
+        "issues": 19,
+        "subscribers": 7,
+        "stars": 443,
+        "forks": 95
+      },
+      "name": "react-native-curved-bottom-bar",
+      "fullName": "hoaphantn7604/react-native-curved-bottom-bar",
+      "description": "A high performance, beautiful and fully customizable curved bottom navigation bar for React Native.",
+      "topics": [
+        "react-native",
+        "curved",
+        "elements",
+        "components",
+        "bottom",
+        "tab-bar",
+        "tabbar"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 3.2.7",
+        "tagName": "v3.2.7",
+        "createdAt": "2024-03-25T15:33:35Z",
+        "publishedAt": "2024-03-25T15:33:48Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 5887,
+      "weekDownloads": 1348,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native curved elements components bottom tab-bar tabbar",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.021,
+    "category": [
+      "tab-bar",
+      "tabbar"
+    ]
+  }
+]

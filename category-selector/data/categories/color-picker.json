@@ -1,0 +1,78 @@
+[
+  {
+    "githubUrl": "https://github.com/Naturalclar/react-native-color-picker-ios",
+    "examples": [
+      "https://github.com/Naturalclar/react-native-color-picker-ios/tree/master/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/6936373/95818710-758a8a80-0d5f-11eb-8e45-fb0573049c34.jpeg",
+      "https://user-images.githubusercontent.com/6936373/95818705-73283080-0d5f-11eb-8a10-c0f166ed13a9.jpeg",
+      "https://user-images.githubusercontent.com/6936373/95818711-76232100-0d5f-11eb-802f-9cbe76454e8d.jpeg"
+    ],
+    "ios": true,
+    "npmPkg": "react-native-color-picker-ios",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Naturalclar/react-native-color-picker-ios",
+        "clone": "https://github.com/Naturalclar/react-native-color-picker-ios.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-03T16:32:52Z",
+        "createdAt": "2020-10-12T11:57:35Z",
+        "pushedAt": "2024-05-23T20:14:11Z",
+        "issues": 8,
+        "subscribers": 4,
+        "stars": 104,
+        "forks": 7
+      },
+      "name": "react-native-color-picker-ios",
+      "fullName": "Naturalclar/react-native-color-picker-ios",
+      "description": "iOS14 UIColorPicker Module for react-native",
+      "topics": [
+        "react-native",
+        "hacktoberfest",
+        "color-picker",
+        "ios",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.1.3",
+        "tagName": "v0.1.3",
+        "createdAt": "2024-04-17T12:28:05Z",
+        "publishedAt": "2024-04-17T12:28:51Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 399,
+      "weekDownloads": 111,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native hacktoberfest color-picker ios typescript",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.03,
+    "category": [
+      "color-picker"
+    ]
+  }
+]

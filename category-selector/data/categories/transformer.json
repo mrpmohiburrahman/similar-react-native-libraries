@@ -1,0 +1,77 @@
+[
+  {
+    "githubUrl": "https://github.com/kristerkari/react-native-svg-transformer",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "react-native-svg-transformer",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/kristerkari/react-native-svg-transformer",
+        "clone": "https://github.com/kristerkari/react-native-svg-transformer.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T05:17:59Z",
+        "createdAt": "2018-08-02T19:29:21Z",
+        "pushedAt": "2024-05-14T18:23:07Z",
+        "issues": 71,
+        "subscribers": 8,
+        "stars": 1513,
+        "forks": 115
+      },
+      "name": "react-native-svg-transformer",
+      "fullName": "kristerkari/react-native-svg-transformer",
+      "description": "Import SVG files in your React Native project the same way that you would in a Web application.",
+      "topics": [
+        "react-native",
+        "svg",
+        "loader",
+        "transformer",
+        "react-native-svg"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.4.0",
+        "tagName": "v1.4.0",
+        "createdAt": "2024-05-14T18:22:45Z",
+        "publishedAt": "2024-05-14T18:23:32Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1503729,
+      "weekDownloads": 338874,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native svg loader transformer react-native-svg",
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.025,
+    "category": [
+      "react-native-svg",
+      "svg",
+      "transformer",
+      "loader"
+    ]
+  }
+]

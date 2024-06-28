@@ -1,0 +1,659 @@
+[
+  {
+    "githubUrl": "https://github.com/JesperLekland/react-native-svg-charts",
+    "images": [
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/area-chart.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/area-stack.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/bar-chart.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/bar-stack-horizontal.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/pie-chart.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/progress-circle.png",
+      "https://raw.githubusercontent.com/jesperlekland/react-native-svg-charts/master/screenshots/y-axis.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "react-native-svg-charts",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/JesperLekland/react-native-svg-charts",
+        "clone": "https://github.com/JesperLekland/react-native-svg-charts.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T19:50:46Z",
+        "createdAt": "2017-10-30T09:28:29Z",
+        "pushedAt": "2024-04-18T08:49:48Z",
+        "issues": 213,
+        "subscribers": 15,
+        "stars": 2320,
+        "forks": 385
+      },
+      "name": "react-native-svg-charts",
+      "fullName": "JesperLekland/react-native-svg-charts",
+      "description": "📈 One library to rule all charts for React Native 📊",
+      "topics": [
+        "react-native",
+        "react-native-charts",
+        "react-native-d3",
+        "d3",
+        "charts",
+        "svg",
+        "react-native-svg"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.3.0",
+        "tagName": "v5.3.0",
+        "createdAt": "2019-07-06T17:26:24Z",
+        "publishedAt": "2019-07-06T17:27:57Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 163385,
+      "weekDownloads": 36103,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react-native-charts react-native-d3 d3 charts svg react-native-svg",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "d3",
+      "charts",
+      "react-native-d3",
+      "react-native-charts"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/rainbow-me/react-native-animated-charts",
+    "npmPkg": "@rainbow-me/animated-charts",
+    "examples": [
+      "https://github.com/rainbow-me/react-native-animated-charts/tree/master/Example"
+    ],
+    "images": [
+      "https://github.com/rainbow-me/react-native-animated-charts/raw/master/gifs/ios.gif",
+      "https://github.com/rainbow-me/react-native-animated-charts/raw/master/gifs/android.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/rainbow-me/react-native-animated-charts",
+        "clone": "https://github.com/rainbow-me/react-native-animated-charts.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T00:04:45Z",
+        "createdAt": "2020-09-14T19:18:48Z",
+        "pushedAt": "2022-10-02T23:16:37Z",
+        "issues": 63,
+        "subscribers": 15,
+        "stars": 906,
+        "forks": 108
+      },
+      "name": "react-native-animated-charts",
+      "fullName": "rainbow-me/react-native-animated-charts",
+      "description": "Set of components and helpers for building complex and beautifully animated charts",
+      "topics": [
+        "charts",
+        "react",
+        "native",
+        "react-native",
+        "animations",
+        "reanimated2",
+        "reanimated"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.0.0-alpha.6",
+        "tagName": "1.0.0-alpha.6",
+        "createdAt": "2021-09-20T14:29:19Z",
+        "publishedAt": "2021-09-20T14:29:24Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 382,
+      "weekDownloads": 124,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "charts react native react-native animations reanimated2 reanimated",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": 0.076,
+    "category": [
+      "charts"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/wuxudong/react-native-charts-wrapper",
+    "images": [
+      "https://raw.githubusercontent.com/wuxudong/react-native-charts-wrapper/master/screenshot/Android%20ScreenShot.png",
+      "https://raw.githubusercontent.com/wuxudong/react-native-charts-wrapper/master/screenshot/IOS%20ScreenShot.png"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-charts-wrapper",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wuxudong/react-native-charts-wrapper",
+        "clone": "https://github.com/wuxudong/react-native-charts-wrapper.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T08:01:52Z",
+        "createdAt": "2017-03-03T07:58:57Z",
+        "pushedAt": "2024-04-11T00:59:00Z",
+        "issues": 195,
+        "subscribers": 51,
+        "stars": 2409,
+        "forks": 658
+      },
+      "name": "react-native-charts-wrapper",
+      "fullName": "wuxudong/react-native-charts-wrapper",
+      "description": "a react native charts wrapper (support android & iOS)",
+      "topics": [
+        "react-native",
+        "chart",
+        "mpandroidchart",
+        "charts"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "Upgrade Charts to DGCharts",
+        "tagName": "v0.6.0",
+        "createdAt": "2023-10-28T07:06:16Z",
+        "publishedAt": "2023-10-28T07:08:16Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 40155,
+      "weekDownloads": 7165,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native chart mpandroidchart charts",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.072,
+    "category": [
+      "chart",
+      "charts"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/margelo/react-native-graph",
+    "examples": [
+      "https://github.com/margelo/react-native-graph/tree/main/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/margelo/react-native-graph/main/img/demo.gif",
+      "https://raw.githubusercontent.com/margelo/react-native-graph/main/img/change.gif",
+      "https://raw.githubusercontent.com/margelo/react-native-graph/main/img/pan.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-graph",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/margelo/react-native-graph",
+        "clone": "https://github.com/margelo/react-native-graph.git",
+        "homepage": "https://margelo.io"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T07:15:37Z",
+        "createdAt": "2022-04-29T12:40:18Z",
+        "pushedAt": "2024-05-19T05:52:21Z",
+        "issues": 38,
+        "subscribers": 15,
+        "stars": 1897,
+        "forks": 103
+      },
+      "name": "react-native-graph",
+      "fullName": "margelo/react-native-graph",
+      "description": "📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia",
+      "topics": [
+        "animated",
+        "animation",
+        "beautiful",
+        "chart",
+        "charts",
+        "crypto",
+        "graph",
+        "graphs",
+        "library",
+        "linegraph",
+        "performance",
+        "react",
+        "react-native",
+        "skia",
+        "stock",
+        "svg",
+        "wallet",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.1.0",
+        "tagName": "v1.1.0",
+        "createdAt": "2024-03-12T12:21:33Z",
+        "publishedAt": "2024-03-12T12:21:35Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7240,
+      "weekDownloads": 1831,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "animated animation beautiful chart charts crypto graph graphs library linegraph performance react react-native skia stock svg wallet android ios",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": 0.003,
+    "category": [
+      "charts",
+      "graph",
+      "graphs",
+      "linegraph",
+      "chart"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts",
+    "images": [
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/bars.png",
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/lineArea.png",
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/blues.png",
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/scrollLine.gif",
+      "https://raw.githubusercontent.com/Abhinandan-Kushwaha/react-native-gifted-charts/master/demos/animatedDataLine.gif"
+    ],
+    "android": true,
+    "ios": true,
+    "expoGo": true,
+    "npmPkg": "react-native-gifted-charts",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts",
+        "clone": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts.git",
+        "homepage": "https://www.npmjs.com/package/react-native-gifted-charts"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T09:55:41Z",
+        "createdAt": "2021-07-30T13:10:45Z",
+        "pushedAt": "2024-05-23T20:43:38Z",
+        "issues": 76,
+        "subscribers": 4,
+        "stars": 596,
+        "forks": 128
+      },
+      "name": "react-native-gifted-charts",
+      "fullName": "Abhinandan-Kushwaha/react-native-gifted-charts",
+      "description": "The most complete library for Bar, Line, Area, Pie, Donut, Stacked Bar and Population Pyramid charts in React Native. Allows 2D, 3D, gradient, animations and live data updates.",
+      "topics": [
+        "charts",
+        "barchart",
+        "piechart",
+        "line-charts",
+        "pie-chart",
+        "donut-chart",
+        "area-chart",
+        "react-native",
+        "data-visualization",
+        "graph",
+        "population",
+        "pyramid",
+        "pyramid-chart"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 57913,
+      "weekDownloads": 14551,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "charts barchart piechart line-charts pie-chart donut-chart area-chart react-native data-visualization graph population pyramid pyramid-chart",
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": 0.001,
+    "category": [
+      "charts",
+      "barchart",
+      "piechart",
+      "line-charts",
+      "pie-chart",
+      "area-chart",
+      "data-visualization",
+      "graph",
+      "pyramid-chart",
+      "pyramid"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/codesinghanoop/react-native-d3multiline-chart",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-d3multiline-chart",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/codesinghanoop/react-native-d3multiline-chart",
+        "clone": "https://github.com/codesinghanoop/react-native-d3multiline-chart.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-10-09T09:26:32Z",
+        "createdAt": "2017-08-13T10:34:47Z",
+        "pushedAt": "2021-09-21T05:40:06Z",
+        "issues": 10,
+        "subscribers": 4,
+        "stars": 43,
+        "forks": 16
+      },
+      "name": "react-native-d3multiline-chart",
+      "fullName": "codesinghanoop/react-native-d3multiline-chart",
+      "description": "Animated Android and iOS multiline/line/scatterPoint chart based on d3.js 🤘😎🤘",
+      "topics": [
+        "android",
+        "ios",
+        "d3js",
+        "d3v4",
+        "charts",
+        "react-native-svg",
+        "multiline",
+        "line",
+        "scatterpoint",
+        "multiline-graph",
+        "line-graph",
+        "scatterpoint-graph",
+        "animation",
+        "graph",
+        "legend",
+        "chart",
+        "running-line-animation"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 174,
+      "weekDownloads": 60,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "android ios d3js d3v4 charts react-native-svg multiline line scatterpoint multiline-graph line-graph scatterpoint-graph animation graph legend chart running-line-animation",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.352,
+    "category": [
+      "charts",
+      "multiline-graph",
+      "line-graph",
+      "scatterpoint-graph",
+      "chart",
+      "running-line-animation",
+      "d3js",
+      "d3v4"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/capitalone/react-native-pathjs-charts",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-pathjs-charts",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/capitalone/react-native-pathjs-charts",
+        "clone": "https://github.com/capitalone/react-native-pathjs-charts.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-20T17:13:05Z",
+        "createdAt": "2016-07-29T19:43:20Z",
+        "pushedAt": "2018-03-01T15:28:09Z",
+        "issues": 75,
+        "subscribers": 35,
+        "stars": 879,
+        "forks": 263
+      },
+      "name": "react-native-pathjs-charts",
+      "fullName": "capitalone/react-native-pathjs-charts",
+      "description": "Android and iOS charts based on react-native-svg and paths-js",
+      "topics": [
+        "charts",
+        "graphs",
+        "paths-js",
+        "react-native",
+        "ios",
+        "android",
+        "react-native-svg",
+        "cross-platform",
+        "radar-graphs",
+        "bar-graphs",
+        "pie-graphs",
+        "tree"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "lastRelease": {
+        "name": "0.0.34",
+        "tagName": "0.0.34",
+        "createdAt": "2018-02-19T01:37:41Z",
+        "publishedAt": "2018-02-19T01:42:23Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 394,
+      "weekDownloads": 58,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "charts graphs paths-js react-native ios android react-native-svg cross-platform radar-graphs bar-graphs pie-graphs tree",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": -0.352,
+    "category": [
+      "charts",
+      "graphs",
+      "paths-js",
+      "react-native-svg",
+      "radar-graphs",
+      "bar-graphs",
+      "pie-graphs",
+      "tree"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/FormidableLabs/victory-native",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "victory-native",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/FormidableLabs/victory-native",
+        "clone": "https://github.com/FormidableLabs/victory-native.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": false,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T12:13:46Z",
+        "createdAt": "2016-07-22T21:45:58Z",
+        "pushedAt": "2021-11-03T23:22:18Z",
+        "issues": 68,
+        "subscribers": 61,
+        "stars": 2003,
+        "forks": 159
+      },
+      "name": "victory-native",
+      "fullName": "FormidableLabs/victory-native",
+      "description": "victory components for react native",
+      "topics": [
+        "react-native",
+        "react",
+        "d3",
+        "charts",
+        "data-visualization"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 366929,
+      "weekDownloads": 77126,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native react d3 charts data-visualization",
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.04,
+    "category": [
+      "charts",
+      "data-visualization"
+    ]
+  }
+]

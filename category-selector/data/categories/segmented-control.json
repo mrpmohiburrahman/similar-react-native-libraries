@@ -1,0 +1,213 @@
+[
+  {
+    "githubUrl": "https://github.com/richardvclam/react-native-resegmented-control",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-resegmented-control",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/richardvclam/react-native-resegmented-control",
+        "clone": "https://github.com/richardvclam/react-native-resegmented-control.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-01T17:49:23Z",
+        "createdAt": "2019-12-26T06:38:48Z",
+        "pushedAt": "2023-01-05T03:41:16Z",
+        "issues": 22,
+        "subscribers": 2,
+        "stars": 57,
+        "forks": 6
+      },
+      "name": "react-native-resegmented-control",
+      "fullName": "richardvclam/react-native-resegmented-control",
+      "description": "iOS 13+ styled segmented control for React Native",
+      "topics": [
+        "react-native",
+        "segmented-control",
+        "uisegmentedcontrol"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "v2.4.0",
+        "tagName": "v2.4.0",
+        "createdAt": "2020-07-14T19:43:50Z",
+        "publishedAt": "2020-07-14T19:45:25Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 385,
+      "weekDownloads": 44,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native segmented-control uisegmentedcontrol",
+    "score": 44,
+    "matchingScoreModifiers": [
+      "No license",
+      "Recently updated"
+    ],
+    "popularity": -0.135,
+    "category": [
+      "segmented-control"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Karthik-B-06/react-native-segmented-control",
+    "examples": [
+      "https://github.com/Karthik-B-06/react-native-segmented-control/tree/main/example"
+    ],
+    "images": [
+      "https://user-images.githubusercontent.com/35562287/149650171-3cd9c972-6cf5-4aef-989f-199820d5b0e6.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "react-native-segmented-control",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Karthik-B-06/react-native-segmented-control",
+        "clone": "https://github.com/Karthik-B-06/react-native-segmented-control.git",
+        "homepage": "https://www.npmjs.com/package/rn-segmented-control"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T01:53:20Z",
+        "createdAt": "2020-07-11T11:03:51Z",
+        "pushedAt": "2023-03-30T02:35:18Z",
+        "issues": 26,
+        "subscribers": 4,
+        "stars": 278,
+        "forks": 30
+      },
+      "name": "react-native-segmented-control",
+      "fullName": "Karthik-B-06/react-native-segmented-control",
+      "description": "🎉 React Native Segmented Control 🎮  for both iOS, Android and Web",
+      "topics": [
+        "react-native",
+        "segmented-control",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 1.1.2",
+        "tagName": "v1.1.2",
+        "createdAt": "2022-01-16T06:53:08Z",
+        "publishedAt": "2022-01-16T06:54:20Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 94,
+      "weekDownloads": 29,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native segmented-control typescript",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.386,
+    "category": [
+      "segmented-control"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-segmented-control/segmented-control",
+    "images": [
+      "https://user-images.githubusercontent.com/6936373/71608757-dc6ef680-2bc6-11ea-85be-aa31f25ecf36.png",
+      "https://user-images.githubusercontent.com/6936373/79550655-9edd9d00-80d3-11ea-98bf-8b7c0b0798d3.png",
+      "https://user-images.githubusercontent.com/6936373/79590620-3f52b200-8112-11ea-863b-236c4465fba6.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "web": true,
+    "npmPkg": "@react-native-segmented-control/segmented-control",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-segmented-control/segmented-control",
+        "clone": "https://github.com/react-native-segmented-control/segmented-control.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-19T18:28:03Z",
+        "createdAt": "2019-02-06T17:47:06Z",
+        "pushedAt": "2024-05-20T18:23:43Z",
+        "issues": 54,
+        "subscribers": 4,
+        "stars": 510,
+        "forks": 79
+      },
+      "name": "segmented-control",
+      "fullName": "react-native-segmented-control/segmented-control",
+      "description": "React Native SegmentedControl library",
+      "topics": [
+        "react-native",
+        "segmented-control",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v2.5.2",
+        "tagName": "v2.5.2",
+        "createdAt": "2024-04-18T04:16:36Z",
+        "publishedAt": "2024-04-18T04:17:48Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 83076,
+      "weekDownloads": 17362,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native segmented-control hacktoberfest",
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -0.041,
+    "category": [
+      "segmented-control"
+    ]
+  }
+]

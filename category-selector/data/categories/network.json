@@ -1,0 +1,307 @@
+[
+  {
+    "githubUrl": "https://github.com/wkh237/react-native-fetch-blob",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "npmPkg": "react-native-fetch-blob",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/wkh237/react-native-fetch-blob",
+        "clone": "https://github.com/wkh237/react-native-fetch-blob.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-13T04:56:48Z",
+        "createdAt": "2016-05-04T13:08:37Z",
+        "pushedAt": "2022-07-25T19:50:18Z",
+        "issues": 268,
+        "subscribers": 50,
+        "stars": 2611,
+        "forks": 1557
+      },
+      "name": "react-native-fetch-blob",
+      "fullName": "wkh237/react-native-fetch-blob",
+      "description": "A project committed to making file access and data transfer easier, efficient for React Native developers.",
+      "topics": [
+        "file-access",
+        "react-native",
+        "storage",
+        "network",
+        "file-system",
+        "file",
+        "polyfill",
+        "android",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.10.9",
+        "tagName": "v0.10.9",
+        "createdAt": "2017-08-09T09:56:39Z",
+        "publishedAt": "2017-08-09T15:13:08Z",
+        "isPrerelease": true
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 18263,
+      "weekDownloads": 3783,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "file-access react-native storage network file-system file polyfill android ios",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.293,
+    "category": [
+      "file-access",
+      "network",
+      "file-system"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/pusherman/react-native-network-info",
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-network-info",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/pusherman/react-native-network-info",
+        "clone": "https://github.com/pusherman/react-native-network-info.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:34:03Z",
+        "createdAt": "2015-07-12T19:07:39Z",
+        "pushedAt": "2021-03-22T16:30:40Z",
+        "issues": 30,
+        "subscribers": 9,
+        "stars": 347,
+        "forks": 103
+      },
+      "name": "react-native-network-info",
+      "fullName": "pusherman/react-native-network-info",
+      "description": "React Native library for getting information about the devices network",
+      "topics": [
+        "react-native",
+        "ios",
+        "android-library",
+        "ios-lib",
+        "android",
+        "networking",
+        "network"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v5.2.1 (Yellow Check)",
+        "tagName": "v5.2.1",
+        "createdAt": "2019-09-30T21:51:38Z",
+        "publishedAt": "2019-09-30T21:52:18Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 36888,
+      "weekDownloads": 8599,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android-library ios-lib android networking network",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.017,
+    "category": [
+      "network",
+      "networking"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-network",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "npmPkg": "expo-network",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T11:10:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-25T10:42:04Z",
+        "issues": 665,
+        "subscribers": 288,
+        "stars": 29837,
+        "forks": 4711
+      },
+      "name": "expo",
+      "fullName": "expo/expo",
+      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+      "topics": [
+        "mobile",
+        "expo",
+        "native",
+        "web",
+        "universal",
+        "react",
+        "android",
+        "ios",
+        "app-framework",
+        "web-framework",
+        "native-apps",
+        "javascript",
+        "framework",
+        "frontend",
+        "react-native",
+        "typescript"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 99051,
+      "weekDownloads": 22184,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.026,
+    "category": [
+      "network",
+      "network-info"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-netinfo/react-native-netinfo",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "windows": true,
+    "macos": true,
+    "visionos": true,
+    "npmPkg": "@react-native-community/netinfo",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-netinfo/react-native-netinfo",
+        "clone": "https://github.com/react-native-netinfo/react-native-netinfo.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-23T08:43:35Z",
+        "createdAt": "2019-02-06T15:54:46Z",
+        "pushedAt": "2024-05-11T22:49:29Z",
+        "issues": 123,
+        "subscribers": 20,
+        "stars": 1907,
+        "forks": 390
+      },
+      "name": "react-native-netinfo",
+      "fullName": "react-native-netinfo/react-native-netinfo",
+      "description": "React Native Network Info API for Android & iOS",
+      "topics": [
+        "react-native",
+        "network",
+        "networking"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v11.3.2",
+        "tagName": "v11.3.2",
+        "createdAt": "2024-05-11T22:49:27Z",
+        "publishedAt": "2024-05-11T22:49:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 2439813,
+      "weekDownloads": 540034,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native network networking",
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.029,
+    "category": [
+      "network",
+      "networking"
+    ]
+  }
+]

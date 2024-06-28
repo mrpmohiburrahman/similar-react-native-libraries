@@ -1,0 +1,69 @@
+[
+  {
+    "githubUrl": "https://github.com/peterp/react-native-tags",
+    "examples": [
+      "https://github.com/peterp/react-native-tags/tree/main/examples/Demo_RN_v63_2"
+    ],
+    "ios": true,
+    "android": true,
+    "npmPkg": "react-native-tags",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/peterp/react-native-tags",
+        "clone": "https://github.com/peterp/react-native-tags.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:33:24Z",
+        "createdAt": "2016-09-15T18:52:11Z",
+        "pushedAt": "2023-03-05T11:47:25Z",
+        "issues": 20,
+        "subscribers": 6,
+        "stars": 288,
+        "forks": 74
+      },
+      "name": "react-native-tags",
+      "fullName": "peterp/react-native-tags",
+      "description": "Tag input component for React Native",
+      "topics": [
+        "react-native",
+        "tags"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "",
+        "tagName": "v2.2.1",
+        "createdAt": "2021-10-28T16:39:41Z",
+        "publishedAt": "2021-10-28T16:41:58Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1938,
+      "weekDownloads": 430,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native tags",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.028,
+    "category": [
+      "tags"
+    ]
+  }
+]

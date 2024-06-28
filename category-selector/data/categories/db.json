@@ -1,0 +1,153 @@
+[
+  {
+    "githubUrl": "https://github.com/Nozbe/WatermelonDB",
+    "images": [
+      "https://github.com/Nozbe/WatermelonDB/raw/master/assets/watermelon-demo-thumbnail.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "npmPkg": "@nozbe/watermelondb",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Nozbe/WatermelonDB",
+        "clone": "https://github.com/Nozbe/WatermelonDB.git",
+        "homepage": "https://watermelondb.dev"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-21T11:26:25Z",
+        "createdAt": "2018-08-28T15:32:05Z",
+        "pushedAt": "2024-04-21T11:26:25Z",
+        "forks": 556,
+        "issues": 194,
+        "subscribers": 103,
+        "stars": 10198
+      },
+      "name": "WatermelonDB",
+      "fullName": "Nozbe/WatermelonDB",
+      "description": "🍉 Reactive & asynchronous database for powerful React and React Native apps ⚡️",
+      "topics": [
+        "database",
+        "sqlite",
+        "react",
+        "react-native",
+        "indexeddb",
+        "lokijs",
+        "watermelon",
+        "watermelondb",
+        "offline",
+        "offline-first",
+        "persistence",
+        "reactive",
+        "rxjs",
+        "better-sqlite3",
+        "db",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 28224,
+      "weekDownloads": 6860,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 69,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": -0.007,
+    "topicSearchString": "database sqlite react react-native indexeddb lokijs watermelon watermelondb offline offline-first persistence reactive rxjs better-sqlite3 db hacktoberfest",
+    "matchScore": 101,
+    "category": [
+      "db"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/darkrishabh/react-native-db-models",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/darkrishabh/react-native-db-models",
+        "clone": "https://github.com/darkrishabh/react-native-db-models.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2018-04-15T10:41:10Z",
+        "createdAt": "2015-06-13T00:58:33Z",
+        "pushedAt": "2018-04-15T10:41:10Z",
+        "forks": 32,
+        "issues": 11,
+        "subscribers": 11,
+        "stars": 173
+      },
+      "name": "react-native-db-models",
+      "fullName": "darkrishabh/react-native-db-models",
+      "description": "React native Library for creating Local DB models ",
+      "topics": [
+        "react-native",
+        "asyncstorage",
+        "database",
+        "local-db",
+        "db-events",
+        "rerender",
+        "emmit-database-operations",
+        "models",
+        "data-store",
+        "ios"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-db-models",
+    "npm": {
+      "downloads": 41,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 7
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.773,
+    "topicSearchString": "react-native asyncstorage database local-db db-events rerender emmit-database-operations models data-store ios",
+    "matchScore": 0.111,
+    "category": [
+      "db"
+    ]
+  }
+]

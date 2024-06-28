@@ -1,0 +1,81 @@
+[
+  {
+    "githubUrl": "https://github.com/FormidableLabs/react-native-app-auth",
+    "examples": [
+      "https://github.com/FormidableLabs/react-native-app-auth/tree/master/Example",
+      "https://github.com/FormidableLabs/react-native-app-auth/tree/master/Example#react-native-app-auth-example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/FormidableLabs/react-native-app-auth",
+        "clone": "https://github.com/FormidableLabs/react-native-app-auth.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-24T09:55:02Z",
+        "createdAt": "2017-11-13T17:59:31Z",
+        "pushedAt": "2024-05-24T09:55:02Z",
+        "forks": 402,
+        "issues": 93,
+        "subscribers": 58,
+        "stars": 1936
+      },
+      "name": "react-native-app-auth",
+      "fullName": "FormidableLabs/react-native-app-auth",
+      "description": "React native bridge for AppAuth - an SDK for communicating with OAuth2 providers",
+      "topics": [
+        "react",
+        "react-native",
+        "auth",
+        "authentication",
+        "oauth",
+        "oauth2",
+        "appauth"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v7.2.0",
+        "tagName": "v7.2.0",
+        "createdAt": "2024-05-14T14:34:12Z",
+        "publishedAt": "2024-05-14T14:34:13Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-app-auth",
+    "npm": {
+      "downloads": 265078,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 55211
+    },
+    "score": 50,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.042,
+    "topicSearchString": "react react-native auth authentication oauth oauth2 appauth",
+    "matchScore": 11,
+    "category": [
+      "appauth"
+    ]
+  }
+]

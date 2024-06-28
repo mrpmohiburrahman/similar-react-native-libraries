@@ -1,0 +1,1071 @@
+[
+  {
+    "githubUrl": "https://github.com/clerkinc/javascript",
+    "npmPkg": "@clerk/clerk-expo",
+    "examples": [
+      "https://docs.clerk.dev/reference/clerk-expo"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/clerk/javascript",
+        "clone": "https://github.com/clerk/javascript.git",
+        "homepage": "https://clerk.com"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-25T00:05:22Z",
+        "createdAt": "2021-12-14T16:53:48Z",
+        "pushedAt": "2024-05-25T00:05:22Z",
+        "forks": 200,
+        "issues": 19,
+        "subscribers": 10,
+        "stars": 916
+      },
+      "name": "javascript",
+      "fullName": "clerk/javascript",
+      "description": "Official Javascript repository for Clerk authentication",
+      "topics": [
+        "authentication",
+        "nextjs",
+        "react",
+        "nodejs",
+        "javascript",
+        "expo",
+        "remix-run",
+        "jwt-authentication",
+        "jwt",
+        "hasura"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "@clerk/clerk-expo@1.1.7",
+        "tagName": "@clerk/clerk-expo@1.1.7",
+        "createdAt": "2024-05-25T00:10:14Z",
+        "publishedAt": "2024-05-25T00:10:26Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 39889,
+      "weekDownloads": 8630,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 63,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.034,
+    "topicSearchString": "authentication nextjs react nodejs javascript expo remix-run jwt-authentication jwt hasura",
+    "matchScore": 11,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-apple-authentication",
+    "npmPkg": "@invertase/react-native-apple-authentication",
+    "examples": [
+      "https://github.com/invertase/react-native-apple-authentication/tree/master/example"
+    ],
+    "images": [
+      "https://static.invertase.io/assets/apple-auth.png"
+    ],
+    "ios": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-apple-authentication",
+        "clone": "https://github.com/invertase/react-native-apple-authentication.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-11-05T00:04:12Z",
+        "createdAt": "2019-12-01T21:56:36Z",
+        "pushedAt": "2023-11-05T00:04:12Z",
+        "forks": 211,
+        "issues": 8,
+        "subscribers": 15,
+        "stars": 1346
+      },
+      "name": "react-native-apple-authentication",
+      "fullName": "invertase/react-native-apple-authentication",
+      "description": "A React Native library providing support for Apple Authentication on iOS and Android.",
+      "topics": [
+        "react",
+        "react-native",
+        "apple",
+        "ios",
+        "button",
+        "firebase",
+        "aws",
+        "authentication",
+        "apple-auth",
+        "apple-authentication"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "lastRelease": {
+        "name": "v2.3.0 - works with react-native 0.73 now, android button text too",
+        "tagName": "v2.3.0",
+        "createdAt": "2023-11-05T00:04:12Z",
+        "publishedAt": "2023-11-05T00:07:19Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 389903,
+      "weekDownloads": 80764,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.043,
+    "topicSearchString": "react react-native apple ios button firebase aws authentication apple-auth apple-authentication",
+    "matchScore": 111,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-apple-authentication",
+    "ios": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev/versions/latest/sdk/apple-authentication/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T10:29:01Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-05-20T10:29:01Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29829
+      },
+      "name": "expo-apple-authentication",
+      "fullName": "expo/expo",
+      "description": "A package that provides 'Sign in with Apple' capability for Expo and React Native apps.",
+      "topics": [
+        "react-native",
+        "expo",
+        "expo-apple-authentiocation",
+        "apple-authentication",
+        "sign-in-with-apple"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "expo-apple-authentication",
+    "npm": {
+      "downloads": 149406,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 36004
+    },
+    "score": 75,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues",
+      "Recently updated"
+    ],
+    "popularity": -0.009,
+    "topicSearchString": "react-native expo expo-apple-authentiocation apple-authentication sign-in-with-apple",
+    "matchScore": 101,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-local-authentication",
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/expo/expo",
+        "clone": "https://github.com/expo/expo.git",
+        "homepage": "https://docs.expo.dev/versions/latest/sdk/local-authentication/"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-23T02:06:45Z",
+        "createdAt": "2016-08-15T17:14:25Z",
+        "pushedAt": "2024-04-23T02:06:45Z",
+        "forks": 4663,
+        "issues": 407,
+        "subscribers": 288,
+        "stars": 29829
+      },
+      "name": "expo-local-authentication",
+      "fullName": "expo/expo",
+      "description": "Provides an API for FaceID and TouchID (iOS) or the Fingerprint API (Android) to authenticate the user with a face or fingerprint scan.",
+      "topics": [
+        "react-native",
+        "expo",
+        "authentication",
+        "auth",
+        "touchid",
+        "faceid",
+        "fingerprint"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [
+      "https://github.com/expo/expo/raw/main/.github/resources/expo-local-authentication.svg"
+    ],
+    "npmPkg": "expo-local-authentication",
+    "npm": {
+      "downloads": 262019,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 61082
+    },
+    "score": 69,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Lots of open issues"
+    ],
+    "popularity": -0.017,
+    "topicSearchString": "react-native expo authentication auth touchid faceid fingerprint",
+    "matchScore": 101,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/invertase/react-native-firebase/tree/main/packages/auth",
+    "npmPkg": "@react-native-firebase/auth",
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/invertase/react-native-firebase",
+        "clone": "https://github.com/invertase/react-native-firebase.git"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-20T03:50:59Z",
+        "createdAt": "2017-02-01T12:01:03Z",
+        "pushedAt": "2024-05-20T03:50:59Z",
+        "forks": 2105,
+        "issues": 41,
+        "subscribers": 165,
+        "stars": 11465
+      },
+      "name": "@react-native-firebase/auth",
+      "fullName": "invertase/react-native-firebase",
+      "description": "React Native Firebase - The authentication module provides an easy-to-use API to integrate an authentication workflow into new and existing applications. React Native Firebase provides access to all Firebase authentication methods and identity providers.",
+      "topics": [
+        "react",
+        "react-native",
+        "firebase",
+        "auth"
+      ],
+      "license": {
+        "name": "Apache License 2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI=",
+        "key": "apache-2.0",
+        "spdxId": "Apache-2.0"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 283248,
+      "weekDownloads": 67525,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 88,
+    "matchingScoreModifiers": [
+      "Very popular",
+      "Popular",
+      "Recently updated"
+    ],
+    "popularity": -0.012,
+    "topicSearchString": "react react-native firebase auth",
+    "matchScore": 10,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/ory/kratos-selfservice-ui-react-native",
+    "examples": [
+      "https://www.ory.sh/docs/getting-started/integrate-auth/react-native",
+      "https://www.ory.sh/login-react-native-authentication-example-api/"
+    ],
+    "images": [
+      "https://www.ory.sh/docs/assets/images/1-78684ec591551f445a1064e274bf37b8.png"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "template": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/ory/kratos-selfservice-ui-react-native",
+        "clone": "https://github.com/ory/kratos-selfservice-ui-react-native.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-05-22T07:33:27Z",
+        "createdAt": "2020-08-03T09:32:56Z",
+        "pushedAt": "2024-05-22T07:33:27Z",
+        "forks": 28,
+        "issues": 1,
+        "subscribers": 9,
+        "stars": 89
+      },
+      "name": "kratos-selfservice-ui-react-native",
+      "fullName": "ory/kratos-selfservice-ui-react-native",
+      "description": "A reference implementation of an app using ORY Kratos for auth (login), sign up (registration), profile settings (update password), MFA/2FA, account recovery (password reset), and more for React Native. This repository is available as an expo template!",
+      "topics": [
+        "ory-kratos",
+        "registration",
+        "login",
+        "authentication",
+        "auth",
+        "ory",
+        "react-native"
+      ],
+      "license": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdxId": "Apache-2.0",
+        "url": "http://choosealicense.com/licenses/apache-2.0/",
+        "id": "MDc6TGljZW5zZTI="
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npmPkg": "kratos-selfservice-ui-react-native",
+    "npm": {
+      "weekDownloads": 0
+    },
+    "score": 56,
+    "matchingScoreModifiers": [
+      "Recently updated"
+    ],
+    "popularity": -1,
+    "topicSearchString": "ory-kratos registration login authentication auth ory react-native",
+    "matchScore": 1,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/react-native-twitter-signin/twitter-signin",
+    "npmPkg": "@react-native-twitter-signin/twitter-signin",
+    "examples": [
+      "https://github.com/react-native-twitter-signin/twitter-signin/tree/master/Example"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/react-native-twitter-signin/twitter-signin",
+        "clone": "https://github.com/react-native-twitter-signin/twitter-signin.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-11-30T11:48:45Z",
+        "createdAt": "2021-10-09T04:28:39Z",
+        "pushedAt": "2023-11-30T11:48:45Z",
+        "forks": 15,
+        "issues": 3,
+        "subscribers": 1,
+        "stars": 23
+      },
+      "name": "twitter-signin",
+      "fullName": "react-native-twitter-signin/twitter-signin",
+      "description": "react-native twitter signin using TwitterKit5",
+      "topics": [
+        "react",
+        "react-native",
+        "native",
+        "twitter",
+        "signin",
+        "social-signin",
+        "authentication",
+        "hacktoberfest"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 991,
+      "weekDownloads": 221,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.126,
+    "topicSearchString": "react react-native native twitter signin social-signin authentication hacktoberfest",
+    "matchScore": 1,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/smallcasetech/react-native-simple-biometrics",
+    "examples": [
+      "https://github.com/smallcasetech/react-native-simple-biometrics/tree/master/example"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/smallcasetech/react-native-simple-biometrics/master/demo.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/smallcase/react-native-simple-biometrics",
+        "clone": "https://github.com/smallcase/react-native-simple-biometrics.git",
+        "homepage": "https://www.npmjs.com/package/react-native-simple-biometrics"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-10-05T05:07:33Z",
+        "createdAt": "2021-02-08T14:57:00Z",
+        "pushedAt": "2023-10-05T05:07:33Z",
+        "forks": 17,
+        "issues": 2,
+        "subscribers": 10,
+        "stars": 178
+      },
+      "name": "react-native-simple-biometrics",
+      "fullName": "smallcase/react-native-simple-biometrics",
+      "description": "simple interface to verify user authenticity",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "biometrics",
+        "fingerprint",
+        "authentication",
+        "faceid"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.5.2",
+        "tagName": "v1.5.2",
+        "createdAt": "2023-10-05T05:07:36Z",
+        "publishedAt": "2023-10-05T05:08:49Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-simple-biometrics",
+    "npm": {
+      "downloads": 7737,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 1628
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.04,
+    "topicSearchString": "react-native ios android biometrics fingerprint authentication faceid",
+    "matchScore": 1,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/hieuvp/react-native-fingerprint-scanner",
+    "examples": [
+      "https://github.com/hieuvp/react-native-fingerprint-scanner/tree/master/examples"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/hieuvp/react-native-fingerprint-scanner/master/screenshots/ios-authentication.gif",
+      "https://raw.githubusercontent.com/hieuvp/react-native-fingerprint-scanner/master/screenshots/android-authentication.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/hieuvp/react-native-fingerprint-scanner",
+        "clone": "https://github.com/hieuvp/react-native-fingerprint-scanner.git",
+        "homepage": "https://www.npmjs.com/package/react-native-fingerprint-scanner"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-02-27T12:03:54Z",
+        "createdAt": "2017-06-02T08:46:10Z",
+        "pushedAt": "2023-02-27T12:03:54Z",
+        "forks": 263,
+        "issues": 51,
+        "subscribers": 19,
+        "stars": 871
+      },
+      "name": "react-native-fingerprint-scanner",
+      "fullName": "hieuvp/react-native-fingerprint-scanner",
+      "description": "Provide Fingerprint, Touch ID, and Face ID Scanner for React Native (Compatible with both Android and iOS)",
+      "topics": [
+        "react-native",
+        "react-native-component",
+        "react-component",
+        "react",
+        "native",
+        "touch",
+        "touchid",
+        "touch-id",
+        "fingerprint",
+        "fingerprint-scanner",
+        "authentication",
+        "authenticate",
+        "auth",
+        "face-id",
+        "faceid",
+        "biometrics"
+      ],
+      "license": {
+        "name": "MIT License",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz",
+        "key": "mit",
+        "spdxId": "MIT"
+      },
+      "lastRelease": {
+        "name": "[updated] v4.0.0: Support Androidx Biometrics API",
+        "tagName": "v4.0.0",
+        "createdAt": "2020-01-28T16:42:28Z",
+        "publishedAt": "2020-01-28T16:59:14Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npmPkg": "react-native-fingerprint-scanner",
+    "npm": {
+      "downloads": 36521,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 7992
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.031,
+    "topicSearchString": "react-native react-native-component react-component react native touch touchid touch-id fingerprint fingerprint-scanner authentication authenticate auth face-id faceid biometrics",
+    "matchScore": 1,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Forward-Software/react-auth",
+    "npmPkg": "@forward-software/react-auth",
+    "examples": [
+      "https://github.com/Forward-Software/react-auth/tree/main/examples/base",
+      "https://github.com/Forward-Software/react-auth/tree/main/examples/refresh-token",
+      "https://github.com/Forward-Software/react-auth/tree/main/examples/reqres"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Forward-Software/react-auth",
+        "clone": "https://github.com/Forward-Software/react-auth.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2022-11-16T01:25:53Z",
+        "createdAt": "2022-02-09T11:40:16Z",
+        "pushedAt": "2022-11-16T01:25:53Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 0,
+        "stars": 15
+      },
+      "name": "react-auth",
+      "fullName": "Forward-Software/react-auth",
+      "description": "Simplify your Auth flow when working with React apps",
+      "topics": [
+        "react",
+        "react-native",
+        "auth",
+        "authentication"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v1.1.0",
+        "tagName": "v1.1.0",
+        "createdAt": "2022-11-16T01:25:53Z",
+        "publishedAt": "2022-11-16T01:31:34Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npm": {
+      "downloads": 58,
+      "weekDownloads": 18,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.481,
+    "topicSearchString": "react react-native auth authentication",
+    "matchScore": 1,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/Bruno-Furtado/react-native-sms-retriever",
+    "android": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/Bruno-Furtado/react-native-sms-retriever",
+        "clone": "https://github.com/Bruno-Furtado/react-native-sms-retriever.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": true,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2020-01-02T11:52:40Z",
+        "createdAt": "2019-01-06T20:37:04Z",
+        "pushedAt": "2020-01-02T11:52:40Z",
+        "forks": 64,
+        "issues": 33,
+        "subscribers": 6,
+        "stars": 264
+      },
+      "name": "react-native-sms-retriever",
+      "fullName": "Bruno-Furtado/react-native-sms-retriever",
+      "description": "Android SMS Retriever API for React Native.",
+      "topics": [
+        "android",
+        "sms-retriever",
+        "sms-retriever-api",
+        "automatic-sms-verification",
+        "automatic-phone-number-verification",
+        "sms",
+        "phone-number",
+        "react-native",
+        "phone-number-verification",
+        "automatic-authentication",
+        "sms-verification",
+        "otp-verification",
+        "otp"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "1.1.1",
+        "tagName": "1.1.1",
+        "createdAt": "2020-01-02T11:52:58Z",
+        "publishedAt": "2020-01-02T11:53:37Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-sms-retriever",
+    "npm": {
+      "downloads": 24276,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 6124
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": 0.002,
+    "topicSearchString": "android sms-retriever sms-retriever-api automatic-sms-verification automatic-phone-number-verification sms phone-number react-native phone-number-verification automatic-authentication sms-verification otp-verification otp",
+    "matchScore": 1,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/naoufal/react-native-touch-id",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/naoufal/react-native-touch-id",
+        "clone": "https://github.com/naoufal/react-native-touch-id.git",
+        "homepage": "https://www.npmjs.com/package/react-native-touch-id"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2019-07-13T17:19:46Z",
+        "createdAt": "2015-06-03T03:41:22Z",
+        "pushedAt": "2019-07-13T17:19:46Z",
+        "forks": 381,
+        "issues": 74,
+        "subscribers": 23,
+        "stars": 1466
+      },
+      "name": "react-native-touch-id",
+      "fullName": "naoufal/react-native-touch-id",
+      "description": "React Native authentication with the native Touch ID popup.",
+      "topics": [
+        "react-native",
+        "react",
+        "native",
+        "touch-id",
+        "react-component",
+        "react-native-component",
+        "authentication",
+        "auth",
+        "authenticate",
+        "mobile",
+        "touchid",
+        "apple"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "4.0.0",
+        "tagName": "v4.0.0",
+        "createdAt": "2018-01-16T17:29:16Z",
+        "publishedAt": "2018-01-16T17:42:36Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-touch-id",
+    "npm": {
+      "downloads": 73065,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 16097
+    },
+    "score": 44,
+    "matchingScoreModifiers": [
+      "Popular",
+      "Not updated recently"
+    ],
+    "popularity": -0.28,
+    "topicSearchString": "react-native react native touch-id react-component react-native-component authentication auth authenticate mobile touchid apple",
+    "matchScore": 0.011,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/fixt/react-native-digits",
+    "ios": true,
+    "android": true,
+    "unmaintained": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/fixt/react-native-digits",
+        "clone": "https://github.com/fixt/react-native-digits.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2016-07-08T14:59:42Z",
+        "createdAt": "2015-11-04T17:29:59Z",
+        "pushedAt": "2016-07-08T14:59:42Z",
+        "forks": 7,
+        "issues": 6,
+        "subscribers": 6,
+        "stars": 61
+      },
+      "name": "react-native-digits",
+      "fullName": "fixt/react-native-digits",
+      "description": "Digits wrapper to use in React Native",
+      "topics": [
+        "react-native",
+        "react-native-component",
+        "fabric",
+        "twitter",
+        "authentication",
+        "digits",
+        "android"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "http://choosealicense.com/licenses/mit/",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "v0.2.0",
+        "tagName": "v0.2.0",
+        "createdAt": "2016-06-24T20:04:17Z",
+        "publishedAt": "2016-06-24T20:07:53Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "images": [],
+    "npmPkg": "react-native-digits",
+    "npm": {
+      "downloads": 21,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month",
+      "weekDownloads": 3
+    },
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.795,
+    "topicSearchString": "react-native react-native-component fabric twitter authentication digits android",
+    "matchScore": 0.001,
+    "category": [
+      "authentication"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/SectionTN/otp-input",
+    "npmPkg": "@sectiontn/otp-input",
+    "examples": [
+      "https://github.com/SectionTN/otp-input-example",
+      "https://snack.expo.dev/@sectiontn/otptextinput-advanced-example"
+    ],
+    "images": [
+      "https://github.com/SectionTN/otp-input/blob/main/assets/screenshot_one.jpg",
+      "https://github.com/SectionTN/otp-input/blob/main/assets/advanced.gif",
+      "https://github.com/SectionTN/otp-input/blob/main/assets/web.gif"
+    ],
+    "ios": true,
+    "android": true,
+    "web": true,
+    "expoGo": true,
+    "github": {
+      "urls": {
+        "repo": "https://github.com/SectionTN/otp-input",
+        "clone": "https://github.com/SectionTN/otp-input.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-07T14:03:21Z",
+        "createdAt": "2024-03-18T14:54:14Z",
+        "pushedAt": "2024-04-07T14:03:21Z",
+        "forks": 3,
+        "issues": 0,
+        "subscribers": 1,
+        "stars": 10
+      },
+      "name": "otp-input",
+      "fullName": "SectionTN/otp-input",
+      "description": "An elegant and highly customizable One-Time Password (OTP) input library designed to simplify the implementation and enhance the user experience of OTP authentication flows in React Native Applications.",
+      "topics": [
+        "otp-input",
+        "ios",
+        "android",
+        "react-native",
+        "otp",
+        "input",
+        "authentication",
+        "verification",
+        "code-input",
+        "mobile",
+        "new-arch-compatible-otp-input",
+        "otp-text-input",
+        "two-factor-authentication",
+        "2fa-otp-input",
+        "phone-number",
+        "android-library",
+        "ios-library",
+        "newarchitecture",
+        "otp-library",
+        "otp-textfield",
+        "otp-verification",
+        "websupport"
+      ],
+      "license": {
+        "key": "gpl-3.0",
+        "name": "GNU General Public License v3.0",
+        "spdxId": "GPL-3.0",
+        "url": "http://choosealicense.com/licenses/gpl-3.0/",
+        "id": "MDc6TGljZW5zZTk="
+      },
+      "lastRelease": {
+        "name": "v0.3.7",
+        "tagName": "v0.3.7",
+        "createdAt": "2024-04-06T22:26:06Z",
+        "publishedAt": "2024-04-06T22:29:14Z",
+        "isPrerelease": false
+      },
+      "hasTypes": true,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 371,
+      "weekDownloads": 230,
+      "start": "2024-04-24",
+      "end": "2024-05-23",
+      "period": "month"
+    },
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": 0.272,
+    "topicSearchString": "otp-input ios android react-native otp input authentication verification code-input mobile new-arch-compatible-otp-input otp-text-input two-factor-authentication 2fa-otp-input phone-number android-library ios-library newarchitecture otp-library otp-textfield otp-verification websupport",
+    "matchScore": 11,
+    "category": [
+      "authentication"
+    ]
+  }
+]

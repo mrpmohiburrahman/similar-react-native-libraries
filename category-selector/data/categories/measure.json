@@ -1,0 +1,74 @@
+[
+  {
+    "githubUrl": "https://github.com/lfkwtz/react-native-ruler",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-ruler",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/lfkwtz/react-native-ruler",
+        "clone": "https://github.com/lfkwtz/react-native-ruler.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": false,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2023-06-09T08:48:30Z",
+        "createdAt": "2018-12-30T13:25:40Z",
+        "pushedAt": "2023-01-03T22:35:15Z",
+        "issues": 12,
+        "subscribers": 2,
+        "stars": 34,
+        "forks": 3
+      },
+      "name": "react-native-ruler",
+      "fullName": "lfkwtz/react-native-ruler",
+      "description": "📏 A devtool for measuring pixel dimensions on your React Native screens",
+      "topics": [
+        "devtools",
+        "expo",
+        "react",
+        "react-native",
+        "measure",
+        "ruler"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "0.1.0",
+        "tagName": "0.1.0",
+        "createdAt": "2019-05-24T22:27:06Z",
+        "publishedAt": "2019-05-27T13:43:24Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 37,
+      "weekDownloads": 11,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "devtools expo react react-native measure ruler",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "Not updated recently"
+    ],
+    "popularity": -0.396,
+    "category": [
+      "ruler",
+      "measure"
+    ]
+  }
+]

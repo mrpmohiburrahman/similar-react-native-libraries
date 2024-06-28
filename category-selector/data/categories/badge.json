@@ -1,0 +1,70 @@
+[
+  {
+    "githubUrl": "https://github.com/mrousavy/react-native-notification-badge",
+    "examples": [
+      "https://github.com/mrousavy/react-native-notification-badge/tree/master/example"
+    ],
+    "ios": true,
+    "npmPkg": "react-native-notification-badge",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/mrousavy/react-native-notification-badge",
+        "clone": "https://github.com/mrousavy/react-native-notification-badge.git",
+        "homepage": ""
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-03-08T20:14:14Z",
+        "createdAt": "2020-07-25T12:12:09Z",
+        "pushedAt": "2021-10-05T22:40:20Z",
+        "issues": 3,
+        "subscribers": 5,
+        "stars": 49,
+        "forks": 6
+      },
+      "name": "react-native-notification-badge",
+      "fullName": "mrousavy/react-native-notification-badge",
+      "description": "🔴 A notification badge count manager for React Native",
+      "topics": [
+        "react-native",
+        "native-module",
+        "notification",
+        "badge",
+        "notifications",
+        "manager",
+        "library",
+        "react"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": null,
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 8185,
+      "weekDownloads": 1983,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native native-module notification badge notifications manager library react",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.008,
+    "category": [
+      "badge",
+      "notifications",
+      "notification"
+    ]
+  }
+]

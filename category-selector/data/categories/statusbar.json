@@ -1,0 +1,136 @@
+[
+  {
+    "githubUrl": "https://github.com/ujjalkar/rn-status-bar",
+    "images": [
+      "https://raw.githubusercontent.com/UjjalKar/rn-status-bar/main/screenshots/S1.png"
+    ],
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "rn-status-bar",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/UjjalKar/rn-status-bar",
+        "clone": "https://github.com/UjjalKar/rn-status-bar.git",
+        "homepage": "https://www.npmjs.com/package/rn-status-bar"
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-01-11T17:59:59Z",
+        "createdAt": "2022-03-20T14:07:43Z",
+        "pushedAt": "2022-03-23T06:23:56Z",
+        "issues": 1,
+        "subscribers": 2,
+        "stars": 1,
+        "forks": 0
+      },
+      "name": "rn-status-bar",
+      "fullName": "UjjalKar/rn-status-bar",
+      "description": "iOS Status bar background color native support since we cannot change status bar bg on iOS. Works both iOS & Android",
+      "topics": [
+        "ios",
+        "react-native",
+        "statusbar"
+      ],
+      "license": {
+        "key": "mit",
+        "name": "MIT License",
+        "spdxId": "MIT",
+        "url": "https://api.github.com/licenses/mit",
+        "id": "MDc6TGljZW5zZTEz"
+      },
+      "lastRelease": {
+        "name": "Release 0.1.6",
+        "tagName": "v0.1.6",
+        "createdAt": "2022-03-22T23:00:38Z",
+        "publishedAt": "2022-03-22T23:01:04Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 7,
+      "weekDownloads": 2,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "ios react-native statusbar",
+    "score": 50,
+    "matchingScoreModifiers": [],
+    "popularity": -0.407,
+    "category": [
+      "statusbar"
+    ]
+  },
+  {
+    "githubUrl": "https://github.com/gnestor/react-native-statusbar-alert",
+    "ios": true,
+    "android": true,
+    "expoGo": true,
+    "npmPkg": "react-native-statusbar-alert",
+    "github": {
+      "urls": {
+        "repo": "https://github.com/gnestor/react-native-statusbar-alert",
+        "clone": "https://github.com/gnestor/react-native-statusbar-alert.git",
+        "homepage": null
+      },
+      "stats": {
+        "hasIssues": true,
+        "hasWiki": true,
+        "hasPages": false,
+        "hasDownloads": true,
+        "hasTopics": true,
+        "updatedAt": "2024-04-16T20:34:15Z",
+        "createdAt": "2016-05-04T19:56:03Z",
+        "pushedAt": "2022-12-07T17:20:04Z",
+        "issues": 25,
+        "subscribers": 8,
+        "stars": 230,
+        "forks": 33
+      },
+      "name": "react-native-statusbar-alert",
+      "fullName": "gnestor/react-native-statusbar-alert",
+      "description": "A status bar alert (e.g. in-call, recording, navigating) for React Native",
+      "topics": [
+        "react-native",
+        "ios",
+        "android",
+        "statusbar",
+        "alert"
+      ],
+      "license": null,
+      "lastRelease": {
+        "name": "Added support for children",
+        "tagName": "v0.3.0",
+        "createdAt": "2017-10-11T20:52:06Z",
+        "publishedAt": "2017-10-11T20:53:31Z",
+        "isPrerelease": false
+      },
+      "hasTypes": false,
+      "newArchitecture": false
+    },
+    "npm": {
+      "downloads": 1870,
+      "weekDownloads": 259,
+      "start": "2024-04-25",
+      "end": "2024-05-24",
+      "period": "month"
+    },
+    "topicSearchString": "react-native ios android statusbar alert",
+    "score": 38,
+    "matchingScoreModifiers": [
+      "No license"
+    ],
+    "popularity": -0.111,
+    "category": [
+      "statusbar",
+      "alert"
+    ]
+  }
+]
