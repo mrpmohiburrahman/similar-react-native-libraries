@@ -6068,7 +6068,8 @@
     "matchScore": 1,
     "category": [
       "ui-components"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   "https://github.com/react-native-elements/react-native-elements": {
     "githubUrl": "https://github.com/react-native-elements/react-native-elements",
@@ -11686,7 +11687,7 @@
     "category": [
       "image"
     ],
-    "uniqueCategory": "compress"
+    "uniqueCategory": "compression"
   },
   "https://github.com/osamaqarem/react-native-image-colors": {
     "githubUrl": "https://github.com/osamaqarem/react-native-image-colors",
@@ -38185,7 +38186,7 @@
       "onboarding",
       "slider"
     ],
-    "uniqueCategory": "onboarding"
+    "uniqueCategory": "carousel-swiper"
   },
   "https://github.com/SoftZen/react-native-falling-drawer": {
     "githubUrl": "https://github.com/SoftZen/react-native-falling-drawer",
@@ -56827,7 +56828,8 @@
       "acceleration",
       "magnetometer",
       "barometer"
-    ]
+    ],
+    "uniqueCategory": "sensor"
   },
   "https://github.com/computerjazz/react-native-draggable-flatlist": {
     "githubUrl": "https://github.com/computerjazz/react-native-draggable-flatlist",
@@ -56892,7 +56894,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "uniqueCategory": "listview"
   },
   "https://github.com/react-native-google-cast/react-native-google-cast": {
     "githubUrl": "https://github.com/react-native-google-cast/react-native-google-cast",
@@ -56969,7 +56972,8 @@
       "chromecast",
       "sdk",
       "cast-library"
-    ]
+    ],
+    "uniqueCategory": "google-case-sdk-wrapper"
   },
   "https://github.com/codemotionapps/react-native-dynamic": {
     "githubUrl": "https://github.com/codemotionapps/react-native-dynamic",
@@ -57037,7 +57041,8 @@
     "popularity": -0.051,
     "category": [
       "dark-mode"
-    ]
+    ],
+    "uniqueCategory": "dark-mode"
   },
   "https://github.com/octopitus/rn-sliding-up-panel": {
     "githubUrl": "https://github.com/octopitus/rn-sliding-up-panel",
@@ -57102,7 +57107,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.01
+    "popularity": -0.01,
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/nandorojo/react-navigation-heavy-screen": {
     "githubUrl": "https://github.com/nandorojo/react-navigation-heavy-screen",
@@ -57156,7 +57162,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.017
+    "popularity": -0.017,
+    "uniqueCategory": "navigation"
   },
   "https://github.com/vadimdemedes/tailwind-rn": {
     "githubUrl": "https://github.com/vadimdemedes/tailwind-rn",
@@ -57221,7 +57228,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "uniqueCategory": "styling"
   },
   "https://github.com/charpeni/react-native-url-polyfill": {
     "githubUrl": "https://github.com/charpeni/react-native-url-polyfill",
@@ -57294,7 +57302,8 @@
     "category": [
       "polyfill",
       "url"
-    ]
+    ],
+    "uniqueCategory": "url-polyfill"
   },
   "https://github.com/n4kz/react-native-material-ripple": {
     "githubUrl": "https://github.com/n4kz/react-native-material-ripple",
@@ -57364,7 +57373,8 @@
     "category": [
       "material-design",
       "material"
-    ]
+    ],
+    "uniqueCategory": "button"
   },
   "https://github.com/KjellConnelly/react-native-rate": {
     "githubUrl": "https://github.com/KjellConnelly/react-native-rate",
@@ -57414,7 +57424,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "uniqueCategory": "store-review"
   },
   "https://github.com/rh389/react-native-securerandom": {
     "githubUrl": "https://github.com/rh389/react-native-securerandom",
@@ -57488,7 +57499,8 @@
       "randomnumbergenerator",
       "cryptography",
       "secrandomcopybytes"
-    ]
+    ],
+    "uniqueCategory": "hashing"
   },
   "https://github.com/Kishanjvaghela/react-native-cardview": {
     "githubUrl": "https://github.com/Kishanjvaghela/react-native-cardview",
@@ -57563,7 +57575,8 @@
       "cardview",
       "card",
       "card-view"
-    ]
+    ],
+    "uniqueCategory": "card-view"
   },
   "https://github.com/wonsikin/react-native-barcode-builder": {
     "githubUrl": "https://github.com/wonsikin/react-native-barcode-builder",
@@ -57635,7 +57648,8 @@
     "popularity": -0.083,
     "category": [
       "barcode"
-    ]
+    ],
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   "https://github.com/jacse/react-native-app-intro-slider": {
     "githubUrl": "https://github.com/jacse/react-native-app-intro-slider",
@@ -57704,7 +57718,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.013
+    "popularity": -0.013,
+    "uniqueCategory": "carousel-swiper"
   },
   "https://github.com/pradeep1991singh/react-native-secure-key-store": {
     "githubUrl": "https://github.com/pradeep1991singh/react-native-secure-key-store",
@@ -57778,7 +57793,8 @@
     "category": [
       "keystore-services",
       "keychain-services"
-    ]
+    ],
+    "uniqueCategory": "keychain"
   },
   "https://github.com/revtel/react-native-nfc-manager": {
     "githubUrl": "https://github.com/revtel/react-native-nfc-manager",
@@ -57850,7 +57866,8 @@
     "popularity": -0.016,
     "category": [
       "nfc"
-    ]
+    ],
+    "uniqueCategory": "nfc"
   },
   "https://github.com/mtford90/react-native-watch-connectivity": {
     "githubUrl": "https://github.com/mtford90/react-native-watch-connectivity",
@@ -57915,7 +57932,8 @@
     "category": [
       "watch",
       "iwatch"
-    ]
+    ],
+    "uniqueCategory": "apple-watch"
   },
   "https://github.com/mrousavy/react-native-google-nearby-messages": {
     "githubUrl": "https://github.com/mrousavy/react-native-google-nearby-messages",
@@ -58007,7 +58025,8 @@
       "nearby-messages",
       "wifi",
       "bluetooth"
-    ]
+    ],
+    "uniqueCategory": "google-nearby-communication"
   },
   "https://github.com/bberak/react-native-game-engine": {
     "githubUrl": "https://github.com/bberak/react-native-game-engine",
@@ -58074,7 +58093,8 @@
       "game-development",
       "game-engine",
       "game-2d"
-    ]
+    ],
+    "uniqueCategory": "game-engine"
   },
   "https://github.com/Kjens93/react-native-font-faces": {
     "githubUrl": "https://github.com/Kjens93/react-native-font-faces",
@@ -58155,7 +58175,8 @@
       "font-face",
       "font-style",
       "custom-fonts"
-    ]
+    ],
+    "uniqueCategory": "typography-font"
   },
   "https://github.com/ammarahm-ed/react-native-actions-sheet": {
     "githubUrl": "https://github.com/ammarahm-ed/react-native-actions-sheet",
@@ -58251,7 +58272,8 @@
       "bottom-sheet",
       "bottom-drawer",
       "raw-bottom-sheet"
-    ]
+    ],
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/prscX/react-native-photo-editor": {
     "githubUrl": "https://github.com/prscX/react-native-photo-editor",
@@ -58324,7 +58346,8 @@
       "Recently updated"
     ],
     "popularity": -0.026,
-    "category": []
+    "category": [],
+    "uniqueCategory": "image-editor"
   },
   "https://github.com/mrousavy/react-native-blurhash": {
     "githubUrl": "https://github.com/mrousavy/react-native-blurhash",
@@ -58418,7 +58441,8 @@
     "popularity": -0.003,
     "category": [
       "blurhash"
-    ]
+    ],
+    "uniqueCategory": "blurview"
   },
   "https://github.com/LonelyCpp/react-native-youtube-iframe": {
     "githubUrl": "https://github.com/LonelyCpp/react-native-youtube-iframe",
@@ -58500,7 +58524,8 @@
       "youtube-player",
       "youtube-video",
       "youtube-api"
-    ]
+    ],
+    "uniqueCategory": "video"
   },
   "https://github.com/mrousavy/react-native-notification-badge": {
     "githubUrl": "https://github.com/mrousavy/react-native-notification-badge",
@@ -58568,7 +58593,8 @@
       "badge",
       "notifications",
       "notification"
-    ]
+    ],
+    "uniqueCategory": "push-notifications"
   },
   "https://github.com/mcodex/react-native-rooster": {
     "githubUrl": "https://github.com/mcodex/react-native-rooster",
@@ -58647,7 +58673,8 @@
     "popularity": -0.639,
     "category": [
       "toast"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/vydimitrov/use-count-up": {
     "githubUrl": "https://github.com/vydimitrov/use-count-up",
@@ -58732,7 +58759,8 @@
       "animate-counting",
       "countup",
       "react-countup"
-    ]
+    ],
+    "uniqueCategory": "counting-animation"
   },
   "https://github.com/vydimitrov/react-countdown-circle-timer/tree/master/packages/mobile": {
     "githubUrl": "https://github.com/vydimitrov/react-countdown-circle-timer/tree/master/packages/mobile",
@@ -58816,7 +58844,8 @@
       "countdown-animation",
       "countdown",
       "timer"
-    ]
+    ],
+    "uniqueCategory": "circular-progress-gauge"
   },
   "https://github.com/chaimPaneth/react-native-zoom-bridge": {
     "githubUrl": "https://github.com/chaimPaneth/react-native-zoom-bridge",
@@ -58890,7 +58919,8 @@
       "confrence",
       "calls",
       "meetings"
-    ]
+    ],
+    "uniqueCategory": "zoom-bridge"
   },
   "https://github.com/chaimPaneth/react-native-jw-media-player": {
     "githubUrl": "https://github.com/chaimPaneth/react-native-jw-media-player",
@@ -58982,7 +59012,8 @@
       "jw",
       "video",
       "sdk"
-    ]
+    ],
+    "uniqueCategory": "video"
   },
   "https://github.com/callstack/react-native-ios-kit": {
     "githubUrl": "https://github.com/callstack/react-native-ios-kit",
@@ -59053,7 +59084,8 @@
     "category": [
       "ui-kit",
       "ios-ui"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   "https://github.com/arronhunt/react-native-emoji-selector": {
     "githubUrl": "https://github.com/arronhunt/react-native-emoji-selector",
@@ -59125,7 +59157,8 @@
     "category": [
       "emoji",
       "emoji-keyboard"
-    ]
+    ],
+    "uniqueCategory": "emoji-picker"
   },
   "https://github.com/rgommezz/react-native-scroll-bottom-sheet": {
     "githubUrl": "https://github.com/rgommezz/react-native-scroll-bottom-sheet",
@@ -59203,7 +59236,8 @@
     "category": [
       "bottomsheet",
       "bottom-sheet"
-    ]
+    ],
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/WrathChaos/react-native-header-view": {
     "githubUrl": "https://github.com/WrathChaos/react-native-header-view",
@@ -59281,7 +59315,8 @@
       "Recently updated"
     ],
     "popularity": -0.526,
-    "category": []
+    "category": [],
+    "uniqueCategory": "header"
   },
   "https://github.com/thegamenicorus/react-native-phone-input": {
     "githubUrl": "https://github.com/thegamenicorus/react-native-phone-input",
@@ -59346,7 +59381,8 @@
       "Lots of open issues"
     ],
     "popularity": -0.036,
-    "category": []
+    "category": [],
+    "uniqueCategory": "phone-input"
   },
   "https://github.com/Gustash/react-native-siri-shortcut": {
     "githubUrl": "https://github.com/Gustash/react-native-siri-shortcut",
@@ -59418,7 +59454,8 @@
     "category": [
       "siri",
       "siri-shortcuts"
-    ]
+    ],
+    "uniqueCategory": "siri-shortcuts"
   },
   "https://github.com/Gustash/react-native-image-keyboard": {
     "githubUrl": "https://github.com/Gustash/react-native-image-keyboard",
@@ -59481,7 +59518,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "uniqueCategory": "keyboard"
   },
   "https://github.com/ushelp/EasyQRCode-React-Native": {
     "githubUrl": "https://github.com/ushelp/EasyQRCode-React-Native",
@@ -59545,7 +59583,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   "https://github.com/safaiyeh/react-native-app-review": {
     "githubUrl": "https://github.com/safaiyeh/react-native-app-review",
@@ -59621,7 +59660,8 @@
       "app-review",
       "playstore",
       "appstore"
-    ]
+    ],
+    "uniqueCategory": "store-review"
   },
   "https://github.com/xanderdeseyn/react-native-responsive-linechart": {
     "githubUrl": "https://github.com/xanderdeseyn/react-native-responsive-linechart",
@@ -59697,7 +59737,8 @@
     "category": [
       "linechart",
       "area-chart"
-    ]
+    ],
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/pmadruga/react-native-clean-project": {
     "githubUrl": "https://github.com/pmadruga/react-native-clean-project",
@@ -59764,7 +59805,8 @@
       "Recently updated"
     ],
     "popularity": -0.015,
-    "category": []
+    "category": [],
+    "uniqueCategory": "clean-project"
   },
   "https://github.com/kristerkari/react-native-sass-transformer": {
     "githubUrl": "https://github.com/kristerkari/react-native-sass-transformer",
@@ -59836,7 +59878,8 @@
       "sass",
       "transform",
       "scss"
-    ]
+    ],
+    "uniqueCategory": "styling"
   },
   "https://github.com/khalisafkari/react-native-bigimageviewer": {
     "githubUrl": "https://github.com/khalisafkari/react-native-bigimageviewer",
@@ -59904,7 +59947,8 @@
       "react-native-image",
       "imageview",
       "image"
-    ]
+    ],
+    "uniqueCategory": "image"
   },
   "https://github.com/AndreiCalazans/rn-tooltip": {
     "githubUrl": "https://github.com/AndreiCalazans/rn-tooltip",
@@ -59972,7 +60016,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.027
+    "popularity": -0.027,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/rosskhanas/react-qr-code": {
     "githubUrl": "https://github.com/rosskhanas/react-qr-code",
@@ -60046,7 +60091,8 @@
     "popularity": -0.008,
     "category": [
       "qr-code"
-    ]
+    ],
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   "https://github.com/BlackBoxVision/react-native-mercadopago-px": {
     "githubUrl": "https://github.com/BlackBoxVision/react-native-mercadopago-px",
@@ -60124,7 +60170,8 @@
       "sdk",
       "bridge",
       "mercadopago-api"
-    ]
+    ],
+    "uniqueCategory": "mercadopage-px-bridge"
   },
   "https://github.com/iRoachie/react-native-material-tabs": {
     "githubUrl": "https://github.com/iRoachie/react-native-material-tabs",
@@ -60198,7 +60245,8 @@
     "popularity": -0.012,
     "category": [
       "tabs"
-    ]
+    ],
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/storybookjs/react-native": {
     "githubUrl": "https://github.com/storybookjs/react-native",
@@ -60273,7 +60321,8 @@
     "popularity": -0.034,
     "category": [
       "storybook"
-    ]
+    ],
+    "uniqueCategory": "storybook"
   },
   "https://github.com/WrathChaos/react-native-apple-card-views": {
     "githubUrl": "https://github.com/WrathChaos/react-native-apple-card-views",
@@ -60338,7 +60387,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.168
+    "popularity": -0.168,
+    "uniqueCategory": "card-view"
   },
   "https://github.com/edamameldn/tape-cli": {
     "githubUrl": "https://github.com/edamameldn/tape-cli",
@@ -60416,7 +60466,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.589,
-    "category": []
+    "category": [],
+    "uniqueCategory": "collaboration-for-mobile-dev"
   },
   "https://github.com/ajaykumar97/react-native-simple-logger": {
     "githubUrl": "https://github.com/ajaykumar97/react-native-simple-logger",
@@ -60479,7 +60530,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.609
+    "popularity": -0.609,
+    "uniqueCategory": "debug"
   },
   "https://github.com/aryella-lacerda/react-native-easy-calendar": {
     "githubUrl": "https://github.com/aryella-lacerda/react-native-easy-calendar",
@@ -60544,7 +60596,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.576
+    "popularity": -0.576,
+    "uniqueCategory": "calendar"
   },
   "https://github.com/NataliaLinnik/react-native-nested-list": {
     "githubUrl": "https://github.com/NataliaLinnik/react-native-nested-list",
@@ -60605,7 +60658,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.594
+    "popularity": -0.594,
+    "uniqueCategory": "listview"
   },
   "https://github.com/smarkets/react-native-paypal": {
     "githubUrl": "https://github.com/smarkets/react-native-paypal",
@@ -60678,7 +60732,8 @@
       "paypal",
       "paypal-checkout",
       "braintree"
-    ]
+    ],
+    "uniqueCategory": "paypal"
   },
   "https://github.com/rainbow-me/react-native-animated-charts": {
     "githubUrl": "https://github.com/rainbow-me/react-native-animated-charts",
@@ -60756,7 +60811,8 @@
     "popularity": 0.076,
     "category": [
       "charts"
-    ]
+    ],
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/gevgasparyan/rn-qr-generator": {
     "githubUrl": "https://github.com/gevgasparyan/rn-qr-generator",
@@ -60832,7 +60888,8 @@
       "qrcode",
       "qrcode-generator",
       "qrcode-detector"
-    ]
+    ],
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   "https://github.com/alpha0010/react-native-pdf-viewer": {
     "githubUrl": "https://github.com/alpha0010/react-native-pdf-viewer",
@@ -60901,7 +60958,8 @@
     "category": [
       "pdf-viewer",
       "pdf"
-    ]
+    ],
+    "uniqueCategory": "pdf"
   },
   "https://github.com/hoangnm/react-native-week-view": {
     "githubUrl": "https://github.com/hoangnm/react-native-week-view",
@@ -60972,7 +61030,8 @@
       "weekview",
       "calendar",
       "calendar-view"
-    ]
+    ],
+    "uniqueCategory": "calendar"
   },
   "https://github.com/WrathChaos/react-native-bouncy-checkbox": {
     "githubUrl": "https://github.com/WrathChaos/react-native-bouncy-checkbox",
@@ -61055,7 +61114,8 @@
       "bouncy-checkbox",
       "bounce",
       "checkbox"
-    ]
+    ],
+    "uniqueCategory": "checkbox"
   },
   "https://github.com/gorhom/react-native-bottom-sheet": {
     "githubUrl": "https://github.com/gorhom/react-native-bottom-sheet",
@@ -61134,7 +61194,8 @@
       "bottom-sheet",
       "bottomsheet",
       "modal"
-    ]
+    ],
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/react-keycloak/react-native-keycloak": {
     "githubUrl": "https://github.com/react-keycloak/react-native-keycloak",
@@ -61207,7 +61268,8 @@
     "category": [
       "keycloak",
       "keycloak-js"
-    ]
+    ],
+    "uniqueCategory": "keycloak"
   },
   "https://github.com/facebook/flipper/tree/master/react-native/react-native-flipper": {
     "githubUrl": "https://github.com/facebook/flipper/tree/master/react-native/react-native-flipper",
@@ -61274,7 +61336,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.038
+    "popularity": -0.038,
+    "uniqueCategory": "debug"
   },
   "https://github.com/junedomingo/react-native-rename": {
     "githubUrl": "https://github.com/junedomingo/react-native-rename",
@@ -61349,7 +61412,8 @@
       "react-native-rename",
       "rename",
       "cli"
-    ]
+    ],
+    "uniqueCategory": "rename"
   },
   "https://github.com/Forward-Software/react-native-toolbox": {
     "githubUrl": "https://github.com/Forward-Software/react-native-toolbox",
@@ -61422,7 +61486,8 @@
       "utils",
       "cli",
       "development-tools"
-    ]
+    ],
+    "uniqueCategory": "scripts-to-simplify-rn-dev"
   },
   "https://github.com/Naturalclar/react-native-color-picker-ios": {
     "githubUrl": "https://github.com/Naturalclar/react-native-color-picker-ios",
@@ -61498,7 +61563,8 @@
     "popularity": 0.03,
     "category": [
       "color-picker"
-    ]
+    ],
+    "uniqueCategory": "color-picker"
   },
   "https://github.com/mybigday/react-native-external-display": {
     "githubUrl": "https://github.com/mybigday/react-native-external-display",
@@ -61566,7 +61632,8 @@
     "popularity": 0.045,
     "category": [
       "external-display"
-    ]
+    ],
+    "uniqueCategory": "external-display"
   },
   "https://github.com/birkir/react-native-carplay": {
     "githubUrl": "https://github.com/birkir/react-native-carplay",
@@ -61646,7 +61713,8 @@
     "popularity": -0.022,
     "category": [
       "carplay"
-    ]
+    ],
+    "uniqueCategory": "carplay"
   },
   "https://github.com/arnnis/react-native-fast-toast": {
     "githubUrl": "https://github.com/arnnis/react-native-fast-toast",
@@ -61720,7 +61788,8 @@
     "popularity": -0.078,
     "category": [
       "toast"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/rootstrap/react-native-use-styles": {
     "githubUrl": "https://github.com/rootstrap/react-native-use-styles",
@@ -61791,7 +61860,8 @@
     "popularity": -0.646,
     "category": [
       "usestyles"
-    ]
+    ],
+    "uniqueCategory": "styling"
   },
   "https://github.com/jhen0409/react-native-debugger": {
     "githubUrl": "https://github.com/jhen0409/react-native-debugger",
@@ -61866,7 +61936,8 @@
     "category": [
       "debugger",
       "react-devtools"
-    ]
+    ],
+    "uniqueCategory": "debug"
   },
   "https://github.com/cjam/react-native-spotify-remote": {
     "githubUrl": "https://github.com/cjam/react-native-spotify-remote",
@@ -61938,7 +62009,8 @@
     "popularity": -0.11,
     "category": [
       "spotify"
-    ]
+    ],
+    "uniqueCategory": "spotify"
   },
   "https://github.com/dominicstop/react-native-ios-modal": {
     "githubUrl": "https://github.com/dominicstop/react-native-ios-modal",
@@ -62016,7 +62088,8 @@
     "category": [
       "modal",
       "react-native-modal"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/nandorojo/dripsy": {
     "githubUrl": "https://github.com/nandorojo/dripsy",
@@ -62083,7 +62156,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.04
+    "popularity": -0.04,
+    "uniqueCategory": "styling"
   },
   "https://github.com/khalisafkari/react-native-sdkx": {
     "githubUrl": "https://github.com/khalisafkari/react-native-sdkx",
@@ -62162,7 +62236,8 @@
     "category": [
       "greedygame",
       "admob"
-    ]
+    ],
+    "uniqueCategory": "greedygame-for-ads"
   },
   "https://github.com/dooboolab/react-native-audio-recorder-player": {
     "githubUrl": "https://github.com/dooboolab/react-native-audio-recorder-player",
@@ -62240,7 +62315,8 @@
     "category": [
       "audio-player",
       "audio-recorder"
-    ]
+    ],
+    "uniqueCategory": "audio"
   },
   "https://github.com/enesozturk/rn-swipeable-panel": {
     "githubUrl": "https://github.com/enesozturk/rn-swipeable-panel",
@@ -62320,7 +62396,8 @@
     "category": [
       "bottom-sheet",
       "swipeable"
-    ]
+    ],
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/shahen94/react-native-video-processing": {
     "githubUrl": "https://github.com/shahen94/react-native-video-processing",
@@ -62400,7 +62477,8 @@
       "video",
       "ios-video-editor",
       "android-video-editor"
-    ]
+    ],
+    "uniqueCategory": "video"
   },
   "https://github.com/srk-sharingan/sharingan-rn-modal-dropdown": {
     "githubUrl": "https://github.com/srk-sharingan/sharingan-rn-modal-dropdown",
@@ -62477,7 +62555,8 @@
       "dropdown",
       "material-dropdown",
       "react-native-material-dropdown"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/khalisafkari/react-native-latlon": {
     "githubUrl": "https://github.com/khalisafkari/react-native-latlon",
@@ -62539,7 +62618,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.708
+    "popularity": -0.708,
+    "uniqueCategory": "location"
   },
   "https://github.com/fasky-software/react-native-widgetkit": {
     "githubUrl": "https://github.com/fasky-software/react-native-widgetkit",
@@ -62602,7 +62682,8 @@
     "popularity": -0.095,
     "category": [
       "widgetkit"
-    ]
+    ],
+    "uniqueCategory": "widget"
   },
   "https://github.com/retyui/react-native-stylex": {
     "githubUrl": "https://github.com/retyui/react-native-stylex",
@@ -62676,7 +62757,8 @@
     "category": [
       "react-native-style",
       "react-native-media-queries"
-    ]
+    ],
+    "uniqueCategory": "styling"
   },
   "https://github.com/thebylito/react-native-navigation-bar-color": {
     "githubUrl": "https://github.com/thebylito/react-native-navigation-bar-color",
@@ -62734,7 +62816,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.037
+    "popularity": -0.037,
+    "uniqueCategory": "bottom-toolbar"
   },
   "https://github.com/Kamalnrf/react-native-google-play-install-referrer": {
     "githubUrl": "https://github.com/Kamalnrf/react-native-google-play-install-referrer",
@@ -62788,7 +62871,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.646
+    "popularity": -0.646,
+    "uniqueCategory": "application-info"
   },
   "https://github.com/Kudo/react-native-v8": {
     "githubUrl": "https://github.com/Kudo/react-native-v8",
@@ -62856,7 +62940,8 @@
     "popularity": -0.069,
     "category": [
       "v8"
-    ]
+    ],
+    "uniqueCategory": "v8-runtime"
   },
   "https://github.com/dominicstop/react-native-ios-popover": {
     "githubUrl": "https://github.com/dominicstop/react-native-ios-popover",
@@ -62935,7 +63020,8 @@
       "Recently updated"
     ],
     "popularity": -0.239,
-    "category": []
+    "category": [],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/Vydia/react-native-background-upload": {
     "githubUrl": "https://github.com/Vydia/react-native-background-upload",
@@ -63010,7 +63096,8 @@
     "popularity": -0.119,
     "category": [
       "file-upload"
-    ]
+    ],
+    "uniqueCategory": "background-task"
   },
   "https://github.com/Sifir-io/react-native-tor": {
     "githubUrl": "https://github.com/Sifir-io/react-native-tor",
@@ -63083,7 +63170,8 @@
     "category": [
       "tor",
       "socks5"
-    ]
+    ],
+    "uniqueCategory": "tor-daemon"
   },
   "https://github.com/GetStream/flat-list-mvcp": {
     "githubUrl": "https://github.com/GetStream/flat-list-mvcp",
@@ -63150,7 +63238,8 @@
       "Recently updated"
     ],
     "popularity": -0.056,
-    "category": []
+    "category": [],
+    "uniqueCategory": "listview"
   },
   "https://github.com/alpha0010/react-native-file-access": {
     "githubUrl": "https://github.com/alpha0010/react-native-file-access",
@@ -63219,7 +63308,8 @@
     "popularity": -0.008,
     "category": [
       "filesystem"
-    ]
+    ],
+    "uniqueCategory": "file-system"
   },
   "https://github.com/christopherdro/react-native-print": {
     "githubUrl": "https://github.com/christopherdro/react-native-print",
@@ -63284,7 +63374,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "uniqueCategory": "printing-functionality"
   },
   "https://github.com/react-hook-form/react-hook-form": {
     "githubUrl": "https://github.com/react-hook-form/react-hook-form",
@@ -63367,7 +63458,8 @@
       "forms",
       "validation",
       "form-builder"
-    ]
+    ],
+    "uniqueCategory": "form"
   },
   "https://github.com/aspect-apps/react-native-navigation-drawer-extension": {
     "githubUrl": "https://github.com/aspect-apps/react-native-navigation-drawer-extension",
@@ -63446,7 +63538,8 @@
       "navigation",
       "drawer",
       "side-menu"
-    ]
+    ],
+    "uniqueCategory": "navigation"
   },
   "https://github.com/Trancever/reanimated-collapsible-helpers": {
     "githubUrl": "https://github.com/Trancever/reanimated-collapsible-helpers",
@@ -63511,7 +63604,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.024
+    "popularity": 0.024,
+    "uniqueCategory": "accordion"
   },
   "https://github.com/carloscuesta/react-native-error-boundary": {
     "githubUrl": "https://github.com/carloscuesta/react-native-error-boundary",
@@ -63585,7 +63679,8 @@
     "popularity": -0.012,
     "category": [
       "error-boundary"
-    ]
+    ],
+    "uniqueCategory": "error-boundary"
   },
   "https://github.com/OsmiCSX/osmi": {
     "githubUrl": "https://github.com/OsmiCSX/osmi",
@@ -63658,7 +63753,8 @@
     "category": [
       "boilerplate",
       "generator"
-    ]
+    ],
+    "uniqueCategory": "boilerplate"
   },
   "https://github.com/doville/rn-fitness-tracker": {
     "githubUrl": "https://github.com/doville/rn-fitness-tracker",
@@ -63736,7 +63832,8 @@
       "healthkit",
       "fitness",
       "google-fit"
-    ]
+    ],
+    "uniqueCategory": "google-fit"
   },
   "https://github.com/YanYuanFE/react-native-signature-canvas": {
     "githubUrl": "https://github.com/YanYuanFE/react-native-signature-canvas",
@@ -63805,7 +63902,8 @@
       "Recently updated"
     ],
     "popularity": -0.007,
-    "category": []
+    "category": [],
+    "uniqueCategory": "capture-signature"
   },
   "https://github.com/kevinresol/react-native-default-preference": {
     "githubUrl": "https://github.com/kevinresol/react-native-default-preference",
@@ -63869,7 +63967,8 @@
     "category": [
       "sharedpreferences",
       "userdefaults"
-    ]
+    ],
+    "uniqueCategory": "shared-group-preferences"
   },
   "https://github.com/flyskywhy/react-native-gcanvas": {
     "githubUrl": "https://github.com/flyskywhy/react-native-gcanvas",
@@ -63956,7 +64055,8 @@
       "3d",
       "graphics",
       "gcanvas"
-    ]
+    ],
+    "uniqueCategory": "canvas-component"
   },
   "https://github.com/asklar/react-native-xaml": {
     "githubUrl": "https://github.com/asklar/react-native-xaml",
@@ -64015,7 +64115,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.137
+    "popularity": -0.137,
+    "uniqueCategory": "xaml"
   },
   "https://github.com/edeckers/react-native-blob-courier": {
     "githubUrl": "https://github.com/edeckers/react-native-blob-courier",
@@ -64103,7 +64204,8 @@
       "transfer",
       "upload",
       "upload-blobs"
-    ]
+    ],
+    "uniqueCategory": "file-system"
   },
   "https://github.com/oblador/react-native-pinchable": {
     "githubUrl": "https://github.com/oblador/react-native-pinchable",
@@ -64169,7 +64271,8 @@
     "category": [
       "gesture",
       "pinch-to-zoom"
-    ]
+    ],
+    "uniqueCategory": "gestures"
   },
   "https://github.com/oblador/react-native-performance/tree/master/packages/react-native-performance": {
     "githubUrl": "https://github.com/oblador/react-native-performance/tree/master/packages/react-native-performance",
@@ -64245,7 +64348,8 @@
     "popularity": -0.082,
     "category": [
       "performance"
-    ]
+    ],
+    "uniqueCategory": "performance-testing"
   },
   "https://github.com/GetStream/react-native-bidirectional-infinite-scroll": {
     "githubUrl": "https://github.com/GetStream/react-native-bidirectional-infinite-scroll",
@@ -64316,7 +64420,8 @@
     "category": [
       "infinite-scroll",
       "flatlist"
-    ]
+    ],
+    "uniqueCategory": "listview"
   },
   "https://github.com/dabakovich/react-native-controlled-mentions": {
     "githubUrl": "https://github.com/dabakovich/react-native-controlled-mentions",
@@ -64392,7 +64497,8 @@
     "category": [
       "react-native-mentions",
       "mentions"
-    ]
+    ],
+    "uniqueCategory": "tag-chip-view"
   },
   "https://github.com/Rapsssito/react-native-tcp-socket": {
     "githubUrl": "https://github.com/Rapsssito/react-native-tcp-socket",
@@ -64479,7 +64585,8 @@
       "tcp-client",
       "networking",
       "socket"
-    ]
+    ],
+    "uniqueCategory": "tcp"
   },
   "https://github.com/deanhet/react-native-text-ticker": {
     "githubUrl": "https://github.com/deanhet/react-native-text-ticker",
@@ -64554,7 +64661,8 @@
     "category": [
       "marquee",
       "ticker"
-    ]
+    ],
+    "uniqueCategory": "marquee"
   },
   "https://github.com/heineiuo/react-native-animated-linear-gradient": {
     "githubUrl": "https://github.com/heineiuo/react-native-animated-linear-gradient",
@@ -64624,7 +64732,8 @@
       "Recently updated"
     ],
     "popularity": -0.073,
-    "category": []
+    "category": [],
+    "uniqueCategory": "gradients"
   },
   "https://github.com/enesozturk/react-native-hold-menu": {
     "githubUrl": "https://github.com/enesozturk/react-native-hold-menu",
@@ -64699,7 +64808,8 @@
     "category": [
       "hold-to-open",
       "context-menu"
-    ]
+    ],
+    "uniqueCategory": "popup-menu"
   },
   "https://github.com/mateosilguero/consistencss": {
     "githubUrl": "https://github.com/mateosilguero/consistencss",
@@ -64772,7 +64882,8 @@
     "popularity": -0.368,
     "category": [
       "atomic-css"
-    ]
+    ],
+    "uniqueCategory": "styling"
   },
   "https://github.com/zyslife/react-native-head-tab-view": {
     "githubUrl": "https://github.com/zyslife/react-native-head-tab-view",
@@ -64841,7 +64952,8 @@
       "No license"
     ],
     "popularity": -0.019,
-    "category": []
+    "category": [],
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/Rapsssito/react-native-background-actions": {
     "githubUrl": "https://github.com/Rapsssito/react-native-background-actions",
@@ -64915,7 +65027,8 @@
     "category": [
       "background",
       "background-task"
-    ]
+    ],
+    "uniqueCategory": "background-task"
   },
   "https://github.com/rawewhat/stora": {
     "githubUrl": "https://github.com/rawewhat/stora",
@@ -64973,7 +65086,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "uniqueCategory": "state-management"
   },
   "https://github.com/thebergamo/react-native-fbsdk-next": {
     "githubUrl": "https://github.com/thebergamo/react-native-fbsdk-next",
@@ -65034,7 +65148,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.026
+    "popularity": -0.026,
+    "uniqueCategory": "fbsdk"
   },
   "https://github.com/nandorojo/expo-next-react-navigation": {
     "githubUrl": "https://github.com/nandorojo/expo-next-react-navigation",
@@ -65088,7 +65203,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.021
+    "popularity": -0.021,
+    "uniqueCategory": "navigation"
   },
   "https://github.com/react-native-vietnam/react-native-search-box": {
     "githubUrl": "https://github.com/react-native-vietnam/react-native-search-box",
@@ -65146,7 +65262,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.207
+    "popularity": -0.207,
+    "uniqueCategory": "search-bar"
   },
   "https://github.com/klarna-incubator/platform-colors": {
     "githubUrl": "https://github.com/klarna-incubator/platform-colors",
@@ -65215,7 +65332,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.029,
-    "category": []
+    "category": [],
+    "uniqueCategory": "styling"
   },
   "https://github.com/reactrondev/react-native-web-swiper": {
     "githubUrl": "https://github.com/reactrondev/react-native-web-swiper",
@@ -65286,7 +65404,8 @@
       "swiper",
       "slider",
       "swipe"
-    ]
+    ],
+    "uniqueCategory": "carousel-swiper"
   },
   "https://github.com/eveningkid/react-native-popable": {
     "githubUrl": "https://github.com/eveningkid/react-native-popable",
@@ -65365,7 +65484,8 @@
     "category": [
       "tooltip",
       "popover"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/swushi/react-native-input-outline": {
     "githubUrl": "https://github.com/swushi/react-native-input-outline",
@@ -65423,85 +65543,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.033
-  },
-  "https://github.com/expo/expo/tree/main/packages/expo-app-loading": {
-    "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-app-loading",
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "web": true,
-    "unmaintained": true,
-    "npmPkg": "expo-app-loading",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/expo/expo",
-        "clone": "https://github.com/expo/expo.git",
-        "homepage": "https://docs.expo.dev"
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-05-25T11:10:01Z",
-        "createdAt": "2016-08-15T17:14:25Z",
-        "pushedAt": "2024-05-25T10:42:04Z",
-        "issues": 665,
-        "subscribers": 288,
-        "stars": 29837,
-        "forks": 4711
-      },
-      "name": "expo",
-      "fullName": "expo/expo",
-      "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-      "topics": [
-        "mobile",
-        "expo",
-        "native",
-        "web",
-        "universal",
-        "react",
-        "android",
-        "ios",
-        "app-framework",
-        "web-framework",
-        "native-apps",
-        "javascript",
-        "framework",
-        "frontend",
-        "react-native",
-        "typescript"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": true,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 44916,
-      "weekDownloads": 10249,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "mobile expo native web universal react android ios app-framework web-framework native-apps javascript framework frontend react-native typescript",
-    "score": 75,
-    "matchingScoreModifiers": [
-      "Very popular",
-      "Popular",
-      "Lots of open issues",
-      "Recently updated"
-    ],
-    "popularity": -0.272,
-    "category": []
+    "popularity": -0.033,
+    "uniqueCategory": "text-input"
   },
   "https://github.com/craftzdog/react-native-aes-gcm-crypto": {
     "githubUrl": "https://github.com/craftzdog/react-native-aes-gcm-crypto",
@@ -65567,7 +65610,8 @@
     "popularity": -0.033,
     "category": [
       "cryptography"
-    ]
+    ],
+    "uniqueCategory": "hashing"
   },
   "https://github.com/craftzdog/react-native-sqlite-2": {
     "githubUrl": "https://github.com/craftzdog/react-native-sqlite-2",
@@ -65636,7 +65680,8 @@
     "category": [
       "sqlite",
       "sqlite3"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   "https://github.com/breeffy/react-native-calendar": {
     "githubUrl": "https://github.com/breeffy/react-native-calendar",
@@ -65713,7 +65758,8 @@
     "popularity": -0.555,
     "category": [
       "calendar"
-    ]
+    ],
+    "uniqueCategory": "calendar"
   },
   "https://github.com/codingki/react-native-rapi-ui": {
     "githubUrl": "https://github.com/codingki/react-native-rapi-ui",
@@ -65786,7 +65832,8 @@
       "Recently updated"
     ],
     "popularity": 0.033,
-    "category": []
+    "category": [],
+    "uniqueCategory": "ui-toolkit"
   },
   "https://github.com/YsnKsy/react-native-location-enabler": {
     "githubUrl": "https://github.com/YsnKsy/react-native-location-enabler",
@@ -65867,7 +65914,8 @@
     "category": [
       "location",
       "gps"
-    ]
+    ],
+    "uniqueCategory": "location"
   },
   "https://github.com/nandorojo/moti": {
     "githubUrl": "https://github.com/nandorojo/moti",
@@ -65934,7 +65982,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.024
+    "popularity": -0.024,
+    "uniqueCategory": "animated-libraries"
   },
   "https://github.com/raulpesilva/re-state": {
     "githubUrl": "https://github.com/raulpesilva/re-state",
@@ -66016,7 +66065,8 @@
       "restate",
       "state",
       "context"
-    ]
+    ],
+    "uniqueCategory": "state-management"
   },
   "https://github.com/kashishgrover/react-native-see-more-inline": {
     "githubUrl": "https://github.com/kashishgrover/react-native-see-more-inline",
@@ -66086,7 +66136,8 @@
       "No license"
     ],
     "popularity": -0.05,
-    "category": []
+    "category": [],
+    "uniqueCategory": "text"
   },
   "https://github.com/Chooin/react-native-lifecycle": {
     "githubUrl": "https://github.com/Chooin/react-native-lifecycle",
@@ -66155,7 +66206,8 @@
     "popularity": -0.506,
     "category": [
       "react-native-lifecycle"
-    ]
+    ],
+    "uniqueCategory": "lifecycle"
   },
   "https://github.com/RonRadtke/react-native-blob-util": {
     "githubUrl": "https://github.com/RonRadtke/react-native-blob-util",
@@ -66222,7 +66274,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.029
+    "popularity": -0.029,
+    "uniqueCategory": "file-system"
   },
   "https://github.com/xmartlabs/react-native-line": {
     "githubUrl": "https://github.com/xmartlabs/react-native-line",
@@ -66292,7 +66345,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": 0.021,
-    "category": []
+    "category": [],
+    "uniqueCategory": "line-sdk-wrapper"
   },
   "https://github.com/bk52/react-native-weather-chart": {
     "githubUrl": "https://github.com/bk52/react-native-weather-chart",
@@ -66369,7 +66423,8 @@
       "chart",
       "weather",
       "react-native-chart"
-    ]
+    ],
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/firofame/react-native-compass-heading": {
     "githubUrl": "https://github.com/firofame/react-native-compass-heading",
@@ -66429,7 +66484,8 @@
       "Recently updated"
     ],
     "popularity": -0.034,
-    "category": []
+    "category": [],
+    "uniqueCategory": "compass"
   },
   "https://github.com/swaplet/react-native-swipe-cards-deck": {
     "githubUrl": "https://github.com/swaplet/react-native-swipe-cards-deck",
@@ -66494,7 +66550,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.52
+    "popularity": -0.52,
+    "uniqueCategory": "card-view"
   },
   "https://github.com/Blaumaus/react-native-redux-alert": {
     "githubUrl": "https://github.com/Blaumaus/react-native-redux-alert",
@@ -66559,7 +66616,8 @@
       "alert",
       "toast",
       "toast-notifications"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/Cnilton/react-native-floating-label-input": {
     "githubUrl": "https://github.com/Cnilton/react-native-floating-label-input",
@@ -66637,7 +66695,8 @@
       "Recently updated"
     ],
     "popularity": -0.034,
-    "category": []
+    "category": [],
+    "uniqueCategory": "text-input"
   },
   "https://github.com/emilioicai/react-native-safe-modules": {
     "githubUrl": "https://github.com/emilioicai/react-native-safe-modules",
@@ -66692,7 +66751,8 @@
       "Popular",
       "Not updated recently"
     ],
-    "popularity": -0.126
+    "popularity": -0.126,
+    "uniqueCategory": "native-modules"
   },
   "https://github.com/fram-x/react-native-styled-text": {
     "githubUrl": "https://github.com/fram-x/react-native-styled-text",
@@ -66770,7 +66830,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.016,
-    "category": []
+    "category": [],
+    "uniqueCategory": "text"
   },
   "https://github.com/marcocesarato/react-native-big-list": {
     "githubUrl": "https://github.com/marcocesarato/react-native-big-list",
@@ -66864,7 +66925,8 @@
     "category": [
       "flatlist",
       "react-native-big-list"
-    ]
+    ],
+    "uniqueCategory": "listview"
   },
   "https://github.com/kadiraydinli/react-native-system-navigation-bar": {
     "githubUrl": "https://github.com/kadiraydinli/react-native-system-navigation-bar",
@@ -66958,7 +67020,8 @@
     "category": [
       "react-native-navigation-bar",
       "navigation-bar"
-    ]
+    ],
+    "uniqueCategory": "android-status-bar"
   },
   "https://github.com/wcandillon/react-native-shader": {
     "githubUrl": "https://github.com/wcandillon/react-native-shader",
@@ -67021,7 +67084,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "uniqueCategory": "webgl-shaders"
   },
   "https://github.com/akinncar/react-native-mask-text": {
     "githubUrl": "https://github.com/akinncar/react-native-mask-text",
@@ -67096,7 +67160,8 @@
     "popularity": -0.004,
     "category": [
       "mask"
-    ]
+    ],
+    "uniqueCategory": "text"
   },
   "https://github.com/RobertFOConnor/react-native-progress-wheel": {
     "githubUrl": "https://github.com/RobertFOConnor/react-native-progress-wheel",
@@ -67159,7 +67224,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.02
+    "popularity": 0.02,
+    "uniqueCategory": "circular-progress-gauge"
   },
   "https://github.com/mateusz1913/react-native-avoid-softinput/tree/master/packages/react-native-avoid-softinput": {
     "githubUrl": "https://github.com/mateusz1913/react-native-avoid-softinput/tree/master/packages/react-native-avoid-softinput",
@@ -67234,7 +67300,8 @@
       "Recently updated"
     ],
     "popularity": -0.018,
-    "category": []
+    "category": [],
+    "uniqueCategory": "text-input"
   },
   "https://github.com/EvanBacon/react-native-web-hooks": {
     "githubUrl": "https://github.com/EvanBacon/react-native-web-hooks",
@@ -67295,7 +67362,8 @@
     "category": [
       "hooks",
       "react-native-web"
-    ]
+    ],
+    "uniqueCategory": "hooks"
   },
   "https://github.com/uiwjs/react-native-alipay": {
     "githubUrl": "https://github.com/uiwjs/react-native-alipay",
@@ -67371,7 +67439,8 @@
     "popularity": -0.023,
     "category": [
       "alipay"
-    ]
+    ],
+    "uniqueCategory": "alipay-wrapper"
   },
   "https://github.com/douglasjunior/react-native-get-location": {
     "githubUrl": "https://github.com/douglasjunior/react-native-get-location",
@@ -67445,7 +67514,8 @@
     "category": [
       "location",
       "gps"
-    ]
+    ],
+    "uniqueCategory": "location"
   },
   "https://github.com/stovmascript/react-native-version": {
     "githubUrl": "https://github.com/stovmascript/react-native-version",
@@ -67523,7 +67593,8 @@
     "category": [
       "versioning",
       "release"
-    ]
+    ],
+    "uniqueCategory": "versioning-build"
   },
   "https://github.com/lufinkey/react-native-events": {
     "githubUrl": "https://github.com/lufinkey/react-native-events",
@@ -67571,7 +67642,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": 0.024
+    "popularity": 0.024,
+    "uniqueCategory": "event-emitter-for-react-native-modules"
   },
   "https://github.com/gorhom/react-native-portal": {
     "githubUrl": "https://github.com/gorhom/react-native-portal",
@@ -67644,7 +67716,8 @@
     "popularity": -0.024,
     "category": [
       "portal"
-    ]
+    ],
+    "uniqueCategory": "portal"
   },
   "https://github.com/a7ul/react-native-exception-handler": {
     "githubUrl": "https://github.com/a7ul/react-native-exception-handler",
@@ -67723,7 +67796,8 @@
       "exception-handler",
       "error",
       "bug"
-    ]
+    ],
+    "uniqueCategory": "debug"
   },
   "https://github.com/ViroCommunity/viro": {
     "githubUrl": "https://github.com/ViroCommunity/viro",
@@ -67800,7 +67874,8 @@
       "Recently updated"
     ],
     "popularity": 0.004,
-    "category": []
+    "category": [],
+    "uniqueCategory": "ar-vr"
   },
   "https://github.com/IjzerenHein/react-native-bundle-visualizer": {
     "githubUrl": "https://github.com/IjzerenHein/react-native-bundle-visualizer",
@@ -67872,7 +67947,8 @@
       "Recently updated"
     ],
     "popularity": -0.037,
-    "category": []
+    "category": [],
+    "uniqueCategory": "application-info"
   },
   "https://github.com/software-mansion/react-native-gesture-handler": {
     "githubUrl": "https://github.com/software-mansion/react-native-gesture-handler",
@@ -67950,7 +68026,8 @@
     "popularity": -0.023,
     "category": [
       "gesture"
-    ]
+    ],
+    "uniqueCategory": "gestures"
   },
   "https://github.com/SimonErm/react-native-job-queue": {
     "githubUrl": "https://github.com/SimonErm/react-native-job-queue",
@@ -68008,7 +68085,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.019
+    "popularity": -0.019,
+    "uniqueCategory": "background-task"
   },
   "https://github.com/ospfranco/react-native-quick-sqlite": {
     "githubUrl": "https://github.com/ospfranco/react-native-quick-sqlite",
@@ -68078,7 +68156,8 @@
       "Recently updated"
     ],
     "popularity": -0.042,
-    "category": []
+    "category": [],
+    "uniqueCategory": "local-storage"
   },
   "https://github.com/ysfuu/react-native-relative-popup": {
     "githubUrl": "https://github.com/ysfuu/react-native-relative-popup",
@@ -68148,7 +68227,8 @@
     "popularity": -0.516,
     "category": [
       "popup"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/TheWidlarzGroup/rn-emoji-keyboard": {
     "githubUrl": "https://github.com/TheWidlarzGroup/rn-emoji-keyboard",
@@ -68230,7 +68310,8 @@
     "category": [
       "emoji",
       "emoji-keyboard"
-    ]
+    ],
+    "uniqueCategory": "emoji-picker"
   },
   "https://github.com/hoaphantn7604/react-native-curved-bottom-bar": {
     "githubUrl": "https://github.com/hoaphantn7604/react-native-curved-bottom-bar",
@@ -68309,7 +68390,8 @@
     "category": [
       "tab-bar",
       "tabbar"
-    ]
+    ],
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/flipkart-incubator/animation-wrapper-view": {
     "githubUrl": "https://github.com/flipkart-incubator/animation-wrapper-view",
@@ -68384,7 +68466,8 @@
     "popularity": -0.617,
     "category": [
       "animation"
-    ]
+    ],
+    "uniqueCategory": "animated-libraries"
   },
   "https://github.com/GantMan/jail-monkey": {
     "githubUrl": "https://github.com/GantMan/jail-monkey",
@@ -68459,7 +68542,8 @@
     "category": [
       "mock-locations",
       "jailbreak"
-    ]
+    ],
+    "uniqueCategory": "jailbreak"
   },
   "https://github.com/Eugnis/react-native-timeline-flatlist": {
     "githubUrl": "https://github.com/Eugnis/react-native-timeline-flatlist",
@@ -68535,7 +68619,8 @@
     "category": [
       "flatlist",
       "flatlist-based"
-    ]
+    ],
+    "uniqueCategory": "listview"
   },
   "https://github.com/mohakapt/react-native-js-tableview": {
     "githubUrl": "https://github.com/mohakapt/react-native-js-tableview",
@@ -68609,7 +68694,8 @@
     "popularity": -0.54,
     "category": [
       "tableview"
-    ]
+    ],
+    "uniqueCategory": "table-view"
   },
   "https://github.com/arelstone/react-native-email-chip": {
     "githubUrl": "https://github.com/arelstone/react-native-email-chip",
@@ -68680,7 +68766,8 @@
       "No license"
     ],
     "popularity": -0.569,
-    "category": []
+    "category": [],
+    "uniqueCategory": "tag-chip-view"
   },
   "https://github.com/Giphy/giphy-react-native-sdk": {
     "githubUrl": "https://github.com/Giphy/giphy-react-native-sdk",
@@ -68757,7 +68844,8 @@
       "gifs",
       "giphy",
       "giphy-sdks"
-    ]
+    ],
+    "uniqueCategory": "giphy-sdk"
   },
   "https://github.com/SrBrahma/react-native-shadow-2": {
     "githubUrl": "https://github.com/SrBrahma/react-native-shadow-2",
@@ -68850,7 +68938,8 @@
     "category": [
       "shadow",
       "blur"
-    ]
+    ],
+    "uniqueCategory": "shadow"
   },
   "https://github.com/VittoriDavide/react-native-barcode-creator": {
     "githubUrl": "https://github.com/VittoriDavide/react-native-barcode-creator",
@@ -68924,7 +69013,8 @@
       "barcode",
       "barcode-generator",
       "qrcode-generator"
-    ]
+    ],
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   "https://github.com/mthines/react-native-font-face": {
     "githubUrl": "https://github.com/mthines/react-native-font-face",
@@ -68987,7 +69077,8 @@
       "font-face",
       "font",
       "typography"
-    ]
+    ],
+    "uniqueCategory": "typography-font"
   },
   "https://github.com/axelra-ag/react-native-animateable-text": {
     "githubUrl": "https://github.com/axelra-ag/react-native-animateable-text",
@@ -69056,7 +69147,8 @@
       "Recently updated"
     ],
     "popularity": 0.006,
-    "category": []
+    "category": [],
+    "uniqueCategory": "text"
   },
   "https://github.com/WoLewicki/react-native-window-view": {
     "githubUrl": "https://github.com/WoLewicki/react-native-window-view",
@@ -69117,7 +69209,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.123
+    "popularity": -0.123,
+    "uniqueCategory": "view-under-the-window"
   },
   "https://github.com/ajith-ab/react-native-receive-sharing-intent": {
     "githubUrl": "https://github.com/ajith-ab/react-native-receive-sharing-intent",
@@ -69185,7 +69278,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.016
+    "popularity": -0.016,
+    "uniqueCategory": "social-share"
   },
   "https://github.com/SrBrahma/pagescrollview": {
     "githubUrl": "https://github.com/SrBrahma/pagescrollview",
@@ -69248,7 +69342,8 @@
     "popularity": -0.695,
     "category": [
       "scrollview"
-    ]
+    ],
+    "uniqueCategory": "listview"
   },
   "https://github.com/hudl/react-native-system-bars": {
     "githubUrl": "https://github.com/hudl/react-native-system-bars",
@@ -69314,7 +69409,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": 0.004,
-    "category": []
+    "category": [],
+    "uniqueCategory": "android-statusbar"
   },
   "https://github.com/AzizAK/react-native-detector": {
     "githubUrl": "https://github.com/AzizAK/react-native-detector",
@@ -69384,7 +69480,8 @@
       "Recently updated"
     ],
     "popularity": -0.025,
-    "category": []
+    "category": [],
+    "uniqueCategory": "screenshot-detector"
   },
   "https://github.com/yamankatby/react-native-material": {
     "githubUrl": "https://github.com/yamankatby/react-native-material",
@@ -69456,7 +69553,8 @@
     "popularity": -0.015,
     "category": [
       "material-design"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   "https://github.com/arabold/react-native-whirlwind": {
     "githubUrl": "https://github.com/arabold/react-native-whirlwind",
@@ -69530,7 +69628,8 @@
     "category": [
       "tachyons",
       "tailwindcss"
-    ]
+    ],
+    "uniqueCategory": "styling"
   },
   "https://github.com/renrizzolo/react-native-sectioned-multi-select": {
     "githubUrl": "https://github.com/renrizzolo/react-native-sectioned-multi-select",
@@ -69609,7 +69708,8 @@
     "category": [
       "multiselect",
       "picker"
-    ]
+    ],
+    "uniqueCategory": "select-multiselect"
   },
   "https://github.com/numandev1/react-native-compressor": {
     "githubUrl": "https://github.com/numandev1/react-native-compressor",
@@ -69703,7 +69803,8 @@
       "compress-videos",
       "compress-audio",
       "compressor"
-    ]
+    ],
+    "uniqueCategory": "compression"
   },
   "https://github.com/garganurag893/react-native-phone-number-input": {
     "githubUrl": "https://github.com/garganurag893/react-native-phone-number-input",
@@ -69778,7 +69879,8 @@
       "Recently updated"
     ],
     "popularity": -0.012,
-    "category": []
+    "category": [],
+    "uniqueCategory": "phone-input"
   },
   "https://github.com/JungHsuan/react-native-gesture-flip-card": {
     "githubUrl": "https://github.com/JungHsuan/react-native-gesture-flip-card",
@@ -69860,7 +69962,8 @@
       "gesture-flip",
       "flip-animation",
       "card-flip"
-    ]
+    ],
+    "uniqueCategory": "flip-card"
   },
   "https://github.com/gusparis/react-native-month-year-picker": {
     "githubUrl": "https://github.com/gusparis/react-native-month-year-picker",
@@ -69939,7 +70042,8 @@
       "Recently updated"
     ],
     "popularity": -0.027,
-    "category": []
+    "category": [],
+    "uniqueCategory": "date-time-picker"
   },
   "https://github.com/flyerhq/react-native-firebase-chat-core": {
     "githubUrl": "https://github.com/flyerhq/react-native-firebase-chat-core",
@@ -70013,7 +70117,8 @@
       "Recently updated"
     ],
     "popularity": -0.493,
-    "category": []
+    "category": [],
+    "uniqueCategory": "chat-component"
   },
   "https://github.com/flyerhq/react-native-link-preview": {
     "githubUrl": "https://github.com/flyerhq/react-native-link-preview",
@@ -70090,7 +70195,8 @@
       "Recently updated"
     ],
     "popularity": 0.001,
-    "category": []
+    "category": [],
+    "uniqueCategory": "preview-url-extracted-from-text"
   },
   "https://github.com/th3rdwave/web-image": {
     "githubUrl": "https://github.com/th3rdwave/web-image",
@@ -70143,7 +70249,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": 0.014
+    "popularity": 0.014,
+    "uniqueCategory": "image"
   },
   "https://github.com/tokkozhin/react-native-neomorph-shadows": {
     "githubUrl": "https://github.com/tokkozhin/react-native-neomorph-shadows",
@@ -70218,7 +70325,8 @@
       "inner-shadow",
       "shadowbox",
       "shadow-svg"
-    ]
+    ],
+    "uniqueCategory": "shadow"
   },
   "https://github.com/bolan9999/react-native-spring-scrollview": {
     "githubUrl": "https://github.com/bolan9999/react-native-spring-scrollview",
@@ -70281,7 +70389,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.086
+    "popularity": 0.086,
+    "uniqueCategory": "listview"
   },
   "https://github.com/Tintef/react-native-headphone-detection": {
     "githubUrl": "https://github.com/Tintef/react-native-headphone-detection",
@@ -70333,7 +70442,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.017
+    "popularity": -0.017,
+    "uniqueCategory": "headphone-detection"
   },
   "https://github.com/wuxudong/react-native-charts-wrapper": {
     "githubUrl": "https://github.com/wuxudong/react-native-charts-wrapper",
@@ -70404,7 +70514,8 @@
     "category": [
       "chart",
       "charts"
-    ]
+    ],
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/rishabhbhatia/react-native-awesome-alerts": {
     "githubUrl": "https://github.com/rishabhbhatia/react-native-awesome-alerts",
@@ -70474,7 +70585,8 @@
     "category": [
       "alert",
       "popup"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/esthor/react-native-swipeable-list": {
     "githubUrl": "https://github.com/esthor/react-native-swipeable-list",
@@ -70550,7 +70662,8 @@
       "Recently updated"
     ],
     "popularity": -0.024,
-    "category": []
+    "category": [],
+    "uniqueCategory": "listview"
   },
   "https://github.com/mrousavy/react-native-jsi-contacts": {
     "githubUrl": "https://github.com/mrousavy/react-native-jsi-contacts",
@@ -70612,7 +70725,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.487
+    "popularity": -0.487,
+    "uniqueCategory": "contacts"
   },
   "https://github.com/alex-melnyk/react-native-multibar": {
     "githubUrl": "https://github.com/alex-melnyk/react-native-multibar",
@@ -70683,7 +70797,8 @@
     "popularity": -0.509,
     "category": [
       "tabbar"
-    ]
+    ],
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/rumax/react-native-PDFView": {
     "githubUrl": "https://github.com/rumax/react-native-PDFView",
@@ -70758,7 +70873,8 @@
     "category": [
       "pdf",
       "pdf-viewer"
-    ]
+    ],
+    "uniqueCategory": "pdf"
   },
   "https://github.com/software-mansion-labs/react-freeze": {
     "githubUrl": "https://github.com/software-mansion-labs/react-freeze",
@@ -70820,7 +70936,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.022
+    "popularity": -0.022,
+    "uniqueCategory": "prevent-rendering"
   },
   "https://github.com/shirakaba/react-native-native-runtime": {
     "githubUrl": "https://github.com/shirakaba/react-native-native-runtime",
@@ -70882,7 +70999,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "uniqueCategory": "native-modules"
   },
   "https://github.com/agoldis/react-native-mlkit-ocr": {
     "githubUrl": "https://github.com/agoldis/react-native-mlkit-ocr",
@@ -70958,7 +71076,8 @@
       "mlkit",
       "text-recognition",
       "ocr"
-    ]
+    ],
+    "uniqueCategory": "ocr"
   },
   "https://github.com/miblanchard/react-native-slider": {
     "githubUrl": "https://github.com/miblanchard/react-native-slider",
@@ -71022,7 +71141,8 @@
       "Recently updated"
     ],
     "popularity": -0.009,
-    "category": []
+    "category": [],
+    "uniqueCategory": "slider"
   },
   "https://github.com/popshoplive/react-native-shareplay": {
     "githubUrl": "https://github.com/popshoplive/react-native-shareplay",
@@ -71084,7 +71204,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.663
+    "popularity": -0.663,
+    "uniqueCategory": "share-play-ios-15"
   },
   "https://github.com/Doko-Demo-Doa/react-native-shake": {
     "githubUrl": "https://github.com/Doko-Demo-Doa/react-native-shake",
@@ -71144,7 +71265,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.012
+    "popularity": -0.012,
+    "uniqueCategory": "sensor"
   },
   "https://github.com/flowkey/react-native-home-indicator": {
     "githubUrl": "https://github.com/flowkey/react-native-home-indicator",
@@ -71198,7 +71320,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.003
+    "popularity": 0.003,
+    "uniqueCategory": "home-indicator"
   },
   "https://github.com/flexible-agency/react-native-email-link": {
     "githubUrl": "https://github.com/flexible-agency/react-native-email-link",
@@ -71266,7 +71389,8 @@
     "popularity": -0.04,
     "category": [
       "email"
-    ]
+    ],
+    "uniqueCategory": "open-email-client-from-rn"
   },
   "https://github.com/hoaphantn7604/react-native-element-dropdown": {
     "githubUrl": "https://github.com/hoaphantn7604/react-native-element-dropdown",
@@ -71352,7 +71476,8 @@
       "dropdown",
       "multiselect",
       "picker"
-    ]
+    ],
+    "uniqueCategory": "dropdown"
   },
   "https://github.com/gorhom/react-native-paper-onboarding": {
     "githubUrl": "https://github.com/gorhom/react-native-paper-onboarding",
@@ -71431,7 +71556,8 @@
     "category": [
       "slider",
       "onboarding"
-    ]
+    ],
+    "uniqueCategory": "carousel-swiper"
   },
   "https://github.com/MobileReality/react-native-select-pro": {
     "githubUrl": "https://github.com/MobileReality/react-native-select-pro",
@@ -71520,7 +71646,8 @@
     "category": [
       "dropdown",
       "picker"
-    ]
+    ],
+    "uniqueCategory": "select-multiselect"
   },
   "https://github.com/craftzdog/react-native-quick-base64": {
     "githubUrl": "https://github.com/craftzdog/react-native-quick-base64",
@@ -71586,71 +71713,8 @@
       "Recently updated"
     ],
     "popularity": -0.025,
-    "category": []
-  },
-  "https://github.com/getbouncer/react-native-cardscan": {
-    "githubUrl": "https://github.com/getbouncer/react-native-cardscan",
-    "examples": [
-      "https://github.com/getbouncer/react-native-cardscan/tree/master/example"
-    ],
-    "images": [
-      "https://raw.githubusercontent.com/getbouncer/react-native-cardscan/master/docs/images/demo.gif"
-    ],
-    "ios": true,
-    "android": true,
-    "npmPkg": "react-native-cardscan",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/getbouncer/react-native-cardscan",
-        "clone": "https://github.com/getbouncer/react-native-cardscan.git",
-        "homepage": null
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-03-01T05:27:23Z",
-        "createdAt": "2019-11-06T22:30:22Z",
-        "pushedAt": "2023-05-05T14:54:34Z",
-        "issues": 24,
-        "subscribers": 5,
-        "stars": 63,
-        "forks": 13
-      },
-      "name": "react-native-cardscan",
-      "fullName": "getbouncer/react-native-cardscan",
-      "description": null,
-      "topics": [],
-      "license": {
-        "key": "other",
-        "name": "Other",
-        "spdxId": "NOASSERTION",
-        "url": null,
-        "id": "MDc6TGljZW5zZTA="
-      },
-      "lastRelease": {
-        "name": "2.0.0: Add UI customization interface for iOS wrapper library",
-        "tagName": "2.0.0",
-        "createdAt": "2021-10-04T22:22:55Z",
-        "publishedAt": "2021-10-04T22:23:02Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 5462,
-      "weekDownloads": 924,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": -0.081
+    "category": [],
+    "uniqueCategory": "hashing"
   },
   "https://github.com/kanzitelli/rn-bounceable": {
     "githubUrl": "https://github.com/kanzitelli/rn-bounceable",
@@ -71726,7 +71790,8 @@
       "bounceable",
       "bounceable-component",
       "rn-bounceable"
-    ]
+    ],
+    "uniqueCategory": "bounceable-effect"
   },
   "https://github.com/craftzdog/react-native-checkbox-reanimated": {
     "githubUrl": "https://github.com/craftzdog/react-native-checkbox-reanimated",
@@ -71796,7 +71861,8 @@
       "Recently updated"
     ],
     "popularity": -0.049,
-    "category": []
+    "category": [],
+    "uniqueCategory": "checkbox"
   },
   "https://github.com/zoontek/react-native-bars": {
     "githubUrl": "https://github.com/zoontek/react-native-bars",
@@ -71868,7 +71934,8 @@
       "Recently updated"
     ],
     "popularity": 0.022,
-    "category": []
+    "category": [],
+    "uniqueCategory": "status-bar"
   },
   "https://github.com/henrhie/react-native-sha": {
     "githubUrl": "https://github.com/henrhie/react-native-sha",
@@ -71928,7 +71995,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "uniqueCategory": "hashing"
   },
   "https://github.com/kubilaysalih/react-native-customizable-toast": {
     "githubUrl": "https://github.com/kubilaysalih/react-native-customizable-toast",
@@ -71993,7 +72061,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.076
+    "popularity": -0.076,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/minhtc/react-native-auto-scrolling": {
     "githubUrl": "https://github.com/minhtc/react-native-auto-scrolling",
@@ -72059,7 +72128,8 @@
       "auto-scrolling",
       "auto-scroll",
       "marquee"
-    ]
+    ],
+    "uniqueCategory": "marquee"
   },
   "https://github.com/douglasjunior/react-native-recaptcha-that-works": {
     "githubUrl": "https://github.com/douglasjunior/react-native-recaptcha-that-works",
@@ -72135,7 +72205,8 @@
     "popularity": -0.017,
     "category": [
       "recaptcha"
-    ]
+    ],
+    "uniqueCategory": "recaptcha"
   },
   "https://github.com/vonovak/react-native-platforms": {
     "githubUrl": "https://github.com/vonovak/react-native-platforms",
@@ -72197,7 +72268,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.772
+    "popularity": -0.772,
+    "uniqueCategory": "device-info"
   },
   "https://github.com/dohooo/react-native-reanimated-carousel": {
     "githubUrl": "https://github.com/dohooo/react-native-reanimated-carousel",
@@ -72292,7 +72364,8 @@
       "swiper",
       "react-native-carousel",
       "react-native-swiper"
-    ]
+    ],
+    "uniqueCategory": "carousel-swiper"
   },
   "https://github.com/MinaSamir11/react-native-in-app-review": {
     "githubUrl": "https://github.com/MinaSamir11/react-native-in-app-review",
@@ -72389,7 +72462,8 @@
       "appstore",
       "app-review",
       "review-tools"
-    ]
+    ],
+    "uniqueCategory": "store-review"
   },
   "https://github.com/shipt/osmosis": {
     "githubUrl": "https://github.com/shipt/osmosis",
@@ -72454,7 +72528,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.043
+    "popularity": 0.043,
+    "uniqueCategory": "state-management"
   },
   "https://github.com/browniefed/react-native-ticker": {
     "githubUrl": "https://github.com/browniefed/react-native-ticker",
@@ -72507,7 +72582,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.011
+    "popularity": -0.011,
+    "uniqueCategory": "counting-animation"
   },
   "https://github.com/agencyenterprise/react-native-health": {
     "githubUrl": "https://github.com/agencyenterprise/react-native-health",
@@ -72580,69 +72656,8 @@
       "healthkit",
       "apple-healthkit",
       "fitness"
-    ]
-  },
-  "https://github.com/nomi9995/react-native-interactable-reanimated": {
-    "githubUrl": "https://github.com/nomi9995/react-native-interactable-reanimated",
-    "examples": [
-      "https://github.com/nomi9995/react-native-interactable-reanimated/tree/master/example"
     ],
-    "images": [
-      "https://i.imgur.com/ErA2GQo.gif",
-      "https://i.imgur.com/pH6oB5D.gif",
-      "https://i.imgur.com/J5l2Qvq.gif",
-      "https://i.imgur.com/dWFYZBG.gif"
-    ],
-    "ios": true,
-    "android": true,
-    "expoGo": true,
-    "npmPkg": "react-native-interactable-reanimated",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/numandev1/react-native-interactable-reanimated",
-        "clone": "https://github.com/numandev1/react-native-interactable-reanimated.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2023-12-01T08:10:13Z",
-        "createdAt": "2020-07-11T18:51:14Z",
-        "pushedAt": "2022-10-02T19:06:30Z",
-        "issues": 2,
-        "subscribers": 2,
-        "stars": 34,
-        "forks": 5
-      },
-      "name": "react-native-interactable-reanimated",
-      "fullName": "numandev1/react-native-interactable-reanimated",
-      "description": "This is a copy of interactable from react-native-reanimated",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 2253,
-      "weekDownloads": 572,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 50,
-    "matchingScoreModifiers": [],
-    "popularity": 0.004
+    "uniqueCategory": "google-fit"
   },
   "https://github.com/ihmpavel/expo-video-player": {
     "githubUrl": "https://github.com/ihmpavel/expo-video-player",
@@ -72720,7 +72735,8 @@
       "player",
       "videoplayer",
       "expo-video-player"
-    ]
+    ],
+    "uniqueCategory": "video"
   },
   "https://github.com/interhub/react-native-accelerometer-parallax": {
     "githubUrl": "https://github.com/interhub/react-native-accelerometer-parallax",
@@ -72772,7 +72788,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.741
+    "popularity": -0.741,
+    "uniqueCategory": "parallax-effect"
   },
   "https://github.com/computerjazz/react-native-swipe-calendar": {
     "githubUrl": "https://github.com/computerjazz/react-native-swipe-calendar",
@@ -72833,7 +72850,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.066
+    "popularity": -0.066,
+    "uniqueCategory": "calendar"
   },
   "https://github.com/fakeheal/react-native-pan-pinch-view": {
     "githubUrl": "https://github.com/fakeheal/react-native-pan-pinch-view",
@@ -72905,7 +72923,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.07,
-    "category": []
+    "category": [],
+    "uniqueCategory": "gestures"
   },
   "https://github.com/gajjartejas/react-native-lan-port-scanner": {
     "githubUrl": "https://github.com/gajjartejas/react-native-lan-port-scanner",
@@ -72978,7 +72997,8 @@
       "lan-scanner",
       "port-scanner",
       "wifi-scanner"
-    ]
+    ],
+    "uniqueCategory": "network-info"
   },
   "https://github.com/Soomgo-Mobile/react-native-animated-pagination-dot": {
     "githubUrl": "https://github.com/Soomgo-Mobile/react-native-animated-pagination-dot",
@@ -73047,64 +73067,8 @@
       "Recently updated"
     ],
     "popularity": -0.029,
-    "category": []
-  },
-  "https://github.com/haxibiao/react-native-ad": {
-    "githubUrl": "https://github.com/haxibiao/react-native-ad",
-    "examples": [
-      "https://github.com/haxibiao/react-native-ad/tree/master/example"
-    ],
-    "ios": true,
-    "android": true,
-    "npmPkg": "react-native-ad",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/haxibiao/react-native-ad",
-        "clone": "https://github.com/haxibiao/react-native-ad.git",
-        "homepage": "https://www.npmjs.com/package/react-native-ad"
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-05-17T06:59:15Z",
-        "createdAt": "2020-07-24T04:13:23Z",
-        "pushedAt": "2023-01-14T09:01:34Z",
-        "issues": 5,
-        "subscribers": 7,
-        "stars": 54,
-        "forks": 21
-      },
-      "name": "react-native-ad",
-      "fullName": "haxibiao/react-native-ad",
-      "description": "通用广告sdk封装模块",
-      "topics": [],
-      "license": {
-        "key": "other",
-        "name": "Other",
-        "spdxId": "NOASSERTION",
-        "url": null,
-        "id": "MDc6TGljZW5zZTA="
-      },
-      "lastRelease": null,
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 10,
-      "weekDownloads": 2,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
-    "popularity": -0.45
+    "category": [],
+    "uniqueCategory": "pagination-dot"
   },
   "https://github.com/Assembless/react-native-material-you": {
     "githubUrl": "https://github.com/Assembless/react-native-material-you",
@@ -73158,7 +73122,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "uniqueCategory": "ui-toolkit"
   },
   "https://github.com/TheRogue76/react-native-hashing": {
     "githubUrl": "https://github.com/TheRogue76/react-native-hashing",
@@ -73230,7 +73195,8 @@
     "popularity": -0.606,
     "category": [
       "hashing"
-    ]
+    ],
+    "uniqueCategory": "hashing"
   },
   "https://github.com/MuhammedKpln/react-native-chatty": {
     "githubUrl": "https://github.com/MuhammedKpln/react-native-chatty",
@@ -73310,7 +73276,8 @@
     "category": [
       "chat",
       "chat-ui"
-    ]
+    ],
+    "uniqueCategory": "chat-component"
   },
   "https://github.com/cwnicoletti/react-native-gauge": {
     "githubUrl": "https://github.com/cwnicoletti/react-native-gauge",
@@ -73377,7 +73344,8 @@
       "Recently updated"
     ],
     "popularity": -0.433,
-    "category": []
+    "category": [],
+    "uniqueCategory": "circular-progress-gauge"
   },
   "https://github.com/caglardurmus/react-native-insta-story": {
     "githubUrl": "https://github.com/caglardurmus/react-native-insta-story",
@@ -73444,7 +73412,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.045,
-    "category": []
+    "category": [],
+    "uniqueCategory": "story-view"
   },
   "https://github.com/Kieran-McIntyre/react-native-section-alphabet-list": {
     "githubUrl": "https://github.com/Kieran-McIntyre/react-native-section-alphabet-list",
@@ -73518,7 +73487,8 @@
       "Recently updated"
     ],
     "popularity": 0.012,
-    "category": []
+    "category": [],
+    "uniqueCategory": "listview"
   },
   "https://github.com/alexZajac/react-native-skeleton-content": {
     "githubUrl": "https://github.com/alexZajac/react-native-skeleton-content",
@@ -73589,7 +73559,8 @@
     "popularity": 0.012,
     "category": [
       "skeleton"
-    ]
+    ],
+    "uniqueCategory": "skeleton-loading"
   },
   "https://github.com/alexZajac/react-native-skeleton-content-nonexpo": {
     "githubUrl": "https://github.com/alexZajac/react-native-skeleton-content-nonexpo",
@@ -73658,7 +73629,8 @@
     "popularity": -0.025,
     "category": [
       "skeleton"
-    ]
+    ],
+    "uniqueCategory": "skeleton-loading"
   },
   "https://github.com/meedan/react-native-share-menu": {
     "githubUrl": "https://github.com/meedan/react-native-share-menu",
@@ -73733,7 +73705,8 @@
     "popularity": -0.015,
     "category": [
       "share-intent"
-    ]
+    ],
+    "uniqueCategory": "social-share"
   },
   "https://github.com/jamonholmgren/react-native-colo-loco": {
     "githubUrl": "https://github.com/jamonholmgren/react-native-colo-loco",
@@ -73794,7 +73767,8 @@
       "Recently updated"
     ],
     "popularity": -0.502,
-    "category": []
+    "category": [],
+    "uniqueCategory": "colocate-native-modules-with-js"
   },
   "https://github.com/gbumps/react-native-scrollable-tabstring": {
     "githubUrl": "https://github.com/gbumps/react-native-scrollable-tabstring",
@@ -73856,7 +73830,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.423
+    "popularity": -0.423,
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/criszz77/react-native-media-console": {
     "githubUrl": "https://github.com/criszz77/react-native-media-console",
@@ -73938,7 +73913,8 @@
       "react-native-video",
       "video",
       "media-player"
-    ]
+    ],
+    "uniqueCategory": "video"
   },
   "https://github.com/ujjalkar/rn-status-bar": {
     "githubUrl": "https://github.com/ujjalkar/rn-status-bar",
@@ -74007,7 +73983,8 @@
     "popularity": -0.407,
     "category": [
       "statusbar"
-    ]
+    ],
+    "uniqueCategory": "status-bar"
   },
   "https://github.com/nshaposhnik/react-native-virtual-keyboard": {
     "githubUrl": "https://github.com/nshaposhnik/react-native-virtual-keyboard",
@@ -74062,7 +74039,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.007
+    "popularity": -0.007,
+    "uniqueCategory": "keyboard"
   },
   "https://github.com/yutasuzuki/react-native-record-screen": {
     "githubUrl": "https://github.com/yutasuzuki/react-native-record-screen",
@@ -74119,7 +74097,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "uniqueCategory": "screen-record"
   },
   "https://github.com/SvanBoxel/visibility-sensor-react-native": {
     "githubUrl": "https://github.com/SvanBoxel/visibility-sensor-react-native",
@@ -74177,7 +74156,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.012
+    "popularity": -0.012,
+    "uniqueCategory": "detect-if-a-component-in-viewport"
   },
   "https://github.com/dimaportenko/react-native-shadow-view": {
     "npmPkg": "@dimaportenko/react-native-shadow-view",
@@ -74243,7 +74223,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.37
+    "popularity": -0.37,
+    "uniqueCategory": "shadow"
   },
   "https://github.com/yamankatby/react-native-flex-layout": {
     "githubUrl": "https://github.com/yamankatby/react-native-flex-layout",
@@ -74315,7 +74296,8 @@
     "popularity": -0.115,
     "category": [
       "flexbox"
-    ]
+    ],
+    "uniqueCategory": "flex-layout"
   },
   "https://github.com/jacobp100/react-native-tableview-list": {
     "githubUrl": "https://github.com/jacobp100/react-native-tableview-list",
@@ -74382,7 +74364,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.632
+    "popularity": -0.632,
+    "uniqueCategory": "table-view"
   },
   "https://github.com/invertase/notifee": {
     "githubUrl": "https://github.com/invertase/notifee",
@@ -74452,7 +74435,8 @@
     "popularity": -0.019,
     "category": [
       "notifications"
-    ]
+    ],
+    "uniqueCategory": "push-notifications"
   },
   "https://github.com/wix/react-native-notifications": {
     "githubUrl": "https://github.com/wix/react-native-notifications",
@@ -74514,7 +74498,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.039
+    "popularity": -0.039,
+    "uniqueCategory": "push-notifications"
   },
   "https://github.com/Gustash/react-native-focus": {
     "githubUrl": "https://github.com/Gustash/react-native-focus",
@@ -74576,7 +74561,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.683
+    "popularity": -0.683,
+    "uniqueCategory": "focus-status-ios"
   },
   "https://github.com/erksch/react-native-wheely": {
     "githubUrl": "https://github.com/erksch/react-native-wheely",
@@ -74635,7 +74621,8 @@
       "Recently updated"
     ],
     "popularity": -0.021,
-    "category": []
+    "category": [],
+    "uniqueCategory": "option-picker"
   },
   "https://github.com/jkdrangel/react-native-switch-selector": {
     "githubUrl": "https://github.com/jkdrangel/react-native-switch-selector",
@@ -74701,7 +74688,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.013
+    "popularity": 0.013,
+    "uniqueCategory": "switch-component"
   },
   "https://github.com/margelo/react-native-graph": {
     "githubUrl": "https://github.com/margelo/react-native-graph",
@@ -74797,7 +74785,8 @@
       "graphs",
       "linegraph",
       "chart"
-    ]
+    ],
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/margelo/react-native-bignumber": {
     "githubUrl": "https://github.com/margelo/react-native-bignumber",
@@ -74881,7 +74870,8 @@
       "big",
       "crypto",
       "cryptography"
-    ]
+    ],
+    "uniqueCategory": "hashing"
   },
   "https://github.com/streem/react-native-select-contact": {
     "githubUrl": "https://github.com/streem/react-native-select-contact",
@@ -74935,7 +74925,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.012
+    "popularity": -0.012,
+    "uniqueCategory": "contacts"
   },
   "https://github.com/shipt/segmented-arc-for-react-native": {
     "githubUrl": "https://github.com/shipt/segmented-arc-for-react-native",
@@ -75012,7 +75003,8 @@
       "arc",
       "segmented-arc",
       "segmented-gauge"
-    ]
+    ],
+    "uniqueCategory": "circular-progress-gauge"
   },
   "https://github.com/Bur0/react-native-actions-sheet-picker": {
     "githubUrl": "https://github.com/Bur0/react-native-actions-sheet-picker",
@@ -75092,7 +75084,8 @@
       "actionsheet",
       "dropdown",
       "picker"
-    ]
+    ],
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/kirillzyusko/react-native-keyboard-controller": {
     "githubUrl": "https://github.com/kirillzyusko/react-native-keyboard-controller",
@@ -75175,7 +75168,8 @@
       "avoiding-view",
       "focused-input",
       "keyboard-toolbar"
-    ]
+    ],
+    "uniqueCategory": "keyboard"
   },
   "https://github.com/craftzdog/react-native-quick-websql": {
     "githubUrl": "https://github.com/craftzdog/react-native-quick-websql",
@@ -75238,7 +75232,8 @@
     "popularity": -0.056,
     "category": [
       "sqlite"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   "https://github.com/TheWidlarzGroup/react-native-notificated": {
     "githubUrl": "https://github.com/TheWidlarzGroup/react-native-notificated",
@@ -75311,7 +75306,8 @@
       "toast",
       "notification",
       "notifications"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/oblador/react-native-esbuild": {
     "githubUrl": "https://github.com/oblador/react-native-esbuild",
@@ -75381,7 +75377,8 @@
     "popularity": -0.644,
     "category": [
       "esbuild"
-    ]
+    ],
+    "uniqueCategory": "esbuild"
   },
   "https://github.com/howljs/rn-card-scanner": {
     "githubUrl": "https://github.com/howljs/rn-card-scanner",
@@ -75453,7 +75450,8 @@
     "popularity": -0.059,
     "category": [
       "card-scanner"
-    ]
+    ],
+    "uniqueCategory": "card-scanner"
   },
   "https://github.com/isaced/react-native-cupertino-list": {
     "githubUrl": "https://github.com/isaced/react-native-cupertino-list",
@@ -75517,7 +75515,8 @@
       "No license"
     ],
     "popularity": -0.736,
-    "category": []
+    "category": [],
+    "uniqueCategory": "listview"
   },
   "https://github.com/computerjazz/react-native-infinite-pager": {
     "githubUrl": "https://github.com/computerjazz/react-native-infinite-pager",
@@ -75580,7 +75579,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.023
+    "popularity": -0.023,
+    "uniqueCategory": "carousel-swiper"
   },
   "https://github.com/th3rdwave/react-navigation-bottom-sheet": {
     "githubUrl": "https://github.com/th3rdwave/react-navigation-bottom-sheet",
@@ -75643,7 +75643,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.03
+    "popularity": -0.03,
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/Liamandrew/react-native-picky": {
     "githubUrl": "https://github.com/Liamandrew/react-native-picky",
@@ -75719,7 +75720,8 @@
     "category": [
       "picker",
       "wheelpicker"
-    ]
+    ],
+    "uniqueCategory": "option-picker"
   },
   "https://github.com/b0iq/react-native-place-picker": {
     "githubUrl": "https://github.com/b0iq/react-native-place-picker",
@@ -75796,7 +75798,8 @@
       "Recently updated"
     ],
     "popularity": -0.069,
-    "category": []
+    "category": [],
+    "uniqueCategory": "option-picker"
   },
   "https://github.com/Shopify/react-native-performance": {
     "githubUrl": "https://github.com/Shopify/react-native-performance",
@@ -75861,7 +75864,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.121
+    "popularity": -0.121,
+    "uniqueCategory": "performance-testing"
   },
   "https://github.com/bndkt/react-native-app-clip": {
     "githubUrl": "https://github.com/bndkt/react-native-app-clip",
@@ -75920,7 +75924,8 @@
       "Recently updated"
     ],
     "popularity": -0.023,
-    "category": []
+    "category": [],
+    "uniqueCategory": "app-clip-ios"
   },
   "https://github.com/ivanmoskalev/react-native-compressed-jsbundle": {
     "githubUrl": "https://github.com/ivanmoskalev/react-native-compressed-jsbundle",
@@ -75985,7 +75990,8 @@
       "Recently updated"
     ],
     "popularity": -0.442,
-    "category": []
+    "category": [],
+    "uniqueCategory": "compressed-jsbundle"
   },
   "https://github.com/LinusU/react-native-get-random-values": {
     "githubUrl": "https://github.com/LinusU/react-native-get-random-values",
@@ -76060,7 +76066,8 @@
       "webcrypto",
       "random",
       "crypto"
-    ]
+    ],
+    "uniqueCategory": "hashing"
   },
   "https://github.com/Shopify/react-native-skia": {
     "githubUrl": "https://github.com/Shopify/react-native-skia",
@@ -76132,7 +76139,8 @@
     "popularity": -0.046,
     "category": [
       "skia"
-    ]
+    ],
+    "uniqueCategory": "animated-libraries"
   },
   "https://github.com/Shopify/flash-list": {
     "githubUrl": "https://github.com/Shopify/flash-list",
@@ -76199,7 +76207,8 @@
       "Lots of open issues",
       "Recently updated"
     ],
-    "popularity": -0.036
+    "popularity": -0.036,
+    "uniqueCategory": "listview"
   },
   "https://github.com/talknagish/react-native-turbo-starter": {
     "githubUrl": "https://github.com/talknagish/react-native-turbo-starter",
@@ -76251,7 +76260,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -1
+    "popularity": -1,
+    "uniqueCategory": "boilerplate"
   },
   "https://github.com/leotm/react-native-template-new-architecture": {
     "githubUrl": "https://github.com/leotm/react-native-template-new-architecture",
@@ -76318,7 +76328,8 @@
       "No license"
     ],
     "popularity": -1,
-    "category": []
+    "category": [],
+    "uniqueCategory": "boilerplate"
   },
   "https://github.com/mmazzarolo/react-native-universal-monorepo": {
     "githubUrl": "https://github.com/mmazzarolo/react-native-universal-monorepo",
@@ -76383,7 +76394,8 @@
       "Recently updated"
     ],
     "popularity": -1,
-    "category": []
+    "category": [],
+    "uniqueCategory": "boilerplate"
   },
   "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts": {
     "githubUrl": "https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts",
@@ -76473,7 +76485,8 @@
       "graph",
       "pyramid-chart",
       "pyramid"
-    ]
+    ],
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/wobsoriano/rn-perfect-sketch-canvas": {
     "githubUrl": "https://github.com/wobsoriano/rn-perfect-sketch-canvas",
@@ -76545,7 +76558,8 @@
       "Recently updated"
     ],
     "popularity": -0.012,
-    "category": []
+    "category": [],
+    "uniqueCategory": "canvas-component"
   },
   "https://github.com/uragirii/rn-skia-sketch-canvas": {
     "githubUrl": "https://github.com/uragirii/rn-skia-sketch-canvas",
@@ -76607,7 +76621,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.307
+    "popularity": -0.307,
+    "uniqueCategory": "canvas-component"
   },
   "https://github.com/FormidableLabs/react-native-zephyr": {
     "githubUrl": "https://github.com/FormidableLabs/react-native-zephyr",
@@ -76677,7 +76692,8 @@
       "Recently updated"
     ],
     "popularity": -0.009,
-    "category": []
+    "category": [],
+    "uniqueCategory": "styling"
   },
   "https://github.com/inokawa/react-native-react-bridge": {
     "githubUrl": "https://github.com/inokawa/react-native-react-bridge",
@@ -76758,7 +76774,8 @@
       "Recently updated"
     ],
     "popularity": -0.072,
-    "category": []
+    "category": [],
+    "uniqueCategory": "bridge-react-to-react-native"
   },
   "https://github.com/alabsi91/reanimated-color-picker": {
     "githubUrl": "https://github.com/alabsi91/reanimated-color-picker",
@@ -76850,7 +76867,8 @@
       "Recently updated"
     ],
     "popularity": -0.011,
-    "category": []
+    "category": [],
+    "uniqueCategory": "color-picker"
   },
   "https://github.com/alabsi91/react-native-material-you-colors": {
     "githubUrl": "https://github.com/alabsi91/react-native-material-you-colors",
@@ -76926,7 +76944,8 @@
       "Recently updated"
     ],
     "popularity": -0.627,
-    "category": []
+    "category": [],
+    "uniqueCategory": "styling"
   },
   "https://github.com/barthap/expo-music-picker": {
     "githubUrl": "https://github.com/barthap/expo-music-picker",
@@ -76989,7 +77008,8 @@
       "No license"
     ],
     "popularity": -0.45,
-    "category": []
+    "category": [],
+    "uniqueCategory": "music-selector"
   },
   "https://github.com/OvalMoney/react-native-fitness": {
     "githubUrl": "https://github.com/OvalMoney/react-native-fitness",
@@ -77061,7 +77081,8 @@
       "apple-health",
       "google-fit",
       "fitness"
-    ]
+    ],
+    "uniqueCategory": "google-fit"
   },
   "https://github.com/dcangulo/react-native-outside-press": {
     "githubUrl": "https://github.com/dcangulo/react-native-outside-press",
@@ -77135,7 +77156,8 @@
       "Recently updated"
     ],
     "popularity": -0.025,
-    "category": []
+    "category": [],
+    "uniqueCategory": "outside-click-handler"
   },
   "https://github.com/websitebeaver/react-native-document-scanner-plugin": {
     "githubUrl": "https://github.com/websitebeaver/react-native-document-scanner-plugin",
@@ -77199,7 +77221,8 @@
     "popularity": -0.011,
     "category": [
       "document-scanner"
-    ]
+    ],
+    "uniqueCategory": "document-scanner"
   },
   "https://github.com/FormidableLabs/react-native-ama": {
     "githubUrl": "https://github.com/FormidableLabs/react-native-ama",
@@ -77266,7 +77289,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.087
+    "popularity": -0.087,
+    "uniqueCategory": "accessibility-as-a-first-class"
   },
   "https://github.com/mateoguzmana/react-native-fiesta": {
     "githubUrl": "https://github.com/mateoguzmana/react-native-fiesta",
@@ -77346,7 +77370,8 @@
       "Recently updated"
     ],
     "popularity": -0.517,
-    "category": []
+    "category": [],
+    "uniqueCategory": "confetty"
   },
   "https://github.com/dev-family/react-native-wallet-manager": {
     "githubUrl": "https://github.com/dev-family/react-native-wallet-manager",
@@ -77419,7 +77444,8 @@
     "category": [
       "apple-wallet",
       "wallet"
-    ]
+    ],
+    "uniqueCategory": "wallet"
   },
   "https://github.com/wix-incubator/react-native-wallet-pass": {
     "githubUrl": "https://github.com/wix-incubator/react-native-wallet-pass",
@@ -77473,7 +77499,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.755
+    "popularity": -0.755,
+    "uniqueCategory": "wallet"
   },
   "https://github.com/Luffos/rxn-units": {
     "githubUrl": "https://github.com/Luffos/rxn-units",
@@ -77564,7 +77591,8 @@
       "vw",
       "xplat",
       "vh"
-    ]
+    ],
+    "uniqueCategory": "measurement"
   },
   "https://github.com/zhigang1992/react-native-video-cache": {
     "githubUrl": "https://github.com/zhigang1992/react-native-video-cache",
@@ -77616,7 +77644,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.002
+    "popularity": -0.002,
+    "uniqueCategory": "video"
   },
   "https://github.com/kenjdavidson/react-native-bluetooth-classic": {
     "githubUrl": "https://github.com/kenjdavidson/react-native-bluetooth-classic",
@@ -77679,7 +77708,8 @@
     "popularity": -0.013,
     "category": [
       "bluetooth"
-    ]
+    ],
+    "uniqueCategory": "bluetooth"
   },
   "https://github.com/mateoguzmana/react-native-clocks": {
     "githubUrl": "https://github.com/mateoguzmana/react-native-clocks",
@@ -77758,7 +77788,8 @@
     "category": [
       "clock",
       "time"
-    ]
+    ],
+    "uniqueCategory": "clock-component"
   },
   "https://github.com/ouroboroscoding/react-native-picker": {
     "githubUrl": "https://github.com/ouroboroscoding/react-native-picker",
@@ -77816,7 +77847,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.128
+    "popularity": -0.128,
+    "uniqueCategory": "option-picker"
   },
   "https://github.com/ouroboroscoding/react-native-snackbar": {
     "githubUrl": "https://github.com/ouroboroscoding/react-native-snackbar",
@@ -77874,7 +77906,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/hirbod/react-native-volume-manager": {
     "githubUrl": "https://github.com/hirbod/react-native-volume-manager",
@@ -77949,7 +77982,8 @@
       "Recently updated"
     ],
     "popularity": 0.006,
-    "category": []
+    "category": [],
+    "uniqueCategory": "audio"
   },
   "https://github.com/aws/amazon-ivs-react-native-player": {
     "githubUrl": "https://github.com/aws/amazon-ivs-react-native-player",
@@ -78018,7 +78052,8 @@
     "popularity": -0.039,
     "category": [
       "amazon-ivs"
-    ]
+    ],
+    "uniqueCategory": "amazon-ivs"
   },
   "https://github.com/omdxp/react-native-help-create": {
     "githubUrl": "https://github.com/omdxp/react-native-help-create",
@@ -78094,7 +78129,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.58,
-    "category": []
+    "category": [],
+    "uniqueCategory": "cli-for-create-components"
   },
   "https://github.com/Mindinventory/awesome-clock": {
     "githubUrl": "https://github.com/Mindinventory/awesome-clock",
@@ -78163,7 +78199,8 @@
     "popularity": -0.675,
     "category": [
       "clock-view"
-    ]
+    ],
+    "uniqueCategory": "clock-component"
   },
   "https://github.com/Mindinventory/react-native-tabbar-interaction": {
     "githubUrl": "https://github.com/Mindinventory/react-native-tabbar-interaction",
@@ -78244,7 +78281,8 @@
       "tabbar",
       "react-native-component",
       "tabs"
-    ]
+    ],
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/Mindinventory/React-Native-top-navbar": {
     "githubUrl": "https://github.com/Mindinventory/React-Native-top-navbar",
@@ -78313,7 +78351,8 @@
       "navigation-header",
       "header",
       "top-navigation-bar"
-    ]
+    ],
+    "uniqueCategory": "header"
   },
   "https://github.com/access-mindinventory/react-native-card-animation": {
     "githubUrl": "https://github.com/access-mindinventory/react-native-card-animation",
@@ -78367,7 +78406,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -1
+    "popularity": -1,
+    "uniqueCategory": "card-view"
   },
   "https://github.com/Mindinventory/react-native-stagger-view": {
     "githubUrl": "https://github.com/Mindinventory/react-native-stagger-view",
@@ -78440,7 +78480,8 @@
     "category": [
       "react-native-stagger-view",
       "stagger-view"
-    ]
+    ],
+    "uniqueCategory": "masonry-list"
   },
   "https://github.com/Mindinventory/react-native-boilerplate": {
     "githubUrl": "https://github.com/Mindinventory/react-native-boilerplate",
@@ -78511,7 +78552,8 @@
       "boilerplate-template",
       "starter-kit",
       "template"
-    ]
+    ],
+    "uniqueCategory": "boilerplate"
   },
   "https://github.com/Mindinventory/react-native-speed-view": {
     "githubUrl": "https://github.com/Mindinventory/react-native-speed-view",
@@ -78590,7 +78632,8 @@
       "speedview",
       "runningspeed",
       "speed-view"
-    ]
+    ],
+    "uniqueCategory": "circular-progress-gauge"
   },
   "https://github.com/pusher/pusher-websocket-react-native": {
     "githubUrl": "https://github.com/pusher/pusher-websocket-react-native",
@@ -78653,7 +78696,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.003
+    "popularity": -0.003,
+    "uniqueCategory": "pusher-sdk"
   },
   "https://github.com/gmsgowtham/react-native-marked": {
     "githubUrl": "https://github.com/gmsgowtham/react-native-marked",
@@ -78733,7 +78777,8 @@
     "category": [
       "markdown",
       "marked-js"
-    ]
+    ],
+    "uniqueCategory": "markdown"
   },
   "https://github.com/CodingItWrong/react-native-style-queries": {
     "githubUrl": "https://github.com/CodingItWrong/react-native-style-queries",
@@ -78788,7 +78833,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.439
+    "popularity": -0.439,
+    "uniqueCategory": "styling"
   },
   "https://github.com/onmotion/react-native-autocomplete-dropdown": {
     "githubUrl": "https://github.com/onmotion/react-native-autocomplete-dropdown",
@@ -78876,7 +78922,8 @@
       "typeahead",
       "autocomplete",
       "autocomplete-suggestions"
-    ]
+    ],
+    "uniqueCategory": "dropdown"
   },
   "https://github.com/alan-eu/react-native-fast-shadow": {
     "githubUrl": "https://github.com/alan-eu/react-native-fast-shadow",
@@ -78950,7 +78997,8 @@
     "popularity": 0.001,
     "category": [
       "shadow"
-    ]
+    ],
+    "uniqueCategory": "shadow"
   },
   "https://github.com/howljs/react-native-calendar-kit": {
     "githubUrl": "https://github.com/howljs/react-native-calendar-kit",
@@ -79016,7 +79064,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "uniqueCategory": "calendar"
   },
   "https://github.com/Stringsaeed/react-native-tooltiplize": {
     "githubUrl": "https://github.com/Stringsaeed/react-native-tooltiplize",
@@ -79099,7 +79148,8 @@
       "tooltip",
       "tooltiplize",
       "popover"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/arnnis/react-native-toast-notifications": {
     "githubUrl": "https://github.com/arnnis/react-native-toast-notifications",
@@ -79174,7 +79224,8 @@
     "popularity": -0.004,
     "category": [
       "toast"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/arnnis/react-native-match-media-polyfill": {
     "githubUrl": "https://github.com/arnnis/react-native-match-media-polyfill",
@@ -79223,7 +79274,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.158
+    "popularity": -0.158,
+    "uniqueCategory": "match-medial-polyfill"
   },
   "https://github.com/web-ridge/react-ridge-state": {
     "githubUrl": "https://github.com/web-ridge/react-ridge-state",
@@ -79282,7 +79334,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.033
+    "popularity": -0.033,
+    "uniqueCategory": "state-management"
   },
   "https://github.com/web-ridge/react-native-paper-autocomplete": {
     "githubUrl": "https://github.com/web-ridge/react-native-paper-autocomplete",
@@ -79341,7 +79394,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.574
+    "popularity": -0.574,
+    "uniqueCategory": "autocomplete"
   },
   "https://github.com/klazbaba/react-native-form-component": {
     "githubUrl": "https://github.com/klazbaba/react-native-form-component",
@@ -79427,7 +79481,8 @@
     "category": [
       "form",
       "validation"
-    ]
+    ],
+    "uniqueCategory": "form"
   },
   "https://github.com/VincentCATILLON/react-native-confetti-cannon": {
     "githubUrl": "https://github.com/VincentCATILLON/react-native-confetti-cannon",
@@ -79517,7 +79572,8 @@
     "popularity": -0.018,
     "category": [
       "confetti"
-    ]
+    ],
+    "uniqueCategory": "confetty"
   },
   "https://github.com/acro5piano/react-native-big-calendar": {
     "githubUrl": "https://github.com/acro5piano/react-native-big-calendar",
@@ -79599,7 +79655,8 @@
       "calendar",
       "calendar-view",
       "calendar-component"
-    ]
+    ],
+    "uniqueCategory": "calendar"
   },
   "https://github.com/marklawlor/nativewind/tree/main/packages/nativewind": {
     "githubUrl": "https://github.com/marklawlor/nativewind/tree/main/packages/nativewind",
@@ -79683,7 +79740,8 @@
       "tailwindcss",
       "tailwind",
       "nativewind"
-    ]
+    ],
+    "uniqueCategory": "ui-toolkit"
   },
   "https://github.com/Dynamsoft/capture-vision-react-native": {
     "githubUrl": "https://github.com/Dynamsoft/capture-vision-react-native",
@@ -79758,7 +79816,8 @@
       "Recently updated"
     ],
     "popularity": -0.169,
-    "category": []
+    "category": [],
+    "uniqueCategory": "dynamsoft-capture-vision-sdk"
   },
   "https://github.com/jetrockets/react-native-modal": {
     "githubUrl": "https://github.com/jetrockets/react-native-modal",
@@ -79818,7 +79877,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.65
+    "popularity": -0.65,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/sidevesh/react-native-snackbar-component": {
     "githubUrl": "https://github.com/sidevesh/react-native-snackbar-component",
@@ -79884,7 +79944,8 @@
     "popularity": 0.003,
     "category": [
       "snackbar"
-    ]
+    ],
+    "uniqueCategory": "bottom-toolbar"
   },
   "https://github.com/enzomanuelmangano/react-native-skia-gesture": {
     "githubUrl": "https://github.com/enzomanuelmangano/react-native-skia-gesture",
@@ -79959,7 +80020,8 @@
     "category": [
       "gestures",
       "skia"
-    ]
+    ],
+    "uniqueCategory": "gestures"
   },
   "https://github.com/ArunGovil/react-native-flatboard": {
     "githubUrl": "https://github.com/ArunGovil/react-native-flatboard",
@@ -80028,7 +80090,8 @@
       "flatlist",
       "onboarding",
       "swipable"
-    ]
+    ],
+    "uniqueCategory": "listview"
   },
   "https://github.com/okanfidan/react-native-tabbed-section-list": {
     "githubUrl": "https://github.com/okanfidan/react-native-tabbed-section-list",
@@ -80091,7 +80154,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.329
+    "popularity": -0.329,
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/DataDog/react-native-performance-limiter": {
     "githubUrl": "https://github.com/DataDog/react-native-performance-limiter",
@@ -80160,7 +80224,8 @@
     "popularity": -0.119,
     "category": [
       "performance"
-    ]
+    ],
+    "uniqueCategory": "performance-testing"
   },
   "https://github.com/macvish/react-native-basic-carousel": {
     "githubUrl": "https://github.com/macvish/react-native-basic-carousel",
@@ -80229,7 +80294,8 @@
     "popularity": -0.116,
     "category": [
       "carousel"
-    ]
+    ],
+    "uniqueCategory": "carousel-swiper"
   },
   "https://github.com/yuvraj24/react-native-stories-view": {
     "githubUrl": "https://github.com/yuvraj24/react-native-stories-view",
@@ -80313,7 +80379,8 @@
       "Recently updated"
     ],
     "popularity": -0.021,
-    "category": []
+    "category": [],
+    "uniqueCategory": "story-view"
   },
   "https://github.com/rmrs/react-native-settings": {
     "githubUrl": "https://github.com/rmrs/react-native-settings",
@@ -80384,7 +80451,8 @@
     "popularity": -0.004,
     "category": [
       "settings"
-    ]
+    ],
+    "uniqueCategory": "settings-page"
   },
   "https://github.com/c19354837/react-native-system-setting": {
     "githubUrl": "https://github.com/c19354837/react-native-system-setting",
@@ -80466,7 +80534,8 @@
     "category": [
       "setting",
       "system"
-    ]
+    ],
+    "uniqueCategory": "settings-page"
   },
   "https://github.com/mouselangelo/react-native-actions-shortcuts": {
     "githubUrl": "https://github.com/mouselangelo/react-native-actions-shortcuts",
@@ -80549,7 +80618,8 @@
       "shortcut",
       "shortcuts",
       "dynamic-shortcuts"
-    ]
+    ],
+    "uniqueCategory": "shortcut-actions"
   },
   "https://github.com/Kingstinct/react-native-healthkit": {
     "githubUrl": "https://github.com/Kingstinct/react-native-healthkit",
@@ -80622,7 +80692,8 @@
     "popularity": -0.292,
     "category": [
       "healthkit"
-    ]
+    ],
+    "uniqueCategory": "google-fit"
   },
   "https://github.com/Kingstinct/react-native-hotkeys": {
     "githubUrl": "https://github.com/Kingstinct/react-native-hotkeys",
@@ -80688,7 +80759,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.121,
-    "category": []
+    "category": [],
+    "uniqueCategory": "hotkeys-capturing"
   },
   "https://github.com/hossein-zare/react-native-chunk-upload": {
     "githubUrl": "https://github.com/hossein-zare/react-native-chunk-upload",
@@ -80766,7 +80838,8 @@
       "resume",
       "resumable",
       "blob"
-    ]
+    ],
+    "uniqueCategory": "file-upload"
   },
   "https://github.com/hossein-zare/react-native-dropdown-picker": {
     "githubUrl": "https://github.com/hossein-zare/react-native-dropdown-picker",
@@ -80863,7 +80936,8 @@
       "single",
       "searchable",
       "multiple-pickers"
-    ]
+    ],
+    "uniqueCategory": "drag-and-drop"
   },
   "https://github.com/SerenityNotes/react-native-libsodium": {
     "githubUrl": "https://github.com/SerenityNotes/react-native-libsodium",
@@ -80934,7 +81008,8 @@
     "popularity": -0.017,
     "category": [
       "libsodium"
-    ]
+    ],
+    "uniqueCategory": "libsodium-wrapper"
   },
   "https://github.com/Karthik-B-06/react-native-segmented-control": {
     "githubUrl": "https://github.com/Karthik-B-06/react-native-segmented-control",
@@ -81008,7 +81083,8 @@
     "popularity": -0.386,
     "category": [
       "segmented-control"
-    ]
+    ],
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/killserver/react-native-screenshot-prevent": {
     "githubUrl": "https://github.com/killserver/react-native-screenshot-prevent",
@@ -81068,7 +81144,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.004
+    "popularity": -0.004,
+    "uniqueCategory": "screenshot-detector"
   },
   "https://github.com/andresribeiro/react-native-hyperlinks": {
     "githubUrl": "https://github.com/andresribeiro/react-native-hyperlinks",
@@ -81148,7 +81225,8 @@
       "hashtag",
       "mention",
       "link"
-    ]
+    ],
+    "uniqueCategory": "text"
   },
   "https://github.com/inferusvv/react-native-unicorn-modals": {
     "githubUrl": "https://github.com/inferusvv/react-native-unicorn-modals",
@@ -81235,7 +81313,8 @@
       "dialog",
       "menu",
       "popup"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/kanelloc/react-native-animated-header-scroll-view": {
     "githubUrl": "https://github.com/kanelloc/react-native-animated-header-scroll-view",
@@ -81313,7 +81392,8 @@
       "Recently updated"
     ],
     "popularity": -0.036,
-    "category": []
+    "category": [],
+    "uniqueCategory": "header"
   },
   "https://github.com/72days/react-native-appearance-control": {
     "githubUrl": "https://github.com/72days/react-native-appearance-control",
@@ -81374,7 +81454,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.254
+    "popularity": -0.254,
+    "uniqueCategory": "dark-mode"
   },
   "https://github.com/retyui/react-native-code-push-dev-menu": {
     "githubUrl": "https://github.com/retyui/react-native-code-push-dev-menu",
@@ -81431,7 +81512,8 @@
       "No license"
     ],
     "popularity": -0.561,
-    "category": []
+    "category": [],
+    "uniqueCategory": "codepush-wrapper"
   },
   "https://github.com/sAleksovski/react-native-android-widget": {
     "githubUrl": "https://github.com/sAleksovski/react-native-android-widget",
@@ -81503,7 +81585,8 @@
     "popularity": 0.025,
     "category": [
       "widget"
-    ]
+    ],
+    "uniqueCategory": "widget"
   },
   "https://github.com/Novsochetra/react-native-circular-chart": {
     "githubUrl": "https://github.com/Novsochetra/react-native-circular-chart",
@@ -81563,7 +81646,8 @@
       "Recently updated"
     ],
     "popularity": -0.146,
-    "category": []
+    "category": [],
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/coinbase/rest-hooks": {
     "githubUrl": "https://github.com/coinbase/rest-hooks",
@@ -81646,7 +81730,8 @@
     "popularity": -0.013,
     "category": [
       "state-management"
-    ]
+    ],
+    "uniqueCategory": "state-management"
   },
   "https://github.com/Splicer97/react-native-mytracker": {
     "githubUrl": "https://github.com/Splicer97/react-native-mytracker",
@@ -81709,7 +81794,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "uniqueCategory": "myTrackerSdk-wrapper-unofficial"
   },
   "https://github.com/sparkfabrik/sparkfabrik-react-native-idfa-aaid": {
     "githubUrl": "https://github.com/sparkfabrik/sparkfabrik-react-native-idfa-aaid",
@@ -81769,7 +81855,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.02
+    "popularity": -0.02,
+    "uniqueCategory": "idfa-aaid"
   },
   "https://github.com/matinzd/react-native-health-connect": {
     "githubUrl": "https://github.com/matinzd/react-native-health-connect",
@@ -81842,7 +81929,8 @@
       "health-connect",
       "fitness",
       "health-sdk"
-    ]
+    ],
+    "uniqueCategory": "google-fit"
   },
   "https://github.com/Malaa-tech/react-native-simple-line-chart": {
     "githubUrl": "https://github.com/Malaa-tech/react-native-simple-line-chart",
@@ -81917,7 +82005,8 @@
     "category": [
       "chart",
       "line"
-    ]
+    ],
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/tokkozhin/react-native-qrcode-styled": {
     "githubUrl": "https://github.com/tokkozhin/react-native-qrcode-styled",
@@ -82000,80 +82089,8 @@
       "react-native-qrcode",
       "qrcode-styled",
       "rn-qr-generator"
-    ]
-  },
-  "https://github.com/dotnet/aspnetcore/tree/main/src/SignalR/clients/ts/signalr": {
-    "githubUrl": "https://github.com/dotnet/aspnetcore/tree/main/src/SignalR/clients/ts/signalr",
-    "npmPkg": "@microsoft/signalr",
-    "nameOverride": "ASP.NET Core SignalR Client",
-    "ios": true,
-    "android": true,
-    "github": {
-      "urls": {
-        "repo": "https://github.com/dotnet/aspnetcore",
-        "clone": "https://github.com/dotnet/aspnetcore.git",
-        "homepage": "https://asp.net"
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-05-25T11:41:55Z",
-        "createdAt": "2014-03-11T06:09:42Z",
-        "pushedAt": "2024-05-25T12:00:25Z",
-        "issues": 3132,
-        "subscribers": 1447,
-        "stars": 34549,
-        "forks": 9764
-      },
-      "name": "aspnetcore",
-      "fullName": "dotnet/aspnetcore",
-      "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
-      "topics": [
-        "dotnet",
-        "aspnetcore",
-        "hacktoberfest",
-        "help-wanted"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": ".NET 9 Preview 4",
-        "tagName": "v9.0.0-preview.4.24267.6",
-        "createdAt": "2024-05-17T15:03:52Z",
-        "publishedAt": "2024-05-21T15:06:21Z",
-        "isPrerelease": true
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 2080731,
-      "weekDownloads": 498455,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "dotnet aspnetcore hacktoberfest help-wanted",
-    "score": 75,
-    "matchingScoreModifiers": [
-      "Very popular",
-      "Popular",
-      "Lots of open issues",
-      "Recently updated"
     ],
-    "popularity": -0.01,
-    "category": [
-      "dotnet",
-      "aspnetcore"
-    ]
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   "https://github.com/sacmii/rn-vertical-slider": {
     "githubUrl": "https://github.com/sacmii/rn-vertical-slider",
@@ -82152,7 +82169,8 @@
     "category": [
       "slider",
       "vertical-slider"
-    ]
+    ],
+    "uniqueCategory": "slider"
   },
   "https://github.com/showtime-xyz/showtime-tab-view": {
     "githubUrl": "https://github.com/showtime-xyz/showtime-tab-view",
@@ -82214,7 +82232,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.609
+    "popularity": -0.609,
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/rgommezz/react-native-chatgpt": {
     "githubUrl": "https://github.com/rgommezz/react-native-chatgpt",
@@ -82281,7 +82300,8 @@
     "category": [
       "chatbot",
       "chatgpt"
-    ]
+    ],
+    "uniqueCategory": "chatgpt"
   },
   "https://github.com/ggunti/react-native-amazing-cropper": {
     "githubUrl": "https://github.com/ggunti/react-native-amazing-cropper",
@@ -82352,7 +82372,8 @@
     "popularity": -0.421,
     "category": [
       "cropper"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   "https://github.com/styled-components/css-to-react-native": {
     "githubUrl": "https://github.com/styled-components/css-to-react-native",
@@ -82417,7 +82438,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.014
+    "popularity": -0.014,
+    "uniqueCategory": "styling"
   },
   "https://github.com/necolas/react-native-web/tree/master/packages/babel-plugin-react-native-web": {
     "githubUrl": "https://github.com/necolas/react-native-web/tree/master/packages/babel-plugin-react-native-web",
@@ -82491,7 +82513,8 @@
       "Recently updated"
     ],
     "popularity": -0.013,
-    "category": []
+    "category": [],
+    "uniqueCategory": "babel-plugin-rn-web"
   },
   "https://github.com/matinzd/react-native-block-store": {
     "githubUrl": "https://github.com/matinzd/react-native-block-store",
@@ -82554,7 +82577,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -1
+    "popularity": -1,
+    "uniqueCategory": "block-store-android"
   },
   "https://github.com/pushpender-singh-ap/react-native-scanner": {
     "githubUrl": "https://github.com/pushpender-singh-ap/react-native-scanner",
@@ -82629,7 +82653,8 @@
       "barcode-scanner",
       "qrcode",
       "qrcode-scanner"
-    ]
+    ],
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   "https://github.com/frw/react-native-ssl-public-key-pinning": {
     "githubUrl": "https://github.com/frw/react-native-ssl-public-key-pinning",
@@ -82704,7 +82729,8 @@
     "category": [
       "ssl",
       "ssl-pinning"
-    ]
+    ],
+    "uniqueCategory": "ssl"
   },
   "https://github.com/jgillick/react-native-a11y-slider": {
     "githubUrl": "https://github.com/jgillick/react-native-a11y-slider",
@@ -82770,7 +82796,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.147
+    "popularity": -0.147,
+    "uniqueCategory": "slider"
   },
   "https://github.com/jgillick/react-fancy-qrcode": {
     "githubUrl": "https://github.com/jgillick/react-fancy-qrcode",
@@ -82838,7 +82865,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.118
+    "popularity": -0.118,
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   "https://github.com/azeezat/react-native-select": {
     "githubUrl": "https://github.com/azeezat/react-native-select",
@@ -82926,7 +82954,8 @@
       "multi-select",
       "multipleselection",
       "picker"
-    ]
+    ],
+    "uniqueCategory": "select-multiselect"
   },
   "https://github.com/AtharvaDeolalikar/react-native-animated-bottom-drawer": {
     "githubUrl": "https://github.com/AtharvaDeolalikar/react-native-animated-bottom-drawer",
@@ -82987,7 +83016,8 @@
       "bottom-modal",
       "bottom-sheet",
       "modal"
-    ]
+    ],
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/bambuser/react-native-bambuser-broadcaster": {
     "githubUrl": "https://github.com/bambuser/react-native-bambuser-broadcaster",
@@ -83036,7 +83066,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.436
+    "popularity": -0.436,
+    "uniqueCategory": "bambuser-broadcasting-sdk"
   },
   "https://github.com/douglasjunior/react-native-pdf-renderer": {
     "githubUrl": "https://github.com/douglasjunior/react-native-pdf-renderer",
@@ -83113,7 +83144,8 @@
       "pdf",
       "pdfkit",
       "pdfrenderer"
-    ]
+    ],
+    "uniqueCategory": "pdf"
   },
   "https://github.com/dozsolti/react-native-use-list": {
     "githubUrl": "https://github.com/dozsolti/react-native-use-list",
@@ -83179,7 +83211,8 @@
       "flatlist",
       "sectionlist",
       "virtualizedlist"
-    ]
+    ],
+    "uniqueCategory": "listview"
   },
   "https://github.com/gmsgowtham/react-native-code-highlighter": {
     "githubUrl": "https://github.com/gmsgowtham/react-native-code-highlighter",
@@ -83253,7 +83286,8 @@
     "category": [
       "code-highlight",
       "syntax-highlighting"
-    ]
+    ],
+    "uniqueCategory": "text"
   },
   "https://github.com/gbumps/react-native-screenguard": {
     "githubUrl": "https://github.com/gbumps/react-native-screenguard",
@@ -83313,7 +83347,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.006
+    "popularity": 0.006,
+    "uniqueCategory": "screenshot-detector"
   },
   "https://github.com/4cc3ssX/react-native-totp-utils": {
     "githubUrl": "https://github.com/4cc3ssX/react-native-totp-utils",
@@ -83374,7 +83409,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.431
+    "popularity": -0.431,
+    "uniqueCategory": "totp"
   },
   "https://github.com/JedrzejMajko/react-native-hardwired": {
     "githubUrl": "https://github.com/JedrzejMajko/react-native-hardwired",
@@ -83430,7 +83466,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.423
+    "popularity": -0.423,
+    "uniqueCategory": "native-modules"
   },
   "https://github.com/monkin77/react-native-esper-sdk": {
     "githubUrl": "https://github.com/monkin77/react-native-esper-sdk",
@@ -83487,7 +83524,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.072
+    "popularity": -0.072,
+    "uniqueCategory": "esper-sdk"
   },
   "https://github.com/vonovak/react-native-theme-control": {
     "githubUrl": "https://github.com/vonovak/react-native-theme-control",
@@ -83561,7 +83599,8 @@
     "category": [
       "theme",
       "apearance"
-    ]
+    ],
+    "uniqueCategory": "theme-control"
   },
   "https://github.com/movio/react-native-rsa-signer": {
     "githubUrl": "https://github.com/movio/react-native-rsa-signer",
@@ -83619,7 +83658,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.655
+    "popularity": -0.655,
+    "uniqueCategory": "rsa-signer"
   },
   "https://github.com/aidin36/react-native-pie-chart": {
     "githubUrl": "https://github.com/aidin36/react-native-pie-chart",
@@ -83682,7 +83722,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.056
+    "popularity": -0.056,
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/neo773/react-native-macos-fast-image": {
     "githubUrl": "https://github.com/neo773/react-native-macos-fast-image",
@@ -83735,7 +83776,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.633
+    "popularity": -0.633,
+    "uniqueCategory": "image"
   },
   "https://github.com/fracht/react-native-input-autofocus": {
     "githubUrl": "https://github.com/fracht/react-native-input-autofocus",
@@ -83800,7 +83842,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.742
+    "popularity": -0.742,
+    "uniqueCategory": "keyboard"
   },
   "https://github.com/Lemonadd-UG/react-native-apple-music": {
     "githubUrl": "https://github.com/Lemonadd-UG/react-native-apple-music",
@@ -83853,7 +83896,8 @@
     "matchingScoreModifiers": [
       "No license"
     ],
-    "popularity": -0.648
+    "popularity": -0.648,
+    "uniqueCategory": "apple-music-sdk"
   },
   "https://github.com/numandev1/react-native-keys": {
     "githubUrl": "https://github.com/numandev1/react-native-keys",
@@ -83936,7 +83980,8 @@
     "popularity": -0.019,
     "category": [
       "env"
-    ]
+    ],
+    "uniqueCategory": "env-config"
   },
   "https://github.com/Sharcoux/slider": {
     "githubUrl": "https://github.com/Sharcoux/slider",
@@ -83994,7 +84039,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.003
+    "popularity": 0.003,
+    "uniqueCategory": "slider"
   },
   "https://github.com/jakex7/react-native-click-outside": {
     "githubUrl": "https://github.com/jakex7/react-native-click-outside",
@@ -84067,7 +84113,8 @@
     "popularity": -0.034,
     "category": [
       "click-outside"
-    ]
+    ],
+    "uniqueCategory": "outside-click-handler"
   },
   "https://github.com/kesha-antonov/react-native-zoom-reanimated": {
     "githubUrl": "https://github.com/kesha-antonov/react-native-zoom-reanimated",
@@ -84131,7 +84178,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.018
+    "popularity": -0.018,
+    "uniqueCategory": "gestures"
   },
   "https://github.com/situmtech/react-native": {
     "githubUrl": "https://github.com/situmtech/react-native",
@@ -84203,7 +84251,8 @@
       "indoor-positioning",
       "situm",
       "wayfinding"
-    ]
+    ],
+    "uniqueCategory": "situm-indoor-positioning"
   },
   "https://github.com/mrpmohiburrahman/react-native-cone-slider": {
     "githubUrl": "https://github.com/mrpmohiburrahman/react-native-cone-slider",
@@ -84268,7 +84317,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.459
+    "popularity": -0.459,
+    "uniqueCategory": "slider"
   },
   "https://github.com/Adarshshanbhag5/react-native-palette-picker": {
     "githubUrl": "https://github.com/Adarshshanbhag5/react-native-palette-picker",
@@ -84332,7 +84382,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.706
+    "popularity": -0.706,
+    "uniqueCategory": "color-picker"
   },
   "https://github.com/MetaLabs-inc/react-native-vimeo-iframe": {
     "githubUrl": "https://github.com/MetaLabs-inc/react-native-vimeo-iframe",
@@ -84408,7 +84459,8 @@
       "vimeo",
       "video-player",
       "video"
-    ]
+    ],
+    "uniqueCategory": "video"
   },
   "https://github.com/mrpmohiburrahman/react-native-squish-button": {
     "githubUrl": "https://github.com/mrpmohiburrahman/react-native-squish-button",
@@ -84473,7 +84525,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "uniqueCategory": "button"
   },
   "https://github.com/Malaa-tech/react-native-simple-keypad": {
     "githubUrl": "https://github.com/Malaa-tech/react-native-simple-keypad",
@@ -84536,7 +84589,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.563
+    "popularity": -0.563,
+    "uniqueCategory": "keyboard"
   },
   "https://github.com/chsdwn/react-native-responsive-scalability": {
     "githubUrl": "https://github.com/chsdwn/react-native-responsive-scalability",
@@ -84609,7 +84663,8 @@
     "popularity": -0.55,
     "category": [
       "responsive"
-    ]
+    ],
+    "uniqueCategory": "measurement"
   },
   "https://github.com/Alwinator/react-native-http-bridge-refurbished": {
     "githubUrl": "https://github.com/Alwinator/react-native-http-bridge-refurbished",
@@ -84679,7 +84734,8 @@
     "category": [
       "http-server",
       "webserver"
-    ]
+    ],
+    "uniqueCategory": "http-server"
   },
   "https://github.com/Malaa-tech/react-native-simple-bcrypt": {
     "githubUrl": "https://github.com/Malaa-tech/react-native-simple-bcrypt",
@@ -84750,7 +84806,8 @@
     "popularity": -0.619,
     "category": [
       "bcrypt"
-    ]
+    ],
+    "uniqueCategory": "hashing"
   },
   "https://github.com/animate-react-native/stagger": {
     "githubUrl": "https://github.com/animate-react-native/stagger",
@@ -84833,7 +84890,8 @@
       "stagger-animation",
       "react-native-stagger",
       "react-native-layout-animation"
-    ]
+    ],
+    "uniqueCategory": "stagger-component"
   },
   "https://github.com/animate-react-native/marquee": {
     "githubUrl": "https://github.com/animate-react-native/marquee",
@@ -84910,7 +84968,8 @@
     "popularity": 0.002,
     "category": [
       "react-native-marquee"
-    ]
+    ],
+    "uniqueCategory": "marquee"
   },
   "https://github.com/Jm-Zion/rn-wave-bottom-bar": {
     "githubUrl": "https://github.com/Jm-Zion/rn-wave-bottom-bar",
@@ -84986,7 +85045,8 @@
     "popularity": 0.042,
     "category": [
       "bottom-tabs"
-    ]
+    ],
+    "uniqueCategory": "bottom-toolbar"
   },
   "https://github.com/3DJakob/react-tinder-card": {
     "githubUrl": "https://github.com/3DJakob/react-tinder-card",
@@ -85069,7 +85129,8 @@
     "category": [
       "tinder",
       "swipe"
-    ]
+    ],
+    "uniqueCategory": "card-view"
   },
   "https://github.com/AstrOOnauta/react-native-international-phone-number": {
     "githubUrl": "https://github.com/AstrOOnauta/react-native-international-phone-number",
@@ -85164,7 +85225,8 @@
       "phone-number",
       "telephone",
       "cellphone"
-    ]
+    ],
+    "uniqueCategory": "phone-input"
   },
   "https://github.com/expo/expo/tree/main/packages/expo-image": {
     "githubUrl": "https://github.com/expo/expo/tree/main/packages/expo-image",
@@ -85241,81 +85303,8 @@
       "Recently updated"
     ],
     "popularity": -0.02,
-    "category": []
-  },
-  "https://github.com/okwasniewski/react-native-menubar-extra": {
-    "githubUrl": "https://github.com/okwasniewski/react-native-menubar-extra",
-    "examples": [
-      "https://github.com/okwasniewski/react-native-menubar-extra/tree/main/example"
-    ],
-    "images": [
-      "https://raw.githubusercontent.com/okwasniewski/react-native-menubar-extra/main/img/example-usage.png"
-    ],
-    "macos": true,
-    "npmPkg": "react-native-menubar-extra",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/okwasniewski/react-native-menubar-extra",
-        "clone": "https://github.com/okwasniewski/react-native-menubar-extra.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": false,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-05-23T21:20:37Z",
-        "createdAt": "2023-09-10T18:36:33Z",
-        "pushedAt": "2023-11-04T16:26:18Z",
-        "issues": 2,
-        "subscribers": 5,
-        "stars": 242,
-        "forks": 0
-      },
-      "name": "react-native-menubar-extra",
-      "fullName": "okwasniewski/react-native-menubar-extra",
-      "description": "Add MenuBar to your React Native MacOS Application ",
-      "topics": [
-        "library",
-        "macos",
-        "menubar",
-        "menubar-app",
-        "react-native",
-        "react-native-macos",
-        "hacktoberfest"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "Release 0.3.1",
-        "tagName": "v0.3.1",
-        "createdAt": "2023-11-04T16:26:16Z",
-        "publishedAt": "2023-11-04T16:26:47Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 31,
-      "weekDownloads": 13,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "library macos menubar menubar-app react-native react-native-macos hacktoberfest",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
-    "popularity": -0.256,
-    "category": []
+    "category": [],
+    "uniqueCategory": "image"
   },
   "https://github.com/a7medev/react-native-ml-kit/tree/main/text-recognition": {
     "npmPkg": "@react-native-ml-kit/text-recognition",
@@ -85381,7 +85370,8 @@
       "ml-kit",
       "ml-kit-vision",
       "ml"
-    ]
+    ],
+    "uniqueCategory": "ocr"
   },
   "https://github.com/a7medev/react-native-ml-kit/tree/main/face-detection": {
     "npmPkg": "@react-native-ml-kit/face-detection",
@@ -85447,7 +85437,8 @@
       "ml-kit",
       "ml-kit-vision",
       "ml"
-    ]
+    ],
+    "uniqueCategory": "face-detector"
   },
   "https://github.com/a7medev/react-native-ml-kit/tree/main/image-labeling": {
     "npmPkg": "@react-native-ml-kit/image-labeling",
@@ -85513,7 +85504,8 @@
       "ml-kit",
       "ml-kit-vision",
       "ml"
-    ]
+    ],
+    "uniqueCategory": "image-editor"
   },
   "https://github.com/a7medev/react-native-ml-kit/tree/main/barcode-scanning": {
     "npmPkg": "@react-native-ml-kit/barcode-scanning",
@@ -85579,7 +85571,8 @@
       "ml-kit",
       "ml-kit-vision",
       "ml"
-    ]
+    ],
+    "uniqueCategory": "barcode-qrcode-scanner"
   },
   "https://github.com/a7medev/react-native-ml-kit/tree/main/identify-languages": {
     "npmPkg": "@react-native-ml-kit/identify-languages",
@@ -85645,7 +85638,8 @@
       "ml-kit",
       "ml-kit-vision",
       "ml"
-    ]
+    ],
+    "uniqueCategory": "identify-languages"
   },
   "https://github.com/a7medev/react-native-ml-kit/tree/main/translate-text": {
     "npmPkg": "@react-native-ml-kit/translate-text",
@@ -85710,7 +85704,8 @@
       "ml-kit",
       "ml-kit-vision",
       "ml"
-    ]
+    ],
+    "uniqueCategory": "text"
   },
   "https://github.com/High5Apps/react-native-vis-network": {
     "githubUrl": "https://github.com/High5Apps/react-native-vis-network",
@@ -85775,7 +85770,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "uniqueCategory": "vis-network"
   },
   "https://github.com/baronha/ting": {
     "githubUrl": "https://github.com/baronha/ting",
@@ -85855,7 +85851,8 @@
       "toast",
       "alert",
       "toast-notifications"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/chsdwn/react-native-skia-shadow": {
     "githubUrl": "https://github.com/chsdwn/react-native-skia-shadow",
@@ -85933,7 +85930,8 @@
     "popularity": 0.018,
     "category": [
       "shadow"
-    ]
+    ],
+    "uniqueCategory": "shadow"
   },
   "https://github.com/KroosX4V/react-native-orientation-manager": {
     "githubUrl": "https://github.com/KroosX4V/react-native-orientation-manager",
@@ -85997,7 +85995,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.118
+    "popularity": -0.118,
+    "uniqueCategory": "screen-orientation"
   },
   "https://github.com/stanleyugwu/react-native-bottom-sheet": {
     "githubUrl": "https://github.com/stanleyugwu/react-native-bottom-sheet",
@@ -86084,7 +86083,8 @@
       "bottomsheetios",
       "react-native-bottom-sheet",
       "react-native-bottomsheet"
-    ]
+    ],
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/farhoudshapouran/react-native-highlighter": {
     "githubUrl": "https://github.com/farhoudshapouran/react-native-highlighter",
@@ -86162,7 +86162,8 @@
     "popularity": -0.584,
     "category": [
       "highlight"
-    ]
+    ],
+    "uniqueCategory": "text"
   },
   "https://github.com/bidah/react-native-vercel-ai": {
     "githubUrl": "https://github.com/bidah/react-native-vercel-ai",
@@ -86221,7 +86222,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.529
+    "popularity": -0.529,
+    "uniqueCategory": "vercel-ai"
   },
   "https://github.com/gevgasparyan/react-native-animated-blur-view": {
     "githubUrl": "https://github.com/gevgasparyan/react-native-animated-blur-view",
@@ -86282,7 +86284,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.576
+    "popularity": -0.576,
+    "uniqueCategory": "blurview"
   },
   "https://github.com/mrousavy/react-native-fast-tflite": {
     "githubUrl": "https://github.com/mrousavy/react-native-fast-tflite",
@@ -86369,7 +86372,8 @@
       "tensorflow-lite",
       "tflite",
       "detection"
-    ]
+    ],
+    "uniqueCategory": "tensorflow-lite"
   },
   "https://github.com/margelo/react-native-worklets-core": {
     "githubUrl": "https://github.com/margelo/react-native-worklets-core",
@@ -86448,7 +86452,8 @@
       "threads",
       "worklet",
       "worklets"
-    ]
+    ],
+    "uniqueCategory": "multithreading"
   },
   "https://github.com/jpudysz/react-native-unistyles": {
     "githubUrl": "https://github.com/jpudysz/react-native-unistyles",
@@ -86531,7 +86536,8 @@
       "Recently updated"
     ],
     "popularity": -0.036,
-    "category": []
+    "category": [],
+    "uniqueCategory": "styling"
   },
   "https://github.com/WadhahEssam/react-native-theme-switch-animation": {
     "githubUrl": "https://github.com/WadhahEssam/react-native-theme-switch-animation",
@@ -86603,7 +86609,8 @@
       "Recently updated"
     ],
     "popularity": -0.091,
-    "category": []
+    "category": [],
+    "uniqueCategory": "theme-control"
   },
   "https://github.com/hoanglam10499/react-native-drop-shadow": {
     "githubUrl": "https://github.com/hoanglam10499/react-native-drop-shadow",
@@ -86669,7 +86676,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.005
+    "popularity": -0.005,
+    "uniqueCategory": "shadow"
   },
   "https://github.com/phamfoo/react-native-easing-gradient": {
     "githubUrl": "https://github.com/phamfoo/react-native-easing-gradient",
@@ -86746,7 +86754,8 @@
     "popularity": -0.043,
     "category": [
       "gradients"
-    ]
+    ],
+    "uniqueCategory": "gradients"
   },
   "https://github.com/DevVibhor/react-native-bullet-graph": {
     "githubUrl": "https://github.com/DevVibhor/react-native-bullet-graph",
@@ -86823,7 +86832,8 @@
       "chart",
       "graph",
       "visualization"
-    ]
+    ],
+    "uniqueCategory": "chart-graph"
   },
   "https://github.com/azesmway/react-native-unity": {
     "githubUrl": "https://github.com/azesmway/react-native-unity",
@@ -86883,7 +86893,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.035
+    "popularity": -0.035,
+    "uniqueCategory": "unity-project-in-rn"
   },
   "https://github.com/nandorojo/zeego/tree/master/packages/zeego": {
     "githubUrl": "https://github.com/nandorojo/zeego/tree/master/packages/zeego",
@@ -86952,7 +86963,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.082
+    "popularity": -0.082,
+    "uniqueCategory": "popup-menu"
   },
   "https://github.com/shyambhongle/react-native-video-duration": {
     "githubUrl": "https://github.com/shyambhongle/react-native-video-duration",
@@ -87013,7 +87025,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.063
+    "popularity": -0.063,
+    "uniqueCategory": "video"
   },
   "https://github.com/orbital-systems/react-native-esp-idf-provisioning": {
     "githubUrl": "https://github.com/orbital-systems/react-native-esp-idf-provisioning",
@@ -87091,7 +87104,8 @@
       "ble",
       "esp32",
       "provisioning"
-    ]
+    ],
+    "uniqueCategory": "bluetooth"
   },
   "https://github.com/OP-Engineering/op-sqlite": {
     "githubUrl": "https://github.com/OP-Engineering/op-sqlite",
@@ -87161,7 +87175,8 @@
     "popularity": -0.041,
     "category": [
       "sqlite"
-    ]
+    ],
+    "uniqueCategory": "local-storage"
   },
   "https://github.com/Hector-Chong/native-wechat": {
     "githubUrl": "https://github.com/Hector-Chong/native-wechat",
@@ -87226,7 +87241,8 @@
     "popularity": -0.664,
     "category": [
       "wechat"
-    ]
+    ],
+    "uniqueCategory": "wechat-api"
   },
   "https://github.com/mateoguzmana/react-native-zendesk-unified": {
     "githubUrl": "https://github.com/mateoguzmana/react-native-zendesk-unified",
@@ -87300,7 +87316,8 @@
     "popularity": -0.067,
     "category": [
       "zendesk"
-    ]
+    ],
+    "uniqueCategory": "zendesk"
   },
   "https://github.com/bugfender/rn-bugfender": {
     "githubUrl": "https://github.com/bugfender/rn-bugfender",
@@ -87365,7 +87382,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": 0.012,
-    "category": []
+    "category": [],
+    "uniqueCategory": "debug"
   },
   "https://github.com/howljs/react-native-auto-route": {
     "githubUrl": "https://github.com/howljs/react-native-auto-route",
@@ -87428,7 +87446,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.45
+    "popularity": -0.45,
+    "uniqueCategory": "navigation"
   },
   "https://github.com/neurio/react-native-local-network-permission": {
     "githubUrl": "https://github.com/neurio/react-native-local-network-permission",
@@ -87501,7 +87520,8 @@
       "local-network",
       "local-network-permission",
       "permissions"
-    ]
+    ],
+    "uniqueCategory": "network-info"
   },
   "https://github.com/flixyudh/react-native-flix-snackbar": {
     "githubUrl": "https://github.com/flixyudh/react-native-flix-snackbar",
@@ -87562,7 +87582,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.661
+    "popularity": -0.661,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/Splicer97/react-native-switch": {
     "githubUrl": "https://github.com/Splicer97/react-native-switch",
@@ -87618,7 +87639,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.039
+    "popularity": -0.039,
+    "uniqueCategory": "switch-component"
   },
   "https://github.com/bviebahn/react-native-star-rating-widget": {
     "githubUrl": "https://github.com/bviebahn/react-native-star-rating-widget",
@@ -87685,7 +87707,8 @@
       "Recently updated"
     ],
     "popularity": 0.004,
-    "category": []
+    "category": [],
+    "uniqueCategory": "ratings"
   },
   "https://github.com/margelo/react-native-release-profiler": {
     "githubUrl": "https://github.com/margelo/react-native-release-profiler",
@@ -87773,7 +87796,8 @@
       "debugger",
       "hermes",
       "perf"
-    ]
+    ],
+    "uniqueCategory": "performance-testing"
   },
   "https://github.com/kesha-antonov/react-native-background-downloader": {
     "githubUrl": "https://github.com/kesha-antonov/react-native-background-downloader",
@@ -87836,68 +87860,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.091
-  },
-  "https://github.com/callstack/react-theme-provider": {
-    "githubUrl": "https://github.com/callstack/react-theme-provider",
-    "npmPkg": "@callstack/react-theme-provider",
-    "ios": true,
-    "android": true,
-    "github": {
-      "urls": {
-        "repo": "https://github.com/callstack/react-theme-provider",
-        "clone": "https://github.com/callstack/react-theme-provider.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": false,
-        "updatedAt": "2024-04-18T20:48:08Z",
-        "createdAt": "2018-01-31T12:38:13Z",
-        "pushedAt": "2023-08-01T12:10:13Z",
-        "issues": 55,
-        "subscribers": 13,
-        "stars": 464,
-        "forks": 54
-      },
-      "name": "react-theme-provider",
-      "fullName": "callstack/react-theme-provider",
-      "description": "A set of utilities that help you create your own React theming system in few easy steps",
-      "topics": [],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "v3.0.9",
-        "tagName": "v3.0.9",
-        "createdAt": "2023-08-01T12:10:12Z",
-        "publishedAt": "2023-08-03T09:26:04Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 1088821,
-      "weekDownloads": 247970,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "",
-    "score": 81,
-    "matchingScoreModifiers": [
-      "Very popular",
-      "Popular"
-    ],
-    "popularity": -0.022
+    "popularity": -0.091,
+    "uniqueCategory": "background-task"
   },
   "https://github.com/sosog/react-native-dynamically-selected-picker": {
     "githubUrl": "https://github.com/sosog/react-native-dynamically-selected-picker",
@@ -87964,7 +87928,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": 0.011
+    "popularity": 0.011,
+    "uniqueCategory": "option-picker"
   },
   "https://github.com/steffeydev/react-native-popover-view": {
     "githubUrl": "https://github.com/steffeydev/react-native-popover-view",
@@ -88038,7 +88003,8 @@
     "category": [
       "popover",
       "modal"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/unimonkiez/react-native-asset": {
     "githubUrl": "https://github.com/unimonkiez/react-native-asset",
@@ -88087,7 +88053,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": 0.006
+    "popularity": 0.006,
+    "uniqueCategory": "assets"
   },
   "https://github.com/Dean177/react-native-json-tree": {
     "githubUrl": "https://github.com/Dean177/react-native-json-tree",
@@ -88154,7 +88121,8 @@
     "category": [
       "json-viewer",
       "json"
-    ]
+    ],
+    "uniqueCategory": "json-viewer"
   },
   "https://github.com/kimxogus/react-native-version-check/tree/master/packages/react-native-version-check": {
     "githubUrl": "https://github.com/kimxogus/react-native-version-check/tree/master/packages/react-native-version-check",
@@ -88226,7 +88194,8 @@
     "category": [
       "version",
       "version-check"
-    ]
+    ],
+    "uniqueCategory": "application-info"
   },
   "https://github.com/kevinstumpf/react-native-signature-pad": {
     "githubUrl": "https://github.com/kevinstumpf/react-native-signature-pad",
@@ -88290,7 +88259,8 @@
     "matchingScoreModifiers": [
       "Popular"
     ],
-    "popularity": -0.046
+    "popularity": -0.046,
+    "uniqueCategory": "capture-signature"
   },
   "https://github.com/Richou/react-native-android-location-enabler": {
     "githubUrl": "https://github.com/Richou/react-native-android-location-enabler",
@@ -88356,7 +88326,8 @@
       "Popular",
       "Recently updated"
     ],
-    "popularity": -0.033
+    "popularity": -0.033,
+    "uniqueCategory": "location"
   },
   "https://github.com/Mhp23/react-native-full-responsive": {
     "githubUrl": "https://github.com/Mhp23/react-native-full-responsive",
@@ -88431,7 +88402,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.39
+    "popularity": -0.39,
+    "uniqueCategory": "measurement"
   },
   "https://github.com/xmtp/xmtp-react-native": {
     "githubUrl": "https://github.com/xmtp/xmtp-react-native",
@@ -88494,7 +88466,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.054
+    "popularity": -0.054,
+    "uniqueCategory": "xmtp"
   },
   "https://github.com/powersync-ja/powersync-react-native-sdk/tree/main/packages/powersync-sdk-react-native": {
     "githubUrl": "https://github.com/powersync-ja/powersync-react-native-sdk/tree/main/packages/powersync-sdk-react-native",
@@ -88571,7 +88544,8 @@
     "popularity": -0.067,
     "category": [
       "powersync"
-    ]
+    ],
+    "uniqueCategory": "powersync-sdk"
   },
   "https://github.com/AnkiPro/react-native-canvas-view": {
     "githubUrl": "https://github.com/AnkiPro/react-native-canvas-view",
@@ -88634,7 +88608,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.274
+    "popularity": -0.274,
+    "uniqueCategory": "canvas-component"
   },
   "https://github.com/AnkiPro/react-native-file-open": {
     "githubUrl": "https://github.com/AnkiPro/react-native-file-open",
@@ -88694,7 +88669,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.274
+    "popularity": -0.274,
+    "uniqueCategory": "file-system"
   },
   "https://github.com/AnkiPro/react-native-window-resize": {
     "githubUrl": "https://github.com/AnkiPro/react-native-window-resize",
@@ -88758,7 +88734,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.274
+    "popularity": -0.274,
+    "uniqueCategory": "window-resize"
   },
   "https://github.com/ShivamRawat0l/react-native-loader-collection": {
     "githubUrl": "https://github.com/ShivamRawat0l/react-native-loader-collection",
@@ -88815,7 +88792,8 @@
     "matchingScoreModifiers": [
       "Not updated recently"
     ],
-    "popularity": -0.052
+    "popularity": -0.052,
+    "uniqueCategory": "loader-spinner"
   },
   "https://github.com/rn-elementary/menu": {
     "githubUrl": "https://github.com/rn-elementary/menu",
@@ -88867,7 +88845,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.661
+    "popularity": -0.661,
+    "uniqueCategory": "popup-menu"
   },
   "https://github.com/DevChanQ/react-native-svg-editor": {
     "githubUrl": "https://github.com/DevChanQ/react-native-svg-editor",
@@ -88922,7 +88901,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.744
+    "popularity": -0.744,
+    "uniqueCategory": "svg"
   },
   "https://github.com/Expensify/react-native-live-markdown": {
     "githubUrl": "https://github.com/Expensify/react-native-live-markdown",
@@ -88991,7 +88971,8 @@
     "popularity": -0.575,
     "category": [
       "markdown"
-    ]
+    ],
+    "uniqueCategory": "markdown"
   },
   "https://github.com/zacharyfmarion/react-native-fast-trie": {
     "githubUrl": "https://github.com/zacharyfmarion/react-native-fast-trie",
@@ -89064,7 +89045,8 @@
     "category": [
       "trie",
       "search"
-    ]
+    ],
+    "uniqueCategory": "trie-implementation"
   },
   "https://github.com/zacharyfmarion/react-native-heap-profiler": {
     "githubUrl": "https://github.com/zacharyfmarion/react-native-heap-profiler",
@@ -89139,7 +89121,8 @@
       "debugging",
       "heap",
       "profiling"
-    ]
+    ],
+    "uniqueCategory": "debug"
   },
   "https://github.com/ayonshafiul/react-native-reanimated-progress-steps": {
     "githubUrl": "https://github.com/ayonshafiul/react-native-reanimated-progress-steps",
@@ -89202,7 +89185,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.003
+    "popularity": -0.003,
+    "uniqueCategory": "linear-progress-view"
   },
   "https://github.com/yaay/react-native-pintyper": {
     "githubUrl": "https://github.com/yaay/react-native-pintyper",
@@ -89261,7 +89245,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.55
+    "popularity": -0.55,
+    "uniqueCategory": "input-pin"
   },
   "https://github.com/shubhambathe1/react-native-countdown-timer-hooks": {
     "githubUrl": "https://github.com/shubhambathe1/react-native-countdown-timer-hooks",
@@ -89322,7 +89307,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.012
+    "popularity": -0.012,
+    "uniqueCategory": "counting-animation"
   },
   "https://github.com/Temzasse/react-modal-sheet": {
     "githubUrl": "https://github.com/Temzasse/react-modal-sheet",
@@ -89403,7 +89389,8 @@
     "category": [
       "modal",
       "bottom-sheet"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/WalletConnect/web3modal-react-native": {
     "githubUrl": "https://github.com/WalletConnect/web3modal-react-native",
@@ -89473,7 +89460,8 @@
     "popularity": -1,
     "category": [
       "dapps"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/carsonwah/react-native-push-notification-popup": {
     "githubUrl": "https://github.com/carsonwah/react-native-push-notification-popup",
@@ -89545,7 +89533,8 @@
     "score": 50,
     "matchingScoreModifiers": [],
     "popularity": -0.145,
-    "category": []
+    "category": [],
+    "uniqueCategory": "push-notifications"
   },
   "https://github.com/jkomyno/react-native-user-inactivity": {
     "githubUrl": "https://github.com/jkomyno/react-native-user-inactivity",
@@ -89607,7 +89596,8 @@
     "popularity": -0.021,
     "category": [
       "inactivity"
-    ]
+    ],
+    "uniqueCategory": "screen-idle-timer"
   },
   "https://github.com/MarceloPrado/flash-calendar/tree/main/packages/flash-calendar": {
     "githubUrl": "https://github.com/MarceloPrado/flash-calendar/tree/main/packages/flash-calendar",
@@ -89685,7 +89675,8 @@
       "calendar",
       "date",
       "date-range-picker"
-    ]
+    ],
+    "uniqueCategory": "calendar"
   },
   "https://github.com/meedwire/react-native-image-rotate": {
     "githubUrl": "https://github.com/meedwire/react-native-image-rotate",
@@ -89746,7 +89737,8 @@
     "topicSearchString": "",
     "score": 50,
     "matchingScoreModifiers": [],
-    "popularity": -0.066
+    "popularity": -0.066,
+    "uniqueCategory": "image-editor"
   },
   "https://github.com/kesha-antonov/react-native-action-cable": {
     "githubUrl": "https://github.com/kesha-antonov/react-native-action-cable",
@@ -89829,7 +89821,8 @@
       "rails6",
       "ruby-on-rails",
       "rubyonrails"
-    ]
+    ],
+    "uniqueCategory": "action-cable-rails5"
   },
   "https://github.com/binaryminds/react-native-sse": {
     "githubUrl": "https://github.com/binaryminds/react-native-sse",
@@ -89903,7 +89896,8 @@
       "eventsource",
       "sse",
       "event-source"
-    ]
+    ],
+    "uniqueCategory": "server-sent-events"
   },
   "https://github.com/Acetyld/expo-foreground-actions": {
     "githubUrl": "https://github.com/Acetyld/expo-foreground-actions",
@@ -89964,7 +89958,8 @@
       "Recently updated"
     ],
     "popularity": -0.532,
-    "category": []
+    "category": [],
+    "uniqueCategory": "background-task"
   },
   "https://github.com/FerRiv3ra/rn-custom-alert-prompt": {
     "githubUrl": "https://github.com/FerRiv3ra/rn-custom-alert-prompt",
@@ -90014,7 +90009,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.737
+    "popularity": -0.737,
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   },
   "https://github.com/FerRiv3ra/rn-segmented-tab-controls": {
     "githubUrl": "https://github.com/FerRiv3ra/rn-segmented-tab-controls",
@@ -90064,7 +90060,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.769
+    "popularity": -0.769,
+    "uniqueCategory": "tab-view"
   },
   "https://github.com/candlefinance/react-native-purchase-kit": {
     "githubUrl": "https://github.com/candlefinance/react-native-purchase-kit",
@@ -90133,7 +90130,8 @@
       "Recently updated"
     ],
     "popularity": -0.675,
-    "category": []
+    "category": [],
+    "uniqueCategory": "in-app-purchases"
   },
   "https://github.com/candlefinance/react-native-openai": {
     "githubUrl": "https://github.com/candlefinance/react-native-openai",
@@ -90208,7 +90206,8 @@
     "popularity": 0.008,
     "category": [
       "openai"
-    ]
+    ],
+    "uniqueCategory": "open-ai"
   },
   "https://github.com/candlefinance/haptics": {
     "githubUrl": "https://github.com/candlefinance/haptics",
@@ -90283,7 +90282,8 @@
     "category": [
       "haptics",
       "ahap"
-    ]
+    ],
+    "uniqueCategory": "haptics"
   },
   "https://github.com/margelo/react-native-skottie/tree/main/package": {
     "githubUrl": "https://github.com/margelo/react-native-skottie/tree/main/package",
@@ -90359,7 +90359,8 @@
       "skia",
       "skottie",
       "lottie"
-    ]
+    ],
+    "uniqueCategory": "animated-libraries"
   },
   "https://github.com/ysfzrn/react-native-gif-player": {
     "githubUrl": "https://github.com/ysfzrn/react-native-gif-player",
@@ -90444,76 +90445,8 @@
       "gif-stop",
       "react-native-gif",
       "gifs"
-    ]
-  },
-  "https://github.com/callstack/react-native-windows-hello": {
-    "githubUrl": "https://github.com/callstack/react-native-windows-hello",
-    "images": [
-      "https://raw.githubusercontent.com/callstack/react-native-windows-hello/main/.github/Resources/RNW-Hello-FullExample.gif"
     ],
-    "windows": true,
-    "npmPkg": "react-native-windows-hello",
-    "github": {
-      "urls": {
-        "repo": "https://github.com/BartoszKlonowski/react-native-windows-hello",
-        "clone": "https://github.com/BartoszKlonowski/react-native-windows-hello.git",
-        "homepage": ""
-      },
-      "stats": {
-        "hasIssues": true,
-        "hasWiki": true,
-        "hasPages": false,
-        "hasDownloads": true,
-        "hasTopics": true,
-        "updatedAt": "2024-05-09T18:24:00Z",
-        "createdAt": "2021-07-14T10:42:03Z",
-        "pushedAt": "2024-05-09T18:23:55Z",
-        "issues": 8,
-        "subscribers": 13,
-        "stars": 11,
-        "forks": 3
-      },
-      "name": "react-native-windows-hello",
-      "fullName": "BartoszKlonowski/react-native-windows-hello",
-      "description": "RNW library providing developer with all Windows Hello features",
-      "topics": [
-        "react-native-windows",
-        "windows-hello"
-      ],
-      "license": {
-        "key": "mit",
-        "name": "MIT License",
-        "spdxId": "MIT",
-        "url": "https://api.github.com/licenses/mit",
-        "id": "MDc6TGljZW5zZTEz"
-      },
-      "lastRelease": {
-        "name": "v1.1.0: dependencies: react-native & react-native-windows updated",
-        "tagName": "v1.1.0",
-        "createdAt": "2022-02-21T18:16:01Z",
-        "publishedAt": "2022-02-21T18:18:05Z",
-        "isPrerelease": false
-      },
-      "hasTypes": false,
-      "newArchitecture": false
-    },
-    "npm": {
-      "downloads": 76,
-      "weekDownloads": 9,
-      "start": "2024-04-25",
-      "end": "2024-05-24",
-      "period": "month"
-    },
-    "topicSearchString": "react-native-windows windows-hello",
-    "score": 56,
-    "matchingScoreModifiers": [
-      "Recently updated"
-    ],
-    "popularity": -0.682,
-    "category": [
-      "react-native-windows",
-      "windows-hello"
-    ]
+    "uniqueCategory": "giphy-sdk"
   },
   "https://github.com/tushu4212/rntemplate": {
     "githubUrl": "https://github.com/tushu4212/rntemplate",
@@ -90568,7 +90501,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.295
+    "popularity": -0.295,
+    "uniqueCategory": "boilerplate"
   },
   "https://github.com/lodev09/react-native-true-sheet": {
     "githubUrl": "https://github.com/lodev09/react-native-true-sheet",
@@ -90646,7 +90580,8 @@
       "bottom-sheet",
       "modal-sheet",
       "native-sheet"
-    ]
+    ],
+    "uniqueCategory": "bottom-sheet"
   },
   "https://github.com/dylankenneally/react-native-ssh-sftp": {
     "githubUrl": "https://github.com/dylankenneally/react-native-ssh-sftp",
@@ -90718,7 +90653,8 @@
       "sftp-client",
       "ssh-client",
       "ssh"
-    ]
+    ],
+    "uniqueCategory": "sftp"
   },
   "https://github.com/RichardRNStudio/react-native-slider-intro": {
     "githubUrl": "https://github.com/RichardRNStudio/react-native-slider-intro",
@@ -90804,7 +90740,8 @@
     "category": [
       "slider",
       "intro"
-    ]
+    ],
+    "uniqueCategory": "carousel-swiper"
   },
   "https://github.com/RichardRNStudio/react-native-find-local-devices": {
     "githubUrl": "https://github.com/RichardRNStudio/react-native-find-local-devices",
@@ -90882,7 +90819,8 @@
       "network-discovery",
       "websocket-connection",
       "local-network"
-    ]
+    ],
+    "uniqueCategory": "port-scanning"
   },
   "https://github.com/Netizen-Teknologi/avatar-placeholder": {
     "githubUrl": "https://github.com/Netizen-Teknologi/avatar-placeholder",
@@ -90937,7 +90875,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.722
+    "popularity": -0.722,
+    "uniqueCategory": "avatar"
   },
   "https://github.com/margelo/react-native-quick-crypto": {
     "githubUrl": "https://github.com/margelo/react-native-quick-crypto",
@@ -91020,7 +90959,8 @@
       "encryption",
       "decryption",
       "maths"
-    ]
+    ],
+    "uniqueCategory": "hashing"
   },
   "https://github.com/vokhuyetOz/react-native-messy": {
     "githubUrl": "https://github.com/vokhuyetOz/react-native-messy",
@@ -91087,7 +91027,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.237
+    "popularity": -0.237,
+    "uniqueCategory": "chat-component"
   },
   "https://github.com/vokhuyetOz/react-native-concurrent-sound": {
     "githubUrl": "https://github.com/vokhuyetOz/react-native-concurrent-sound",
@@ -91150,7 +91091,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.619
+    "popularity": -0.619,
+    "uniqueCategory": "audio"
   },
   "https://github.com/FerRiv3ra/rn-inkpad": {
     "githubUrl": "https://github.com/FerRiv3ra/rn-inkpad",
@@ -91200,7 +91142,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": -0.626
+    "popularity": -0.626,
+    "uniqueCategory": "ui-toolkit"
   },
   "https://github.com/lodev09/expo-recorder": {
     "githubUrl": "https://github.com/lodev09/expo-recorder",
@@ -91269,7 +91212,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.186
+    "popularity": -0.186,
+    "uniqueCategory": "audio"
   },
   "https://github.com/duguyihou/react-native-turbo-image": {
     "githubUrl": "https://github.com/duguyihou/react-native-turbo-image",
@@ -91336,7 +91280,8 @@
     "matchingScoreModifiers": [
       "Recently updated"
     ],
-    "popularity": -0.3
+    "popularity": -0.3,
+    "uniqueCategory": "image"
   },
   "https://github.com/LovesWorking/react-native-react-query-devtools": {
     "githubUrl": "https://github.com/LovesWorking/react-native-react-query-devtools",
@@ -91400,7 +91345,8 @@
       "No license",
       "Recently updated"
     ],
-    "popularity": 0.037
+    "popularity": 0.037,
+    "uniqueCategory": "react-query"
   },
   "https://github.com/calintamas/react-native-toast-message": {
     "githubUrl": "https://github.com/calintamas/react-native-toast-message",
@@ -91472,6 +91418,7 @@
     "popularity": -0.021,
     "category": [
       "toast"
-    ]
+    ],
+    "uniqueCategory": "popup-modal-toast-inAppNotifications"
   }
 }
