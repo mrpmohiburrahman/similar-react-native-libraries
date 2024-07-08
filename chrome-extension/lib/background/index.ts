@@ -19,10 +19,10 @@ async function fetchJsonData<T>(url: string): Promise<T> {
 async function fetchDataAndStore() {
   try {
     const combinedData: Record<string, Library> = await fetchJsonData(
-      'https://cdn.jsdelivr.net/gh/mrpmohiburrahman/category-selector-with-cdn/data/combinedFromChunks.json',
+      'https://cdn.jsdelivr.net/gh/mrpmohiburrahman/similar-react-native-libraries@main/category-selector/data/combinedFromChunks.json',
     );
     const uniqueCategoryData: UniqueCategoryData = await fetchJsonData(
-      'https://cdn.jsdelivr.net/gh/mrpmohiburrahman/category-selector-with-cdn/data/uniqueCategoryToLib.json',
+      'https://cdn.jsdelivr.net/gh/mrpmohiburrahman/similar-react-native-libraries@main/category-selector/data/uniqueCategoryToLib.json',
     );
 
     // Store data in local storage
