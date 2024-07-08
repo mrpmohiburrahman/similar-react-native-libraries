@@ -22,10 +22,8 @@ jobs:
           node-version: '16'
           cache: 'pnpm'
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 8
+      - name: Install pnpm
+        run: npm install -g pnpm@8
 
       - name: Install dependencies
         run: pnpm install --recursive --frozen-lockfile --strict-peer-dependencies
@@ -46,10 +44,8 @@ jobs:
           node-version: '16'
           cache: 'pnpm'
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 8
+      - name: Install pnpm
+        run: npm install -g pnpm@8
 
       - name: Install dependencies
         run: pnpm install --recursive --strict-peer-dependencies
