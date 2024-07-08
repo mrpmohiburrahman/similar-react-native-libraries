@@ -3,3 +3,4 @@ packages:
   - 'pages/*'
   - 'packages/*'
   - 'category-selector'
+  - 'website/similar-react-native-libraries'
