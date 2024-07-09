@@ -24,9 +24,7 @@
 .searchContainer input[type="text"] {
   width: 100%;
   max-width: 1000px;
-  /* Increase the max-width to make the input field wider */
   padding: 1.5rem;
-  /* Increase the padding for better visibility */
   font-size: 1.5rem;
   border: 1px solid #ccc;
   border-radius: 5px;

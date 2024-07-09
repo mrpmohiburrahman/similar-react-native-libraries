@@ -9,9 +9,11 @@ hide_title: true
 ---
 
 import SearchComponent from '@site/components/search_component/SearchComponent';
+import Header from '@site/components/Header/Header';
 import styles from './getting-started.module.css';
 
 <div className={styles.container}>
+  <Header />
   <div className={styles.searchContainer}>
     <h1>Discover Similar React Native Libraries</h1>
     <SearchComponent />

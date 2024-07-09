@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, ChangeEvent, KeyboardEvent, MouseEvent } from 'react';
-import combinedData from '../../../../category-selector/data/combinedFromChunks.json';
-import categoryData from '../../../../category-selector/data/uniqueCategoryToLib.json';
+import combinedData from '../../../../category-selector/data/combinedFromChunks.json'; // Adjust the path to your JSON file
+import categoryData from '../../../../category-selector/data/uniqueCategoryToLib.json'; // Adjust the path to your JSON file
 import styles from './SearchComponent.module.css';
 
 interface GithubData {
@@ -162,6 +162,28 @@ const SearchComponent: React.FC = () => {
     });
   };
 
+  const checkPopupPermissions = async () => {
+    try {
+      const popupWindow = window.open('', '_blank');
+      if (popupWindow) {
+        popupWindow.close();
+        return true;
+      }
+      return false;
+    } catch (e) {
+      return false;
+    }
+  };
+
+  const handleButtonClick = async () => {
+    const hasPermission = await checkPopupPermissions();
+    if (hasPermission) {
+      handleOpenAllLinks();
+    } else {
+      alert('Please allow popups and redirects for this site in your browser settings.');
+    }
+  };
+
   return (
     <div className={styles.container}>
       <input
@@ -174,7 +196,7 @@ const SearchComponent: React.FC = () => {
         className={styles.searchInput}
       />
       {hasSearched && results.length > 0 && (
-        <button onClick={handleOpenAllLinks} className={styles.openAllButton}>
+        <button onClick={handleButtonClick} className={styles.openAllButton}>
           Open All Links
         </button>
       )}
@@ -204,7 +226,6 @@ const SearchComponent: React.FC = () => {
                   </a>
                 </h2>
                 <p>{result.github?.description}</p>
-                {/* Display other relevant data from the JSON object as needed */}
               </div>
             ))
           : hasSearched && (
