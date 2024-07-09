@@ -1,10 +1,33 @@
 /* SearchComponent.module.css */
+:root {
+    --bg-color: #fff;
+    --text-color: #333;
+    --border-color: #ccc;
+    --hover-bg-color: #f0f0f0;
+    --suggestion-bg-color: #fff;
+    --suggestion-text-color: #333;
+    --active-bg-color: #0070f3;
+    --active-text-color: #fff;
+}
+
+[data-theme='dark'] {
+    --bg-color: #333;
+    --text-color: #fff;
+    --border-color: #555;
+    --hover-bg-color: #444;
+    --suggestion-bg-color: #444;
+    --suggestion-text-color: #fff;
+    --active-bg-color: #1a73e8;
+    --active-text-color: #fff;
+}
+
 .container {
     display: flex;
     flex-direction: column;
     align-items: center;
     text-align: left;
     width: 100%;
+    position: relative;
 }
 
 .searchInput {
@@ -12,8 +35,43 @@
     max-width: 800px;
     padding: 1rem;
     font-size: 1.5rem;
-    border: 1px solid #ccc;
+    border: 1px solid var(--border-color);
     border-radius: 5px;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+}
+
+.suggestionsContainer {
+    position: absolute;
+    top: 60px;
+    /* Adjust this value as needed */
+    width: 100%;
+    max-width: 800px;
+    border: 1px solid var(--border-color);
+    border-top: none;
+    background-color: var(--suggestion-bg-color);
+    z-index: 1000;
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.suggestionItem {
+    padding: 1rem;
+    border-bottom: 1px solid var(--border-color);
+    cursor: pointer;
+    background-color: var(--suggestion-bg-color);
+    color: var(--suggestion-text-color);
+    transition: background-color 0.2s;
+}
+
+.suggestionItem:hover,
+.suggestionItem.active {
+    background-color: var(--hover-bg-color);
+}
+
+.suggestionItem.active {
+    background-color: var(--active-bg-color);
+    color: var(--active-text-color);
 }
 
 .resultsContainer {
@@ -23,7 +81,7 @@
 }
 
 .resultItem {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--border-color);
     padding: 1rem 0;
 }
 
