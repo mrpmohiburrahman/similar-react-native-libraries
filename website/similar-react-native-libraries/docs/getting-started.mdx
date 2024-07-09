@@ -5,26 +5,23 @@ sidebar_label: Getting Started
 description: Discover similar React Native libraries.
 image: /img/og.png
 slug: /
+hide_title: true
 ---
-
-Discover similar React Native libraries based on the current active GitHub URL.
-
-### 🌟 Enjoying the Extension?
-
-If you find this extension useful, please consider giving our repository a **`star`** on [GitHub](https://github.com/mrpmohiburrahman/similar-react-native-libraries).
-
-Your support helps us continue to grow and provide more high-quality content for the community!
-
-### 🔍 Search for a GitHub URL
 
 import SearchComponent from '@site/components/search_component/SearchComponent';
+import styles from './getting-started.module.css';
 
-<SearchComponent />
+<div className={styles.container}>
+  <div className={styles.searchContainer}>
+    <h1>Discover Similar React Native Libraries</h1>
+    <SearchComponent />
+  </div>
 
-### 🤝 Want to Contribute?
+  <div className={styles.footer}>
+    <h2>🌟 Enjoying the Extension?</h2>
+    <p>If you find this extension useful, please consider giving our repository a <a href="https://github.com/mrpmohiburrahman/similar-react-native-libraries" target="_blank" rel="noopener noreferrer">star</a> on GitHub.</p>
 
-We welcome contributions from the community! If you have found or created similar React Native libraries, share them with us. Follow the contribution guidelines on our [GitHub repository](https://github.com/mrpmohiburrahman/similar-react-native-libraries?tab=readme-ov-file#contributing) to submit your libraries.
-
----
-
-Enjoy your visit!
+    <h2>🤝 Want to Contribute?</h2>
+    <p>We welcome contributions from the community! Guidelines will be added soon.</p>
+  </div>
+</div>

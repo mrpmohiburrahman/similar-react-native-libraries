@@ -1,8 +1,8 @@
-// src/components/SearchComponent.tsx
 import React, { useState, useEffect, ChangeEvent } from 'react';
 import debounce from 'lodash/debounce';
 import combinedData from '../../../../category-selector/data/combinedFromChunks.json'; // Adjust the path to your JSON file
 import categoryData from '../../../../category-selector/data/uniqueCategoryToLib.json'; // Adjust the path to your JSON file
+import styles from './SearchComponent.module.css'; // Assuming styles are imported
 
 interface GithubData {
   githubUrl: string;
@@ -104,11 +104,18 @@ const SearchComponent: React.FC = () => {
   };
 
   return (
-    <div>
-      <input type="text" value={query} onChange={handleChange} placeholder="Enter GitHub URL" />
-      {results.length > 0
-        ? results.map(result => (
-            <div key={result.githubUrl}>
+    <div className={styles.container}>
+      <input
+        type="text"
+        value={query}
+        onChange={handleChange}
+        placeholder="Enter GitHub URL"
+        className={styles.searchInput}
+      />
+      <div className={styles.resultsContainer}>
+        {results.length > 0 ? (
+          results.map(result => (
+            <div key={result.githubUrl} className={styles.resultItem}>
               <h2>
                 <a href={result.github?.urls?.repo} target="_blank" rel="noopener noreferrer">
                   {result.github?.name}
@@ -118,7 +125,10 @@ const SearchComponent: React.FC = () => {
               {/* Display other relevant data from the JSON object as needed */}
             </div>
           ))
-        : query && <p>No results found</p>}
+        ) : (
+          <div className={styles.noResultsSpace}>{query && <p>No results found</p>}</div>
+        )}
+      </div>
     </div>
   );
 };

@@ -1,0 +1,61 @@
+/* getting-started.module.css */
+.container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: space-between;
+}
+
+.searchContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  flex-grow: 1;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.searchContainer h1 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.searchContainer input[type="text"] {
+  width: 100%;
+  max-width: 1000px;
+  /* Increase the max-width to make the input field wider */
+  padding: 1.5rem;
+  /* Increase the padding for better visibility */
+  font-size: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 2rem;
+  padding: 2rem;
+  font-size: 0.9rem;
+}
+
+.footer h2 {
+  font-size: 1.2rem;
+}
+
+.footer p {
+  font-size: 0.9rem;
+}
+
+.footer a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  text-decoration: underline;
+}
+
+.noResultsSpace {
+  margin-top: 2rem;
+}

@@ -1,0 +1,32 @@
+/* SearchComponent.module.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+    width: 100%;
+}
+
+.searchInput {
+    width: 100%;
+    max-width: 800px;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.resultsContainer {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 1rem;
+}
+
+.resultItem {
+    border-bottom: 1px solid #ddd;
+    padding: 1rem 0;
+}
+
+.noResultsSpace {
+    margin-top: 2rem;
+}
