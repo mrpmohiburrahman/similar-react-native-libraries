@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, ChangeEvent, KeyboardEvent, MouseEvent } from 'react';
-import combinedData from '../../../../category-selector/data/combinedFromChunks.json'; // Adjust the path to your JSON file
-import categoryData from '../../../../category-selector/data/uniqueCategoryToLib.json'; // Adjust the path to your JSON file
+import combinedData from '../../../../category-selector/data/combinedFromChunks.json';
+import categoryData from '../../../../category-selector/data/uniqueCategoryToLib.json';
 import styles from './SearchComponent.module.css';
 
 interface GithubData {
@@ -76,6 +76,7 @@ const SearchComponent: React.FC = () => {
   const [activeSuggestionIndex, setActiveSuggestionIndex] = useState<number>(0);
   const [hasSearched, setHasSearched] = useState<boolean>(false);
   const inputRef = useRef<HTMLInputElement>(null);
+  const resultRefs = useRef<(HTMLAnchorElement | null)[]>([]);
 
   useEffect(() => {
     inputRef.current?.focus();
@@ -153,6 +154,14 @@ const SearchComponent: React.FC = () => {
     fetchResults(selectedSuggestion);
   };
 
+  const handleOpenAllLinks = () => {
+    resultRefs.current.forEach(ref => {
+      if (ref) {
+        ref.click();
+      }
+    });
+  };
+
   return (
     <div className={styles.container}>
       <input
@@ -164,6 +173,11 @@ const SearchComponent: React.FC = () => {
         placeholder="Enter GitHub URL"
         className={styles.searchInput}
       />
+      {hasSearched && results.length > 0 && (
+        <button onClick={handleOpenAllLinks} className={styles.openAllButton}>
+          Open All Links
+        </button>
+      )}
       {showSuggestions && suggestions.length > 0 && (
         <div className={styles.suggestionsContainer}>
           {suggestions.map((suggestion, index) => (
@@ -178,10 +192,14 @@ const SearchComponent: React.FC = () => {
       )}
       <div className={styles.resultsContainer}>
         {hasSearched && results.length > 0
-          ? results.map(result => (
+          ? results.map((result, index) => (
               <div key={result.githubUrl} className={styles.resultItem}>
                 <h2>
-                  <a href={result.github?.urls?.repo} target="_blank" rel="noopener noreferrer">
+                  <a
+                    href={result.github?.urls?.repo}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    ref={el => (resultRefs.current[index] = el)}>
                     {result.github?.name}
                   </a>
                 </h2>

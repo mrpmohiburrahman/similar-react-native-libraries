@@ -88,3 +88,20 @@
 .noResultsSpace {
     margin-top: 2rem;
 }
+
+.openAllButton {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    background-color: var(--active-bg-color);
+    color: var(--active-text-color);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: flex-end;
+    /* Align the button to the bottom-right */
+}
+
+.openAllButton:hover {
+    background-color: var(--hover-bg-color);
+}
