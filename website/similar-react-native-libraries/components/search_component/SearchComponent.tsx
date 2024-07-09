@@ -1,7 +1,8 @@
 // src/components/SearchComponent.tsx
 import React, { useState, useEffect, ChangeEvent } from 'react';
 import debounce from 'lodash/debounce';
-import jsonData from '../../../../category-selector/data/combinedFromChunks.json'; // Adjust the path to your JSON file
+import combinedData from '../../../../category-selector/data/combinedFromChunks.json'; // Adjust the path to your JSON file
+import categoryData from '../../../../category-selector/data/uniqueCategoryToLib.json'; // Adjust the path to your JSON file
 
 interface GithubData {
   githubUrl: string;
@@ -70,14 +71,27 @@ interface GithubData {
 
 const SearchComponent: React.FC = () => {
   const [query, setQuery] = useState<string>('');
-  const [result, setResult] = useState<GithubData | null>(null);
+  const [results, setResults] = useState<GithubData[]>([]);
 
   const handleSearch = debounce((searchTerm: string) => {
     if (searchTerm) {
-      const item = (jsonData as { [key: string]: GithubData })[searchTerm];
-      setResult(item || null);
+      const item = (combinedData as { [key: string]: GithubData })[searchTerm];
+      if (item) {
+        const uniqueCategory = item.uniqueCategory;
+        const relatedLibs = (categoryData as { [key: string]: string[] })[uniqueCategory];
+        if (relatedLibs) {
+          const fetchedResults = relatedLibs
+            .map(libUrl => (combinedData as { [key: string]: GithubData })[libUrl])
+            .filter(Boolean) as GithubData[];
+          setResults(fetchedResults);
+        } else {
+          setResults([]);
+        }
+      } else {
+        setResults([]);
+      }
     } else {
-      setResult(null);
+      setResults([]);
     }
   }, 300);
 
@@ -92,15 +106,19 @@ const SearchComponent: React.FC = () => {
   return (
     <div>
       <input type="text" value={query} onChange={handleChange} placeholder="Enter GitHub URL" />
-      {result ? (
-        <div>
-          <h2>{result.github.name}</h2>
-          <p>{result.github.description}</p>
-          {/* Display other relevant data from the JSON object as needed */}
-        </div>
-      ) : (
-        query && <p>No results found</p>
-      )}
+      {results.length > 0
+        ? results.map(result => (
+            <div key={result.githubUrl}>
+              <h2>
+                <a href={result.github?.urls?.repo} target="_blank" rel="noopener noreferrer">
+                  {result.github?.name}
+                </a>
+              </h2>
+              <p>{result.github?.description}</p>
+              {/* Display other relevant data from the JSON object as needed */}
+            </div>
+          ))
+        : query && <p>No results found</p>}
     </div>
   );
 };
