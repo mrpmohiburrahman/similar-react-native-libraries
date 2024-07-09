@@ -1,0 +1,1 @@
+cd website/similar-react-native-libraries && pnpm run update:lastcommit && git add ../../category-selector/data/metadata.json

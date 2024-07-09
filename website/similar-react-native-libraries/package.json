@@ -10,9 +10,9 @@
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve",
     "clear": "docusaurus clear",
-    "update:lastcommit": "node scripts/updateLastCommitDate.js",
+    "update:lastcommit": "node scripts/generateMetadata.js",
     "update:updateChangedItems": "node scripts/updateChangedItems.js",
-    "prepare": "husky install",
+    "prepare": "cd ../../ && husky install project/.husky",
     "extract-ids": "ts-node scripts/extractIds.ts"
   },
   "dependencies": {
