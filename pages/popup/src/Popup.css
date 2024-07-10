@@ -53,64 +53,12 @@ body {
   /* Shadow to match item cards */
 }
 
-.info-button-container {
+.button-group {
   display: flex;
-  justify-content: space-between;
-  align-items: center;
-  width: 100%;
-  padding: 10px;
-  border: 1px solid #555555;
-  /* Border color */
-  border-radius: 8px;
-  margin-bottom: 20px;
-  /* Ensure even spacing */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-  /* Shadow to match item cards */
+  gap: 10px;
 }
 
-.additional-info {
-  text-align: left;
-  color: #ffcc00;
-  /* Accent color for the additional info */
-}
-
-.additional-info p {
-  margin: 5px 0;
-}
-
-.visit-site-button {
-  padding: 8px 12px;
-  background-color: #ffcc00;
-  /* Button background color */
-  color: #333333;
-  /* Button text color */
-  border: none;
-  border-radius: 5px;
-  font-size: 0.9rem;
-  font-weight: bold;
-  cursor: pointer;
-  transition: background-color 0.2s ease, transform 0.2s ease;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  /* Button shadow */
-}
-
-.visit-site-button:hover {
-  background-color: #e6b800;
-  /* Darker yellow on hover */
-  transform: translateY(-2px);
-}
-
-.visit-site-button:active {
-  background-color: #d1a700;
-  /* Even darker yellow on active */
-}
-
-.text-xl {
-  font-size: 1.5rem;
-  color: #ffcc00;
-  /* Accent color */
-}
-
+.visit-site-button,
 .open-all-button {
   padding: 8px 12px;
   background-color: #ffcc00;
@@ -127,15 +75,23 @@ body {
   /* Button shadow */
 }
 
+.visit-site-button:hover,
 .open-all-button:hover {
   background-color: #e6b800;
   /* Darker yellow on hover */
   transform: translateY(-2px);
 }
 
+.visit-site-button:active,
 .open-all-button:active {
   background-color: #d1a700;
   /* Even darker yellow on active */
+}
+
+.text-xl {
+  font-size: 1.5rem;
+  color: #ffcc00;
+  /* Accent color */
 }
 
 .item-list {

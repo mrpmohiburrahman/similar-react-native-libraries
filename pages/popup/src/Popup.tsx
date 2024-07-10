@@ -2,16 +2,9 @@
 import React, { useEffect, useState } from 'react';
 import '@src/Popup.css';
 import { Library } from './types';
-import { format } from 'timeago.js';
 const siteLink = 'https://mrpmohiburrahman.github.io/similar-react-native-libraries/';
-const metadataCDN_Url =
-  'https://cdn.jsdelivr.net/gh/mrpmohiburrahman/similar-react-native-libraries@main/category-selector/data/metadata.json';
 
-const MatchedItemsList: React.FC<{ lastUpdated: string; numLibraries: number; siteLink: string }> = ({
-  lastUpdated,
-  numLibraries,
-  siteLink,
-}) => {
+const MatchedItemsList: React.FC<{ siteLink: string }> = ({ siteLink }) => {
   const [items, setItems] = useState<Library[]>([]);
   const [loading, setLoading] = useState(true);
 
@@ -44,22 +37,16 @@ const MatchedItemsList: React.FC<{ lastUpdated: string; numLibraries: number; si
 
   return (
     <>
-      <div className="info-button-container">
-        <div className="additional-info">
-          <p>{lastUpdated}</p>
-          <p>
-            Number of Sorted Libraries:<strong> {numLibraries}</strong>
-          </p>
-        </div>
-        <button className="visit-site-button" onClick={() => window.open(siteLink, '_blank')}>
-          Visit Site
-        </button>
-      </div>
       <div className="header-button-container">
         <h1 className="text-xl">Matched Libraries</h1>
-        <button className="open-all-button" onClick={openAllLinks}>
-          Open All Links
-        </button>
+        <div className="button-group">
+          <button className="visit-site-button" onClick={() => window.open(siteLink, '_blank')}>
+            Visit Site
+          </button>
+          <button className="open-all-button" onClick={openAllLinks}>
+            Open All Links
+          </button>
+        </div>
       </div>
       <div className="item-list">
         {items.map((item, index) => (
@@ -87,40 +74,12 @@ const MatchedItemsList: React.FC<{ lastUpdated: string; numLibraries: number; si
     </>
   );
 };
-const renderLastUpdatedMessage = (message: string) => {
-  const parts = message.split('Last updated: ');
-  if (parts.length > 1) {
-    return (
-      <p>
-        Last updated: <strong>{parts[1]}</strong>
-      </p>
-    );
-  }
-  return <p>{message}</p>;
-};
 
 const Popup: React.FC = () => {
-  const [lastUpdated, setLastUpdated] = useState<string>('');
-  const [numLibraries, setNumLibraries] = useState<number>(0);
-
-  useEffect(() => {
-    fetch(metadataCDN_Url)
-      .then(response => response.json())
-      .then(data => {
-        setLastUpdated(`Last updated: ${format(new Date(data.lastUpdated))}`);
-        setNumLibraries(data.numLibraries);
-      })
-      .catch(error => console.error('Error fetching metadata:', error));
-  }, []);
-
   return (
     <div className="App">
       <header className="App-header">
-        <MatchedItemsList
-          lastUpdated={renderLastUpdatedMessage(lastUpdated)}
-          numLibraries={numLibraries}
-          siteLink={siteLink}
-        />
+        <MatchedItemsList siteLink={siteLink} />
       </header>
     </div>
   );
