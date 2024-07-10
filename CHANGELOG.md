@@ -1,3 +1,10 @@
+## [1.0.22](https://github.com/mrpmohiburrahman/similar-react-native-libraries/compare/v1.0.21...v1.0.22) (2024-07-10)
+
+
+### Bug Fixes
+
+* add visit site button ([ee12d96](https://github.com/mrpmohiburrahman/similar-react-native-libraries/commit/ee12d9688d6bff9d669c143b638199a09b709bdd))
+
 ## [1.0.21](https://github.com/mrpmohiburrahman/similar-react-native-libraries/compare/v1.0.20...v1.0.21) (2024-07-10)
 
 
