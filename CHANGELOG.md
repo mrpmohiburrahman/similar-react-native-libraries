@@ -1,3 +1,10 @@
+## [1.0.21](https://github.com/mrpmohiburrahman/similar-react-native-libraries/compare/v1.0.20...v1.0.21) (2024-07-10)
+
+
+### Bug Fixes
+
+* add lastupdated, number of sorted libraries and visite site button ([df6ccca](https://github.com/mrpmohiburrahman/similar-react-native-libraries/commit/df6cccafb523a13c276ffc085247dad5e681a069))
+
 ## [1.0.20](https://github.com/mrpmohiburrahman/similar-react-native-libraries/compare/v1.0.19...v1.0.20) (2024-07-08)
 
 
