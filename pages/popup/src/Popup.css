@@ -33,7 +33,7 @@ body {
 
 .App-header {
   text-align: center;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   color: #ffcc00;
   /* Accent color for the header text */
 }
@@ -44,15 +44,65 @@ body {
   align-items: center;
   width: 100%;
   padding: 10px;
-  /* background: #444444; */
-  /* Container background */
   border: 1px solid #555555;
   /* Border color */
   border-radius: 8px;
   margin-bottom: 20px;
-  /* Additional margin to separate from list */
+  /* Ensure even spacing */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
   /* Shadow to match item cards */
+}
+
+.info-button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #555555;
+  /* Border color */
+  border-radius: 8px;
+  margin-bottom: 20px;
+  /* Ensure even spacing */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  /* Shadow to match item cards */
+}
+
+.additional-info {
+  text-align: left;
+  color: #ffcc00;
+  /* Accent color for the additional info */
+}
+
+.additional-info p {
+  margin: 5px 0;
+}
+
+.visit-site-button {
+  padding: 8px 12px;
+  background-color: #ffcc00;
+  /* Button background color */
+  color: #333333;
+  /* Button text color */
+  border: none;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  /* Button shadow */
+}
+
+.visit-site-button:hover {
+  background-color: #e6b800;
+  /* Darker yellow on hover */
+  transform: translateY(-2px);
+}
+
+.visit-site-button:active {
+  background-color: #d1a700;
+  /* Even darker yellow on active */
 }
 
 .text-xl {
@@ -91,7 +141,8 @@ body {
 .item-list {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
+  /* Ensure even spacing */
   overflow-y: auto;
   /* padding-right: 10px; */
 }

@@ -23,7 +23,8 @@
   "type": "module",
   "dependencies": {
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "timeago.js": "^4.0.2"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
