@@ -36,6 +36,7 @@ const Header = () => {
     }
     return <p>{message}</p>;
   };
+
   return (
     <div className={styles.header}>
       <div className={styles.info}>

@@ -2,7 +2,7 @@
 .container {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 105vh;
   justify-content: space-between;
 }
 
@@ -31,7 +31,10 @@
 }
 
 .footer {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* Added this line */
   margin-top: 2rem;
   padding: 2rem;
   font-size: 0.9rem;
