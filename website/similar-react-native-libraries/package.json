@@ -9,11 +9,7 @@
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "serve": "docusaurus serve",
-    "clear": "docusaurus clear",
-    "update:lastcommit": "node scripts/generateMetadata.js",
-    "update:updateChangedItems": "node scripts/updateChangedItems.js",
-    "prepare": "cd ../../ && husky install project/.husky",
-    "extract-ids": "ts-node scripts/extractIds.ts"
+    "clear": "docusaurus clear"
   },
   "dependencies": {
     "@docusaurus/core": "^3.3.2",

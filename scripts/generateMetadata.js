@@ -1,8 +1,13 @@
-const fs = require('fs');
-const path = require('path');
-const simpleGit = require('simple-git');
-const dataDir = path.join(__dirname, '../../../category-selector/data');
-const metadataPath = path.join(__dirname, '../../../category-selector/data/metadata.json');
+import { promises as fs } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
+import simpleGit from 'simple-git';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+const dataDir = join(__dirname, '../category-selector/data');
+const metadataPath = join(__dirname, '../category-selector/data/metadata.json');
 const git = simpleGit();
 
 const getLastCommitDate = async () => {
@@ -11,8 +16,8 @@ const getLastCommitDate = async () => {
 };
 
 const getNumLibraries = async () => {
-  const combinedChunksPath = path.join(dataDir, 'combinedFromChunks.json');
-  const data = await fs.promises.readFile(combinedChunksPath, 'utf8');
+  const combinedChunksPath = join(dataDir, 'combinedFromChunks.json');
+  const data = await fs.readFile(combinedChunksPath, 'utf8');
   const jsonData = JSON.parse(data);
   return Object.keys(jsonData).length;
 };
@@ -27,7 +32,7 @@ const generateMetadata = async () => {
       numLibraries,
     };
 
-    await fs.promises.writeFile(metadataPath, JSON.stringify(metadata, null, 2), 'utf8');
+    await fs.writeFile(metadataPath, JSON.stringify(metadata, null, 2), 'utf8');
     console.log('Successfully generated metadata.json');
   } catch (error) {
     console.error('Error generating metadata:', error);
